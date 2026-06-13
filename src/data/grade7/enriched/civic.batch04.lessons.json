@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_civic_016",
+"subjectKey": "civic",
+"learningObjectives": [
+"Hiểu ý nghĩa của tiết kiệm và lập kế hoạch chi tiêu cá nhân.",
+"Biết ghi lại thu nhập nhỏ và các khoản chi hằng ngày.",
+"Biết đặt mục tiêu tiết kiệm phù hợp với lứa tuổi.",
+"Biết tránh vay mượn, tiêu xài theo cảm xúc hoặc chạy theo phong trào.",
+"Hình thành thói quen quản lý tiền trung thực, có trách nhiệm và biết chia sẻ."
+],
+"easyExplanation": "Tiết kiệm không có nghĩa là không được tiêu tiền, mà là biết dùng tiền đúng việc, đúng lúc và có kế hoạch. Học sinh có thể có tiền ăn sáng, tiền mua đồ dùng học tập, tiền mừng tuổi, tiền tiết kiệm hoặc tiền được cha mẹ giao. Nếu ghi lại mình có bao nhiêu, đã chi gì, còn lại bao nhiêu, em sẽ nhìn ví tiền rõ như nhìn bản đồ. Lập kế hoạch chi tiêu giúp em ưu tiên thứ cần thiết, để dành cho mục tiêu nhỏ và không bị cuốn theo cảm xúc nhất thời.",
+"workedExamples": [
+{
+"title": "Ghi thu chi đơn giản",
+"problem": "Em có 80.000 đồng. Em mua vở 30.000 đồng, bút 10.000 đồng và ăn sáng 20.000 đồng. Em còn lại bao nhiêu?",
+"steps": [
+"Tính tổng đã chi: 30.000 + 10.000 + 20.000 = 60.000 đồng.",
+"Lấy số tiền ban đầu trừ số tiền đã chi.",
+"80.000 - 60.000 = 20.000 đồng.",
+"Ghi lại số tiền còn lại."
+],
+"answer": "Em còn lại 20.000 đồng.",
+"explanation": "Ghi thu chi giúp biết tiền đã đi đâu, tránh cảm giác tiền bốc hơi như sương sáng."
+},
+{
+"title": "Đặt mục tiêu tiết kiệm",
+"problem": "Em muốn mua một cuốn sách giá 60.000 đồng. Mỗi tuần em tiết kiệm 15.000 đồng. Sau mấy tuần em mua được sách?",
+"steps": [
+"Giá sách là 60.000 đồng.",
+"Mỗi tuần tiết kiệm 15.000 đồng.",
+"60.000 chia 15.000 bằng 4.",
+"Cần tiết kiệm trong 4 tuần."
+],
+"answer": "Sau 4 tuần em có thể mua được sách.",
+"explanation": "Mục tiêu nhỏ, đều đặn sẽ biến điều muốn mua thành kế hoạch có thật."
+}
+],
+"steps": [
+"Xác định số tiền mình có trong ngày hoặc tuần.",
+"Liệt kê khoản cần chi như ăn uống, học tập, đi lại.",
+"Ghi lại từng khoản đã chi.",
+"Đặt mục tiêu tiết kiệm nhỏ, rõ thời gian.",
+"Tránh mua theo cảm xúc hoặc theo lời rủ rê.",
+"Cuối tuần xem lại khoản chi và điều chỉnh."
+],
+"commonMistakes": [
+{
+"mistake": "Tiêu trước rồi mới nghĩ còn lại bao nhiêu.",
+"fix": "Nên ghi khoản cần chi và để riêng phần tiết kiệm trước khi tiêu cho sở thích."
+},
+{
+"mistake": "Vay mượn bạn để mua món mình chỉ thích nhất thời.",
+"fix": "Không nên vay mượn vì mong muốn nhất thời. Cần chờ, tiết kiệm hoặc hỏi ý kiến người lớn."
+},
+{
+"mistake": "Không ghi lại chi tiêu nên không biết tiền đã dùng vào đâu.",
+"fix": "Dùng sổ nhỏ hoặc ghi chú điện thoại để ghi thu chi ngắn gọn."
+}
+],
+"quickMemory": "Quản lý tiền: biết có bao nhiêu, chi việc cần trước, ghi thu chi, tiết kiệm đều, không tiêu theo cảm xúc.",
+"warmupQuestions": [
+{
+"question": "Tiết kiệm tiền có nghĩa là gì?",
+"suggestedAnswer": "Là biết dùng tiền hợp lí, không lãng phí và để dành cho mục tiêu cần thiết."
+},
+{
+"question": "Vì sao cần ghi thu chi?",
+"suggestedAnswer": "Để biết tiền mình có, đã chi gì, còn lại bao nhiêu và điều chỉnh cách tiêu."
+},
+{
+"question": "Một mục tiêu tiết kiệm phù hợp với học sinh là gì?",
+"suggestedAnswer": "Tiết kiệm để mua sách, đồ dùng học tập, quà nhỏ cho người thân hoặc đóng góp hoạt động tốt."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập kế hoạch chi tiêu 100.000 đồng trong một tuần học.",
+"hint": "Chia khoản cần chi, khoản dự phòng, khoản tiết kiệm.",
+"suggestedAnswer": "Có thể chia: 50.000 đồng cho ăn sáng hoặc nước uống cần thiết, 20.000 đồng cho đồ dùng học tập, 10.000 đồng dự phòng, 20.000 đồng tiết kiệm."
+},
+{
+"question": "Bạn rủ em vay tiền mua đồ chơi theo phong trào. Em sẽ xử lí thế nào?",
+"hint": "Từ chối lịch sự, không vay vì mong muốn nhất thời.",
+"suggestedAnswer": "Em sẽ từ chối lịch sự: 'Mình không muốn vay tiền để mua đồ chơi. Nếu thật sự cần, mình sẽ tiết kiệm dần và hỏi ý kiến người lớn'."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu bảng thu chi cá nhân của học sinh: tiền có, khoản cần, khoản muốn, tiết kiệm, còn lại.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả khoản chi vào nhóm cần thiết, mong muốn, tiết kiệm và lập kế hoạch chi tiêu.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_017",
+"subjectKey": "civic",
+"learningObjectives": [
+"Hiểu thế nào là ứng xử an toàn và có trách nhiệm trên mạng.",
+"Biết bảo vệ thông tin cá nhân khi dùng Internet.",
+"Biết không lan truyền tin xấu, tin chưa kiểm chứng hoặc nội dung làm tổn thương người khác.",
+"Biết tôn trọng người khác trong bình luận, tin nhắn, nhóm chat.",
+"Biết tìm sự hỗ trợ khi gặp lừa đảo, bắt nạt trực tuyến hoặc nội dung không phù hợp."
+],
+"easyExplanation": "Công dân số là người biết sống văn minh trong thế giới mạng. Trên mạng, em cần bảo vệ thông tin cá nhân như số điện thoại, địa chỉ, mật khẩu, ảnh riêng tư, lịch trình. Khi đọc tin, cần kiểm tra nguồn trước khi tin hoặc chia sẻ. Khi bình luận, cần nhớ người phía bên kia màn hình cũng có cảm xúc thật. Ứng xử có trách nhiệm là không xúc phạm, không phát tán tin xấu, không bấm link lạ, không gửi ảnh riêng tư và biết báo người lớn khi gặp tình huống nguy hiểm.",
+"workedExamples": [
+{
+"title": "Bảo vệ thông tin cá nhân",
+"problem": "Một người lạ nhắn tin xin địa chỉ nhà và ảnh thẻ học sinh của em để 'tặng quà'. Em nên làm gì?",
+"steps": [
+"Người nhắn là người lạ.",
+"Thông tin được hỏi là thông tin cá nhân nhạy cảm.",
+"Lời hứa tặng quà có thể là lừa đảo.",
+"Không cung cấp thông tin và báo người lớn."
+],
+"answer": "Em không cung cấp địa chỉ, ảnh thẻ hoặc thông tin cá nhân; nên chặn/báo cáo tài khoản và nói với người lớn đáng tin.",
+"explanation": "Trên mạng, quà lạ đôi khi là chiếc hộp có gai."
+},
+{
+"title": "Không lan truyền tin xấu",
+"problem": "Bạn gửi vào nhóm lớp một tin chưa rõ nguồn về một bạn khác và bảo mọi người chia sẻ. Em nên làm gì?",
+"steps": [
+"Tin chưa rõ nguồn có thể sai hoặc gây tổn thương.",
+"Chia sẻ tiếp làm tin lan rộng.",
+"Cần dừng lại, không phát tán.",
+"Có thể nhắc bạn hoặc báo giáo viên nếu nghiêm trọng."
+],
+"answer": "Em không chia sẻ tiếp, khuyên bạn kiểm chứng và không lan truyền nội dung có thể làm tổn thương người khác.",
+"explanation": "Một cú bấm chia sẻ có thể làm vết thương chạy rất xa."
+}
+],
+"steps": [
+"Không công khai thông tin cá nhân nhạy cảm.",
+"Dùng mật khẩu mạnh và không chia sẻ mật khẩu.",
+"Kiểm tra nguồn tin trước khi tin hoặc chia sẻ.",
+"Bình luận lịch sự, không xúc phạm, không chế giễu.",
+"Chặn, báo cáo hoặc lưu bằng chứng khi gặp nội dung xấu.",
+"Nói với cha mẹ, thầy cô hoặc người lớn đáng tin khi gặp nguy hiểm."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ nói trên mạng thì không gây hậu quả thật.",
+"fix": "Lời nói trên mạng vẫn ảnh hưởng cảm xúc, danh dự và an toàn của người khác."
+},
+{
+"mistake": "Chia sẻ tin giật gân mà không kiểm chứng.",
+"fix": "Cần kiểm tra nguồn, thời gian, người đăng và không lan truyền tin chưa chắc đúng."
+},
+{
+"mistake": "Gửi thông tin cá nhân cho người lạ vì tin lời hứa tặng quà.",
+"fix": "Không gửi thông tin cá nhân cho người lạ và cần hỏi người lớn."
+}
+],
+"quickMemory": "An toàn mạng: giữ kín thông tin, kiểm chứng trước khi chia sẻ, bình luận tử tế, gặp nguy cơ thì báo người lớn.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba thông tin cá nhân không nên gửi cho người lạ trên mạng.",
+"suggestedAnswer": "Địa chỉ nhà, số điện thoại, mật khẩu, ảnh riêng tư, trường lớp, lịch trình."
+},
+{
+"question": "Vì sao không nên chia sẻ tin chưa kiểm chứng?",
+"suggestedAnswer": "Vì tin có thể sai, gây hoang mang hoặc làm tổn thương người khác."
+},
+{
+"question": "Khi bị người lạ quấy rối trên mạng, em nên làm gì?",
+"suggestedAnswer": "Không đáp trả bằng xúc phạm, lưu bằng chứng, chặn/báo cáo và nói với người lớn đáng tin."
+}
+],
+"applicationQuestions": [
+{
+"question": "Bạn đăng ảnh của em lên mạng mà chưa xin phép. Em sẽ làm gì?",
+"hint": "Yêu cầu gỡ, nói rõ cảm xúc, báo người lớn nếu cần.",
+"suggestedAnswer": "Em sẽ nói với bạn rằng mình không đồng ý việc đăng ảnh khi chưa xin phép và yêu cầu gỡ. Nếu bạn không gỡ hoặc còn trêu chọc, em sẽ báo thầy cô hoặc cha mẹ."
+},
+{
+"question": "Viết 5 quy tắc ứng xử an toàn trong nhóm chat lớp.",
+"hint": "Không xúc phạm, không tin giả, không ảnh riêng tư, không spam, báo người lớn khi cần.",
+"suggestedAnswer": "Không xúc phạm người khác, không chia sẻ tin chưa kiểm chứng, không đăng ảnh riêng tư khi chưa xin phép, không spam nội dung rác, báo giáo viên khi có bắt nạt hoặc nội dung nguy hiểm."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Poster công dân số an toàn: thông tin cá nhân, mật khẩu, kiểm chứng tin, bình luận tử tế, báo cáo nguy cơ.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Xử lí tình huống người lạ nhắn tin, tin giả, bình luận xấu, chia sẻ ảnh riêng tư.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_018",
+"subjectKey": "civic",
+"learningObjectives": [
+"Hiểu ý nghĩa của tôn trọng bản quyền và trung thực trong học tập.",
+"Biết không sao chép bài của người khác để nộp như bài của mình.",
+"Biết ghi nguồn khi sử dụng thông tin, hình ảnh, ý tưởng từ tài liệu hoặc Internet.",
+"Biết diễn đạt lại bằng lời của mình sau khi tham khảo.",
+"Hình thành thói quen học tập trung thực, tôn trọng công sức sáng tạo của người khác."
+],
+"easyExplanation": "Bản quyền là quyền của người tạo ra một sản phẩm trí tuệ như bài viết, hình ảnh, video, nhạc, phần mềm, bài thuyết trình. Tôn trọng bản quyền nghĩa là không lấy sản phẩm của người khác rồi nhận là của mình, không sao chép nguyên văn mà không ghi nguồn, không dùng hình ảnh tùy tiện. Trung thực học tập là tự làm bài, tham khảo có chọn lọc, diễn đạt bằng lời của mình và ghi nguồn khi dùng ý tưởng/tài liệu. Học trung thực có thể chậm hơn một chút, nhưng chân mình đứng trên đất thật.",
+"workedExamples": [
+{
+"title": "Sao chép bài trên mạng",
+"problem": "Bạn tìm một bài văn trên mạng rồi chép nguyên để nộp. Việc đó có trung thực không?",
+"steps": [
+"Bài văn do người khác viết.",
+"Bạn chép nguyên và nộp như bài của mình.",
+"Bạn không ghi nguồn, không tự diễn đạt.",
+"Đó là hành vi thiếu trung thực học tập."
+],
+"answer": "Không trung thực. Bạn cần tự viết, nếu tham khảo thì phải hiểu, diễn đạt lại và ghi nguồn khi cần.",
+"explanation": "Sao chép nguyên bài làm mất cơ hội học thật của chính mình."
+},
+{
+"title": "Ghi nguồn hình ảnh",
+"problem": "Em dùng một hình ảnh trên Internet trong bài thuyết trình. Em nên làm gì?",
+"steps": [
+"Hình ảnh do người khác tạo hoặc đăng.",
+"Cần xem quyền sử dụng nếu có.",
+"Ghi nguồn hình ảnh trong slide hoặc cuối bài.",
+"Không chỉnh sửa gây hiểu sai nếu không phù hợp."
+],
+"answer": "Em nên ghi nguồn hình ảnh và chỉ dùng hình phù hợp, được phép sử dụng.",
+"explanation": "Ghi nguồn là cách cúi đầu lịch sự trước công sức của người tạo ra nội dung."
+}
+],
+"steps": [
+"Tự làm bài trước khi tham khảo.",
+"Khi tham khảo, đọc hiểu rồi diễn đạt bằng lời của mình.",
+"Ghi nguồn tài liệu, hình ảnh, số liệu hoặc ý tưởng quan trọng.",
+"Không sao chép bài của bạn hoặc trên mạng để nộp.",
+"Không dùng công cụ số để gian lận bài kiểm tra.",
+"Hỏi giáo viên khi chưa rõ cách trích dẫn hoặc ghi nguồn."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ lấy nội dung trên Internet là miễn phí hoàn toàn nên không cần ghi nguồn.",
+"fix": "Nhiều nội dung trên mạng vẫn có tác giả và quyền sử dụng, cần tôn trọng và ghi nguồn."
+},
+{
+"mistake": "Đổi vài từ trong bài chép nhưng vẫn giữ nguyên ý và cấu trúc.",
+"fix": "Cần hiểu nội dung rồi tự diễn đạt lại bằng suy nghĩ của mình."
+},
+{
+"mistake": "Cho bạn chép bài vì nghĩ là giúp bạn.",
+"fix": "Nên hướng dẫn bạn hiểu bài, không giúp bằng cách gian lận."
+}
+],
+"quickMemory": "Trung thực học tập: tự làm, tham khảo có hiểu, diễn đạt lại, ghi nguồn, không chép bài.",
+"warmupQuestions": [
+{
+"question": "Tôn trọng bản quyền là gì?",
+"suggestedAnswer": "Là tôn trọng quyền của người tạo ra sản phẩm trí tuệ, không sao chép hoặc sử dụng tùy tiện."
+},
+{
+"question": "Khi dùng hình ảnh trên Internet trong bài thuyết trình, cần làm gì?",
+"suggestedAnswer": "Cần kiểm tra quyền sử dụng nếu có và ghi nguồn hình ảnh."
+},
+{
+"question": "Vì sao không nên cho bạn chép bài?",
+"suggestedAnswer": "Vì điều đó thiếu trung thực và không giúp bạn thật sự hiểu bài."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nêu 4 việc làm thể hiện trung thực học tập.",
+"hint": "Tự làm, ghi nguồn, không chép, hỏi khi chưa hiểu.",
+"suggestedAnswer": "Tự làm bài, không chép bài của bạn, ghi nguồn khi dùng tài liệu, hỏi thầy cô hoặc bạn để hiểu bài thay vì sao chép."
+},
+{
+"question": "Bạn gửi em bài giải và bảo chép cho nhanh. Em sẽ trả lời thế nào?",
+"hint": "Từ chối lịch sự và đề nghị bạn giải thích cách làm.",
+"suggestedAnswer": "Mình không muốn chép nguyên bài. Bạn có thể giải thích cách làm để mình tự làm được không?"
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ trung thực học tập và bản quyền: tự làm, tham khảo, diễn đạt lại, ghi nguồn, không sao chép.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Phân loại hành vi đúng/sai về sao chép bài, dùng ảnh, ghi nguồn, cho bạn chép.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_019",
+"subjectKey": "civic",
+"learningObjectives": [
+"Nhận biết được một số hành vi vi phạm nội quy, quy định chung hoặc pháp luật cơ bản.",
+"Hiểu hành vi vi phạm có thể gây hậu quả cho bản thân, người khác và cộng đồng.",
+"Biết phân tích nguyên nhân, hậu quả và trách nhiệm sửa sai trong tình huống cụ thể.",
+"Biết lựa chọn cách ứng xử phù hợp khi bản thân hoặc bạn bè vi phạm.",
+"Hình thành ý thức tuân thủ quy định và biết sửa sai trung thực."
+],
+"easyExplanation": "Quy định được đặt ra để bảo vệ trật tự, an toàn và quyền lợi của mọi người. Vi phạm quy định có thể là đi xe không đội mũ bảo hiểm, vượt đèn đỏ, nói tục chửi bậy, đánh nhau, quay/chia sẻ clip xấu, phá hoại tài sản chung, gian lận kiểm tra, xả rác nơi công cộng. Hậu quả không chỉ là bị nhắc nhở hoặc kỉ luật, mà còn có thể làm người khác bị tổn thương, mất an toàn, thiệt hại tài sản hoặc mất niềm tin. Biết sửa sai là nhận lỗi, khắc phục và không lặp lại.",
+"workedExamples": [
+{
+"title": "Hậu quả của vi phạm nội quy",
+"problem": "Một bạn đùa nghịch, làm hỏng máy chiếu của lớp rồi giấu. Hành vi đó gây hậu quả gì?",
+"steps": [
+"Máy chiếu là tài sản phục vụ học tập chung.",
+"Làm hỏng máy chiếu khiến lớp không dùng được.",
+"Giấu lỗi làm mất niềm tin và khó khắc phục.",
+"Bạn cần nhận lỗi và cùng tìm cách bồi hoàn/khắc phục phù hợp."
+],
+"answer": "Hành vi đó gây thiệt hại tài sản chung, ảnh hưởng việc học và làm mất niềm tin. Bạn cần nhận lỗi, báo giáo viên và khắc phục.",
+"explanation": "Giấu lỗi không làm lỗi biến mất, chỉ làm cái bóng của nó dài hơn."
+},
+{
+"title": "Sửa sai khi vi phạm",
+"problem": "Em lỡ xả rác ở sân trường và bị bạn nhắc. Em nên làm gì?",
+"steps": [
+"Nhận ra hành vi xả rác là sai.",
+"Nhặt rác bỏ đúng nơi.",
+"Cảm ơn hoặc xin lỗi nếu cần.",
+"Lần sau chú ý giữ vệ sinh."
+],
+"answer": "Em nên nhặt rác bỏ đúng nơi, nhận lỗi và không lặp lại.",
+"explanation": "Sửa sai bắt đầu từ hành động nhỏ ngay trước mắt."
+}
+],
+"steps": [
+"Nhận biết quy định liên quan đến tình huống.",
+"Xác định hành vi có vi phạm hay không.",
+"Phân tích hậu quả với bản thân, người khác và cộng đồng.",
+"Nhận trách nhiệm nếu mình sai.",
+"Tìm cách khắc phục thiệt hại hoặc xin lỗi phù hợp.",
+"Rút kinh nghiệm để không lặp lại."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ vi phạm nhỏ thì không sao.",
+"fix": "Nhiều vi phạm nhỏ có thể tạo thói quen xấu và gây hậu quả lớn."
+},
+{
+"mistake": "Đổ lỗi cho bạn bè hoặc hoàn cảnh khi mình làm sai.",
+"fix": "Cần trung thực nhận phần trách nhiệm của mình trước."
+},
+{
+"mistake": "Chỉ sợ bị phạt, không hiểu hậu quả với người khác.",
+"fix": "Cần nhìn cả tác động đến an toàn, niềm tin, tài sản và môi trường chung."
+}
+],
+"quickMemory": "Vi phạm quy định có hậu quả. Sửa sai đúng cách: nhận lỗi, khắc phục, xin lỗi, không lặp lại.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba hành vi vi phạm nội quy hoặc quy định chung.",
+"suggestedAnswer": "Xả rác, đánh nhau, gian lận kiểm tra, phá tài sản chung, vượt đèn đỏ, nói tục chửi bậy."
+},
+{
+"question": "Vì sao cần tuân thủ quy định chung?",
+"suggestedAnswer": "Để bảo đảm trật tự, an toàn và quyền lợi của mọi người."
+},
+{
+"question": "Khi mắc lỗi, em nên làm gì?",
+"suggestedAnswer": "Nhận lỗi, xin lỗi nếu cần, khắc phục hậu quả và không lặp lại."
+}
+],
+"applicationQuestions": [
+{
+"question": "Bạn quay clip bạn khác bị ngã rồi đăng lên mạng để cười. Phân tích hậu quả.",
+"hint": "Danh dự, cảm xúc, quyền riêng tư, môi trường lớp học.",
+"suggestedAnswer": "Hành vi đó làm bạn bị tổn thương, xấu hổ, ảnh hưởng quyền riêng tư và có thể khiến môi trường lớp học thiếu an toàn. Người đăng cần gỡ clip, xin lỗi và không lặp lại."
+},
+{
+"question": "Nêu 4 bước sửa sai khi vi phạm một quy định ở trường.",
+"hint": "Nhận lỗi, xin lỗi, khắc phục, rút kinh nghiệm.",
+"suggestedAnswer": "Nhận lỗi trung thực, xin lỗi người bị ảnh hưởng, khắc phục thiệt hại nếu có, rút kinh nghiệm và không lặp lại."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ hành vi vi phạm, nguyên nhân, hậu quả, trách nhiệm, cách sửa sai.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Phân tích tình huống vi phạm nội quy, chọn hậu quả và cách khắc phục phù hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_020",
+"subjectKey": "civic",
+"learningObjectives": [
+"Vận dụng được kiến thức về phẩm chất, kỹ năng sống, quyền - nghĩa vụ và ứng xử học đường vào dự án nhỏ.",
+"Biết xác định vấn đề trong lớp học liên quan đến sự tử tế, tôn trọng, hợp tác hoặc an toàn.",
+"Biết lập kế hoạch dự án lớp học tử tế phù hợp lứa tuổi.",
+"Biết phân công nhiệm vụ, thực hiện, theo dõi và đánh giá kết quả dự án.",
+"Hình thành tinh thần trách nhiệm, hợp tác và chủ động xây dựng môi trường lớp học tích cực."
+],
+"easyExplanation": "Dự án công dân nhỏ: lớp học tử tế là cơ hội biến bài GDCD thành việc làm thật. Lớp có thể chọn một vấn đề nhỏ như nói lời cảm ơn/xin lỗi chưa thường xuyên, còn trêu chọc nhau, bàn học bừa bộn, chưa biết lắng nghe khi làm nhóm, hoặc chưa hỗ trợ bạn mới. Từ đó, lớp đặt mục tiêu, phân công nhiệm vụ, thực hiện hoạt động và đánh giá kết quả. Dự án không cần hoành tráng. Một góc lời khen, hộp thư chia sẻ, tuần không nói lời tổn thương, nhóm bạn cùng tiến cũng có thể làm lớp học ấm hơn.",
+"workedExamples": [
+{
+"title": "Chọn vấn đề dự án",
+"problem": "Lớp hay trêu biệt danh khiến một số bạn khó chịu. Có thể làm dự án gì?",
+"steps": [
+"Xác định vấn đề: trêu biệt danh gây tổn thương.",
+"Mục tiêu: lớp dùng lời nói tôn trọng hơn.",
+"Hoạt động: cam kết không gọi biệt danh xấu, góc lời nói tử tế, nhắc nhau nhẹ nhàng.",
+"Đánh giá: số lần vi phạm giảm, bạn bè cảm thấy an toàn hơn."
+],
+"answer": "Có thể làm dự án 'Tuần lời nói tử tế' với cam kết không gọi biệt danh xấu, nhắc nhau tôn trọng và ghi nhận lời nói tích cực.",
+"explanation": "Dự án công dân bắt đầu từ một vấn đề nhỏ nhưng thật trong lớp."
+},
+{
+"title": "Đánh giá dự án",
+"problem": "Sau dự án 'Góc sách sẻ chia', lớp cần đánh giá những gì?",
+"steps": [
+"Xem mục tiêu ban đầu có đạt không.",
+"Đếm số sách thu được và sách đã trao.",
+"Ghi nhận điều làm tốt và điều chưa tốt.",
+"Đề xuất cải tiến cho lần sau."
+],
+"answer": "Lớp cần đánh giá số sách phù hợp thu được, người nhận được hỗ trợ, tinh thần tham gia, hạn chế và cách cải tiến.",
+"explanation": "Dự án tốt có phần nhìn lại, vì nhìn lại là cách lớn lên."
+}
+],
+"steps": [
+"Quan sát lớp học và chọn một vấn đề cần cải thiện.",
+"Đặt mục tiêu cụ thể, vừa sức.",
+"Lập kế hoạch hoạt động, thời gian, người phụ trách và tiêu chí đánh giá.",
+"Phân công nhiệm vụ rõ ràng cho từng nhóm hoặc cá nhân.",
+"Thực hiện dự án trong thời gian đã chọn.",
+"Tổng kết kết quả, nêu ưu điểm, hạn chế và đề xuất duy trì."
+],
+"commonMistakes": [
+{
+"mistake": "Chọn dự án quá lớn, khó thực hiện.",
+"fix": "Nên chọn vấn đề nhỏ, gần lớp học và có thể làm trong thời gian ngắn."
+},
+{
+"mistake": "Phân công không rõ nên vài bạn làm hết, vài bạn đứng ngoài.",
+"fix": "Cần phân công rõ người, việc, thời hạn và cách báo cáo."
+},
+{
+"mistake": "Làm xong nhưng không đánh giá kết quả.",
+"fix": "Cần tổng kết: đạt gì, chưa đạt gì, lần sau cải tiến ra sao."
+}
+],
+"quickMemory": "Dự án lớp học tử tế: chọn vấn đề thật, mục tiêu nhỏ, phân công rõ, làm đều, đánh giá và duy trì.",
+"warmupQuestions": [
+{
+"question": "Dự án lớp học tử tế có thể giải quyết vấn đề nào?",
+"suggestedAnswer": "Trêu chọc bạn, thiếu lắng nghe, lớp bừa bộn, chưa giúp bạn mới, ít nói lời cảm ơn/xin lỗi."
+},
+{
+"question": "Vì sao cần đặt mục tiêu cụ thể cho dự án?",
+"suggestedAnswer": "Để biết cần làm gì, trong bao lâu và đánh giá được kết quả."
+},
+{
+"question": "Sau khi hoàn thành dự án, cần làm gì?",
+"suggestedAnswer": "Tổng kết, đánh giá ưu điểm, hạn chế và đề xuất cách duy trì hoặc cải tiến."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập kế hoạch dự án 'Tuần lời nói tử tế' cho lớp.",
+"hint": "Mục tiêu, hoạt động, phân công, đánh giá.",
+"suggestedAnswer": "Mục tiêu: giảm lời nói gây tổn thương và tăng lời động viên. Hoạt động: mỗi ngày ghi một lời cảm ơn/khen đúng sự thật, cam kết không gọi biệt danh xấu, nhắc nhau bằng ký hiệu nhẹ. Phân công: nhóm truyền thông làm poster, nhóm theo dõi ghi nhận, lớp trưởng tổng kết. Đánh giá: số lời tích cực, số lần vi phạm giảm, cảm nhận của các bạn."
+},
+{
+"question": "Đề xuất 5 tiêu chí đánh giá dự án công dân nhỏ.",
+"hint": "Mục tiêu, tham gia, an toàn, tác động, duy trì.",
+"suggestedAnswer": "Mục tiêu rõ và đạt được một phần hoặc toàn bộ; nhiều bạn tham gia; hoạt động an toàn, phù hợp lứa tuổi; có tác động tích cực đến lớp; có cách duy trì sau dự án."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu kế hoạch dự án lớp học tử tế: vấn đề, mục tiêu, hoạt động, phân công, thời gian, đánh giá.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn vấn đề lớp học, lập mục tiêu và ghép hoạt động phù hợp cho dự án công dân nhỏ.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

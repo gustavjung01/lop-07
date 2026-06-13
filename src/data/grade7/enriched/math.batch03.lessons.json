@@ -1,0 +1,525 @@
+[
+{
+"lessonId": "g7_math_011",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được hai đại lượng tỉ lệ nghịch trong tình huống quen thuộc.",
+"Hiểu dạng liên hệ y = a/x hoặc x.y = a với a khác 0.",
+"Tìm được hệ số tỉ lệ nghịch từ một cặp giá trị.",
+"Giải được bài toán đơn giản về tỉ lệ nghịch bằng bảng hoặc công thức."
+],
+"easyExplanation": "Hai đại lượng tỉ lệ nghịch khi đại lượng này tăng bao nhiêu lần thì đại lượng kia giảm bấy nhiêu lần. Ví dụ cùng một công việc, số người làm càng nhiều thì thời gian hoàn thành càng ít. Với hai đại lượng x và y tỉ lệ nghịch, tích x.y luôn không đổi. Ta thường viết x.y = a hoặc y = a/x, trong đó a là hệ số tỉ lệ.",
+"workedExamples": [
+{
+"title": "Nhận biết tỉ lệ nghịch",
+"problem": "Một đội làm xong việc trong 12 ngày nếu có 5 người. Nếu số người tăng lên, thời gian làm việc thay đổi thế nào?",
+"steps": [
+"Cùng một lượng công việc không đổi.",
+"Số người tăng thì mỗi người chia bớt phần việc.",
+"Thời gian hoàn thành giảm."
+],
+"answer": "Số người và thời gian là hai đại lượng tỉ lệ nghịch.",
+"explanation": "Khi một đại lượng tăng thì đại lượng kia giảm theo cùng tỉ lệ để tích không đổi."
+},
+{
+"title": "Tìm hệ số tỉ lệ nghịch",
+"problem": "Biết x và y tỉ lệ nghịch, khi x = 4 thì y = 15. Tìm hệ số a.",
+"steps": [
+"Vì x và y tỉ lệ nghịch nên x.y = a.",
+"Thay x = 4 và y = 15 vào.",
+"a = 4 × 15 = 60."
+],
+"answer": "a = 60",
+"explanation": "Hệ số tỉ lệ nghịch là tích của hai giá trị tương ứng."
+},
+{
+"title": "Tìm giá trị còn thiếu",
+"problem": "Cho x.y = 60. Tính y khi x = 10.",
+"steps": [
+"Thay x = 10 vào công thức.",
+"10.y = 60.",
+"Chia hai vế cho 10.",
+"y = 6."
+],
+"answer": "y = 6",
+"explanation": "Khi tích không đổi, biết một đại lượng thì tìm đại lượng kia bằng phép chia."
+}
+],
+"steps": [
+"Bước 1: Xác định hai đại lượng đang xét.",
+"Bước 2: Kiểm tra khi một đại lượng tăng thì đại lượng kia có giảm tương ứng không.",
+"Bước 3: Nếu là tỉ lệ nghịch, viết x.y = a.",
+"Bước 4: Tìm a bằng cách nhân một cặp giá trị tương ứng.",
+"Bước 5: Dùng công thức để tính giá trị còn thiếu và kiểm tra lại tích."
+],
+"commonMistakes": [
+{
+"mistake": "Thấy hai đại lượng thay đổi ngược chiều thì kết luận ngay là tỉ lệ nghịch.",
+"fix": "Phải kiểm tra tích của hai giá trị tương ứng có không đổi không."
+},
+{
+"mistake": "Dùng công thức tỉ lệ thuận y = kx cho bài tỉ lệ nghịch.",
+"fix": "Tỉ lệ nghịch dùng x.y = a hoặc y = a/x."
+},
+{
+"mistake": "Quên đơn vị trong bài toán người, ngày, vận tốc, thời gian.",
+"fix": "Ghi rõ đơn vị sau mỗi kết quả để tránh nhầm ý nghĩa."
+}
+],
+"quickMemory": "Tỉ lệ nghịch: một tăng thì một giảm. Tích x.y không đổi.",
+"warmupQuestions": [
+{
+"question": "Nếu x.y = 24 và x = 6 thì y bằng bao nhiêu?",
+"suggestedAnswer": "y = 4."
+},
+{
+"question": "Số người làm việc và thời gian hoàn thành cùng một công việc thường là tỉ lệ gì?",
+"suggestedAnswer": "Tỉ lệ nghịch."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một xe đi hết quãng đường trong 6 giờ với vận tốc 40 km/h. Nếu vận tốc tăng lên 60 km/h thì thời gian là bao nhiêu?",
+"hint": "Quãng đường không đổi, vận tốc và thời gian tỉ lệ nghịch.",
+"suggestedAnswer": "Quãng đường là 40 × 6 = 240 km. Thời gian mới là 240 : 60 = 4 giờ."
+},
+{
+"question": "12 công nhân làm xong việc trong 10 ngày. Nếu có 20 công nhân cùng năng suất thì cần bao nhiêu ngày?",
+"hint": "Số công nhân × số ngày là không đổi.",
+"suggestedAnswer": "12 × 10 = 120 công-ngày. Với 20 công nhân: 120 : 20 = 6 ngày."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bảng so sánh số người và số ngày để thấy tích luôn không đổi.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Thanh kéo số người làm việc và tự động giảm số ngày theo công việc cố định.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_012",
+"subjectKey": "math",
+"learningObjectives": [
+"Tổng hợp được kiến thức tỉ lệ thức, dãy tỉ số bằng nhau, tỉ lệ thuận và tỉ lệ nghịch.",
+"Lập được mô hình toán học đơn giản từ tình huống thực tế.",
+"Giải được bài toán chia tỉ lệ và bài toán có đơn vị đo.",
+"Biết kiểm tra kết quả bằng điều kiện thực tế của đề bài."
+],
+"easyExplanation": "Bài toán chia tỉ lệ và mô hình hóa thực tế thường không hỏi thẳng công thức. Em phải đọc tình huống, nhận ra đại lượng nào liên quan với nhau, rồi chọn công cụ phù hợp: chia theo tỉ lệ thì đặt các phần là ak, bk; tỉ lệ thuận thì dùng y = kx; tỉ lệ nghịch thì dùng x.y = a. Điều quan trọng nhất là không lao vào tính ngay, mà phải dịch đề bài thành mô hình toán trước.",
+"workedExamples": [
+{
+"title": "Chia tiền theo tỉ lệ",
+"problem": "Ba bạn góp tiền theo tỉ lệ 2:3:5. Tổng số tiền là 500.000 đồng. Hỏi mỗi bạn góp bao nhiêu?",
+"steps": [
+"Gọi ba phần tiền là 2k, 3k, 5k.",
+"Tổng là 2k + 3k + 5k = 500.000.",
+"10k = 500.000 nên k = 50.000.",
+"Ba phần là 100.000, 150.000 và 250.000."
+],
+"answer": "100.000 đồng, 150.000 đồng, 250.000 đồng.",
+"explanation": "Tỉ lệ 2:3:5 cho biết các phần có cùng hệ số k."
+},
+{
+"title": "Mô hình tỉ lệ thuận",
+"problem": "2 kg táo giá 60.000 đồng. Hỏi 5 kg táo cùng loại giá bao nhiêu?",
+"steps": [
+"Giá tiền tỉ lệ thuận với số kg.",
+"Giá 1 kg là 60.000 : 2 = 30.000 đồng.",
+"Giá 5 kg là 30.000 × 5 = 150.000 đồng."
+],
+"answer": "150.000 đồng.",
+"explanation": "Số kg tăng bao nhiêu lần thì tiền tăng bấy nhiêu lần."
+},
+{
+"title": "Mô hình tỉ lệ nghịch",
+"problem": "6 máy bơm hút hết nước trong 8 giờ. Nếu có 12 máy bơm cùng công suất thì hết bao lâu?",
+"steps": [
+"Số máy và thời gian là tỉ lệ nghịch.",
+"Tích số máy và số giờ không đổi: 6 × 8 = 48.",
+"Với 12 máy: thời gian = 48 : 12 = 4 giờ."
+],
+"answer": "4 giờ.",
+"explanation": "Số máy tăng gấp đôi thì thời gian giảm còn một nửa."
+}
+],
+"steps": [
+"Bước 1: Đọc đề và gạch chân các đại lượng quan trọng.",
+"Bước 2: Xác định dạng bài: chia theo tỉ lệ, tỉ lệ thuận hay tỉ lệ nghịch.",
+"Bước 3: Đặt biến hoặc hệ số k nếu cần.",
+"Bước 4: Lập phép tính hoặc phương trình từ điều kiện đề bài.",
+"Bước 5: Tính kết quả, ghi đơn vị và kiểm tra kết quả có hợp lý không."
+],
+"commonMistakes": [
+{
+"mistake": "Chọn nhầm tỉ lệ thuận thay vì tỉ lệ nghịch.",
+"fix": "Hỏi: một đại lượng tăng thì đại lượng kia tăng hay giảm? Nếu giảm theo cùng tỉ lệ, đó là tỉ lệ nghịch."
+},
+{
+"mistake": "Quên đổi đơn vị trước khi tính.",
+"fix": "Đưa các đại lượng về cùng đơn vị như mét, cm, giờ, phút trước khi lập mô hình."
+},
+{
+"mistake": "Tính xong không kiểm tra lại với đề.",
+"fix": "Thay kết quả vào điều kiện ban đầu để xem tổng, tích hoặc tỉ lệ có đúng không."
+}
+],
+"quickMemory": "Đọc đề → chọn mô hình → đặt k hoặc công thức → tính → kiểm tra đơn vị.",
+"warmupQuestions": [
+{
+"question": "Chia 60 theo tỉ lệ 1:2 thì hai phần là bao nhiêu?",
+"suggestedAnswer": "20 và 40."
+},
+{
+"question": "Giá tiền và số lượng hàng cùng loại thường là tỉ lệ thuận hay nghịch?",
+"suggestedAnswer": "Tỉ lệ thuận."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một lớp mua vở và bút theo tỉ lệ tiền 3:2, tổng chi 250.000 đồng. Tiền vở và tiền bút là bao nhiêu?",
+"hint": "Đặt hai phần là 3k và 2k.",
+"suggestedAnswer": "5k = 250.000 nên k = 50.000. Tiền vở 150.000 đồng, tiền bút 100.000 đồng."
+},
+{
+"question": "Một công thức pha nước cần siro và nước theo tỉ lệ 1:4. Muốn pha 1 lít hỗn hợp thì cần bao nhiêu lít siro?",
+"hint": "Tổng số phần là 5.",
+"suggestedAnswer": "Siro chiếm 1/5 hỗn hợp, nên cần 0,2 lít siro."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ cây quyết định: chia tỉ lệ, tỉ lệ thuận, tỉ lệ nghịch.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài chọn mô hình đúng cho từng tình huống thực tế.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_013",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được biểu thức đại số và các thành phần trong biểu thức.",
+"Hiểu biến số là chữ đại diện cho một giá trị có thể thay đổi.",
+"Tính được giá trị biểu thức khi biết giá trị của biến.",
+"Vận dụng biểu thức đại số để mô tả tình huống đơn giản."
+],
+"easyExplanation": "Biểu thức đại số là biểu thức có thể chứa số, chữ và phép tính. Chữ trong biểu thức gọi là biến, vì nó có thể nhận nhiều giá trị khác nhau. Ví dụ 3x + 2 là biểu thức đại số. Khi biết x = 5, ta thay 5 vào chỗ x rồi tính: 3 × 5 + 2 = 17. Biểu thức đại số giúp viết gọn quy luật hoặc tình huống thực tế.",
+"workedExamples": [
+{
+"title": "Tính giá trị biểu thức",
+"problem": "Tính giá trị của biểu thức 2x + 3 khi x = 4.",
+"steps": [
+"Thay x = 4 vào biểu thức.",
+"Ta được 2 × 4 + 3.",
+"Tính nhân trước: 2 × 4 = 8.",
+"Cộng 8 + 3 = 11."
+],
+"answer": "11",
+"explanation": "Muốn tính giá trị biểu thức, thay biến bằng số rồi thực hiện phép tính."
+},
+{
+"title": "Biểu diễn tình huống bằng biểu thức",
+"problem": "Một quyển vở giá x đồng. Mua 5 quyển và thêm 2.000 đồng tiền bìa. Viết biểu thức tổng tiền.",
+"steps": [
+"5 quyển vở giá 5x đồng.",
+"Cộng thêm 2.000 đồng tiền bìa.",
+"Tổng tiền là 5x + 2000."
+],
+"answer": "5x + 2000",
+"explanation": "Biểu thức dùng chữ x để biểu diễn giá chưa biết của một quyển vở."
+}
+],
+"steps": [
+"Bước 1: Xác định biến trong biểu thức.",
+"Bước 2: Khi tính giá trị, thay biến bằng số đề bài cho.",
+"Bước 3: Viết lại biểu thức sau khi thay để tránh nhầm.",
+"Bước 4: Thực hiện phép tính theo đúng thứ tự.",
+"Bước 5: Kết luận giá trị biểu thức hoặc biểu thức mô tả tình huống."
+],
+"commonMistakes": [
+{
+"mistake": "Thay x = -2 vào 3x nhưng viết thành 3 - 2.",
+"fix": "3x nghĩa là 3 × x. Nếu x = -2 thì 3x = 3 × (-2)."
+},
+{
+"mistake": "Quên thứ tự phép tính sau khi thay số.",
+"fix": "Vẫn phải làm ngoặc, lũy thừa, nhân chia, cộng trừ đúng thứ tự."
+},
+{
+"mistake": "Nhầm biểu thức với phương trình.",
+"fix": "Biểu thức không có dấu bằng để tìm nghiệm, còn phương trình có dấu bằng và thường cần tìm giá trị của biến."
+}
+],
+"quickMemory": "Biểu thức đại số có chữ đại diện cho số. Tính giá trị bằng cách thay chữ rồi tính.",
+"warmupQuestions": [
+{
+"question": "Trong biểu thức 4x - 1, biến là gì?",
+"suggestedAnswer": "Biến là x."
+},
+{
+"question": "Nếu x = 2 thì 5x bằng bao nhiêu?",
+"suggestedAnswer": "10."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một vé xem phim giá x đồng. Ba vé và một hộp bắp 40.000 đồng có tổng tiền là biểu thức nào?",
+"hint": "Ba vé là 3x.",
+"suggestedAnswer": "3x + 40000."
+},
+{
+"question": "Tính giá trị biểu thức a² + 2a khi a = 3.",
+"hint": "Tính lũy thừa trước.",
+"suggestedAnswer": "3² + 2 × 3 = 9 + 6 = 15."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Thẻ thay biến: kéo giá trị x vào biểu thức 2x + 3 để thấy kết quả đổi.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Bài chuyển tình huống đời sống thành biểu thức đại số.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_014",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được đa thức một biến.",
+"Xác định được hạng tử, hệ số và bậc của một hạng tử.",
+"Xác định được bậc của đa thức một biến.",
+"Sắp xếp được đa thức theo lũy thừa giảm hoặc tăng của biến."
+],
+"easyExplanation": "Đa thức một biến là tổng của nhiều hạng tử chỉ chứa một biến, thường là x. Ví dụ 3x² - 2x + 5 là đa thức một biến x. Mỗi phần như 3x², -2x, 5 gọi là hạng tử. Số đứng trước phần biến gọi là hệ số. Bậc của hạng tử là số mũ của biến, còn bậc của đa thức là bậc lớn nhất trong các hạng tử có hệ số khác 0.",
+"workedExamples": [
+{
+"title": "Xác định hạng tử",
+"problem": "Với đa thức P(x) = 4x³ - 2x + 7, hãy nêu các hạng tử.",
+"steps": [
+"Tách đa thức theo dấu cộng hoặc trừ.",
+"Các phần là 4x³, -2x và 7.",
+"Mỗi phần là một hạng tử."
+],
+"answer": "Các hạng tử là 4x³, -2x, 7.",
+"explanation": "Hạng tử có thể là một số, một biến hoặc tích của số với lũy thừa của biến."
+},
+{
+"title": "Tìm bậc của đa thức",
+"problem": "Tìm bậc của P(x) = 5x² - 3x⁴ + x - 9.",
+"steps": [
+"Xác định bậc từng hạng tử: 5x² bậc 2, -3x⁴ bậc 4, x bậc 1, -9 bậc 0.",
+"Bậc lớn nhất là 4.",
+"Hệ số của hạng tử bậc 4 là -3, khác 0."
+],
+"answer": "Đa thức có bậc 4.",
+"explanation": "Bậc của đa thức là bậc lớn nhất của hạng tử có hệ số khác 0."
+}
+],
+"steps": [
+"Bước 1: Kiểm tra đa thức chỉ có một biến hay không.",
+"Bước 2: Tách các hạng tử theo dấu cộng, trừ.",
+"Bước 3: Xác định hệ số của từng hạng tử.",
+"Bước 4: Xác định bậc của từng hạng tử dựa vào số mũ của biến.",
+"Bước 5: Chọn bậc lớn nhất để kết luận bậc của đa thức."
+],
+"commonMistakes": [
+{
+"mistake": "Bỏ mất dấu âm trước hạng tử.",
+"fix": "Dấu âm thuộc về hạng tử phía sau nó, ví dụ -2x là một hạng tử."
+},
+{
+"mistake": "Nghĩ hằng số không có bậc.",
+"fix": "Hằng số khác 0 có bậc 0."
+},
+{
+"mistake": "Lấy hệ số lớn nhất làm bậc của đa thức.",
+"fix": "Bậc phụ thuộc vào số mũ của biến, không phụ thuộc hệ số lớn hay nhỏ."
+}
+],
+"quickMemory": "Đa thức một biến gồm nhiều hạng tử cùng một biến. Bậc đa thức là số mũ lớn nhất còn hệ số khác 0.",
+"warmupQuestions": [
+{
+"question": "Trong hạng tử -7x², hệ số là gì?",
+"suggestedAnswer": "Hệ số là -7."
+},
+{
+"question": "Hạng tử 12 có bậc mấy?",
+"suggestedAnswer": "Bậc 0 nếu 12 khác 0."
+}
+],
+"applicationQuestions": [
+{
+"question": "Cho P(x) = x³ + 2x² - 5. Đa thức này có mấy hạng tử?",
+"hint": "Tách theo từng phần cộng/trừ.",
+"suggestedAnswer": "Có 3 hạng tử: x³, 2x², -5."
+},
+{
+"question": "Sắp xếp đa thức 2x - 4x³ + 1 theo lũy thừa giảm dần của x.",
+"hint": "Bậc cao nhất viết trước.",
+"suggestedAnswer": "-4x³ + 2x + 1."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Tô màu từng hạng tử trong đa thức để học sinh thấy dấu và hệ số.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả các hạng tử để sắp xếp đa thức theo bậc giảm dần.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_015",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được các hạng tử đồng dạng trong đa thức một biến.",
+"Cộng được hai đa thức một biến bằng cách nhóm hạng tử đồng dạng.",
+"Trừ được hai đa thức một biến và xử lý đúng dấu khi bỏ ngoặc.",
+"Rút gọn được đa thức sau khi cộng hoặc trừ."
+],
+"easyExplanation": "Cộng, trừ đa thức một biến giống như gom các món cùng loại. Hạng tử đồng dạng là các hạng tử có cùng phần biến và cùng số mũ, ví dụ 3x² và -5x² đồng dạng. Khi cộng hoặc trừ đa thức, em nhóm các hạng tử đồng dạng rồi cộng hoặc trừ hệ số. Phần biến giữ nguyên. Khi trừ cả một đa thức, cần đổi dấu tất cả hạng tử trong ngoặc trước khi nhóm.",
+"workedExamples": [
+{
+"title": "Cộng hai đa thức",
+"problem": "Tính (2x² + 3x - 1) + (5x² - x + 4).",
+"steps": [
+"Nhóm hạng tử x²: 2x² + 5x² = 7x².",
+"Nhóm hạng tử x: 3x - x = 2x.",
+"Nhóm hằng số: -1 + 4 = 3.",
+"Viết kết quả rút gọn."
+],
+"answer": "7x² + 2x + 3",
+"explanation": "Chỉ cộng các hạng tử đồng dạng với nhau."
+},
+{
+"title": "Trừ hai đa thức",
+"problem": "Tính (4x² - 2x + 6) - (x² + 3x - 1).",
+"steps": [
+"Đổi dấu đa thức thứ hai: -(x² + 3x - 1) = -x² - 3x + 1.",
+"Biểu thức thành 4x² - 2x + 6 - x² - 3x + 1.",
+"Nhóm hạng tử đồng dạng: 4x² - x² = 3x².",
+"-2x - 3x = -5x.",
+"6 + 1 = 7."
+],
+"answer": "3x² - 5x + 7",
+"explanation": "Điểm dễ sai nhất là đổi dấu khi trừ cả ngoặc."
+}
+],
+"steps": [
+"Bước 1: Viết hai đa thức rõ ràng, giữ nguyên dấu của từng hạng tử.",
+"Bước 2: Nếu là phép trừ, đổi dấu tất cả hạng tử của đa thức bị trừ.",
+"Bước 3: Nhóm các hạng tử đồng dạng.",
+"Bước 4: Cộng hoặc trừ các hệ số, giữ nguyên phần biến.",
+"Bước 5: Viết kết quả theo thứ tự bậc giảm dần nếu cần."
+],
+"commonMistakes": [
+{
+"mistake": "Cộng hạng tử không đồng dạng như x² với x.",
+"fix": "Chỉ gộp hạng tử có cùng biến và cùng số mũ."
+},
+{
+"mistake": "Khi trừ đa thức, chỉ đổi dấu hạng tử đầu tiên.",
+"fix": "Dấu trừ trước ngoặc làm đổi dấu tất cả hạng tử trong ngoặc."
+},
+{
+"mistake": "Bỏ mất hằng số khi rút gọn.",
+"fix": "Nhóm riêng hằng số như một loại hạng tử bậc 0."
+}
+],
+"quickMemory": "Cộng trừ đa thức: nhóm hạng tử đồng dạng, cộng trừ hệ số, giữ nguyên phần biến.",
+"warmupQuestions": [
+{
+"question": "3x² và -5x² có đồng dạng không?",
+"suggestedAnswer": "Có, vì cùng phần biến x²."
+},
+{
+"question": "2x và 2x² có đồng dạng không?",
+"suggestedAnswer": "Không, vì số mũ của x khác nhau."
+}
+],
+"applicationQuestions": [
+{
+"question": "Rút gọn 3x² + 2x - x² + 5x.",
+"hint": "Nhóm x² với x², x với x.",
+"suggestedAnswer": "2x² + 7x."
+},
+{
+"question": "Tính (x² + 2x + 1) - (x² - x + 3).",
+"hint": "Đổi dấu đa thức thứ hai trước.",
+"suggestedAnswer": "x² + 2x + 1 - x² + x - 3 = 3x - 2."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Các thẻ hạng tử cùng màu cho các hạng tử đồng dạng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo các hạng tử vào nhóm x², x, hằng số rồi rút gọn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+}
+]

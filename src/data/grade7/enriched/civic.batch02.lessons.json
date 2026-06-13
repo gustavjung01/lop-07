@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_civic_006",
+"subjectKey": "civic",
+"learningObjectives": [
+"Nhận biết được một số cảm xúc thường gặp như vui, buồn, tức giận, lo lắng, xấu hổ, thất vọng.",
+"Biết gọi tên cảm xúc của bản thân trong tình huống cụ thể.",
+"Hiểu cảm xúc không xấu, nhưng cách thể hiện cảm xúc cần phù hợp.",
+"Biết một số cách bình tĩnh xử lí khi có cảm xúc mạnh.",
+"Biết tìm sự hỗ trợ từ người tin cậy khi không tự kiểm soát được cảm xúc."
+],
+"easyExplanation": "Cảm xúc giống tín hiệu báo cho ta biết bên trong mình đang có điều gì xảy ra. Vui cho biết ta đang hài lòng, buồn cho biết ta cần được an ủi, tức giận có thể báo rằng ta thấy điều gì đó không công bằng, lo lắng nhắc ta cần chuẩn bị tốt hơn. Quản lý cảm xúc không phải là cấm mình buồn hay giận. Đó là biết gọi tên cảm xúc, dừng lại một nhịp, chọn cách thể hiện phù hợp và không làm tổn thương bản thân hoặc người khác.",
+"workedExamples": [
+{
+"title": "Gọi tên cảm xúc",
+"problem": "Bạn bị điểm thấp dù đã học bài, bạn im lặng và muốn khóc. Bạn đang có thể có cảm xúc gì?",
+"steps": [
+"Xem tình huống: kết quả không như mong muốn.",
+"Cơ thể và hành vi: im lặng, muốn khóc.",
+"Cảm xúc có thể là buồn, thất vọng hoặc lo lắng.",
+"Gọi tên cảm xúc để tìm cách xử lí phù hợp."
+],
+"answer": "Bạn có thể đang buồn, thất vọng hoặc lo lắng.",
+"explanation": "Gọi tên cảm xúc giúp mình hiểu mình hơn thay vì bị cảm xúc kéo đi."
+},
+{
+"title": "Bình tĩnh khi tức giận",
+"problem": "Khi bị bạn hiểu lầm và rất tức giận, em nên làm gì trước khi phản ứng?",
+"steps": [
+"Dừng lại vài giây để không nói lời làm tổn thương.",
+"Hít thở chậm hoặc rời khỏi tình huống nếu cần.",
+"Nói cảm xúc bằng câu 'Mình cảm thấy...'.",
+"Trao đổi khi đã bình tĩnh hơn."
+],
+"answer": "Em nên dừng lại, hít thở, bình tĩnh rồi mới giải thích cảm xúc và sự việc.",
+"explanation": "Cơn giận là ngọn lửa. Bình tĩnh là cái nắp nồi giúp lửa không bùng quá mức."
+}
+],
+"steps": [
+"Dừng lại và nhận biết cơ thể đang phản ứng thế nào.",
+"Gọi tên cảm xúc: buồn, giận, lo, xấu hổ, thất vọng.",
+"Tìm nguyên nhân khiến cảm xúc xuất hiện.",
+"Chọn cách thể hiện phù hợp: nói rõ cảm xúc, hít thở, viết ra, xin tạm dừng.",
+"Không đánh, mắng, xúc phạm hoặc tự làm hại bản thân.",
+"Tìm người tin cậy hỗ trợ khi cảm xúc quá mạnh."
+],
+"commonMistakes": [
+{
+"mistake": "Cho rằng tức giận là xấu nên phải giấu hoàn toàn.",
+"fix": "Cảm xúc không xấu. Điều cần quản lý là cách thể hiện cảm xúc."
+},
+{
+"mistake": "Đổ lỗi cho cảm xúc để nói hoặc làm tổn thương người khác.",
+"fix": "Có thể giận, nhưng vẫn cần chịu trách nhiệm với lời nói và hành động."
+},
+{
+"mistake": "Không nhờ ai giúp dù cảm xúc quá nặng.",
+"fix": "Khi không tự xử lí được, cần tìm người lớn, thầy cô hoặc bạn đáng tin để hỗ trợ."
+}
+],
+"quickMemory": "Quản lý cảm xúc: nhận ra, gọi tên, dừng lại, chọn cách nói/làm phù hợp, tìm hỗ trợ khi cần.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba cảm xúc thường gặp.",
+"suggestedAnswer": "Vui, buồn, tức giận, lo lắng, sợ hãi, xấu hổ, thất vọng."
+},
+{
+"question": "Quản lý cảm xúc có phải là không được buồn hay giận không?",
+"suggestedAnswer": "Không. Quản lý cảm xúc là biết nhận ra và thể hiện cảm xúc phù hợp."
+},
+{
+"question": "Khi tức giận, một việc nên làm trước khi nói là gì?",
+"suggestedAnswer": "Dừng lại, hít thở chậm và bình tĩnh hơn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Bạn em bị bạn khác trêu trước lớp và rất tức giận. Em sẽ khuyên bạn làm gì?",
+"hint": "Dừng lại, không phản ứng bạo lực, nói với người lớn nếu cần.",
+"suggestedAnswer": "Em sẽ khuyên bạn dừng lại, hít thở để bình tĩnh, không đánh hoặc mắng lại. Sau đó bạn có thể nói rõ mình không thích bị trêu và báo giáo viên nếu việc đó tiếp tục."
+},
+{
+"question": "Viết 4 cách lành mạnh để xử lí khi buồn hoặc lo lắng.",
+"hint": "Chia sẻ, ghi ra giấy, hít thở, nghỉ ngơi, xin hỗ trợ.",
+"suggestedAnswer": "Chia sẻ với người tin cậy, viết cảm xúc ra giấy, hít thở chậm, nghỉ ngơi hoặc xin thầy cô/người lớn hỗ trợ."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bánh xe cảm xúc lớp 7: vui, buồn, giận, lo, sợ, xấu hổ, thất vọng và cách xử lí phù hợp.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn cảm xúc trong tình huống học đường và chọn cách phản ứng an toàn, tôn trọng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_007",
+"subjectKey": "civic",
+"learningObjectives": [
+"Nhận biết được một số biểu hiện của căng thẳng và áp lực học đường.",
+"Hiểu áp lực có thể đến từ học tập, bạn bè, gia đình, mạng xã hội hoặc kì vọng của bản thân.",
+"Biết một số cách ứng phó lành mạnh như nghỉ ngơi, chia nhỏ việc, chia sẻ, tìm hỗ trợ.",
+"Phân biệt được cách ứng phó tích cực với cách né tránh hoặc gây hại.",
+"Hình thành thói quen chăm sóc sức khỏe tinh thần và tìm người tin cậy khi cần."
+],
+"easyExplanation": "Áp lực học đường có thể xuất hiện khi bài vở nhiều, sắp kiểm tra, bị so sánh, mâu thuẫn với bạn, sợ làm cha mẹ thất vọng hoặc thấy mình không đủ giỏi. Căng thẳng có thể làm em mệt, khó ngủ, dễ cáu, mất tập trung, đau đầu hoặc không muốn học. Ứng phó tốt không phải là bỏ mặc mọi thứ, cũng không phải cố chịu một mình. Ta có thể chia nhỏ việc, lập kế hoạch, nghỉ ngơi đúng lúc, vận động nhẹ, nói với người tin cậy và xin hỗ trợ khi áp lực vượt quá khả năng.",
+"workedExamples": [
+{
+"title": "Nhận biết căng thẳng",
+"problem": "Gần ngày kiểm tra, bạn khó ngủ, hay cáu và không tập trung học. Đây có thể là dấu hiệu gì?",
+"steps": [
+"Tình huống có áp lực kiểm tra.",
+"Biểu hiện: khó ngủ, cáu, mất tập trung.",
+"Những dấu hiệu này liên quan đến căng thẳng.",
+"Cần tìm cách nghỉ ngơi và sắp xếp việc học."
+],
+"answer": "Đó có thể là dấu hiệu căng thẳng do áp lực kiểm tra.",
+"explanation": "Nhận ra dấu hiệu sớm giúp mình xử lí trước khi áp lực phình to như bong bóng."
+},
+{
+"title": "Chia nhỏ nhiệm vụ",
+"problem": "Em có 3 môn cần ôn trong một tối và thấy quá tải. Em nên làm gì?",
+"steps": [
+"Liệt kê từng môn và phần cần ôn.",
+"Ưu tiên phần quan trọng hoặc kiểm tra gần nhất.",
+"Chia thời gian thành từng phiên ngắn.",
+"Có thời gian nghỉ giữa các phiên."
+],
+"answer": "Em nên chia nhỏ nhiệm vụ, ưu tiên phần quan trọng và học theo từng phiên ngắn có nghỉ.",
+"explanation": "Việc lớn khi chia nhỏ sẽ bớt giống ngọn núi và giống những bậc thang hơn."
+}
+],
+"steps": [
+"Nhận biết dấu hiệu căng thẳng trong cơ thể và hành vi.",
+"Tìm nguyên nhân chính gây áp lực.",
+"Chia nhỏ việc cần làm và ưu tiên việc quan trọng.",
+"Sắp xếp thời gian nghỉ ngơi, ngủ đủ, vận động nhẹ.",
+"Chia sẻ với người tin cậy thay vì chịu một mình.",
+"Tìm thầy cô, cha mẹ hoặc chuyên gia hỗ trợ khi áp lực kéo dài."
+],
+"commonMistakes": [
+{
+"mistake": "Cố chịu áp lực một mình vì sợ bị chê yếu.",
+"fix": "Biết tìm hỗ trợ là một kĩ năng mạnh mẽ, không phải yếu đuối."
+},
+{
+"mistake": "Ứng phó bằng cách bỏ học, thức khuya quá mức hoặc trút giận lên người khác.",
+"fix": "Cần chọn cách lành mạnh: nghỉ đúng, chia nhỏ việc, nói chuyện, vận động."
+},
+{
+"mistake": "Lập kế hoạch quá dày làm áp lực tăng thêm.",
+"fix": "Kế hoạch cần vừa sức và có thời gian nghỉ."
+}
+],
+"quickMemory": "Gặp áp lực: nhận dấu hiệu, tìm nguyên nhân, chia nhỏ việc, nghỉ đúng lúc, nói với người tin cậy.",
+"warmupQuestions": [
+{
+"question": "Kể tên hai dấu hiệu căng thẳng học đường.",
+"suggestedAnswer": "Khó ngủ, mệt mỏi, dễ cáu, mất tập trung, đau đầu, lo lắng, không muốn học."
+},
+{
+"question": "Áp lực học đường có thể đến từ đâu?",
+"suggestedAnswer": "Bài vở, kiểm tra, bạn bè, gia đình, mạng xã hội hoặc kì vọng của bản thân."
+},
+{
+"question": "Một cách ứng phó tích cực với căng thẳng là gì?",
+"suggestedAnswer": "Chia nhỏ việc, nghỉ ngơi, vận động, chia sẻ với người tin cậy hoặc xin hỗ trợ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập kế hoạch ứng phó khi em có nhiều bài tập trong một buổi tối.",
+"hint": "Liệt kê việc, ưu tiên, chia phiên, nghỉ ngắn.",
+"suggestedAnswer": "Em liệt kê các bài cần làm, chọn bài gấp hoặc khó làm trước, chia thời gian thành từng phiên 25-30 phút, nghỉ 5-10 phút giữa các phiên và báo người lớn nếu cần thêm hỗ trợ."
+},
+{
+"question": "Bạn em nói bạn quá áp lực và muốn bỏ hết. Em sẽ làm gì?",
+"hint": "Lắng nghe, không phán xét, khuyên tìm người lớn hỗ trợ.",
+"suggestedAnswer": "Em sẽ lắng nghe bạn, không chê trách, khuyên bạn nghỉ một chút rồi cùng chia nhỏ việc. Nếu bạn vẫn rất căng thẳng, em sẽ khuyên bạn nói với thầy cô, cha mẹ hoặc người lớn đáng tin."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ áp lực học đường: dấu hiệu, nguyên nhân, cách ứng phó tích cực, người hỗ trợ.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Xử lí tình huống căng thẳng trước kiểm tra, mâu thuẫn bạn bè, áp lực điểm số.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_008",
+"subjectKey": "civic",
+"learningObjectives": [
+"Hiểu mỗi người có thể khác nhau về ngoại hình, hoàn cảnh, sở thích, năng lực, quan điểm.",
+"Nhận biết được biểu hiện tôn trọng sự khác biệt trong lời nói và hành vi.",
+"Phân biệt được góp ý văn minh với chế giễu, kì thị hoặc ép người khác giống mình.",
+"Biết ứng xử phù hợp khi gặp người có điểm khác mình.",
+"Hình thành thái độ bao dung, tôn trọng và xây dựng môi trường lớp học an toàn."
+],
+"easyExplanation": "Không ai là bản sao hoàn toàn của ai. Có bạn thích thể thao, có bạn thích vẽ; có bạn nói nhiều, có bạn ít nói; có bạn học nhanh môn này nhưng chậm hơn ở môn khác; có bạn có hoàn cảnh gia đình khác mình. Tôn trọng sự khác biệt là không chế giễu, không đặt biệt danh xấu, không ép bạn phải giống mình, biết lắng nghe và nhìn nhận điểm mạnh của người khác. Một lớp học đẹp không phải là mọi người giống nhau, mà là mọi người khác nhau nhưng vẫn thấy mình được an toàn.",
+"workedExamples": [
+{
+"title": "Không chế giễu sự khác biệt",
+"problem": "Một bạn nói giọng địa phương và bị vài bạn bắt chước để trêu. Hành vi đó có tôn trọng sự khác biệt không?",
+"steps": [
+"Giọng nói là một đặc điểm cá nhân, văn hóa.",
+"Bắt chước để trêu làm bạn xấu hổ.",
+"Hành vi này không tôn trọng bạn.",
+"Cần dừng trêu chọc và ứng xử lịch sự."
+],
+"answer": "Không. Đó là hành vi thiếu tôn trọng sự khác biệt và có thể làm bạn bị tổn thương.",
+"explanation": "Điều làm một người khác biệt không phải là chiếc nút để người khác bấm vào cười."
+},
+{
+"title": "Góp ý văn minh",
+"problem": "Bạn trình bày chưa tốt. Em nên góp ý thế nào để tôn trọng bạn?",
+"steps": [
+"Nêu điểm bạn đã làm được.",
+"Góp ý cụ thể điều có thể cải thiện.",
+"Dùng lời lịch sự, không chê bai con người.",
+"Có thể gợi ý cách làm tốt hơn."
+],
+"answer": "Em có thể nói: 'Phần nội dung của bạn khá rõ, nếu bạn nói chậm hơn và nhìn khán giả nhiều hơn thì bài sẽ tốt hơn'.",
+"explanation": "Góp ý tốt sửa việc, không làm đau người."
+}
+],
+"steps": [
+"Nhận ra mỗi người có điểm giống và khác nhau.",
+"Không dùng khác biệt làm lý do trêu chọc hoặc loại trừ.",
+"Lắng nghe quan điểm khác mình.",
+"Góp ý bằng lời tôn trọng, cụ thể, không xúc phạm.",
+"Bảo vệ bạn khi thấy bạn bị kì thị hoặc chế giễu.",
+"Tìm sự hỗ trợ của giáo viên khi tình huống nghiêm trọng."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ tôn trọng sự khác biệt là phải đồng ý với mọi ý kiến.",
+"fix": "Có thể không đồng ý, nhưng cần trao đổi lịch sự và tôn trọng người nói."
+},
+{
+"mistake": "Đặt biệt danh theo ngoại hình, giọng nói hoặc hoàn cảnh của bạn.",
+"fix": "Không dùng đặc điểm cá nhân để trêu chọc, gọi tên bạn theo cách bạn thấy được tôn trọng."
+},
+{
+"mistake": "Im lặng khi thấy bạn bị chế giễu.",
+"fix": "Có thể lên tiếng an toàn, rủ bạn rời khỏi tình huống hoặc báo giáo viên."
+}
+],
+"quickMemory": "Tôn trọng khác biệt: không chế giễu, không ép giống mình, lắng nghe, góp ý văn minh, bảo vệ môi trường lớp học an toàn.",
+"warmupQuestions": [
+{
+"question": "Sự khác biệt giữa mọi người có thể thể hiện ở những điểm nào?",
+"suggestedAnswer": "Ngoại hình, hoàn cảnh, sở thích, năng lực, quan điểm, giọng nói, tính cách."
+},
+{
+"question": "Một biểu hiện tôn trọng sự khác biệt là gì?",
+"suggestedAnswer": "Không chế giễu, biết lắng nghe, không ép người khác giống mình, góp ý lịch sự."
+},
+{
+"question": "Khi không đồng ý với bạn, cần làm gì?",
+"suggestedAnswer": "Trao đổi bằng lời lịch sự, nêu lí do, không xúc phạm cá nhân."
+}
+],
+"applicationQuestions": [
+{
+"question": "Bạn trong lớp bị trêu vì ngoại hình. Em nên làm gì?",
+"hint": "Không cười theo, lên tiếng an toàn, hỗ trợ bạn, báo giáo viên.",
+"suggestedAnswer": "Em không cười theo, có thể nói rằng việc trêu ngoại hình là không phù hợp, rủ bạn ra khỏi tình huống và báo giáo viên nếu việc trêu chọc tiếp tục."
+},
+{
+"question": "Viết 4 quy tắc để lớp học tôn trọng sự khác biệt.",
+"hint": "Không biệt danh xấu, không chê ngoại hình, lắng nghe, góp ý lịch sự.",
+"suggestedAnswer": "Không đặt biệt danh xấu. Không chê ngoại hình hoặc hoàn cảnh. Lắng nghe khi bạn có ý kiến khác. Góp ý bằng lời tôn trọng và cụ thể."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ lớp học tôn trọng khác biệt: lời nói, hành vi, góp ý, bảo vệ bạn, báo người lớn.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn phản ứng phù hợp khi gặp tình huống chế giễu ngoại hình, sở thích, hoàn cảnh, quan điểm.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_009",
+"subjectKey": "civic",
+"learningObjectives": [
+"Nhận biết được bắt nạt học đường trực tiếp và bắt nạt trực tuyến.",
+"Hiểu tác hại của bắt nạt đối với người bị bắt nạt, người chứng kiến và môi trường lớp học.",
+"Biết không cổ vũ, không quay/chia sẻ nội dung bắt nạt.",
+"Biết cách bảo vệ bản thân an toàn và tìm sự giúp đỡ từ người lớn.",
+"Hình thành thái độ lên tiếng phù hợp, không tiếp tay cho bạo lực."
+],
+"easyExplanation": "Bắt nạt học đường không chỉ là đánh nhau. Nó còn có thể là trêu chọc ác ý, đặt biệt danh xấu, cô lập bạn, đe dọa, lấy đồ, ép làm việc không muốn, tung tin xấu, đăng ảnh chế hoặc bình luận xúc phạm trên mạng. Bắt nạt làm người bị hại sợ hãi, buồn, mất tự tin và ảnh hưởng học tập. Người chứng kiến nếu cười theo, quay video hoặc chia sẻ cũng đang tiếp tay. Cách đúng là không cổ vũ, giữ an toàn cho mình, hỗ trợ bạn bị bắt nạt và báo người lớn đáng tin.",
+"workedExamples": [
+{
+"title": "Nhận biết bắt nạt trực tuyến",
+"problem": "Một nhóm bạn lập nhóm chat để chế ảnh và nói xấu một bạn trong lớp. Đây có phải bắt nạt không?",
+"steps": [
+"Hành vi diễn ra trên môi trường trực tuyến.",
+"Nội dung chế giễu, nói xấu làm tổn thương bạn.",
+"Có nhóm người cùng tham gia.",
+"Đây là bắt nạt trực tuyến."
+],
+"answer": "Có. Đây là hành vi bắt nạt trực tuyến và không nên tham gia hoặc chia sẻ.",
+"explanation": "Bàn phím không làm lời nói nhẹ hơn. Tổn thương trên mạng vẫn là tổn thương thật."
+},
+{
+"title": "Người chứng kiến nên làm gì",
+"problem": "Em thấy bạn bị trêu chọc, vài bạn khác cười và quay video. Em nên làm gì?",
+"steps": [
+"Không cười theo hoặc quay/chia sẻ video.",
+"Nếu an toàn, nói ngắn gọn rằng hành vi đó không phù hợp.",
+"Đưa bạn bị trêu ra khỏi tình huống nếu có thể.",
+"Báo giáo viên hoặc người lớn đáng tin."
+],
+"answer": "Em không cổ vũ, không quay video, hỗ trợ bạn an toàn và báo giáo viên/người lớn.",
+"explanation": "Người chứng kiến có thể là chiếc phanh giúp sự việc không trượt xa hơn."
+}
+],
+"steps": [
+"Nhận biết dấu hiệu bắt nạt: lặp lại, cố ý, gây tổn thương, có chênh lệch sức mạnh hoặc nhóm người.",
+"Không cười, không cổ vũ, không quay hoặc chia sẻ nội dung bắt nạt.",
+"Giữ an toàn cho bản thân, tránh đối đầu nguy hiểm.",
+"Hỗ trợ người bị bắt nạt bằng lời nói và sự hiện diện an toàn.",
+"Lưu bằng chứng nếu là bắt nạt trực tuyến.",
+"Báo giáo viên, cha mẹ hoặc người lớn đáng tin."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ chỉ đánh nhau mới là bắt nạt.",
+"fix": "Bắt nạt còn có lời nói, cô lập, đe dọa, lấy đồ, tung tin, bắt nạt trực tuyến."
+},
+{
+"mistake": "Quay video hoặc chia sẻ vì tò mò.",
+"fix": "Không quay/chia sẻ nội dung bắt nạt vì điều đó làm tổn thương lan rộng."
+},
+{
+"mistake": "Tự đối đầu trong tình huống nguy hiểm.",
+"fix": "Cần giữ an toàn và báo người lớn đáng tin."
+}
+],
+"quickMemory": "Chống bắt nạt: nhận biết, không cổ vũ, không chia sẻ, bảo vệ an toàn, lưu bằng chứng, báo người lớn.",
+"warmupQuestions": [
+{
+"question": "Bắt nạt học đường có thể có những hình thức nào?",
+"suggestedAnswer": "Đánh, đe dọa, trêu chọc ác ý, đặt biệt danh xấu, cô lập, lấy đồ, tung tin, bắt nạt trực tuyến."
+},
+{
+"question": "Vì sao không nên quay video khi thấy bạn bị bắt nạt?",
+"suggestedAnswer": "Vì quay và chia sẻ có thể làm bạn bị tổn thương thêm và tiếp tay cho bắt nạt."
+},
+{
+"question": "Khi bị bắt nạt trực tuyến, nên làm gì?",
+"suggestedAnswer": "Không đáp trả bằng xúc phạm, lưu bằng chứng, chặn/báo cáo tài khoản và báo người lớn đáng tin."
+}
+],
+"applicationQuestions": [
+{
+"question": "Bạn em bị lập nhóm chat nói xấu. Em sẽ làm gì để giúp bạn an toàn?",
+"hint": "Không tham gia, lưu bằng chứng, báo người lớn, động viên bạn.",
+"suggestedAnswer": "Em không tham gia nhóm nói xấu, khuyên bạn lưu bằng chứng, chặn hoặc báo cáo tài khoản nếu cần và cùng bạn báo giáo viên/cha mẹ. Em cũng động viên để bạn không cảm thấy một mình."
+},
+{
+"question": "Nêu 5 việc người chứng kiến không nên làm khi thấy bắt nạt.",
+"hint": "Không cười, không quay, không chia sẻ, không cổ vũ, không đổ lỗi nạn nhân.",
+"suggestedAnswer": "Không cười theo, không quay video, không chia sẻ, không cổ vũ, không đổ lỗi cho người bị bắt nạt."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ phòng chống bắt nạt học đường: nhận biết, người bị hại, người chứng kiến, người hỗ trợ, báo người lớn.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Xử lí tình huống bắt nạt trực tiếp và trực tuyến, chọn phản ứng an toàn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_010",
+"subjectKey": "civic",
+"learningObjectives": [
+"Hiểu giao tiếp văn minh là nói năng, lắng nghe và ứng xử tôn trọng người khác.",
+"Biết sử dụng lời cảm ơn, xin lỗi, đề nghị, từ chối phù hợp.",
+"Biết lắng nghe và trình bày ý kiến khi có mâu thuẫn.",
+"Hiểu một số bước giải quyết mâu thuẫn: bình tĩnh, lắng nghe, nói rõ vấn đề, thương lượng, nhờ hỗ trợ.",
+"Hình thành thói quen giải quyết bất đồng bằng lời nói ôn hòa, không bạo lực."
+],
+"easyExplanation": "Giao tiếp văn minh không phải là nói thật hoa mỹ, mà là nói rõ, đúng lúc, tôn trọng và biết lắng nghe. Trong lớp học, mâu thuẫn có thể xảy ra khi hiểu lầm, tranh lượt chơi, chia việc nhóm không đều, trêu đùa quá mức hoặc bất đồng ý kiến. Khi mâu thuẫn xuất hiện, nếu ai cũng nói to hơn thì vấn đề chỉ to thêm. Cách tốt hơn là bình tĩnh, nghe nhau nói, dùng câu 'mình cảm thấy...', xin lỗi khi sai, cảm ơn khi được giúp, thương lượng cách giải quyết và nhờ người lớn hỗ trợ nếu cần.",
+"workedExamples": [
+{
+"title": "Nói lời xin lỗi",
+"problem": "Em vô tình làm rơi hộp bút của bạn khiến bút bị văng ra. Em nên nói gì?",
+"steps": [
+"Nhận ra mình gây phiền cho bạn dù không cố ý.",
+"Nói lời xin lỗi rõ ràng.",
+"Giúp bạn nhặt đồ.",
+"Nếu có hư hỏng, cùng tìm cách khắc phục."
+],
+"answer": "Em có thể nói: 'Mình xin lỗi vì làm rơi hộp bút của bạn. Để mình nhặt lại giúp bạn nhé'.",
+"explanation": "Lời xin lỗi tốt nên đi cùng hành động sửa sai."
+},
+{
+"title": "Giải quyết mâu thuẫn nhóm",
+"problem": "Hai bạn trong nhóm cãi nhau vì ai cũng muốn làm trưởng nhóm. Nên xử lí thế nào?",
+"steps": [
+"Yêu cầu cả hai bình tĩnh và lắng nghe.",
+"Xác định mục tiêu chung là hoàn thành bài nhóm.",
+"Thảo luận tiêu chí chọn trưởng nhóm hoặc chia vai trò.",
+"Nếu không thống nhất, nhờ giáo viên hỗ trợ."
+],
+"answer": "Nhóm nên bình tĩnh trao đổi, thống nhất tiêu chí hoặc chia vai trò rõ ràng; nếu vẫn căng thẳng thì nhờ giáo viên hỗ trợ.",
+"explanation": "Mâu thuẫn giảm khi mọi người quay lại mục tiêu chung thay vì kéo co cái tôi."
+}
+],
+"steps": [
+"Bình tĩnh trước khi nói.",
+"Lắng nghe người khác trình bày hết ý.",
+"Nói rõ cảm xúc và vấn đề bằng lời tôn trọng.",
+"Tìm điểm chung hoặc mục tiêu chung.",
+"Đề xuất phương án thương lượng công bằng.",
+"Xin lỗi, cảm ơn hoặc nhờ người lớn hỗ trợ khi cần."
+],
+"commonMistakes": [
+{
+"mistake": "Nói to, chen ngang hoặc mỉa mai khi đang mâu thuẫn.",
+"fix": "Cần bình tĩnh, lắng nghe và nói vào vấn đề, không công kích người."
+},
+{
+"mistake": "Xin lỗi qua loa nhưng không sửa hành động.",
+"fix": "Lời xin lỗi cần chân thành và đi kèm cách khắc phục."
+},
+{
+"mistake": "Né tránh mọi mâu thuẫn khiến vấn đề kéo dài.",
+"fix": "Cần trao đổi văn minh hoặc nhờ người tin cậy hỗ trợ khi không tự giải quyết được."
+}
+],
+"quickMemory": "Giao tiếp văn minh: bình tĩnh, lắng nghe, nói rõ, xin lỗi/cảm ơn đúng lúc, thương lượng, không bạo lực.",
+"warmupQuestions": [
+{
+"question": "Một biểu hiện của giao tiếp văn minh là gì?",
+"suggestedAnswer": "Nói lịch sự, lắng nghe, không xúc phạm, biết xin lỗi và cảm ơn."
+},
+{
+"question": "Khi có mâu thuẫn, bước đầu tiên nên làm gì?",
+"suggestedAnswer": "Bình tĩnh và lắng nghe."
+},
+{
+"question": "Khi không tự giải quyết được mâu thuẫn, nên làm gì?",
+"suggestedAnswer": "Nhờ thầy cô, cha mẹ hoặc người lớn đáng tin hỗ trợ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Bạn hiểu lầm rằng em nói xấu bạn. Em sẽ nói gì để giải quyết?",
+"hint": "Bình tĩnh, giải thích, lắng nghe, không đổ thêm căng thẳng.",
+"suggestedAnswer": "Mình nghĩ có thể bạn đang hiểu lầm. Mình không có ý nói xấu bạn. Mình muốn nghe bạn nói rõ chuyện bạn nghe được để mình giải thích và nếu mình làm bạn buồn thì mình xin lỗi."
+},
+{
+"question": "Nêu 5 câu giao tiếp văn minh có thể dùng trong lớp học.",
+"hint": "Xin lỗi, cảm ơn, đề nghị, từ chối, thương lượng.",
+"suggestedAnswer": "Mình xin lỗi vì đã làm bạn khó chịu. Cảm ơn bạn đã giúp mình. Bạn có thể cho mình mượn thước được không? Mình chưa thể làm việc đó ngay, mình sẽ làm sau giờ ra chơi. Chúng ta chia việc lại cho công bằng nhé."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ 6 bước giải quyết mâu thuẫn: bình tĩnh, lắng nghe, nói rõ, tìm điểm chung, thương lượng, nhờ hỗ trợ.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn câu nói văn minh để xử lí hiểu lầm, tranh cãi nhóm, xin lỗi và từ chối lịch sự.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

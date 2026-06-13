@@ -1,0 +1,529 @@
+[
+{
+"lessonId": "g7_science_021",
+"subjectKey": "science",
+"learningObjectives": [
+"Nhận biết nam châm điện là nam châm tạo ra nhờ dòng điện chạy qua cuộn dây.",
+"Nêu được các bộ phận cơ bản của nam châm điện: lõi sắt, cuộn dây, nguồn điện.",
+"Hiểu nam châm điện có thể bật tắt bằng cách đóng ngắt dòng điện.",
+"Nêu được một số ứng dụng đơn giản của nam châm điện trong đời sống.",
+"Có ý thức an toàn khi làm thí nghiệm với pin, dây dẫn và cuộn dây."
+],
+"easyExplanation": "Nam châm điện là loại nam châm chỉ có từ tính mạnh khi có dòng điện chạy qua cuộn dây. Thường người ta quấn dây dẫn quanh một lõi sắt rồi nối với nguồn điện. Khi đóng mạch, lõi sắt trở thành nam châm và có thể hút đinh sắt, kẹp giấy. Khi ngắt mạch, từ tính giảm mạnh hoặc mất đi. Điểm hay của nam châm điện là có thể điều khiển bật tắt, nên được dùng trong chuông điện, cần cẩu điện từ, rơ-le, loa và nhiều thiết bị điện.",
+"workedExamples": [
+{
+"title": "Nhận biết nam châm điện",
+"problem": "Một cuộn dây quấn quanh lõi sắt hút được kẹp giấy khi nối với pin, nhưng không hút khi ngắt pin. Đó là hiện tượng gì?",
+"steps": [
+"Khi nối pin, có dòng điện chạy qua cuộn dây.",
+"Cuộn dây và lõi sắt tạo ra từ tính.",
+"Khi ngắt pin, dòng điện không còn nên từ tính mất hoặc yếu đi.",
+"Đây là đặc điểm của nam châm điện."
+],
+"answer": "Đó là hoạt động của nam châm điện.",
+"explanation": "Nam châm điện có thể bật tắt từ tính bằng dòng điện."
+},
+{
+"title": "Ứng dụng của nam châm điện",
+"problem": "Vì sao cần cẩu ở bãi phế liệu có thể nhấc các mảnh sắt lớn rồi thả xuống khi cần?",
+"steps": [
+"Cần cẩu dùng nam châm điện.",
+"Khi có dòng điện, nam châm hút sắt thép.",
+"Khi ngắt dòng điện, lực hút giảm hoặc mất.",
+"Nhờ vậy có thể nhấc và thả vật liệu."
+],
+"answer": "Vì cần cẩu dùng nam châm điện có thể bật tắt từ tính bằng dòng điện.",
+"explanation": "Đây là lợi thế lớn của nam châm điện so với nam châm vĩnh cửu."
+}
+],
+"steps": [
+"Ôn lại nam châm và từ trường quanh nam châm.",
+"Quan sát cấu tạo đơn giản: lõi sắt, cuộn dây, nguồn điện.",
+"Đóng mạch để kiểm tra khả năng hút vật bằng sắt.",
+"Ngắt mạch để so sánh sự thay đổi từ tính.",
+"Liên hệ với ứng dụng thực tế như chuông điện, cần cẩu điện từ, rơ-le."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ nam châm điện luôn có từ tính như nam châm thường.",
+"fix": "Nam châm điện cần dòng điện để tạo từ tính rõ rệt."
+},
+{
+"mistake": "Dùng nguồn điện mạnh hoặc chập dây khi thí nghiệm.",
+"fix": "Chỉ dùng pin phù hợp và làm theo hướng dẫn để tránh nóng dây, hỏng pin."
+},
+{
+"mistake": "Cho rằng mọi lõi kim loại đều làm nam châm điện tốt như nhau.",
+"fix": "Lõi sắt thường được dùng vì dễ bị từ hóa."
+}
+],
+"quickMemory": "Nam châm điện = cuộn dây + lõi sắt + dòng điện. Có điện thì hút mạnh, ngắt điện thì từ tính giảm.",
+"warmupQuestions": [
+{
+"question": "Nam châm điện cần gì để có từ tính?",
+"suggestedAnswer": "Cần dòng điện chạy qua cuộn dây."
+},
+{
+"question": "Vì sao nam châm điện dễ điều khiển hơn nam châm thường?",
+"suggestedAnswer": "Vì có thể bật tắt từ tính bằng cách đóng ngắt dòng điện."
+},
+{
+"question": "Kể một ứng dụng của nam châm điện.",
+"suggestedAnswer": "Chuông điện, cần cẩu điện từ, rơ-le hoặc loa."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy mô tả thí nghiệm tạo nam châm điện đơn giản bằng pin, dây đồng và đinh sắt.",
+"hint": "Quấn dây quanh đinh, nối hai đầu dây với pin trong thời gian ngắn.",
+"suggestedAnswer": "Quấn dây đồng quanh một đinh sắt, nối hai đầu dây với pin trong thời gian ngắn, đưa đinh lại gần kẹp giấy để xem có bị hút không. Ngắt pin rồi thử lại để so sánh."
+},
+{
+"question": "Vì sao khi làm thí nghiệm nam châm điện không nên nối dây với pin quá lâu?",
+"hint": "Dây dẫn có thể nóng lên.",
+"suggestedAnswer": "Vì dòng điện chạy lâu có thể làm dây và pin nóng, gây nguy hiểm hoặc làm hỏng dụng cụ."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ nam châm điện gồm pin, công tắc, cuộn dây và lõi sắt.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Mô phỏng bật tắt công tắc để xem nam châm điện hút hoặc thả kẹp giấy.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_022",
+"subjectKey": "science",
+"learningObjectives": [
+"Hệ thống hóa các khái niệm vật lí đã học: chuyển động, tốc độ, âm, ánh sáng, nam châm, từ trường.",
+"Liên hệ hiện tượng thực tế với khái niệm vật lí phù hợp.",
+"Biết lập bảng hiện tượng, khái niệm, bằng chứng và ứng dụng.",
+"Vẽ được sơ đồ khái niệm đơn giản cho phần vật lí KHTN 7.",
+"Giải thích được một hiện tượng bằng chuỗi lí do ngắn gọn."
+],
+"easyExplanation": "Bài này là trạm gom bản đồ của phần vật lí. Em không học thêm quá nhiều kiến thức mới, mà nối những mảnh đã học lại với nhau. Ví dụ xe chạy liên quan đến chuyển động, quãng đường, thời gian và tốc độ. Tiếng trống liên quan đến nguồn âm và dao động. Bóng tối liên quan đến ánh sáng truyền thẳng. Gương liên quan đến phản xạ ánh sáng. La bàn lệch hướng liên quan đến từ trường. Khi biết nối hiện tượng với khái niệm, em hiểu bài sâu hơn thay vì chỉ nhớ từng đoạn rời rạc.",
+"workedExamples": [
+{
+"title": "Nối hiện tượng với khái niệm",
+"problem": "Hiện tượng: đặt tay lên loa đang phát nhạc thấy rung. Hiện tượng này liên quan đến khái niệm nào?",
+"steps": [
+"Loa đang phát ra âm.",
+"Khi phát âm, màng loa dao động.",
+"Tay cảm nhận được sự dao động.",
+"Khái niệm liên quan là nguồn âm và dao động."
+],
+"answer": "Liên quan đến nguồn âm và dao động.",
+"explanation": "Âm phát ra do vật dao động, trong trường hợp này là màng loa."
+},
+{
+"title": "Lập bảng hiện tượng - khái niệm - ứng dụng",
+"problem": "Với hiện tượng xe đi 100 m trong 20 s, hãy nêu khái niệm và ứng dụng.",
+"steps": [
+"Có quãng đường 100 m và thời gian 20 s.",
+"Có thể tính tốc độ bằng v = s / t.",
+"Ứng dụng là so sánh nhanh/chậm hoặc đo tốc độ chuyển động."
+],
+"answer": "Khái niệm: tốc độ. Ứng dụng: tính và so sánh chuyển động nhanh/chậm.",
+"explanation": "Khi có quãng đường và thời gian, thường nghĩ ngay đến tốc độ."
+}
+],
+"steps": [
+"Liệt kê các chủ đề vật lí đã học.",
+"Với mỗi chủ đề, ghi 2 đến 3 khái niệm quan trọng.",
+"Tìm hiện tượng đời sống tương ứng với từng khái niệm.",
+"Vẽ mũi tên nối hiện tượng với khái niệm và ứng dụng.",
+"Tự giải thích mỗi hiện tượng bằng 2 đến 4 câu."
+],
+"commonMistakes": [
+{
+"mistake": "Học thuộc công thức nhưng không biết dùng cho hiện tượng nào.",
+"fix": "Luôn nối công thức với tình huống thực tế, ví dụ v = s / t dùng khi có quãng đường và thời gian."
+},
+{
+"mistake": "Nhầm hiện tượng âm, ánh sáng và từ vì đều không cầm nắm được.",
+"fix": "Âm liên quan dao động, ánh sáng liên quan tia sáng/phản xạ, từ liên quan nam châm/từ trường."
+},
+{
+"mistake": "Vẽ sơ đồ quá nhiều chữ, khó nhìn.",
+"fix": "Dùng từ khóa ngắn và mũi tên rõ ràng."
+}
+],
+"quickMemory": "Vật lí KHTN 7 có các trục: chuyển động, âm, ánh sáng, từ. Học bằng sơ đồ giúp các khái niệm bắt tay nhau.",
+"warmupQuestions": [
+{
+"question": "Công thức v = s / t thuộc chủ đề nào?",
+"suggestedAnswer": "Tốc độ và chuyển động."
+},
+{
+"question": "Bóng tối liên quan đến tính chất nào của ánh sáng?",
+"suggestedAnswer": "Ánh sáng truyền thẳng."
+},
+{
+"question": "Kim la bàn bị lệch gần nam châm liên quan đến khái niệm nào?",
+"suggestedAnswer": "Từ trường."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập bảng 4 dòng: xe chạy, tiếng đàn, bóng bàn tay trên tường, kẹp giấy bị hút bởi nam châm. Hãy nối mỗi hiện tượng với khái niệm vật lí.",
+"hint": "Chuyển động, âm, ánh sáng, từ.",
+"suggestedAnswer": "Xe chạy: chuyển động/tốc độ. Tiếng đàn: nguồn âm/dao động. Bóng bàn tay: ánh sáng truyền thẳng. Kẹp giấy bị hút: nam châm/từ tính."
+},
+{
+"question": "Giải thích hiện tượng bóng tối bằng 3 câu.",
+"hint": "Nhắc nguồn sáng, vật cản và ánh sáng truyền thẳng.",
+"suggestedAnswer": "Nguồn sáng phát ra ánh sáng. Ánh sáng truyền thẳng và bị vật cản chặn lại. Vùng phía sau vật cản không nhận được ánh sáng trực tiếp nên tạo bóng tối."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ khái niệm tổng hợp vật lí KHTN 7: chuyển động, âm, ánh sáng, từ.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Ghép hiện tượng đời sống với khái niệm vật lí và ứng dụng tương ứng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_023",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu sinh vật cần trao đổi chất để lấy nguyên liệu và thải sản phẩm không cần thiết.",
+"Hiểu chuyển hóa năng lượng giúp sinh vật có năng lượng cho sống, sinh trưởng và phát triển.",
+"Nêu được một số biểu hiện của trao đổi chất ở thực vật, động vật và con người.",
+"Liên hệ trao đổi chất với các quá trình như dinh dưỡng, hô hấp, bài tiết, quang hợp.",
+"Phân biệt vật sống với vật không sống dựa vào một số quá trình sống cơ bản."
+],
+"easyExplanation": "Sinh vật muốn sống phải liên tục trao đổi chất với môi trường. Cây lấy nước, muối khoáng, carbon dioxide và ánh sáng để tạo chất hữu cơ. Con người và động vật lấy thức ăn, nước, oxygen, rồi thải carbon dioxide, nước tiểu, mồ hôi hoặc chất thải. Chuyển hóa năng lượng là việc sinh vật biến đổi năng lượng từ thức ăn hoặc ánh sáng thành dạng năng lượng dùng cho hoạt động sống. Nói gọn: trao đổi chất là lấy vào và thải ra; chuyển hóa năng lượng là biến đổi năng lượng để cơ thể dùng được.",
+"workedExamples": [
+{
+"title": "Nhận biết trao đổi chất ở người",
+"problem": "Hãy nêu các chất con người lấy vào và thải ra trong hoạt động sống hằng ngày.",
+"steps": [
+"Con người lấy thức ăn để có chất dinh dưỡng.",
+"Con người lấy nước và oxygen.",
+"Cơ thể thải carbon dioxide khi thở ra.",
+"Cơ thể thải chất thải qua nước tiểu, mồ hôi và phân."
+],
+"answer": "Con người lấy thức ăn, nước, oxygen; thải carbon dioxide, nước tiểu, mồ hôi và phân.",
+"explanation": "Đó là biểu hiện của trao đổi chất giữa cơ thể và môi trường."
+},
+{
+"title": "Chuyển hóa năng lượng ở cây xanh",
+"problem": "Cây xanh dùng ánh sáng để tạo chất hữu cơ. Đây là ví dụ của quá trình nào?",
+"steps": [
+"Cây nhận năng lượng ánh sáng.",
+"Cây dùng năng lượng đó để tạo chất hữu cơ.",
+"Năng lượng được chuyển hóa trong quá trình sống.",
+"Quá trình cụ thể là quang hợp."
+],
+"answer": "Đây là ví dụ về chuyển hóa năng lượng trong quang hợp.",
+"explanation": "Quang hợp biến năng lượng ánh sáng thành năng lượng tích lũy trong chất hữu cơ."
+}
+],
+"steps": [
+"Xác định sinh vật lấy gì từ môi trường.",
+"Xác định sinh vật thải gì ra môi trường.",
+"Tìm quá trình giúp sinh vật tạo hoặc giải phóng năng lượng.",
+"Liên hệ với hoạt động sống: lớn lên, vận động, sinh sản, sửa chữa cơ thể.",
+"Tóm tắt bằng sơ đồ lấy vào, biến đổi, sử dụng, thải ra."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ trao đổi chất chỉ là ăn uống.",
+"fix": "Trao đổi chất còn gồm hô hấp, bài tiết, vận chuyển chất, quang hợp ở cây."
+},
+{
+"mistake": "Nhầm trao đổi chất với chuyển hóa năng lượng.",
+"fix": "Trao đổi chất nói về chất lấy vào, biến đổi, thải ra. Chuyển hóa năng lượng nói về biến đổi và sử dụng năng lượng."
+},
+{
+"mistake": "Cho rằng cây không trao đổi chất vì không ăn như động vật.",
+"fix": "Cây vẫn trao đổi chất: lấy nước, muối khoáng, CO2 và thải O2, hơi nước."
+}
+],
+"quickMemory": "Trao đổi chất: lấy vào, biến đổi, thải ra. Chuyển hóa năng lượng: biến năng lượng thành dạng cơ thể dùng được.",
+"warmupQuestions": [
+{
+"question": "Con người lấy khí gì khi hô hấp?",
+"suggestedAnswer": "Oxygen."
+},
+{
+"question": "Cây xanh lấy khí gì để quang hợp?",
+"suggestedAnswer": "Carbon dioxide."
+},
+{
+"question": "Vì sao sinh vật cần năng lượng?",
+"suggestedAnswer": "Để vận động, sinh trưởng, phát triển và thực hiện các hoạt động sống."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy mô tả trao đổi chất ở một cây xanh bằng 4 câu.",
+"hint": "Nhắc nước, muối khoáng, CO2, ánh sáng, chất hữu cơ, O2.",
+"suggestedAnswer": "Cây lấy nước và muối khoáng từ đất. Cây lấy carbon dioxide từ không khí. Nhờ ánh sáng, cây tạo chất hữu cơ trong quang hợp. Cây có thể thải oxygen và hơi nước ra môi trường."
+},
+{
+"question": "Vì sao khi vận động mạnh, con người cần thở nhanh hơn?",
+"hint": "Cơ thể cần nhiều oxygen để giải phóng năng lượng hơn.",
+"suggestedAnswer": "Vì cơ thể cần nhiều oxygen hơn để hô hấp tế bào và giải phóng năng lượng cho cơ hoạt động."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ trao đổi chất ở sinh vật: lấy vào, biến đổi, sử dụng, thải ra.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo các chất vào đúng cột: lấy vào, tạo ra, thải ra ở cây và người.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_024",
+"subjectKey": "science",
+"learningObjectives": [
+"Nêu được khái niệm quang hợp ở thực vật ở mức cơ bản.",
+"Mô tả vai trò của lá cây, ánh sáng, carbon dioxide và nước trong quang hợp.",
+"Nêu được sản phẩm chính của quang hợp là chất hữu cơ và oxygen.",
+"Hiểu ý nghĩa của quang hợp đối với cây xanh và sinh vật khác.",
+"Viết được sơ đồ chữ đơn giản của quá trình quang hợp."
+],
+"easyExplanation": "Quang hợp là quá trình cây xanh dùng ánh sáng để tạo chất hữu cơ từ nước và carbon dioxide, đồng thời giải phóng oxygen. Lá cây là nơi quang hợp diễn ra mạnh vì có nhiều lục lạp chứa chất diệp lục. Nước được rễ hút từ đất, carbon dioxide được lấy từ không khí qua khí khổng, ánh sáng cung cấp năng lượng. Chất hữu cơ tạo ra giúp cây lớn lên và tích lũy năng lượng. Oxygen thải ra rất quan trọng cho hô hấp của nhiều sinh vật.",
+"workedExamples": [
+{
+"title": "Sơ đồ chữ quang hợp",
+"problem": "Hoàn thành sơ đồ: Nước + carbon dioxide + ánh sáng → ___ + ___.",
+"steps": [
+"Quang hợp tạo chất hữu cơ cho cây.",
+"Quang hợp giải phóng oxygen.",
+"Điền hai sản phẩm chính."
+],
+"answer": "Nước + carbon dioxide + ánh sáng → chất hữu cơ + oxygen.",
+"explanation": "Ở mức cơ bản, học sinh cần nắm nguyên liệu và sản phẩm chính của quang hợp."
+},
+{
+"title": "Vai trò của lá cây",
+"problem": "Vì sao lá cây là cơ quan quang hợp chủ yếu?",
+"steps": [
+"Lá có diện tích tiếp xúc ánh sáng lớn.",
+"Lá có nhiều lục lạp chứa diệp lục.",
+"Lá có khí khổng giúp trao đổi khí.",
+"Những đặc điểm này phù hợp cho quang hợp."
+],
+"answer": "Vì lá có nhiều diệp lục, nhận ánh sáng tốt và trao đổi khí qua khí khổng.",
+"explanation": "Cấu tạo lá phù hợp với chức năng quang hợp."
+}
+],
+"steps": [
+"Ghi nhớ nguyên liệu: nước và carbon dioxide.",
+"Ghi nhớ điều kiện cần: ánh sáng và diệp lục.",
+"Ghi nhớ sản phẩm: chất hữu cơ và oxygen.",
+"Xác định vai trò của lá, rễ và khí khổng.",
+"Liên hệ ý nghĩa quang hợp với thức ăn và oxygen cho sinh vật."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ cây lấy thức ăn trực tiếp từ đất.",
+"fix": "Cây lấy nước, muối khoáng từ đất và tự tạo chất hữu cơ nhờ quang hợp."
+},
+{
+"mistake": "Quên carbon dioxide là nguyên liệu quang hợp.",
+"fix": "Quang hợp cần nước, carbon dioxide, ánh sáng và diệp lục."
+},
+{
+"mistake": "Nghĩ oxygen là nguyên liệu chính của quang hợp.",
+"fix": "Oxygen là sản phẩm được giải phóng trong quang hợp."
+}
+],
+"quickMemory": "Quang hợp: nước + CO2 + ánh sáng → chất hữu cơ + O2. Lá là nhà máy xanh của cây.",
+"warmupQuestions": [
+{
+"question": "Quang hợp cần những nguyên liệu nào?",
+"suggestedAnswer": "Nước và carbon dioxide, cùng ánh sáng và diệp lục."
+},
+{
+"question": "Sản phẩm của quang hợp là gì?",
+"suggestedAnswer": "Chất hữu cơ và oxygen."
+},
+{
+"question": "Cơ quan nào của cây quang hợp mạnh nhất?",
+"suggestedAnswer": "Lá cây."
+}
+],
+"applicationQuestions": [
+{
+"question": "Vì sao cây để lâu trong bóng tối thường yếu đi?",
+"hint": "Thiếu ánh sáng ảnh hưởng đến quang hợp.",
+"suggestedAnswer": "Vì thiếu ánh sáng, cây quang hợp kém, tạo ít chất hữu cơ nên sinh trưởng yếu."
+},
+{
+"question": "Hãy giải thích vì sao rừng cây giúp duy trì oxygen trong không khí.",
+"hint": "Liên hệ sản phẩm của quang hợp.",
+"suggestedAnswer": "Cây xanh quang hợp tạo chất hữu cơ và giải phóng oxygen, nên rừng cây góp phần bổ sung oxygen cho không khí."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ quang hợp ở lá cây: nước từ rễ, CO2 qua khí khổng, ánh sáng, sản phẩm chất hữu cơ và O2.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả nguyên liệu, điều kiện và sản phẩm vào sơ đồ quang hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_025",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu hô hấp tế bào là quá trình giải phóng năng lượng từ chất hữu cơ trong tế bào.",
+"Nêu được nguyên liệu chính của hô hấp tế bào là chất hữu cơ và oxygen.",
+"Nêu được sản phẩm của hô hấp tế bào gồm carbon dioxide, nước và năng lượng.",
+"So sánh được quang hợp và hô hấp tế bào ở mức cơ bản.",
+"Liên hệ hô hấp tế bào với nhu cầu năng lượng của cơ thể khi hoạt động."
+],
+"easyExplanation": "Hô hấp tế bào là quá trình tế bào dùng chất hữu cơ và oxygen để giải phóng năng lượng cho hoạt động sống. Năng lượng này giúp cơ thể vận động, lớn lên, sửa chữa tế bào và duy trì sự sống. Sản phẩm của hô hấp tế bào là carbon dioxide, nước và năng lượng. Quang hợp giống việc cây tạo ra chất hữu cơ và tích lũy năng lượng; hô hấp tế bào giống việc tế bào lấy chất hữu cơ đó để giải phóng năng lượng. Cả thực vật, động vật và con người đều cần hô hấp tế bào.",
+"workedExamples": [
+{
+"title": "Sơ đồ chữ hô hấp tế bào",
+"problem": "Hoàn thành sơ đồ: Chất hữu cơ + oxygen → carbon dioxide + nước + ___.",
+"steps": [
+"Hô hấp tế bào giải phóng năng lượng.",
+"Carbon dioxide và nước là sản phẩm chất.",
+"Sản phẩm còn lại cần điền là năng lượng."
+],
+"answer": "Chất hữu cơ + oxygen → carbon dioxide + nước + năng lượng.",
+"explanation": "Năng lượng giải phóng từ hô hấp tế bào được dùng cho hoạt động sống."
+},
+{
+"title": "So sánh quang hợp và hô hấp tế bào",
+"problem": "Quang hợp và hô hấp tế bào khác nhau cơ bản ở điểm nào về năng lượng?",
+"steps": [
+"Quang hợp dùng ánh sáng để tạo chất hữu cơ.",
+"Năng lượng được tích lũy trong chất hữu cơ.",
+"Hô hấp tế bào phân giải chất hữu cơ.",
+"Năng lượng được giải phóng cho tế bào sử dụng."
+],
+"answer": "Quang hợp tích lũy năng lượng trong chất hữu cơ, còn hô hấp tế bào giải phóng năng lượng từ chất hữu cơ.",
+"explanation": "Hai quá trình liên hệ chặt chẽ nhưng chiều chuyển hóa năng lượng khác nhau."
+}
+],
+"steps": [
+"Ghi nhớ nguyên liệu: chất hữu cơ và oxygen.",
+"Ghi nhớ sản phẩm: carbon dioxide, nước và năng lượng.",
+"Liên hệ oxygen hít vào với hô hấp tế bào.",
+"Liên hệ thức ăn với nguồn chất hữu cơ.",
+"So sánh với quang hợp bằng bảng nguyên liệu, sản phẩm, vai trò năng lượng."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm hô hấp tế bào với việc hít thở ở phổi.",
+"fix": "Hít thở giúp lấy oxygen, còn hô hấp tế bào diễn ra trong tế bào để giải phóng năng lượng."
+},
+{
+"mistake": "Nghĩ chỉ động vật mới hô hấp tế bào.",
+"fix": "Cả thực vật, động vật, nấm và nhiều vi sinh vật đều cần hô hấp tế bào."
+},
+{
+"mistake": "Nhầm oxygen là sản phẩm của hô hấp tế bào.",
+"fix": "Oxygen là nguyên liệu; carbon dioxide, nước và năng lượng là sản phẩm."
+}
+],
+"quickMemory": "Hô hấp tế bào: chất hữu cơ + O2 → CO2 + nước + năng lượng. Quang hợp tích lũy, hô hấp giải phóng.",
+"warmupQuestions": [
+{
+"question": "Hô hấp tế bào giải phóng thứ gì cho cơ thể dùng?",
+"suggestedAnswer": "Năng lượng."
+},
+{
+"question": "Oxygen là nguyên liệu hay sản phẩm của hô hấp tế bào?",
+"suggestedAnswer": "Oxygen là nguyên liệu."
+},
+{
+"question": "Thực vật có hô hấp tế bào không?",
+"suggestedAnswer": "Có. Thực vật cũng cần hô hấp tế bào để có năng lượng."
+}
+],
+"applicationQuestions": [
+{
+"question": "Vì sao khi chạy nhanh, ta thở gấp hơn?",
+"hint": "Cơ cần nhiều oxygen hơn để giải phóng năng lượng.",
+"suggestedAnswer": "Khi chạy, cơ cần nhiều năng lượng hơn nên tế bào cần nhiều oxygen cho hô hấp tế bào. Vì vậy ta thở nhanh hơn để lấy thêm oxygen."
+},
+{
+"question": "Lập bảng so sánh quang hợp và hô hấp tế bào theo nguyên liệu, sản phẩm và vai trò năng lượng.",
+"hint": "Quang hợp dùng CO2, nước, ánh sáng; hô hấp tế bào dùng chất hữu cơ và O2.",
+"suggestedAnswer": "Quang hợp: nguyên liệu CO2, nước; cần ánh sáng; sản phẩm chất hữu cơ, O2; tích lũy năng lượng. Hô hấp tế bào: nguyên liệu chất hữu cơ, O2; sản phẩm CO2, nước, năng lượng; giải phóng năng lượng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ so sánh quang hợp và hô hấp tế bào theo chiều nguyên liệu, sản phẩm và năng lượng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả CO2, O2, nước, chất hữu cơ, năng lượng vào đúng sơ đồ quang hợp hoặc hô hấp tế bào.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

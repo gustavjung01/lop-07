@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_geo_006",
+"subjectKey": "history_geography",
+"learningObjectives": [
+"Xác định được vị trí của châu Phi trên bản đồ thế giới.",
+"Trình bày được một số đặc điểm tự nhiên nổi bật của châu Phi.",
+"Nhận biết được hoang mạc Sahara, xavan, sông Nile và một số dạng địa hình chính.",
+"Hiểu ảnh hưởng của khí hậu khô nóng đến cảnh quan và đời sống.",
+"Biết đọc bản đồ tự nhiên châu Phi để rút ra nhận xét đơn giản."
+],
+"easyExplanation": "Châu Phi nằm ở cả hai bán cầu Bắc và Nam, có đường Xích đạo đi qua gần giữa châu lục. Tự nhiên châu Phi nổi bật với khí hậu nóng, nhiều vùng khô hạn, hoang mạc rộng như Sahara và các vùng xavan rộng lớn. Sông Nile là một trong những dòng sông nổi tiếng, có vai trò quan trọng đối với cư dân ở vùng khô hạn. Châu Phi cũng có nhiều tài nguyên thiên nhiên, nhưng điều kiện tự nhiên không đồng đều giữa các khu vực. Khi học bài này, cần nhìn bản đồ để thấy sự phân bố của hoang mạc, xavan, sông lớn và vùng tài nguyên.",
+"workedExamples": [
+{
+"title": "Nhận xét hoang mạc Sahara",
+"problem": "Vì sao Sahara là đặc điểm tự nhiên nổi bật khi học châu Phi?",
+"steps": [
+"Xác định Sahara nằm ở phía bắc châu Phi.",
+"Đây là hoang mạc rất rộng lớn.",
+"Khí hậu khô hạn, mưa ít, nhiệt độ cao.",
+"Điều kiện này ảnh hưởng mạnh đến cư trú và sản xuất."
+],
+"answer": "Sahara nổi bật vì là hoang mạc rộng lớn, có khí hậu rất khô hạn và ảnh hưởng mạnh đến đời sống, dân cư, giao thông của Bắc Phi.",
+"explanation": "Một đặc điểm tự nhiên lớn thường kéo theo nhiều hệ quả về dân cư và kinh tế."
+},
+{
+"title": "Vai trò của sông Nile",
+"problem": "Vì sao sông Nile quan trọng với một số vùng ở châu Phi?",
+"steps": [
+"Nhiều khu vực châu Phi khô hạn.",
+"Sông Nile cung cấp nước cho sinh hoạt và sản xuất.",
+"Vùng ven sông thuận lợi hơn cho cư trú, nông nghiệp.",
+"Vì vậy sông có vai trò đặc biệt trong không gian khô hạn."
+],
+"answer": "Sông Nile quan trọng vì cung cấp nước, tạo điều kiện cho cư trú và sản xuất ở vùng khô hạn.",
+"explanation": "Ở nơi khô hạn, nước là yếu tố địa lí có giá trị rất lớn."
+}
+],
+"steps": [
+"Xác định châu Phi trên bản đồ thế giới.",
+"Quan sát đường Xích đạo, chí tuyến và các vùng khí hậu.",
+"Tìm hoang mạc Sahara, vùng xavan và sông Nile.",
+"Đọc chú giải để nhận diện địa hình và tài nguyên.",
+"Liên hệ khí hậu khô nóng với dân cư, nông nghiệp, giao thông.",
+"Tóm tắt bài bằng sơ đồ: vị trí, khí hậu, hoang mạc, xavan, sông, tài nguyên."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ toàn bộ châu Phi đều là hoang mạc.",
+"fix": "Châu Phi có hoang mạc rộng nhưng cũng có xavan, rừng, sông lớn và nhiều dạng cảnh quan khác."
+},
+{
+"mistake": "Chỉ nhớ Sahara mà quên xavan và sông Nile.",
+"fix": "Nên học theo bản đồ: Sahara, xavan, Nile, tài nguyên và các vùng khí hậu."
+},
+{
+"mistake": "Tách tự nhiên khỏi đời sống dân cư.",
+"fix": "Khí hậu, nước và địa hình ảnh hưởng trực tiếp đến nơi cư trú và hoạt động kinh tế."
+}
+],
+"quickMemory": "Châu Phi tự nhiên: nóng, khô ở nhiều nơi, Sahara rộng, xavan phổ biến, sông Nile rất quan trọng.",
+"warmupQuestions": [
+{
+"question": "Hoang mạc lớn nổi bật ở châu Phi là gì?",
+"suggestedAnswer": "Hoang mạc Sahara."
+},
+{
+"question": "Sông nổi tiếng ở châu Phi được nhắc nhiều trong bài là sông nào?",
+"suggestedAnswer": "Sông Nile."
+},
+{
+"question": "Vì sao nước quan trọng ở nhiều vùng châu Phi?",
+"suggestedAnswer": "Vì nhiều khu vực khô hạn, nước cần cho sinh hoạt, nông nghiệp và cư trú."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập bảng 4 ý về tự nhiên châu Phi: vị trí, khí hậu, cảnh quan, sông ngòi.",
+"hint": "Nhắc Xích đạo, khô nóng, Sahara, xavan, Nile.",
+"suggestedAnswer": "Vị trí: châu Phi có đường Xích đạo đi qua. Khí hậu: nhiều nơi nóng và khô. Cảnh quan: có Sahara rộng lớn và các vùng xavan. Sông ngòi: sông Nile có vai trò quan trọng ở vùng khô hạn."
+},
+{
+"question": "Giải thích vì sao dân cư thường tập trung hơn ở ven sông hoặc vùng có nước.",
+"hint": "Liên hệ sinh hoạt, trồng trọt, giao thông.",
+"suggestedAnswer": "Vùng có nước thuận lợi cho sinh hoạt, trồng trọt, chăn nuôi và giao thông. Vì vậy ở những nơi khô hạn, ven sông hoặc vùng có nguồn nước thường thu hút dân cư hơn."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bản đồ tự nhiên châu Phi với Sahara, xavan, sông Nile, vùng tài nguyên và các đới khí hậu chính.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo nhãn Sahara, xavan, Nile, rừng, vùng khô hạn vào bản đồ châu Phi.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_geo_007",
+"subjectKey": "history_geography",
+"learningObjectives": [
+"Trình bày được một số đặc điểm dân cư, xã hội của châu Phi.",
+"Hiểu dân số tăng nhanh và đô thị hóa có thể tạo ra cơ hội và thách thức.",
+"Nêu được vai trò của tài nguyên đối với kinh tế châu Phi.",
+"Nhận biết được sự phát triển kinh tế không đều giữa các khu vực.",
+"Biết đọc bản đồ dân cư, biểu đồ dân số hoặc tài nguyên châu Phi."
+],
+"easyExplanation": "Châu Phi có dân số tăng nhanh ở nhiều khu vực. Dân số trẻ có thể là nguồn lao động lớn, nhưng cũng tạo áp lực về việc làm, giáo dục, y tế, nhà ở và môi trường nếu kinh tế phát triển không theo kịp. Đô thị hóa đang diễn ra mạnh ở một số nơi, kéo theo sự mở rộng của thành phố. Châu Phi có nhiều tài nguyên thiên nhiên, nhưng việc khai thác và sử dụng tài nguyên còn gặp nhiều khó khăn, không phải nơi nào cũng phát triển giống nhau. Khi học bài này, cần nhìn châu Phi bằng hai mặt: tiềm năng lớn và thách thức lớn.",
+"workedExamples": [
+{
+"title": "Dân số tăng nhanh",
+"problem": "Dân số tăng nhanh có thể tạo ra những thách thức nào?",
+"steps": [
+"Dân số tăng nhanh làm số người cần việc làm tăng.",
+"Nhu cầu trường học, bệnh viện, nhà ở tăng.",
+"Nếu hạ tầng không đáp ứng, đô thị và môi trường chịu áp lực.",
+"Viết nhận xét cân bằng."
+],
+"answer": "Dân số tăng nhanh có thể tạo áp lực về việc làm, giáo dục, y tế, nhà ở và môi trường.",
+"explanation": "Dân số trẻ là tiềm năng, nhưng cần điều kiện kinh tế - xã hội phù hợp để phát huy."
+},
+{
+"title": "Tài nguyên và kinh tế",
+"problem": "Có nhiều tài nguyên có đồng nghĩa với kinh tế phát triển cao ngay không?",
+"steps": [
+"Tài nguyên là một lợi thế quan trọng.",
+"Muốn phát triển cần vốn, công nghệ, quản lí, hạ tầng và thị trường.",
+"Nếu chỉ xuất khẩu nguyên liệu thô, giá trị thu được có thể thấp.",
+"Vì vậy tài nguyên không tự động biến thành giàu có."
+],
+"answer": "Không. Tài nguyên là lợi thế, nhưng phát triển kinh tế còn phụ thuộc vào công nghệ, hạ tầng, quản lí và cách khai thác.",
+"explanation": "Địa lí kinh tế cần nhìn cả nguồn lực và cách sử dụng nguồn lực."
+}
+],
+"steps": [
+"Đọc bản đồ phân bố dân cư châu Phi.",
+"Quan sát biểu đồ dân số để nhận xét tăng nhanh hay chậm.",
+"Tìm các vùng đô thị hóa và vùng thưa dân.",
+"Xác định một số loại tài nguyên quan trọng.",
+"Liên hệ tài nguyên với ngành kinh tế.",
+"Nhận xét cơ hội và thách thức của dân cư, đô thị, tài nguyên."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ nói châu Phi khó khăn mà quên tiềm năng.",
+"fix": "Cần nêu cả dân số trẻ, tài nguyên và cơ hội phát triển."
+},
+{
+"mistake": "Nghĩ có tài nguyên là chắc chắn giàu.",
+"fix": "Cần xem công nghệ, hạ tầng, quản lí và giá trị chế biến."
+},
+{
+"mistake": "Gộp toàn châu Phi thành một bức tranh giống nhau.",
+"fix": "Châu Phi có sự khác biệt lớn giữa các khu vực và quốc gia."
+}
+],
+"quickMemory": "Châu Phi dân cư - kinh tế: dân số tăng nhanh, đô thị hóa, tài nguyên nhiều, phát triển còn không đều.",
+"warmupQuestions": [
+{
+"question": "Dân số tăng nhanh tạo áp lực gì?",
+"suggestedAnswer": "Áp lực về việc làm, giáo dục, y tế, nhà ở, môi trường."
+},
+{
+"question": "Tài nguyên có phải là yếu tố duy nhất quyết định phát triển kinh tế không?",
+"suggestedAnswer": "Không. Còn cần công nghệ, vốn, hạ tầng, quản lí và thị trường."
+},
+{
+"question": "Đô thị hóa là gì?",
+"suggestedAnswer": "Là quá trình tăng tỉ lệ dân thành thị và mở rộng không gian, lối sống đô thị."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nêu 2 cơ hội và 2 thách thức từ dân số trẻ ở châu Phi.",
+"hint": "Cơ hội về lao động, thị trường; thách thức về việc làm, dịch vụ xã hội.",
+"suggestedAnswer": "Cơ hội: nguồn lao động dồi dào, thị trường tiêu dùng lớn. Thách thức: cần nhiều việc làm, trường học, y tế và hạ tầng đô thị."
+},
+{
+"question": "Giải thích vì sao khai thác tài nguyên cần đi cùng bảo vệ môi trường.",
+"hint": "Liên hệ đất, nước, rừng, đời sống dân cư.",
+"suggestedAnswer": "Khai thác tài nguyên nếu thiếu kiểm soát có thể gây ô nhiễm đất, nước, phá rừng và ảnh hưởng đời sống dân cư. Vì vậy phát triển kinh tế cần gắn với bảo vệ môi trường."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ châu Phi dân cư - kinh tế: dân số tăng nhanh, đô thị hóa, tài nguyên, cơ hội, thách thức.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Đọc biểu đồ dân số và bản đồ tài nguyên châu Phi, chọn nhận xét đúng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_geo_008",
+"subjectKey": "history_geography",
+"learningObjectives": [
+"Xác định được vị trí và phạm vi của châu Mỹ trên bản đồ thế giới.",
+"Phân biệt được các khu vực lớn: Bắc Mỹ, Trung Mỹ và Nam Mỹ.",
+"Nhận biết được một số đặc điểm tự nhiên nổi bật như dãy Andes, đồng bằng Amazon, hệ thống sông lớn.",
+"Hiểu sự đa dạng tự nhiên của châu Mỹ theo chiều bắc - nam và theo địa hình.",
+"Biết đọc bản đồ tự nhiên châu Mỹ để rút ra nhận xét."
+],
+"easyExplanation": "Châu Mỹ là châu lục kéo dài theo hướng bắc - nam, gồm Bắc Mỹ, Trung Mỹ và Nam Mỹ. Vì trải dài qua nhiều vĩ độ, châu Mỹ có tự nhiên rất đa dạng: vùng lạnh ở phía bắc, vùng ôn đới, nhiệt đới, núi cao, đồng bằng, rừng mưa và hoang mạc. Dãy Andes chạy dọc phía tây Nam Mỹ, còn lưu vực Amazon nổi tiếng với rừng mưa rộng lớn và hệ thống sông ngòi dày đặc. Khi học châu Mỹ, nên tưởng tượng đây là một dải đất dài nối nhiều kiểu tự nhiên, mỗi đoạn có một sắc thái riêng.",
+"workedExamples": [
+{
+"title": "Vì sao châu Mỹ đa dạng tự nhiên?",
+"problem": "Nêu hai nguyên nhân làm tự nhiên châu Mỹ đa dạng.",
+"steps": [
+"Châu Mỹ kéo dài từ vùng gần cực Bắc đến gần cực Nam.",
+"Châu lục trải qua nhiều đới khí hậu.",
+"Địa hình có núi cao, đồng bằng, cao nguyên, lưu vực sông.",
+"Vì vậy cảnh quan và khí hậu rất đa dạng."
+],
+"answer": "Vì châu Mỹ kéo dài theo chiều bắc - nam qua nhiều vĩ độ và có địa hình rất đa dạng.",
+"explanation": "Chiều dài bắc - nam là chìa khóa đầu tiên để hiểu tự nhiên châu Mỹ."
+},
+{
+"title": "Nhận biết Amazon",
+"problem": "Lưu vực Amazon nổi bật với đặc điểm gì?",
+"steps": [
+"Xác định Amazon ở Nam Mỹ.",
+"Đây là lưu vực sông lớn.",
+"Khu vực có rừng mưa nhiệt đới rộng lớn.",
+"Rừng Amazon có ý nghĩa lớn về sinh thái."
+],
+"answer": "Amazon nổi bật với hệ thống sông lớn và rừng mưa nhiệt đới rộng lớn.",
+"explanation": "Amazon là một biểu tượng tự nhiên quan trọng của Nam Mỹ."
+}
+],
+"steps": [
+"Xác định châu Mỹ trên bản đồ thế giới.",
+"Chia châu Mỹ thành Bắc Mỹ, Trung Mỹ và Nam Mỹ.",
+"Đọc bản đồ địa hình để tìm dãy Andes, đồng bằng, cao nguyên, lưu vực Amazon.",
+"Quan sát sự thay đổi khí hậu từ bắc xuống nam.",
+"Liên hệ địa hình với khí hậu, sông ngòi và cảnh quan.",
+"Tóm tắt bằng bảng: khu vực, địa hình, khí hậu, cảnh quan."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm châu Mỹ với nước Mỹ.",
+"fix": "Châu Mỹ là cả châu lục, gồm Bắc Mỹ, Trung Mỹ, Nam Mỹ; nước Mỹ chỉ là Hoa Kì ở Bắc Mỹ."
+},
+{
+"mistake": "Chỉ nhớ Amazon mà quên Andes và các khu vực khác.",
+"fix": "Cần học cả dãy Andes, Amazon, Bắc Mỹ, Trung Mỹ, Nam Mỹ."
+},
+{
+"mistake": "Không giải thích vì sao tự nhiên đa dạng.",
+"fix": "Nhớ hai nguyên nhân chính: kéo dài theo bắc - nam và địa hình phân hóa."
+}
+],
+"quickMemory": "Châu Mỹ tự nhiên: kéo dài bắc - nam, gồm Bắc - Trung - Nam Mỹ, Andes ở phía tây, Amazon ở Nam Mỹ.",
+"warmupQuestions": [
+{
+"question": "Châu Mỹ gồm những khu vực lớn nào?",
+"suggestedAnswer": "Bắc Mỹ, Trung Mỹ và Nam Mỹ."
+},
+{
+"question": "Dãy núi nổi bật ở phía tây Nam Mỹ là dãy nào?",
+"suggestedAnswer": "Dãy Andes."
+},
+{
+"question": "Amazon nổi tiếng với gì?",
+"suggestedAnswer": "Sông Amazon và rừng mưa nhiệt đới rộng lớn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Giải thích vì sao châu Mỹ có nhiều kiểu khí hậu.",
+"hint": "Liên hệ chiều dài bắc - nam và vĩ độ.",
+"suggestedAnswer": "Châu Mỹ kéo dài theo hướng bắc - nam qua nhiều vĩ độ, từ vùng lạnh đến vùng nhiệt đới và ôn đới. Vì vậy châu lục có nhiều kiểu khí hậu khác nhau."
+},
+{
+"question": "Lập bảng 3 dòng: Bắc Mỹ, Trung Mỹ, Nam Mỹ và ghi một đặc điểm tự nhiên tiêu biểu.",
+"hint": "Nam Mỹ có Andes và Amazon.",
+"suggestedAnswer": "Bắc Mỹ: có nhiều dạng địa hình và khí hậu phân hóa. Trung Mỹ: gồm eo đất và nhiều đảo, có khí hậu nhiệt đới. Nam Mỹ: nổi bật với dãy Andes và lưu vực Amazon."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bản đồ tự nhiên châu Mỹ có Bắc Mỹ, Trung Mỹ, Nam Mỹ, Andes, Amazon và các vùng khí hậu.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo nhãn Andes, Amazon, Bắc Mỹ, Trung Mỹ, Nam Mỹ vào đúng vị trí bản đồ.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_geo_009",
+"subjectKey": "history_geography",
+"learningObjectives": [
+"Trình bày được đặc điểm dân cư đa nguồn gốc của châu Mỹ.",
+"Phân biệt được một số nét khái quát giữa Bắc Mỹ và Mỹ Latinh.",
+"Nhận biết được sự khác biệt về trình độ phát triển kinh tế trong châu Mỹ.",
+"Nêu được một số ngành kinh tế nổi bật của Bắc Mỹ và Mỹ Latinh.",
+"Biết đọc bản đồ dân cư, biểu đồ kinh tế để rút ra nhận xét."
+],
+"easyExplanation": "Dân cư châu Mỹ rất đa dạng về nguồn gốc do lịch sử di cư, bản địa, thuộc địa và giao lưu giữa nhiều nhóm người. Bắc Mỹ, đặc biệt là Hoa Kì và Canada, có kinh tế phát triển cao với công nghiệp, dịch vụ, công nghệ, nông nghiệp hiện đại. Mỹ Latinh có tài nguyên phong phú, văn hóa đa dạng, nhiều nước đang phát triển và có sự phân hóa kinh tế - xã hội rõ. Khi học bài này, cần tránh nhầm châu Mỹ với riêng Hoa Kì. Châu Mỹ là một không gian rộng, nơi Bắc Mỹ và Mỹ Latinh có nhiều điểm khác nhau về lịch sử, dân cư và kinh tế.",
+"workedExamples": [
+{
+"title": "Dân cư đa nguồn gốc",
+"problem": "Vì sao dân cư châu Mỹ được xem là đa nguồn gốc?",
+"steps": [
+"Châu Mỹ có cư dân bản địa.",
+"Lịch sử có nhiều làn sóng di cư từ châu Âu, châu Phi và các khu vực khác.",
+"Quá trình giao lưu, thuộc địa và nhập cư làm dân cư thêm đa dạng.",
+"Vì vậy dân cư có nhiều nguồn gốc, ngôn ngữ và văn hóa."
+],
+"answer": "Vì châu Mỹ có cư dân bản địa và nhiều cộng đồng di cư từ các châu lục khác, tạo nên dân cư đa dạng về nguồn gốc và văn hóa.",
+"explanation": "Dân cư châu Mỹ phản ánh lịch sử di cư và giao lưu lâu dài."
+},
+{
+"title": "So sánh Bắc Mỹ và Mỹ Latinh",
+"problem": "Nêu một điểm khác nhau khái quát về kinh tế giữa Bắc Mỹ và Mỹ Latinh.",
+"steps": [
+"Bắc Mỹ có các nước phát triển cao như Hoa Kì, Canada.",
+"Kinh tế Bắc Mỹ nổi bật ở công nghiệp hiện đại và dịch vụ.",
+"Mỹ Latinh có nhiều nước đang phát triển, kinh tế phân hóa.",
+"Viết nhận xét ngắn, tránh tuyệt đối hóa."
+],
+"answer": "Bắc Mỹ nhìn chung phát triển cao hơn, nổi bật với công nghiệp và dịch vụ hiện đại; Mỹ Latinh có nhiều nước đang phát triển và kinh tế phân hóa rõ.",
+"explanation": "So sánh cần dùng từ 'nhìn chung', vì trong mỗi khu vực vẫn có khác biệt."
+}
+],
+"steps": [
+"Đọc bản đồ dân cư châu Mỹ để nhận xét nơi tập trung đông dân.",
+"Tìm các nhóm dân cư chính và nguồn gốc lịch sử.",
+"Phân biệt Bắc Mỹ và Mỹ Latinh trên bản đồ.",
+"Ghi đặc điểm kinh tế nổi bật của Bắc Mỹ.",
+"Ghi đặc điểm tài nguyên, nông nghiệp, công nghiệp, đô thị của Mỹ Latinh.",
+"So sánh bằng bảng: dân cư, xã hội, kinh tế."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm châu Mỹ với Hoa Kì.",
+"fix": "Hoa Kì chỉ là một quốc gia ở Bắc Mỹ; châu Mỹ gồm Bắc Mỹ, Trung Mỹ, Nam Mỹ."
+},
+{
+"mistake": "Nói Mỹ Latinh giống hệt nhau ở mọi nước.",
+"fix": "Mỹ Latinh có nhiều quốc gia và sự phân hóa lớn về kinh tế, xã hội."
+},
+{
+"mistake": "Chỉ học kinh tế, bỏ qua dân cư đa nguồn gốc.",
+"fix": "Dân cư châu Mỹ là nội dung quan trọng vì phản ánh lịch sử di cư và giao lưu."
+}
+],
+"quickMemory": "Châu Mỹ dân cư - kinh tế: dân cư đa nguồn gốc, Bắc Mỹ phát triển cao, Mỹ Latinh đa dạng và phân hóa.",
+"warmupQuestions": [
+{
+"question": "Châu Mỹ có dân cư đa nguồn gốc vì sao?",
+"suggestedAnswer": "Vì có cư dân bản địa và nhiều làn sóng di cư từ các châu lục khác."
+},
+{
+"question": "Bắc Mỹ thường nổi bật với những ngành kinh tế nào?",
+"suggestedAnswer": "Công nghiệp hiện đại, dịch vụ, công nghệ, nông nghiệp hiện đại."
+},
+{
+"question": "Mỹ Latinh nằm chủ yếu ở những khu vực nào của châu Mỹ?",
+"suggestedAnswer": "Trung Mỹ, Nam Mỹ và một số vùng chịu ảnh hưởng văn hóa Latinh."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập bảng so sánh Bắc Mỹ và Mỹ Latinh theo 3 tiêu chí: dân cư, kinh tế, văn hóa.",
+"hint": "Bắc Mỹ phát triển cao hơn; Mỹ Latinh đa dạng và phân hóa.",
+"suggestedAnswer": "Bắc Mỹ: dân cư đa dạng, kinh tế phát triển cao, đô thị và dịch vụ hiện đại. Mỹ Latinh: dân cư đa nguồn gốc, văn hóa phong phú, kinh tế đang phát triển và phân hóa rõ. Cả hai đều có lịch sử di cư và giao lưu văn hóa."
+},
+{
+"question": "Giải thích vì sao không nên dùng từ 'Mỹ' để chỉ toàn bộ châu Mỹ trong bài học.",
+"hint": "Mỹ có thể gây nhầm với Hoa Kì.",
+"suggestedAnswer": "Vì 'Mỹ' thường dễ bị hiểu là Hoa Kì, trong khi châu Mỹ là cả một châu lục gồm nhiều quốc gia và khu vực như Bắc Mỹ, Trung Mỹ, Nam Mỹ."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bản đồ châu Mỹ phân biệt Bắc Mỹ, Mỹ Latinh, vùng dân cư đông và trung tâm kinh tế.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Ghép đặc điểm dân cư, kinh tế vào Bắc Mỹ hoặc Mỹ Latinh.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_geo_010",
+"subjectKey": "history_geography",
+"learningObjectives": [
+"Xác định được vị trí của châu Đại Dương trên bản đồ thế giới.",
+"Nhận biết được các bộ phận chính: Australia, New Zealand và các đảo Thái Bình Dương.",
+"Trình bày được một số đặc điểm tự nhiên, dân cư và kinh tế khái quát.",
+"Hiểu sự khác biệt giữa lục địa Australia và các đảo, quần đảo.",
+"Biết đọc bản đồ châu Đại Dương để rút ra nhận xét về vị trí và phân bố dân cư."
+],
+"easyExplanation": "Châu Đại Dương gồm Australia, New Zealand và rất nhiều đảo, quần đảo trong Thái Bình Dương. Đây là châu lục đặc biệt vì phần đất liền lớn nhất là Australia, còn nhiều bộ phận khác là đảo nhỏ nằm rải rác trên đại dương. Tự nhiên có sự khác biệt: Australia có nhiều vùng khô hạn ở nội địa, trong khi New Zealand có khí hậu ôn hòa hơn và nhiều đảo Thái Bình Dương chịu ảnh hưởng mạnh của biển. Dân cư phân bố không đều, thường tập trung ở ven biển, đô thị và nơi có điều kiện thuận lợi. Kinh tế Australia và New Zealand phát triển cao hơn nhiều đảo nhỏ.",
+"workedExamples": [
+{
+"title": "Vị trí châu Đại Dương",
+"problem": "Vì sao biển có vai trò rất lớn đối với châu Đại Dương?",
+"steps": [
+"Châu Đại Dương gồm nhiều đảo và quần đảo.",
+"Các đảo nằm rải rác trong Thái Bình Dương.",
+"Biển ảnh hưởng đến khí hậu, giao thông, đánh bắt, du lịch.",
+"Vì vậy biển là yếu tố địa lí trung tâm của châu lục."
+],
+"answer": "Vì châu Đại Dương gồm nhiều đảo giữa Thái Bình Dương, biển ảnh hưởng mạnh đến khí hậu, giao thông, kinh tế và đời sống.",
+"explanation": "Ở châu Đại Dương, biển không chỉ bao quanh mà còn kết nối các không gian sống."
+},
+{
+"title": "Phân bố dân cư",
+"problem": "Vì sao dân cư Australia thường tập trung nhiều ở ven biển?",
+"steps": [
+"Nội địa Australia có nhiều vùng khô hạn.",
+"Ven biển có điều kiện khí hậu, nước, giao thông thuận lợi hơn.",
+"Các đô thị lớn thường phát triển gần biển.",
+"Vì vậy dân cư tập trung ở ven biển."
+],
+"answer": "Vì ven biển thuận lợi hơn về khí hậu, nước, giao thông và kinh tế, còn nhiều vùng nội địa khô hạn.",
+"explanation": "Phân bố dân cư thường phản ánh điều kiện tự nhiên và kinh tế."
+}
+],
+"steps": [
+"Xác định châu Đại Dương trên bản đồ thế giới.",
+"Tìm Australia, New Zealand và các đảo Thái Bình Dương.",
+"So sánh lục địa Australia với các đảo, quần đảo.",
+"Nhận xét khí hậu và tự nhiên khái quát.",
+"Đọc bản đồ phân bố dân cư để thấy nơi tập trung đông.",
+"Tóm tắt kinh tế theo nhóm: Australia, New Zealand, các đảo nhỏ."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ châu Đại Dương chỉ có Australia.",
+"fix": "Châu Đại Dương còn có New Zealand và nhiều đảo, quần đảo Thái Bình Dương."
+},
+{
+"mistake": "Bỏ qua vai trò của biển.",
+"fix": "Biển ảnh hưởng rất lớn đến khí hậu, giao thông, kinh tế và đời sống ở châu Đại Dương."
+},
+{
+"mistake": "Nghĩ dân cư phân bố đều trên Australia.",
+"fix": "Nhiều vùng nội địa khô hạn, dân cư thường tập trung hơn ở ven biển và đô thị."
+}
+],
+"quickMemory": "Châu Đại Dương: Australia lớn nhất, New Zealand, nhiều đảo Thái Bình Dương, biển rất quan trọng, dân cư tập trung ven biển.",
+"warmupQuestions": [
+{
+"question": "Châu Đại Dương gồm những bộ phận chính nào?",
+"suggestedAnswer": "Australia, New Zealand và các đảo, quần đảo Thái Bình Dương."
+},
+{
+"question": "Vì sao dân cư Australia thường tập trung ở ven biển?",
+"suggestedAnswer": "Vì ven biển có điều kiện tự nhiên, giao thông và kinh tế thuận lợi hơn nội địa khô hạn."
+},
+{
+"question": "Biển có vai trò gì với châu Đại Dương?",
+"suggestedAnswer": "Ảnh hưởng đến khí hậu, giao thông, đánh bắt, du lịch, giao lưu và đời sống."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập bảng 3 dòng: Australia, New Zealand, đảo Thái Bình Dương và ghi một đặc điểm tiêu biểu.",
+"hint": "Australia khô hạn ở nội địa, New Zealand ôn hòa hơn, đảo phụ thuộc nhiều vào biển.",
+"suggestedAnswer": "Australia: lục địa lớn, nhiều vùng nội địa khô hạn, dân cư tập trung ven biển. New Zealand: khí hậu ôn hòa hơn, thiên nhiên đa dạng. Các đảo Thái Bình Dương: nhỏ, phân tán, chịu ảnh hưởng mạnh của biển."
+},
+{
+"question": "Giải thích vì sao châu Đại Dương cần được học bằng bản đồ.",
+"hint": "Nhiều đảo phân tán trên đại dương.",
+"suggestedAnswer": "Vì châu Đại Dương gồm Australia, New Zealand và nhiều đảo nằm rải rác trên Thái Bình Dương. Bản đồ giúp thấy vị trí, khoảng cách, sự phân tán và vai trò kết nối của biển."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bản đồ châu Đại Dương gồm Australia, New Zealand, các đảo Thái Bình Dương và vùng dân cư ven biển.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo nhãn Australia, New Zealand, đảo Thái Bình Dương vào bản đồ và chọn nhận xét đúng về dân cư.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

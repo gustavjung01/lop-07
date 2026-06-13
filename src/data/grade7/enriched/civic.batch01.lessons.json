@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_civic_001",
+"subjectKey": "civic",
+"learningObjectives": [
+"Nhận biết được một số truyền thống tốt đẹp của quê hương.",
+"Hiểu ý nghĩa của việc tự hào, trân trọng và giữ gìn truyền thống quê hương.",
+"Biết giới thiệu truyền thống quê hương bằng lời nói, hình ảnh hoặc việc làm phù hợp.",
+"Phân biệt được tự hào đúng mực với khoe khoang hoặc coi thường nơi khác.",
+"Hình thành ý thức góp phần giữ gìn, phát huy truyền thống tốt đẹp."
+],
+"easyExplanation": "Truyền thống quê hương là những giá trị tốt đẹp được nhiều thế hệ gìn giữ, như yêu nước, hiếu học, đoàn kết, cần cù lao động, nghề truyền thống, lễ hội, văn hóa ứng xử, món ăn, làn điệu dân ca hoặc di tích lịch sử. Tự hào về truyền thống quê hương không chỉ là nói 'quê em rất hay', mà còn là hiểu giá trị ấy, cư xử đúng mực, giới thiệu với người khác và làm việc nhỏ để giữ gìn. Tự hào đẹp nhất là khi đi cùng hành động tử tế.",
+"workedExamples": [
+{
+"title": "Nhận biết truyền thống quê hương",
+"problem": "Một địa phương có nghề làm gốm lâu đời, nhiều gia đình truyền nghề qua nhiều thế hệ. Đây có thể được xem là gì?",
+"steps": [
+"Nghề làm gốm đã tồn tại lâu đời.",
+"Nghề được nhiều thế hệ giữ gìn và truyền lại.",
+"Nghề tạo giá trị văn hóa, kinh tế cho địa phương.",
+"Kết luận đây là truyền thống nghề nghiệp của quê hương."
+],
+"answer": "Đó là một truyền thống nghề nghiệp tốt đẹp của quê hương.",
+"explanation": "Truyền thống không chỉ là lễ hội, mà còn có thể là nghề thủ công, cách sống, tinh thần học tập, lao động."
+},
+{
+"title": "Tự hào đúng mực",
+"problem": "Bạn An nói: 'Quê mình có truyền thống hiếu học, mình muốn học tốt để tiếp nối'. Nhận xét hành vi của An.",
+"steps": [
+"An biết truyền thống quê hương.",
+"An thể hiện sự tự hào bằng mục tiêu học tập.",
+"An không chê bai quê hương khác.",
+"Đây là thái độ đúng mực."
+],
+"answer": "An thể hiện sự tự hào đúng mực và có ý thức phát huy truyền thống hiếu học.",
+"explanation": "Tự hào về quê hương nên biến thành hành động tích cực."
+}
+],
+"steps": [
+"Tìm hiểu truyền thống nổi bật của quê hương em.",
+"Ghi ví dụ cụ thể: lễ hội, nghề truyền thống, nhân vật, di tích, tinh thần học tập, lao động.",
+"Nêu ý nghĩa của truyền thống đó.",
+"Chọn cách giới thiệu phù hợp: bài nói, tranh ảnh, video, sản phẩm nhỏ.",
+"Thực hiện việc làm nhỏ để giữ gìn truyền thống.",
+"Tôn trọng truyền thống của quê hương khác."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ truyền thống quê hương chỉ là lễ hội.",
+"fix": "Truyền thống còn có nghề nghiệp, đạo đức, học tập, lao động, văn hóa, lịch sử."
+},
+{
+"mistake": "Tự hào bằng cách chê quê hương khác.",
+"fix": "Tự hào đúng mực là yêu quê mình và vẫn tôn trọng nơi khác."
+},
+{
+"mistake": "Chỉ nói yêu quê hương mà không có việc làm cụ thể.",
+"fix": "Có thể giữ vệ sinh, học tốt, tìm hiểu lịch sử, giới thiệu văn hóa địa phương."
+}
+],
+"quickMemory": "Tự hào quê hương = hiểu truyền thống, trân trọng giá trị, giới thiệu đúng mực, hành động để giữ gìn.",
+"warmupQuestions": [
+{
+"question": "Truyền thống quê hương là gì?",
+"suggestedAnswer": "Là những giá trị tốt đẹp được hình thành, giữ gìn và truyền lại qua nhiều thế hệ ở địa phương."
+},
+{
+"question": "Kể tên một truyền thống tốt đẹp của quê hương hoặc địa phương em biết.",
+"suggestedAnswer": "Hiếu học, đoàn kết, yêu nước, nghề truyền thống, lễ hội, cần cù lao động."
+},
+{
+"question": "Tự hào đúng mực về quê hương cần đi kèm điều gì?",
+"suggestedAnswer": "Đi kèm hiểu biết, tôn trọng người khác và việc làm cụ thể để giữ gìn truyền thống."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết 5 câu giới thiệu một truyền thống tốt đẹp của quê hương em.",
+"hint": "Nêu tên truyền thống, biểu hiện, ý nghĩa và việc em có thể làm.",
+"suggestedAnswer": "Quê em có truyền thống hiếu học. Nhiều thế hệ học sinh luôn cố gắng vượt khó để học tập tốt. Truyền thống này giúp mọi người coi trọng tri thức và rèn luyện bản thân. Em tự hào vì được lớn lên trong môi trường ấy. Em sẽ chăm chỉ học tập và giúp bạn bè cùng tiến bộ."
+},
+{
+"question": "Nêu 3 việc học sinh có thể làm để giữ gìn truyền thống quê hương.",
+"hint": "Tìm hiểu, giới thiệu, tham gia hoạt động phù hợp.",
+"suggestedAnswer": "Tìm hiểu lịch sử và văn hóa địa phương, giới thiệu truyền thống quê hương bằng lời nói hoặc sản phẩm học tập, tham gia giữ gìn vệ sinh và bảo vệ di tích/lễ hội phù hợp."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ truyền thống quê hương: lịch sử, nghề nghiệp, lễ hội, đạo đức, học tập, hành động giữ gìn.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn hành vi thể hiện tự hào quê hương đúng mực và hành vi chưa phù hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_002",
+"subjectKey": "civic",
+"learningObjectives": [
+"Hiểu ý nghĩa của quan tâm, cảm thông và chia sẻ trong gia đình, nhà trường, cộng đồng.",
+"Nhận biết được biểu hiện của sự quan tâm, cảm thông, chia sẻ.",
+"Phân biệt được giúp đỡ chân thành với thương hại hoặc làm thay không phù hợp.",
+"Biết lựa chọn lời nói, việc làm phù hợp để hỗ trợ người khác.",
+"Hình thành thái độ sống nhân ái, tôn trọng và biết lắng nghe."
+],
+"easyExplanation": "Quan tâm là chú ý đến tình trạng, cảm xúc và nhu cầu của người khác. Cảm thông là biết đặt mình vào hoàn cảnh của họ để hiểu hơn, không vội phán xét. Chia sẻ là giúp đỡ bằng lời nói, hành động, thời gian, đồ dùng hoặc sự lắng nghe. Một lời hỏi thăm đúng lúc, nhường bạn dụng cụ học tập, giúp bạn hiểu bài, lắng nghe khi bạn buồn đều là những việc nhỏ nhưng ấm. Điều quan trọng là giúp bằng sự tôn trọng, không làm người khác xấu hổ.",
+"workedExamples": [
+{
+"title": "Quan tâm trong lớp học",
+"problem": "Bạn cùng bàn đi học muộn, vẻ mặt buồn và không chép kịp bài. Em nên làm gì?",
+"steps": [
+"Nhận ra bạn có dấu hiệu cần được quan tâm.",
+"Hỏi han nhẹ nhàng, không trêu chọc.",
+"Cho bạn mượn vở chép bài hoặc giải thích phần bạn chưa hiểu.",
+"Nếu bạn gặp vấn đề nghiêm trọng, có thể báo giáo viên."
+],
+"answer": "Em nên hỏi thăm nhẹ nhàng, giúp bạn chép bài hoặc hiểu bài, đồng thời tôn trọng cảm xúc của bạn.",
+"explanation": "Quan tâm không cần ồn ào, chỉ cần đúng lúc và tử tế."
+},
+{
+"title": "Cảm thông không phải thương hại",
+"problem": "Một bạn học kém môn Toán. Có bạn nói trước lớp: 'Tội bạn quá, để mình làm hết bài cho'. Cách đó có phù hợp không?",
+"steps": [
+"Bạn cần được hỗ trợ, nhưng không cần bị làm xấu hổ.",
+"Làm hết bài thay bạn không giúp bạn tiến bộ.",
+"Nói trước lớp có thể khiến bạn ngại.",
+"Cách phù hợp là hướng dẫn, động viên riêng."
+],
+"answer": "Chưa phù hợp. Nên động viên và hướng dẫn bạn làm bài, không làm thay và không khiến bạn xấu hổ.",
+"explanation": "Chia sẻ tốt là giúp người khác mạnh hơn, không làm họ phụ thuộc."
+}
+],
+"steps": [
+"Quan sát cảm xúc, hoàn cảnh và nhu cầu của người xung quanh.",
+"Lắng nghe trước khi đưa lời khuyên.",
+"Chọn lời nói nhẹ nhàng, không phán xét.",
+"Giúp đỡ trong khả năng của mình.",
+"Tôn trọng sự riêng tư và lòng tự trọng của người được giúp.",
+"Tìm người lớn hỗ trợ khi tình huống vượt quá khả năng."
+],
+"commonMistakes": [
+{
+"mistake": "Giúp đỡ bằng cách làm thay mọi việc.",
+"fix": "Nên hướng dẫn, hỗ trợ để người khác tự làm được."
+},
+{
+"mistake": "Kể chuyện khó khăn của bạn cho nhiều người.",
+"fix": "Cần tôn trọng sự riêng tư, không biến nỗi buồn của người khác thành chuyện bàn tán."
+},
+{
+"mistake": "Cảm thông nhưng dùng lời nói thương hại.",
+"fix": "Dùng lời động viên tôn trọng, không làm người khác thấy thấp kém."
+}
+],
+"quickMemory": "Quan tâm là nhìn thấy. Cảm thông là hiểu. Chia sẻ là giúp đúng cách và giữ sự tôn trọng.",
+"warmupQuestions": [
+{
+"question": "Quan tâm là gì?",
+"suggestedAnswer": "Là chú ý, hỏi han và để ý đến tình trạng, cảm xúc, nhu cầu của người khác."
+},
+{
+"question": "Cảm thông khác gì thương hại?",
+"suggestedAnswer": "Cảm thông là hiểu và tôn trọng hoàn cảnh người khác; thương hại dễ khiến người khác thấy bị xem thấp."
+},
+{
+"question": "Một việc làm thể hiện chia sẻ trong lớp học là gì?",
+"suggestedAnswer": "Giúp bạn hiểu bài, cho bạn mượn đồ dùng học tập, lắng nghe khi bạn buồn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Bạn em bị điểm thấp và rất buồn. Em sẽ nói và làm gì?",
+"hint": "Lắng nghe, động viên, giúp bạn tìm cách học lại, không chê bai.",
+"suggestedAnswer": "Em sẽ hỏi bạn có muốn chia sẻ không, động viên bạn không bỏ cuộc, cùng bạn xem lại phần chưa hiểu và rủ bạn lập kế hoạch ôn tập. Em không trêu chọc hoặc kể chuyện điểm số của bạn cho người khác."
+},
+{
+"question": "Nêu 4 biểu hiện của người biết quan tâm, cảm thông và chia sẻ.",
+"hint": "Lắng nghe, hỏi thăm, giúp phù hợp, tôn trọng.",
+"suggestedAnswer": "Biết lắng nghe, hỏi thăm đúng lúc, giúp đỡ trong khả năng, tôn trọng cảm xúc và sự riêng tư của người khác."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ quan tâm - cảm thông - chia sẻ với ví dụ trong gia đình, lớp học, cộng đồng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Xử lí tình huống bạn buồn, bạn bị trêu chọc, người thân cần giúp đỡ bằng lựa chọn lời nói phù hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_003",
+"subjectKey": "civic",
+"learningObjectives": [
+"Hiểu thế nào là học tập tự giác và tích cực.",
+"Nhận biết được biểu hiện của tự học, chủ động, không ỷ lại.",
+"Biết lập kế hoạch học tập đơn giản và thực hiện đều đặn.",
+"Phân biệt được học đối phó với học tự giác.",
+"Hình thành thái độ chủ động, kiên trì và có trách nhiệm với việc học."
+],
+"easyExplanation": "Học tập tự giác là tự biết nhiệm vụ học tập của mình, không cần ai nhắc quá nhiều mới làm. Học tập tích cực là chủ động đặt câu hỏi, tìm cách hiểu bài, luyện tập, trao đổi với thầy cô, bạn bè và sửa lỗi. Người học tự giác không đợi đến sát giờ mới làm bài, không chép bài cho xong, không ỷ lại bạn. Tự giác không có nghĩa là học suốt ngày, mà là biết lập kế hoạch, tập trung khi học và nghỉ ngơi hợp lí.",
+"workedExamples": [
+{
+"title": "Nhận biết học tự giác",
+"problem": "Bạn Lan tự xem lại bài sau giờ học, ghi câu chưa hiểu để hỏi cô vào hôm sau. Lan có học tự giác không?",
+"steps": [
+"Lan tự xem lại bài mà không cần nhắc.",
+"Lan biết ghi phần chưa hiểu.",
+"Lan chủ động hỏi để hiểu sâu hơn.",
+"Đó là biểu hiện học tự giác, tích cực."
+],
+"answer": "Có. Lan học tự giác và tích cực vì chủ động ôn lại bài, phát hiện điều chưa hiểu và tìm cách hỏi lại.",
+"explanation": "Học tích cực là khi người học không đứng yên chờ kiến thức tự rơi vào vở."
+},
+{
+"title": "Học đối phó",
+"problem": "Bạn Nam chỉ học khi sắp kiểm tra, còn ngày thường không làm bài. Đây là học tự giác hay học đối phó?",
+"steps": [
+"Nam không học đều.",
+"Nam chỉ học khi bị áp lực kiểm tra.",
+"Nam chưa chủ động với nhiệm vụ học tập.",
+"Kết luận là học đối phó."
+],
+"answer": "Đó là học đối phó, chưa phải học tự giác.",
+"explanation": "Học đối phó thường tạo cảm giác chạy theo lửa, còn học tự giác giúp bếp học tập cháy đều."
+}
+],
+"steps": [
+"Xác định mục tiêu học tập trong tuần.",
+"Chia việc học thành nhiệm vụ nhỏ.",
+"Sắp xếp thời gian học, nghỉ ngơi và ôn tập.",
+"Chuẩn bị bài trước khi đến lớp nếu cần.",
+"Ghi lại điều chưa hiểu để hỏi.",
+"Tự kiểm tra kết quả và điều chỉnh kế hoạch."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ tự giác là phải học một mình, không hỏi ai.",
+"fix": "Tự giác là chủ động học, trong đó hỏi thầy cô, bạn bè khi cần cũng là tích cực."
+},
+{
+"mistake": "Lập kế hoạch quá nhiều việc rồi bỏ dở.",
+"fix": "Nên lập kế hoạch vừa sức, rõ việc, rõ thời gian."
+},
+{
+"mistake": "Chỉ học khi gần kiểm tra.",
+"fix": "Cần học đều, ôn ngắn mỗi ngày để tránh dồn việc."
+}
+],
+"quickMemory": "Học tự giác: tự biết việc, tự bắt đầu, hỏi khi chưa hiểu, làm đều, sửa lỗi và tiến bộ từng chút.",
+"warmupQuestions": [
+{
+"question": "Học tập tự giác là gì?",
+"suggestedAnswer": "Là chủ động thực hiện nhiệm vụ học tập mà không cần người khác nhắc nhở quá nhiều."
+},
+{
+"question": "Một biểu hiện của học tập tích cực là gì?",
+"suggestedAnswer": "Chủ động hỏi bài, ôn lại bài, luyện tập, tìm cách khắc phục lỗi."
+},
+{
+"question": "Học đối phó có hạn chế gì?",
+"suggestedAnswer": "Dễ quên, căng thẳng, học không sâu và kết quả thiếu bền vững."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập kế hoạch học tập 1 ngày sau giờ học.",
+"hint": "Có thời gian nghỉ, làm bài, ôn bài, chuẩn bị bài mới.",
+"suggestedAnswer": "17:30 nghỉ ngơi và ăn nhẹ. 18:00 làm bài tập Toán. 18:45 nghỉ 10 phút. 19:00 ôn Văn và ghi phần chưa hiểu. 19:40 chuẩn bị sách vở ngày mai. 20:00 đọc nhẹ hoặc nghỉ ngơi."
+},
+{
+"question": "Nêu 5 việc làm thể hiện học tập tự giác.",
+"hint": "Chuẩn bị bài, làm bài đúng hạn, hỏi khi chưa hiểu, ôn đều, không chép bài.",
+"suggestedAnswer": "Chuẩn bị bài trước khi học, làm bài đúng hạn, hỏi khi chưa hiểu, ôn bài đều đặn, tự sửa lỗi sau khi kiểm tra."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu kế hoạch học tập tự giác theo ngày/tuần: mục tiêu, nhiệm vụ, thời gian, tự đánh giá.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Phân loại hành vi học tự giác, học tích cực và học đối phó trong tình huống học đường.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_004",
+"subjectKey": "civic",
+"learningObjectives": [
+"Hiểu chữ tín là sự tin cậy có được từ việc giữ lời hứa và làm đúng cam kết.",
+"Nhận biết được biểu hiện giữ chữ tín trong học tập, gia đình, bạn bè và công việc.",
+"Phân biệt được giữ chữ tín với hứa cho vui hoặc nói mà không làm.",
+"Biết xử lí khi không thể thực hiện lời hứa đúng như đã nói.",
+"Hình thành thói quen nói thật, làm đúng, đúng hẹn và có trách nhiệm."
+],
+"easyExplanation": "Giữ chữ tín là làm cho người khác có thể tin vào lời nói và việc làm của mình. Khi đã hứa thì cố gắng thực hiện; khi nhận việc thì làm đúng hạn; khi mượn đồ thì trả đúng như đã nói; khi không làm được thì phải báo trước, xin lỗi và tìm cách khắc phục. Chữ tín không được tạo trong một ngày, mà tích lại từ nhiều việc nhỏ. Mất chữ tín cũng giống làm rơi một chiếc bình thủy tinh: có thể nhặt lại, nhưng vết nứt còn đó rất lâu.",
+"workedExamples": [
+{
+"title": "Giữ lời hứa",
+"problem": "Bạn hứa trả sách vào thứ Hai nhưng quên mang. Bạn nên làm gì?",
+"steps": [
+"Bạn đã không thực hiện đúng lời hứa.",
+"Cần nhận lỗi, không đổ lỗi vòng vo.",
+"Cần xin lỗi và hẹn thời gian trả cụ thể.",
+"Lần sau cần ghi nhớ hoặc chuẩn bị trước."
+],
+"answer": "Bạn nên xin lỗi, giải thích trung thực, hẹn thời gian trả cụ thể và thực hiện đúng lần sau.",
+"explanation": "Khi lỡ sai hẹn, cách khắc phục cũng thể hiện trách nhiệm với chữ tín."
+},
+{
+"title": "Chữ tín trong học tập",
+"problem": "Một bạn nhận phần làm slide nhóm nhưng đến sát giờ nộp mới nói chưa làm. Bạn đã giữ chữ tín chưa?",
+"steps": [
+"Bạn đã nhận nhiệm vụ trong nhóm.",
+"Bạn không thực hiện đúng thời hạn.",
+"Bạn báo quá muộn khiến nhóm bị ảnh hưởng.",
+"Đây là chưa giữ chữ tín."
+],
+"answer": "Chưa. Bạn chưa giữ chữ tín vì không hoàn thành nhiệm vụ đã nhận và báo quá muộn.",
+"explanation": "Trong làm việc nhóm, chữ tín là keo dán niềm tin giữa các thành viên."
+}
+],
+"steps": [
+"Chỉ hứa hoặc nhận việc khi đã suy nghĩ khả năng thực hiện.",
+"Ghi nhớ thời hạn và yêu cầu cụ thể.",
+"Thực hiện đúng lời hứa, đúng hẹn.",
+"Nếu gặp khó khăn, báo sớm cho người liên quan.",
+"Xin lỗi và khắc phục khi không làm đúng.",
+"Tập thói quen trung thực, không hứa bừa để làm vui lòng người khác."
+],
+"commonMistakes": [
+{
+"mistake": "Hứa nhanh để người khác vui, sau đó không làm.",
+"fix": "Trước khi hứa cần xem mình có đủ thời gian và khả năng không."
+},
+{
+"mistake": "Sai hẹn nhưng im lặng.",
+"fix": "Cần báo sớm, xin lỗi và đề xuất cách khắc phục."
+},
+{
+"mistake": "Nghĩ giữ chữ tín chỉ là chuyện người lớn.",
+"fix": "Học sinh cũng cần giữ chữ tín trong học tập, mượn đồ, làm nhóm, quan hệ bạn bè."
+}
+],
+"quickMemory": "Giữ chữ tín: nói thật, hứa vừa sức, làm đúng hẹn, sai thì báo sớm và sửa.",
+"warmupQuestions": [
+{
+"question": "Chữ tín là gì?",
+"suggestedAnswer": "Là sự tin cậy của người khác đối với lời nói và việc làm của mình."
+},
+{
+"question": "Một biểu hiện giữ chữ tín trong lớp học là gì?",
+"suggestedAnswer": "Làm đúng phần việc đã nhận, nộp bài đúng hạn, trả đồ mượn đúng hẹn."
+},
+{
+"question": "Khi không thể thực hiện lời hứa, cần làm gì?",
+"suggestedAnswer": "Báo sớm, nói thật, xin lỗi và tìm cách khắc phục."
+}
+],
+"applicationQuestions": [
+{
+"question": "Bạn nhận trực nhật thay bạn khác nhưng quên. Em sẽ khuyên bạn làm gì?",
+"hint": "Nhận lỗi, khắc phục, tránh lặp lại.",
+"suggestedAnswer": "Bạn nên nhận lỗi, xin lỗi người đã nhờ, làm bù hoặc hỗ trợ lại khi có thể, đồng thời ghi nhớ nhiệm vụ lần sau để không quên."
+},
+{
+"question": "Nêu 4 việc học sinh có thể làm để giữ chữ tín.",
+"hint": "Đúng hẹn, làm bài, trả đồ, nói thật.",
+"suggestedAnswer": "Nộp bài đúng hạn, trả đồ mượn đúng hẹn, làm đúng phần việc nhóm đã nhận, nói thật khi mắc lỗi."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ giữ chữ tín: lời hứa, việc làm, thời hạn, trách nhiệm, khắc phục khi sai.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Xử lí tình huống hứa nhưng không làm, mượn đồ không trả, làm nhóm trễ hạn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_civic_005",
+"subjectKey": "civic",
+"learningObjectives": [
+"Hiểu quản lý bản thân là biết điều chỉnh hành vi, thói quen, mục tiêu và thời gian của mình.",
+"Biết đặt mục tiêu học tập và sinh hoạt vừa sức.",
+"Biết phân biệt việc quan trọng, việc khẩn cấp và việc gây xao nhãng.",
+"Biết lập thời gian biểu cân bằng giữa học tập, nghỉ ngơi, vận động và gia đình.",
+"Hình thành thói quen tự đánh giá và điều chỉnh kế hoạch."
+],
+"easyExplanation": "Quản lý bản thân và thời gian là biết mình cần làm gì, việc nào quan trọng, việc nào có thể làm sau, khi nào cần nghỉ ngơi. Một ngày của học sinh có học trên lớp, bài tập, việc nhà, ăn uống, vận động, ngủ nghỉ và giải trí. Nếu không biết sắp xếp, việc nhỏ sẽ mọc rễ thành núi. Quản lý thời gian không phải là biến mình thành robot, mà là tạo nhịp sống rõ ràng để học tốt hơn, ít căng thẳng hơn và vẫn có thời gian hồi sức.",
+"workedExamples": [
+{
+"title": "Ưu tiên việc quan trọng",
+"problem": "Tối nay em có bài kiểm tra Toán ngày mai và cũng muốn xem phim. Nên ưu tiên việc nào?",
+"steps": [
+"Bài kiểm tra ngày mai là việc quan trọng và gần hạn.",
+"Xem phim là giải trí, có thể để sau.",
+"Nên ôn bài trước, sau đó nghỉ ngơi nếu còn thời gian.",
+"Lập thời gian cụ thể để tránh kéo dài."
+],
+"answer": "Nên ưu tiên ôn bài Toán trước, sau đó mới giải trí trong thời gian phù hợp.",
+"explanation": "Ưu tiên đúng giúp mình không bị những việc vui kéo đi như diều gặp gió."
+},
+{
+"title": "Mục tiêu vừa sức",
+"problem": "Bạn đặt mục tiêu 'từ mai học 6 tiếng mỗi tối' dù thường chỉ học 1 tiếng. Mục tiêu này có phù hợp không?",
+"steps": [
+"Mục tiêu tăng quá đột ngột.",
+"Dễ mệt, chán và bỏ cuộc.",
+"Nên tăng dần thời gian học.",
+"Mục tiêu cần cụ thể và vừa sức."
+],
+"answer": "Chưa phù hợp. Nên đặt mục tiêu vừa sức hơn, ví dụ học tập trung 90 phút mỗi tối rồi tăng dần.",
+"explanation": "Mục tiêu tốt là chiếc cầu thang, không phải bức tường."
+}
+],
+"steps": [
+"Viết ra các việc cần làm trong ngày hoặc tuần.",
+"Đánh dấu việc quan trọng và việc có hạn gần.",
+"Chia việc lớn thành việc nhỏ.",
+"Sắp xếp thời gian học, nghỉ, vận động, việc nhà và giải trí.",
+"Giảm yếu tố gây xao nhãng khi học.",
+"Cuối ngày tự đánh giá: việc gì làm được, việc gì cần điều chỉnh."
+],
+"commonMistakes": [
+{
+"mistake": "Lập thời gian biểu kín mít không có nghỉ ngơi.",
+"fix": "Cần có thời gian nghỉ, vận động và ngủ đủ để học bền."
+},
+{
+"mistake": "Làm việc dễ trước, bỏ việc quan trọng đến cuối.",
+"fix": "Ưu tiên việc quan trọng hoặc gần hạn trước."
+},
+{
+"mistake": "Đặt mục tiêu quá lớn, không cụ thể.",
+"fix": "Mục tiêu nên rõ, vừa sức, có thời gian và cách kiểm tra."
+}
+],
+"quickMemory": "Quản lý thời gian: biết việc cần làm, ưu tiên đúng, chia nhỏ nhiệm vụ, nghỉ hợp lí, tự kiểm tra mỗi ngày.",
+"warmupQuestions": [
+{
+"question": "Quản lý bản thân là gì?",
+"suggestedAnswer": "Là biết điều chỉnh hành vi, thói quen, mục tiêu và thời gian của mình."
+},
+{
+"question": "Vì sao cần ưu tiên việc quan trọng?",
+"suggestedAnswer": "Để hoàn thành nhiệm vụ cần thiết, tránh bị xao nhãng và giảm căng thẳng sát hạn."
+},
+{
+"question": "Một thời gian biểu tốt cần có những phần nào?",
+"suggestedAnswer": "Học tập, nghỉ ngơi, ăn uống, vận động, việc nhà, giải trí và ngủ đủ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập thời gian biểu buổi tối cho ngày có bài kiểm tra hôm sau.",
+"hint": "Có nghỉ, ôn bài, chuẩn bị đồ, ngủ đúng giờ.",
+"suggestedAnswer": "18:00 ăn tối và nghỉ ngắn. 18:30 ôn bài kiểm tra. 19:20 nghỉ 10 phút. 19:30 làm vài câu luyện tập. 20:10 chuẩn bị sách vở ngày mai. 20:30 thư giãn nhẹ. 21:30 đi ngủ."
+},
+{
+"question": "Nêu 5 cách giảm xao nhãng khi học.",
+"hint": "Điện thoại, bàn học, mục tiêu nhỏ, thời gian nghỉ.",
+"suggestedAnswer": "Để điện thoại xa bàn học, dọn bàn gọn, đặt mục tiêu nhỏ cho từng phiên học, dùng thời gian nghỉ ngắn, báo người thân thời gian mình cần tập trung."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu thời gian biểu cân bằng học tập, nghỉ ngơi, vận động, việc nhà và giải trí.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp việc trong ngày theo mức độ quan trọng, khẩn cấp và xao nhãng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

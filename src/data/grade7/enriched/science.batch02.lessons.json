@@ -1,0 +1,529 @@
+[
+{
+"lessonId": "g7_science_006",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu phân tử là hạt đại diện cho chất, gồm một hoặc nhiều nguyên tử liên kết với nhau.",
+"Phân biệt đơn chất và hợp chất dựa vào số loại nguyên tố tạo nên chất.",
+"Đọc được một số công thức hóa học đơn giản như O2, H2O, CO2, NaCl.",
+"Nhận biết đơn chất được tạo từ một nguyên tố, hợp chất được tạo từ hai nguyên tố trở lên.",
+"Vận dụng mô hình hạt để giải thích sự khác nhau giữa nguyên tử, phân tử, đơn chất và hợp chất."
+],
+"easyExplanation": "Phân tử là hạt rất nhỏ đại diện cho chất. Có phân tử chỉ gồm các nguyên tử cùng một nguyên tố, ví dụ O2 gồm hai nguyên tử oxygen. Cũng có phân tử hoặc hợp chất gồm nhiều loại nguyên tố, ví dụ H2O gồm hydrogen và oxygen. Đơn chất là chất tạo nên từ một nguyên tố hóa học, như O2, N2, Fe. Hợp chất là chất tạo nên từ hai nguyên tố trở lên, như H2O, CO2, NaCl. Mẹo nhớ: nhìn thành phần nguyên tố. Một loại nguyên tố là đơn chất, từ hai loại nguyên tố trở lên là hợp chất.",
+"workedExamples": [
+{
+"title": "Phân loại đơn chất và hợp chất",
+"problem": "Trong các chất O2, H2O, CO2, Fe, chất nào là đơn chất, chất nào là hợp chất?",
+"steps": [
+"Xem mỗi công thức gồm mấy loại kí hiệu nguyên tố.",
+"O2 chỉ có O nên là đơn chất.",
+"Fe chỉ có Fe nên là đơn chất.",
+"H2O có H và O nên là hợp chất.",
+"CO2 có C và O nên là hợp chất."
+],
+"answer": "Đơn chất: O2, Fe. Hợp chất: H2O, CO2.",
+"explanation": "Đơn chất gồm một loại nguyên tố, hợp chất gồm từ hai loại nguyên tố trở lên."
+},
+{
+"title": "Đọc công thức hóa học đơn giản",
+"problem": "Công thức H2O cho biết phân tử nước gồm những nguyên tố nào?",
+"steps": [
+"Nhìn các kí hiệu trong công thức: H và O.",
+"H là hydrogen, O là oxygen.",
+"Chỉ số 2 sau H cho biết có 2 nguyên tử hydrogen trong một phân tử nước."
+],
+"answer": "H2O gồm nguyên tố hydrogen và oxygen; một phân tử nước có 2 nguyên tử hydrogen và 1 nguyên tử oxygen.",
+"explanation": "Không viết chỉ số 1 trong công thức, nên O hiểu là 1 nguyên tử oxygen."
+}
+],
+"steps": [
+"Ôn lại nguyên tử và nguyên tố hóa học.",
+"Nhìn công thức để xác định các kí hiệu nguyên tố có mặt.",
+"Đếm số loại nguyên tố, không chỉ đếm tổng số nguyên tử.",
+"Một loại nguyên tố thì phân loại đơn chất.",
+"Hai loại nguyên tố trở lên thì phân loại hợp chất."
+],
+"commonMistakes": [
+{
+"mistake": "Thấy O2 có số 2 nên tưởng là hợp chất.",
+"fix": "O2 vẫn chỉ có một loại nguyên tố là O, nên là đơn chất."
+},
+{
+"mistake": "Nhầm phân tử với nguyên tử.",
+"fix": "Nguyên tử là hạt của nguyên tố. Phân tử có thể gồm nhiều nguyên tử liên kết với nhau."
+},
+{
+"mistake": "Đếm tổng số nguyên tử để phân biệt đơn chất/hợp chất.",
+"fix": "Cần đếm số loại nguyên tố. H2O có 3 nguyên tử nhưng 2 loại nguyên tố nên là hợp chất."
+}
+],
+"quickMemory": "Đơn chất: một loại nguyên tố. Hợp chất: từ hai loại nguyên tố trở lên. O2 là đơn chất, H2O là hợp chất.",
+"warmupQuestions": [
+{
+"question": "O2 là đơn chất hay hợp chất?",
+"suggestedAnswer": "O2 là đơn chất vì chỉ gồm nguyên tố oxygen."
+},
+{
+"question": "H2O gồm những nguyên tố nào?",
+"suggestedAnswer": "Hydrogen và oxygen."
+},
+{
+"question": "CO2 là đơn chất hay hợp chất? Vì sao?",
+"suggestedAnswer": "CO2 là hợp chất vì gồm carbon và oxygen."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy phân loại các chất sau: N2, NaCl, C, CH4.",
+"hint": "Đếm số loại nguyên tố trong công thức.",
+"suggestedAnswer": "Đơn chất: N2, C. Hợp chất: NaCl, CH4."
+},
+{
+"question": "Giải thích vì sao O2 là đơn chất còn CO2 là hợp chất.",
+"hint": "So sánh số loại nguyên tố.",
+"suggestedAnswer": "O2 chỉ có nguyên tố oxygen nên là đơn chất. CO2 có carbon và oxygen nên là hợp chất."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mô hình hạt minh họa nguyên tử, phân tử O2, phân tử H2O và CO2.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo công thức vào hai cột đơn chất và hợp chất.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_007",
+"subjectKey": "science",
+"learningObjectives": [
+"Làm quen ý tưởng các nguyên tử có thể liên kết với nhau để tạo phân tử hoặc chất.",
+"Hiểu liên kết hóa học giúp các nguyên tử gắn với nhau bền hơn.",
+"Đọc được mô hình liên kết đơn giản giữa các nguyên tử.",
+"Liên hệ liên kết hóa học với sự hình thành phân tử như H2, O2, H2O.",
+"Phân biệt mô hình minh họa với hình ảnh thật của nguyên tử."
+],
+"easyExplanation": "Các nguyên tử không phải lúc nào cũng đứng riêng lẻ. Chúng có thể liên kết với nhau tạo thành phân tử hoặc chất. Liên kết hóa học có thể hiểu đơn giản là sự gắn kết giữa các nguyên tử. Ví dụ hai nguyên tử hydrogen có thể liên kết tạo phân tử H2; hai hydrogen và một oxygen liên kết tạo phân tử H2O. Ở mức nhập môn, em chưa cần học sâu về electron, chỉ cần hiểu rằng liên kết giúp nguyên tử kết hợp thành chất mới có tính chất riêng.",
+"workedExamples": [
+{
+"title": "Nhận biết phân tử từ mô hình liên kết",
+"problem": "Một mô hình có 2 quả cầu H nối với 1 quả cầu O. Mô hình đó biểu diễn chất nào?",
+"steps": [
+"Xác định kí hiệu nguyên tử trong mô hình: H và O.",
+"Đếm số nguyên tử H: có 2.",
+"Đếm số nguyên tử O: có 1.",
+"Viết công thức tương ứng: H2O."
+],
+"answer": "Mô hình đó biểu diễn phân tử nước H2O.",
+"explanation": "Các que nối trong mô hình thường biểu diễn sự liên kết giữa các nguyên tử."
+},
+{
+"title": "Từ nguyên tử đến phân tử",
+"problem": "Hai nguyên tử oxygen liên kết với nhau tạo thành phân tử nào?",
+"steps": [
+"Mỗi nguyên tử oxygen có kí hiệu O.",
+"Hai nguyên tử oxygen ghép lại thì có công thức O2.",
+"Đây là phân tử oxygen."
+],
+"answer": "Hai nguyên tử oxygen liên kết tạo phân tử O2.",
+"explanation": "Chỉ số 2 cho biết có hai nguyên tử O trong phân tử."
+}
+],
+"steps": [
+"Ôn lại kí hiệu nguyên tố và phân tử.",
+"Quan sát mô hình hạt: quả cầu là nguyên tử, que nối là liên kết minh họa.",
+"Đếm số nguyên tử từng loại trong mô hình.",
+"Viết công thức phân tử tương ứng.",
+"Nói bằng lời: các nguyên tử liên kết tạo thành phân tử/chất."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ que nối trong mô hình là vật thật giữa các nguyên tử.",
+"fix": "Que nối chỉ là cách minh họa liên kết, không phải hình ảnh thật."
+},
+{
+"mistake": "Không đếm từng loại nguyên tử khi nhìn mô hình.",
+"fix": "Đếm riêng H, O, C... rồi mới viết công thức."
+},
+{
+"mistake": "Cho rằng liên kết hóa học chỉ có trong hợp chất.",
+"fix": "Đơn chất phân tử như H2, O2 cũng có liên kết giữa các nguyên tử cùng loại."
+}
+],
+"quickMemory": "Liên kết hóa học là sự gắn kết giữa nguyên tử. Quả cầu là nguyên tử, que nối là liên kết minh họa.",
+"warmupQuestions": [
+{
+"question": "Hai nguyên tử hydrogen liên kết tạo phân tử nào?",
+"suggestedAnswer": "H2."
+},
+{
+"question": "Trong mô hình phân tử, que nối thường biểu diễn gì?",
+"suggestedAnswer": "Liên kết giữa các nguyên tử."
+},
+{
+"question": "H2O có mấy nguyên tử hydrogen và mấy nguyên tử oxygen?",
+"suggestedAnswer": "2 nguyên tử hydrogen và 1 nguyên tử oxygen."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một mô hình có 1 nguyên tử C nối với 2 nguyên tử O. Hãy viết công thức phân tử.",
+"hint": "Đếm C và O.",
+"suggestedAnswer": "CO2."
+},
+{
+"question": "Giải thích bằng lời vì sao các mô hình phân tử có ích khi học hóa học.",
+"hint": "Mô hình giúp nhìn thấy cách nguyên tử kết hợp.",
+"suggestedAnswer": "Mô hình giúp ta hình dung các nguyên tử liên kết với nhau như thế nào và dễ đếm số nguyên tử trong phân tử."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mô hình bóng - que của H2, O2, H2O, CO2.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Đếm nguyên tử trong mô hình phân tử và chọn công thức đúng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_008",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu hóa trị là con số biểu thị khả năng liên kết của nguyên tử nguyên tố này với nguyên tử nguyên tố khác.",
+"Làm quen cách lập công thức hóa học đơn giản dựa vào hóa trị.",
+"Biết kiểm tra công thức theo quy tắc tích hóa trị.",
+"Phân biệt chỉ số trong công thức với hóa trị của nguyên tố.",
+"Viết được một số công thức đơn giản theo mẫu hướng dẫn."
+],
+"easyExplanation": "Hóa trị giúp ta biết các nguyên tử có thể kết hợp với nhau theo tỉ lệ nào. Khi lập công thức hóa học đơn giản, ta thường dùng quy tắc: tích giữa chỉ số và hóa trị của nguyên tố này bằng tích giữa chỉ số và hóa trị của nguyên tố kia. Ví dụ magnesium có hóa trị II, chlorine có hóa trị I. Để cân bằng, một Mg cần đi với hai Cl, nên công thức là MgCl2. Ở bài nhập môn, em chỉ cần làm các ví dụ đơn giản và không cần học quá nhiều ngoại lệ.",
+"workedExamples": [
+{
+"title": "Lập công thức Mg và Cl",
+"problem": "Lập công thức hợp chất tạo bởi Mg hóa trị II và Cl hóa trị I.",
+"steps": [
+"Viết kí hiệu hai nguyên tố: Mg và Cl.",
+"Ghi hóa trị: Mg(II), Cl(I).",
+"Tìm tỉ lệ sao cho tổng khả năng liên kết cân bằng: 1 Mg đi với 2 Cl.",
+"Viết công thức: MgCl2."
+],
+"answer": "MgCl2.",
+"explanation": "Mg có hóa trị II nên cần hai Cl hóa trị I để cân bằng."
+},
+{
+"title": "Kiểm tra công thức Al2O3",
+"problem": "Biết Al hóa trị III, O hóa trị II. Công thức Al2O3 có phù hợp không?",
+"steps": [
+"Tính tích chỉ số và hóa trị của Al: 2 × III = 6.",
+"Tính tích chỉ số và hóa trị của O: 3 × II = 6.",
+"Hai tích bằng nhau nên công thức phù hợp."
+],
+"answer": "Có, Al2O3 phù hợp.",
+"explanation": "Quy tắc kiểm tra: chỉ số × hóa trị của hai nguyên tố phải cân bằng."
+}
+],
+"steps": [
+"Viết đúng kí hiệu hóa học của các nguyên tố.",
+"Ghi hóa trị đã cho cạnh từng nguyên tố.",
+"Tìm tỉ lệ chỉ số sao cho tích chỉ số và hóa trị cân bằng.",
+"Rút gọn chỉ số nếu cần.",
+"Kiểm tra lại công thức bằng quy tắc tích hóa trị."
+],
+"commonMistakes": [
+{
+"mistake": "Viết số hóa trị thành chỉ số một cách máy móc mà không kiểm tra.",
+"fix": "Sau khi viết công thức, luôn kiểm tra bằng tích chỉ số × hóa trị."
+},
+{
+"mistake": "Viết Mg2Cl thay vì MgCl2.",
+"fix": "Mg hóa trị II, Cl hóa trị I nên một Mg cần hai Cl: MgCl2."
+},
+{
+"mistake": "Nhầm chỉ số 2 trong H2O với hóa trị của H.",
+"fix": "Chỉ số cho biết số nguyên tử trong công thức, không phải luôn là hóa trị."
+}
+],
+"quickMemory": "Lập công thức hóa học: viết kí hiệu → ghi hóa trị → cân bằng tích chỉ số × hóa trị → kiểm tra lại.",
+"warmupQuestions": [
+{
+"question": "Trong MgCl2, chỉ số 2 thuộc nguyên tố nào?",
+"suggestedAnswer": "Thuộc Cl, nghĩa là có 2 nguyên tử chlorine."
+},
+{
+"question": "Hóa trị dùng để làm gì ở mức cơ bản?",
+"suggestedAnswer": "Dùng để biết khả năng liên kết và lập công thức hóa học đơn giản."
+},
+{
+"question": "Al hóa trị III, O hóa trị II. Công thức thường gặp là gì?",
+"suggestedAnswer": "Al2O3."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập công thức hợp chất tạo bởi Ca hóa trị II và O hóa trị II.",
+"hint": "Tỉ lệ II và II rút gọn thành 1:1.",
+"suggestedAnswer": "CaO."
+},
+{
+"question": "Kiểm tra công thức CO2 nếu C hóa trị IV và O hóa trị II.",
+"hint": "So sánh 1 × IV với 2 × II.",
+"suggestedAnswer": "CO2 phù hợp vì 1 × IV = 4 và 2 × II = 4."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ lập công thức hóa học bằng hóa trị cho MgCl2, Al2O3, CaO.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Điền chỉ số còn thiếu trong công thức dựa vào hóa trị đã cho.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_009",
+"subjectKey": "science",
+"learningObjectives": [
+"Biết khối lượng phân tử được tính bằng tổng khối lượng nguyên tử của các nguyên tử trong phân tử.",
+"Đọc công thức hóa học để xác định số nguyên tử từng nguyên tố.",
+"Tính được khối lượng phân tử của một số chất đơn giản khi đã cho khối lượng nguyên tử.",
+"Hiểu phần trăm khối lượng nguyên tố trong hợp chất ở mức cơ bản.",
+"Biết trình bày phép tính theo từng bước để tránh nhầm chỉ số."
+],
+"easyExplanation": "Khối lượng phân tử cho biết phân tử nặng bao nhiêu theo đơn vị tương đối ở mức học phổ thông. Muốn tính, em đọc công thức rồi cộng khối lượng của tất cả nguyên tử trong phân tử. Ví dụ H2O có 2 H và 1 O. Nếu H = 1, O = 16 thì khối lượng phân tử H2O là 2 × 1 + 16 = 18. Phần trăm nguyên tố cho biết trong khối lượng phân tử, phần của một nguyên tố chiếm bao nhiêu phần trăm. Công thức thường dùng là: khối lượng phần nguyên tố chia cho khối lượng phân tử rồi nhân 100%.",
+"workedExamples": [
+{
+"title": "Tính khối lượng phân tử nước",
+"problem": "Tính khối lượng phân tử H2O, biết H = 1, O = 16.",
+"steps": [
+"Đọc công thức H2O: có 2 H và 1 O.",
+"Tính phần H: 2 × 1 = 2.",
+"Tính phần O: 1 × 16 = 16.",
+"Cộng lại: 2 + 16 = 18."
+],
+"answer": "Khối lượng phân tử H2O = 18.",
+"explanation": "Chỉ số 2 sau H phải được nhân với khối lượng nguyên tử H."
+},
+{
+"title": "Tính phần trăm oxygen trong H2O",
+"problem": "Biết H2O có khối lượng phân tử 18, phần oxygen là 16. Tính phần trăm oxygen.",
+"steps": [
+"Lấy khối lượng oxygen trong phân tử: 16.",
+"Chia cho khối lượng phân tử: 16/18.",
+"Nhân với 100%.",
+"Làm tròn nếu cần."
+],
+"answer": "Phần trăm oxygen trong H2O ≈ 88,9%.",
+"explanation": "16 ÷ 18 × 100% ≈ 88,9%."
+}
+],
+"steps": [
+"Đọc công thức và ghi số nguyên tử từng nguyên tố.",
+"Nhân số nguyên tử với khối lượng nguyên tử tương ứng.",
+"Cộng các phần để được khối lượng phân tử.",
+"Muốn tính phần trăm, lấy khối lượng phần nguyên tố chia khối lượng phân tử.",
+"Nhân với 100% và ghi kết quả phần trăm."
+],
+"commonMistakes": [
+{
+"mistake": "Quên nhân chỉ số trong công thức.",
+"fix": "H2O có 2 H, nên phải tính 2 × khối lượng H."
+},
+{
+"mistake": "Lấy khối lượng nguyên tử của một nguyên tố chia luôn cho tổng mà quên số nguyên tử.",
+"fix": "Tính khối lượng phần nguyên tố trước: số nguyên tử × khối lượng nguyên tử."
+},
+{
+"mistake": "Quên nhân 100% khi tính phần trăm.",
+"fix": "Tỉ số phải nhân 100% để ra phần trăm."
+}
+],
+"quickMemory": "Khối lượng phân tử = tổng số nguyên tử × khối lượng nguyên tử. Phần trăm nguyên tố = phần nguyên tố / toàn phân tử × 100%.",
+"warmupQuestions": [
+{
+"question": "CO2 có mấy nguyên tử oxygen?",
+"suggestedAnswer": "Có 2 nguyên tử oxygen."
+},
+{
+"question": "Tính khối lượng phân tử CO2 nếu C = 12, O = 16.",
+"suggestedAnswer": "12 + 2 × 16 = 44."
+},
+{
+"question": "Muốn đổi tỉ số thành phần trăm cần nhân với bao nhiêu?",
+"suggestedAnswer": "Nhân với 100%."
+}
+],
+"applicationQuestions": [
+{
+"question": "Tính khối lượng phân tử CH4, biết C = 12, H = 1.",
+"hint": "CH4 có 1 C và 4 H.",
+"suggestedAnswer": "CH4 = 12 + 4 × 1 = 16."
+},
+{
+"question": "Tính phần trăm carbon trong CO2, biết CO2 có khối lượng phân tử 44 và phần carbon là 12.",
+"hint": "Lấy 12/44 × 100%.",
+"suggestedAnswer": "Phần trăm carbon ≈ 27,3%."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ tính khối lượng phân tử từ công thức H2O, CO2, CH4.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài điền số nguyên tử, khối lượng từng phần và tổng khối lượng phân tử.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson says this part may depend on programme/book requirement. Enrichment keeps it at simple support level."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_010",
+"subjectKey": "science",
+"learningObjectives": [
+"Hệ thống hóa mối quan hệ giữa nguyên tử, nguyên tố, phân tử, đơn chất, hợp chất và công thức hóa học.",
+"Vẽ được sơ đồ khái niệm đơn giản cho phần cấu tạo chất.",
+"Phân loại được ví dụ quen thuộc vào nhóm nguyên tử, phân tử, đơn chất, hợp chất.",
+"Nhận ra công thức hóa học là cách biểu diễn thành phần chất bằng kí hiệu và chỉ số.",
+"Tự kiểm tra lỗ hổng kiến thức bằng câu hỏi tổng hợp."
+],
+"easyExplanation": "Bài này giống một bản đồ gom lại phần hóa học nền tảng. Nguyên tử là hạt rất nhỏ. Các nguyên tử có cùng số proton thuộc cùng một nguyên tố. Nhiều nguyên tử liên kết có thể tạo phân tử. Chất tạo từ một nguyên tố là đơn chất, chất tạo từ hai nguyên tố trở lên là hợp chất. Công thức hóa học dùng kí hiệu nguyên tố và chỉ số để cho biết chất gồm những nguyên tố nào và tỉ lệ nguyên tử ra sao. Khi học bằng sơ đồ, em sẽ thấy các khái niệm không rời rạc như những hòn đảo, mà nối thành một mạng đường nhỏ.",
+"workedExamples": [
+{
+"title": "Phân loại ví dụ tổng hợp",
+"problem": "Phân loại O2, H2O, Fe, CO2 thành đơn chất hoặc hợp chất.",
+"steps": [
+"O2 chỉ có nguyên tố O nên là đơn chất.",
+"Fe chỉ có nguyên tố Fe nên là đơn chất.",
+"H2O có H và O nên là hợp chất.",
+"CO2 có C và O nên là hợp chất."
+],
+"answer": "Đơn chất: O2, Fe. Hợp chất: H2O, CO2.",
+"explanation": "Cách nhanh nhất là nhìn số loại nguyên tố trong công thức."
+},
+{
+"title": "Nối khái niệm",
+"problem": "Hoàn thành mối quan hệ: nguyên tử cùng số proton → cùng ___.",
+"steps": [
+"Nhớ định nghĩa nguyên tố hóa học.",
+"Nguyên tố được xác định bằng số proton.",
+"Vậy các nguyên tử cùng số proton thuộc cùng nguyên tố."
+],
+"answer": "Nguyên tố hóa học.",
+"explanation": "Số proton là chìa khóa nhận biết nguyên tố."
+}
+],
+"steps": [
+"Viết các khái niệm chính ra giấy: nguyên tử, nguyên tố, phân tử, đơn chất, hợp chất, công thức hóa học.",
+"Dùng mũi tên để nối quan hệ giữa các khái niệm.",
+"Thêm ví dụ dưới mỗi khái niệm.",
+"Tự đặt câu hỏi: chất này gồm mấy nguyên tố?",
+"Luyện phân loại và giải thích bằng một câu ngắn."
+],
+"commonMistakes": [
+{
+"mistake": "Học thuộc từng khái niệm riêng lẻ nhưng không hiểu mối liên hệ.",
+"fix": "Vẽ sơ đồ khái niệm để nối nguyên tử → nguyên tố/phân tử → chất."
+},
+{
+"mistake": "Nhầm O2 là hợp chất vì có hai nguyên tử.",
+"fix": "O2 chỉ có một loại nguyên tố, nên vẫn là đơn chất."
+},
+{
+"mistake": "Nhìn công thức nhưng không đọc chỉ số.",
+"fix": "Chỉ số cho biết số nguyên tử của nguyên tố đứng trước nó."
+}
+],
+"quickMemory": "Nguyên tử tạo nên chất. Cùng số proton là cùng nguyên tố. Một loại nguyên tố là đơn chất, hai loại trở lên là hợp chất.",
+"warmupQuestions": [
+{
+"question": "Nguyên tố hóa học được xác định bằng gì?",
+"suggestedAnswer": "Bằng số proton trong hạt nhân."
+},
+{
+"question": "Hợp chất khác đơn chất ở điểm nào?",
+"suggestedAnswer": "Hợp chất gồm từ hai nguyên tố trở lên, đơn chất gồm một nguyên tố."
+},
+{
+"question": "Công thức hóa học cho biết điều gì?",
+"suggestedAnswer": "Cho biết chất gồm nguyên tố nào và tỉ lệ/số nguyên tử trong phân tử hoặc công thức."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy vẽ sơ đồ khái niệm gồm 6 từ: nguyên tử, nguyên tố, phân tử, đơn chất, hợp chất, công thức hóa học.",
+"hint": "Dùng mũi tên và thêm ví dụ như O2, H2O, Fe.",
+"suggestedAnswer": "Có thể nối: nguyên tử → nguyên tố; nguyên tử liên kết → phân tử; chất → đơn chất/hợp chất; công thức hóa học biểu diễn thành phần chất."
+},
+{
+"question": "Giải thích vì sao H2O là hợp chất bằng ngôn ngữ ngắn gọn.",
+"hint": "Nhìn số loại nguyên tố.",
+"suggestedAnswer": "H2O là hợp chất vì gồm hai nguyên tố là hydrogen và oxygen."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ khái niệm nối nguyên tử, nguyên tố, phân tử, đơn chất, hợp chất và công thức hóa học.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài phân loại công thức vào nhóm đơn chất/hợp chất và nối khái niệm.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

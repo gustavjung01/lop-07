@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_geo_001",
+"subjectKey": "history_geography",
+"learningObjectives": [
+"Nhận biết được bản đồ, lược đồ và biểu đồ là công cụ quan trọng khi học Địa lí.",
+"Biết đọc chú giải, tỉ lệ bản đồ, phương hướng và kí hiệu địa lí cơ bản.",
+"Hiểu cách đọc biểu đồ khí hậu, biểu đồ dân cư ở mức đơn giản.",
+"Biết rút ra nhận xét từ bản đồ hoặc biểu đồ thay vì chỉ nhìn hình.",
+"Thực hành trình bày nhận xét địa lí ngắn, có căn cứ từ dữ liệu."
+],
+"easyExplanation": "Học Địa lí giống như đi vào một căn phòng có nhiều bản đồ kho báu. Muốn không lạc, em cần biết đọc chú giải, kí hiệu, phương hướng, tỉ lệ và dữ liệu. Bản đồ giúp biết đối tượng ở đâu. Lược đồ giúp nhìn một vấn đề địa lí đã được giản lược. Biểu đồ giúp so sánh số liệu như nhiệt độ, lượng mưa, dân số hoặc cơ cấu kinh tế. Khi đọc, không chỉ nói 'em thấy có màu xanh, màu đỏ', mà cần hỏi: màu đó biểu thị gì, nơi nào cao/thấp hơn, xu hướng tăng hay giảm, nguyên nhân có thể là gì.",
+"workedExamples": [
+{
+"title": "Đọc chú giải bản đồ",
+"problem": "Trên bản đồ, màu xanh lá thể hiện đồng bằng, màu nâu thể hiện núi. Nếu một khu vực chủ yếu màu nâu, có thể nhận xét gì?",
+"steps": [
+"Đọc chú giải để hiểu màu sắc biểu thị điều gì.",
+"Màu nâu thể hiện địa hình núi.",
+"Khu vực chủ yếu màu nâu nghĩa là địa hình núi chiếm ưu thế.",
+"Viết nhận xét ngắn gọn."
+],
+"answer": "Khu vực đó có địa hình núi là chủ yếu.",
+"explanation": "Muốn đọc bản đồ đúng, luôn phải bắt đầu từ chú giải."
+},
+{
+"title": "Đọc biểu đồ khí hậu",
+"problem": "Một biểu đồ khí hậu cho thấy mưa nhiều vào mùa hạ và ít mưa vào mùa đông. Có thể nhận xét gì?",
+"steps": [
+"Quan sát lượng mưa theo tháng.",
+"Xác định mùa có lượng mưa cao nhất.",
+"Xác định mùa có lượng mưa thấp nhất.",
+"Rút ra đặc điểm phân mùa mưa."
+],
+"answer": "Khu vực này có chế độ mưa phân mùa, mưa tập trung vào mùa hạ và ít mưa vào mùa đông.",
+"explanation": "Biểu đồ không chỉ để nhìn số, mà để rút ra đặc điểm."
+}
+],
+"steps": [
+"Đọc tên bản đồ hoặc biểu đồ để biết nội dung.",
+"Xem chú giải, đơn vị, tỉ lệ và hướng.",
+"Xác định đối tượng chính cần đọc.",
+"So sánh nơi cao - thấp, nhiều - ít, tăng - giảm hoặc phân bố tập trung - phân tán.",
+"Rút nhận xét bằng câu ngắn có căn cứ.",
+"Liên hệ nguyên nhân địa lí nếu đề bài yêu cầu."
+],
+"commonMistakes": [
+{
+"mistake": "Bỏ qua chú giải và đoán màu trên bản đồ.",
+"fix": "Luôn đọc chú giải trước khi nhận xét."
+},
+{
+"mistake": "Nhìn biểu đồ nhưng không đọc đơn vị.",
+"fix": "Cần xem đơn vị là phần trăm, người, mm, độ C hay tỉ USD."
+},
+{
+"mistake": "Chỉ mô tả hình mà không rút ra nhận xét.",
+"fix": "Sau khi đọc dữ liệu, cần nói đặc điểm hoặc xu hướng."
+}
+],
+"quickMemory": "Đọc Địa lí theo 4 bước: tên bản đồ/biểu đồ → chú giải/đơn vị → quan sát dữ liệu → nhận xét có căn cứ.",
+"warmupQuestions": [
+{
+"question": "Vì sao cần đọc chú giải bản đồ?",
+"suggestedAnswer": "Vì chú giải cho biết kí hiệu, màu sắc trên bản đồ biểu thị điều gì."
+},
+{
+"question": "Biểu đồ khí hậu thường thể hiện hai yếu tố nào?",
+"suggestedAnswer": "Nhiệt độ và lượng mưa."
+},
+{
+"question": "Khi nhận xét biểu đồ, cần chú ý gì?",
+"suggestedAnswer": "Cần chú ý đơn vị, số liệu cao thấp, xu hướng tăng giảm và sự khác nhau giữa các nhóm."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy nêu 3 việc cần làm trước khi nhận xét một bản đồ.",
+"hint": "Tên bản đồ, chú giải, phương hướng/tỉ lệ.",
+"suggestedAnswer": "Đọc tên bản đồ để biết nội dung, xem chú giải để hiểu kí hiệu và xác định phương hướng hoặc tỉ lệ nếu cần."
+},
+{
+"question": "Một biểu đồ dân số cho thấy dân số tăng liên tục qua các năm. Em nhận xét thế nào?",
+"hint": "Dùng từ xu hướng.",
+"suggestedAnswer": "Dân số có xu hướng tăng liên tục qua các năm."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Phiếu hướng dẫn đọc bản đồ, lược đồ và biểu đồ: tên, chú giải, đơn vị, nhận xét.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài luyện đọc bản đồ và biểu đồ: chọn chú giải đúng, đọc số liệu, viết nhận xét ngắn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_geo_002",
+"subjectKey": "history_geography",
+"learningObjectives": [
+"Xác định được vị trí của châu Âu trên bản đồ thế giới.",
+"Trình bày được một số đặc điểm tự nhiên chính của châu Âu.",
+"Nhận biết được địa hình, biển, sông ngòi và khí hậu ôn đới ở châu Âu.",
+"Hiểu ảnh hưởng của biển và vĩ độ đến khí hậu châu Âu.",
+"Biết đọc bản đồ tự nhiên châu Âu và rút ra nhận xét đơn giản."
+],
+"easyExplanation": "Châu Âu nằm chủ yếu ở bán cầu Bắc, phía tây của lục địa Á - Âu và tiếp giáp nhiều biển, đại dương. Vì có đường bờ biển bị chia cắt mạnh, nhiều bán đảo, vịnh biển và đảo, châu Âu chịu ảnh hưởng rõ của biển. Địa hình châu Âu khá đa dạng: đồng bằng rộng ở phía bắc và trung tâm, núi già, núi trẻ ở một số khu vực, dãy An-pơ nổi bật ở phía nam. Khí hậu phần lớn thuộc đới ôn hòa, nhưng phân hóa theo vĩ độ, khoảng cách tới biển và địa hình. Khi học bài này, bản đồ là bạn đồng hành số một.",
+"workedExamples": [
+{
+"title": "Ảnh hưởng của biển đến khí hậu",
+"problem": "Vì sao nhiều khu vực ven biển châu Âu có khí hậu ôn hòa hơn sâu trong lục địa?",
+"steps": [
+"Biển hấp thụ và tỏa nhiệt chậm hơn đất liền.",
+"Khu vực gần biển chịu ảnh hưởng điều hòa của đại dương.",
+"Mùa đông bớt lạnh, mùa hạ bớt nóng hơn.",
+"Càng vào sâu trong lục địa, tính lục địa thường rõ hơn."
+],
+"answer": "Vì biển có tác dụng điều hòa nhiệt độ, làm vùng ven biển có khí hậu ôn hòa hơn vùng sâu trong lục địa.",
+"explanation": "Khoảng cách tới biển là một chìa khóa khi giải thích khí hậu châu Âu."
+},
+{
+"title": "Đọc bản đồ địa hình",
+"problem": "Nếu bản đồ cho thấy nhiều đồng bằng ở phía bắc và trung tâm châu Âu, có thể nhận xét gì về địa hình khu vực này?",
+"steps": [
+"Đọc chú giải màu địa hình.",
+"Xác định vùng đồng bằng trên bản đồ.",
+"Quan sát phạm vi phân bố.",
+"Rút nhận xét."
+],
+"answer": "Phía bắc và trung tâm châu Âu có nhiều đồng bằng rộng, thuận lợi cho cư trú và phát triển kinh tế.",
+"explanation": "Địa hình ảnh hưởng đến dân cư, giao thông và sản xuất."
+}
+],
+"steps": [
+"Xác định châu Âu trên bản đồ thế giới.",
+"Quan sát đường bờ biển, bán đảo, vịnh biển và đảo.",
+"Đọc bản đồ địa hình để nhận ra đồng bằng, núi, cao nguyên.",
+"Xác định một số sông lớn và biển bao quanh.",
+"Nhận xét khí hậu theo vĩ độ, biển và địa hình.",
+"Tóm tắt bằng bảng: vị trí, địa hình, biển, khí hậu, sông ngòi."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ châu Âu chỉ có khí hậu lạnh.",
+"fix": "Châu Âu chủ yếu ôn hòa nhưng khí hậu phân hóa theo vĩ độ, biển và địa hình."
+},
+{
+"mistake": "Chỉ học tên địa danh mà không đọc bản đồ.",
+"fix": "Cần nhìn vị trí, hướng phân bố và mối quan hệ giữa tự nhiên với dân cư, kinh tế."
+},
+{
+"mistake": "Quên vai trò của biển đối với châu Âu.",
+"fix": "Châu Âu có đường bờ biển chia cắt mạnh, biển ảnh hưởng lớn đến khí hậu và giao thương."
+}
+],
+"quickMemory": "Châu Âu tự nhiên: phía tây Á - Âu, nhiều biển, địa hình đa dạng, khí hậu ôn hòa nhưng phân hóa.",
+"warmupQuestions": [
+{
+"question": "Châu Âu nằm chủ yếu ở bán cầu nào?",
+"suggestedAnswer": "Bán cầu Bắc."
+},
+{
+"question": "Yếu tố nào làm nhiều vùng ven biển châu Âu có khí hậu ôn hòa?",
+"suggestedAnswer": "Ảnh hưởng điều hòa của biển và đại dương."
+},
+{
+"question": "Dãy núi nổi bật ở phía nam châu Âu là dãy nào?",
+"suggestedAnswer": "Dãy An-pơ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập bảng 4 ý về tự nhiên châu Âu: vị trí, địa hình, khí hậu, sông ngòi.",
+"hint": "Mỗi ô viết một nhận xét ngắn.",
+"suggestedAnswer": "Vị trí: phía tây lục địa Á - Âu. Địa hình: đồng bằng rộng, núi phân bố ở một số khu vực. Khí hậu: chủ yếu ôn hòa, phân hóa theo vĩ độ và biển. Sông ngòi: có nhiều sông quan trọng phục vụ giao thông và kinh tế."
+},
+{
+"question": "Giải thích ngắn vì sao bản đồ tự nhiên giúp học tốt bài châu Âu.",
+"hint": "Bản đồ cho thấy vị trí, biển, núi, đồng bằng, sông.",
+"suggestedAnswer": "Bản đồ tự nhiên giúp nhìn rõ vị trí châu Âu, các biển bao quanh, đồng bằng, núi và sông ngòi. Nhờ đó, ta hiểu đặc điểm tự nhiên thay vì học thuộc rời rạc."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bản đồ tự nhiên châu Âu có đánh dấu biển, bán đảo, đồng bằng, dãy An-pơ và vùng khí hậu chính.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả nhãn địa hình, biển, sông và kiểu khí hậu lên bản đồ châu Âu.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_geo_003",
+"subjectKey": "history_geography",
+"learningObjectives": [
+"Trình bày được một số đặc điểm dân cư, xã hội của châu Âu.",
+"Hiểu các khái niệm đô thị hóa và dân số già ở mức cơ bản.",
+"Nêu được một số đặc điểm kinh tế nổi bật của châu Âu như công nghiệp và dịch vụ phát triển.",
+"Biết đọc biểu đồ dân cư hoặc cơ cấu kinh tế đơn giản.",
+"Nhận xét được sự phát triển không đồng đều giữa các khu vực ở châu Âu."
+],
+"easyExplanation": "Châu Âu có mức đô thị hóa cao, nghĩa là tỉ lệ dân cư sống ở thành thị lớn. Nhiều nước châu Âu có dân số già, tức là tỉ lệ người cao tuổi trong dân số lớn, tạo ra cả thuận lợi và thách thức cho xã hội. Kinh tế châu Âu nhìn chung phát triển cao, nổi bật ở công nghiệp hiện đại, dịch vụ, tài chính, du lịch, giao thông và khoa học - kĩ thuật. Tuy nhiên, không phải mọi khu vực đều phát triển giống nhau. Khi học bài này, cần kết hợp bản đồ dân cư, biểu đồ dân số và bảng kinh tế để thấy sự phân hóa.",
+"workedExamples": [
+{
+"title": "Hiểu dân số già",
+"problem": "Dân số già có thể gây ra thách thức gì cho xã hội?",
+"steps": [
+"Dân số già nghĩa là tỉ lệ người cao tuổi tăng.",
+"Số người trong độ tuổi lao động có thể giảm tương đối.",
+"Chi phí chăm sóc y tế và phúc lợi tăng.",
+"Xã hội cần điều chỉnh chính sách lao động và an sinh."
+],
+"answer": "Dân số già có thể làm thiếu lao động và tăng chi phí chăm sóc y tế, phúc lợi xã hội.",
+"explanation": "Dân số già không chỉ là con số, mà ảnh hưởng đến kinh tế và đời sống."
+},
+{
+"title": "Nhận xét cơ cấu kinh tế",
+"problem": "Nếu biểu đồ cho thấy dịch vụ chiếm tỉ trọng lớn nhất trong cơ cấu kinh tế, có thể nhận xét gì?",
+"steps": [
+"Đọc tên biểu đồ và đơn vị.",
+"Xác định khu vực kinh tế chiếm tỉ trọng cao nhất.",
+"Dịch vụ cao thường gắn với kinh tế phát triển.",
+"Viết nhận xét."
+],
+"answer": "Có thể nhận xét dịch vụ giữ vai trò rất quan trọng trong nền kinh tế.",
+"explanation": "Ở nhiều nước phát triển, khu vực dịch vụ thường chiếm tỉ trọng lớn."
+}
+],
+"steps": [
+"Đọc bản đồ phân bố dân cư châu Âu.",
+"Tìm các đô thị và vùng dân cư tập trung.",
+"Hiểu khái niệm đô thị hóa và dân số già.",
+"Đọc biểu đồ hoặc bảng cơ cấu kinh tế.",
+"Nhận xét vai trò của công nghiệp, dịch vụ.",
+"So sánh sự phát triển giữa các khu vực."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ đô thị hóa chỉ là có nhiều nhà cao tầng.",
+"fix": "Đô thị hóa liên quan đến tỉ lệ dân thành thị, lối sống đô thị và vai trò thành phố."
+},
+{
+"mistake": "Nghĩ dân số già chỉ là vấn đề y tế.",
+"fix": "Dân số già còn ảnh hưởng đến lao động, phúc lợi, kinh tế và gia đình."
+},
+{
+"mistake": "Kết luận cả châu Âu phát triển giống nhau.",
+"fix": "Cần chú ý sự khác biệt giữa các khu vực và quốc gia."
+}
+],
+"quickMemory": "Châu Âu dân cư - kinh tế: đô thị hóa cao, dân số già, công nghiệp và dịch vụ phát triển, phân hóa theo khu vực.",
+"warmupQuestions": [
+{
+"question": "Đô thị hóa là gì?",
+"suggestedAnswer": "Là quá trình tăng tỉ lệ dân cư sống ở thành thị và mở rộng vai trò của đô thị."
+},
+{
+"question": "Dân số già là gì?",
+"suggestedAnswer": "Là tình trạng tỉ lệ người cao tuổi trong dân số tăng cao."
+},
+{
+"question": "Khu vực kinh tế nào thường chiếm tỉ trọng lớn ở nhiều nước châu Âu phát triển?",
+"suggestedAnswer": "Dịch vụ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nêu 2 thuận lợi và 2 khó khăn của đô thị hóa cao.",
+"hint": "Thuận lợi về việc làm, dịch vụ; khó khăn về giao thông, môi trường.",
+"suggestedAnswer": "Thuận lợi: tập trung việc làm, dịch vụ, giáo dục và y tế; thúc đẩy giao lưu kinh tế. Khó khăn: áp lực giao thông, nhà ở, ô nhiễm và chi phí sinh hoạt cao."
+},
+{
+"question": "Giải thích vì sao dân số già có thể ảnh hưởng đến kinh tế.",
+"hint": "Liên hệ lực lượng lao động và chi phí chăm sóc.",
+"suggestedAnswer": "Dân số già làm tỉ lệ người trong độ tuổi lao động giảm tương đối, trong khi chi phí y tế và phúc lợi tăng. Điều này có thể tạo áp lực cho kinh tế và ngân sách xã hội."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ châu Âu: dân cư, đô thị hóa, dân số già, công nghiệp, dịch vụ, phân hóa kinh tế.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Đọc biểu đồ dân số già và cơ cấu kinh tế châu Âu để chọn nhận xét đúng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_geo_004",
+"subjectKey": "history_geography",
+"learningObjectives": [
+"Xác định được vị trí và phạm vi rộng lớn của châu Á trên bản đồ thế giới.",
+"Trình bày được một số đặc điểm tự nhiên nổi bật của châu Á.",
+"Nhận biết được sự phân hóa địa hình, khí hậu và cảnh quan ở châu Á.",
+"Hiểu vai trò của gió mùa đối với nhiều khu vực châu Á.",
+"Biết đọc bản đồ tự nhiên và khí hậu châu Á để rút ra nhận xét."
+],
+"easyExplanation": "Châu Á là châu lục rộng lớn nhất thế giới, có tự nhiên rất đa dạng. Vì diện tích lớn và trải dài qua nhiều vĩ độ, châu Á có đủ kiểu địa hình: núi cao, sơn nguyên, đồng bằng rộng, hoang mạc, bán đảo, quần đảo. Khí hậu châu Á cũng phân hóa mạnh, từ lạnh giá ở phía bắc, khô hạn ở sâu trong lục địa đến nóng ẩm gió mùa ở Nam Á, Đông Nam Á và Đông Á. Gió mùa là hiện tượng gió đổi hướng theo mùa, tạo nên mùa mưa và mùa khô rõ ở nhiều nơi. Học châu Á phải học bằng bản đồ, vì chữ không đủ rộng để chứa hết châu lục này.",
+"workedExamples": [
+{
+"title": "Vì sao tự nhiên châu Á phân hóa mạnh?",
+"problem": "Nêu hai nguyên nhân làm tự nhiên châu Á rất đa dạng.",
+"steps": [
+"Châu Á có diện tích rất rộng.",
+"Châu Á trải dài qua nhiều vĩ độ.",
+"Địa hình có núi cao, sơn nguyên, đồng bằng, hoang mạc.",
+"Vì vậy khí hậu và cảnh quan phân hóa mạnh."
+],
+"answer": "Vì châu Á có diện tích rất rộng, trải dài qua nhiều vĩ độ và địa hình đa dạng.",
+"explanation": "Diện tích, vĩ độ và địa hình là ba chiếc chìa khóa giải thích sự phân hóa tự nhiên."
+},
+{
+"title": "Hiểu gió mùa",
+"problem": "Gió mùa ảnh hưởng thế nào đến khí hậu nhiều khu vực châu Á?",
+"steps": [
+"Gió mùa đổi hướng theo mùa.",
+"Một mùa gió có thể đem hơi ẩm từ biển vào đất liền.",
+"Mùa khác có thể khô hơn.",
+"Vì vậy nhiều nơi có mùa mưa và mùa khô rõ."
+],
+"answer": "Gió mùa làm nhiều khu vực châu Á có sự phân mùa mưa - khô rõ rệt.",
+"explanation": "Gió mùa là nhịp thở mùa vụ của nhiều vùng châu Á."
+}
+],
+"steps": [
+"Xác định châu Á trên bản đồ thế giới.",
+"Quan sát phạm vi rộng và vị trí theo vĩ độ.",
+"Đọc bản đồ địa hình để nhận ra núi, sơn nguyên, đồng bằng, hoang mạc.",
+"Đọc bản đồ khí hậu để thấy sự phân hóa.",
+"Tìm các khu vực chịu ảnh hưởng gió mùa.",
+"Liên hệ tự nhiên với dân cư, nông nghiệp và đời sống."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ châu Á có một kiểu khí hậu chung.",
+"fix": "Châu Á rất rộng nên khí hậu phân hóa mạnh theo vĩ độ, địa hình và khoảng cách tới biển."
+},
+{
+"mistake": "Học gió mùa như một định nghĩa khô cứng.",
+"fix": "Cần liên hệ gió mùa với mùa mưa, mùa khô, nông nghiệp và đời sống."
+},
+{
+"mistake": "Chỉ nhớ châu Á đông dân mà bỏ qua tự nhiên.",
+"fix": "Bài này tập trung vào vị trí, địa hình, khí hậu và sự phân hóa tự nhiên."
+}
+],
+"quickMemory": "Châu Á tự nhiên: rộng nhất, địa hình đa dạng, khí hậu phân hóa mạnh, nhiều vùng chịu ảnh hưởng gió mùa.",
+"warmupQuestions": [
+{
+"question": "Châu Á có đặc điểm gì nổi bật về diện tích?",
+"suggestedAnswer": "Là châu lục rộng lớn nhất thế giới."
+},
+{
+"question": "Gió mùa là gì?",
+"suggestedAnswer": "Là loại gió đổi hướng theo mùa, ảnh hưởng đến mùa mưa và mùa khô ở nhiều khu vực."
+},
+{
+"question": "Vì sao khí hậu châu Á phân hóa mạnh?",
+"suggestedAnswer": "Vì châu Á rộng lớn, trải dài qua nhiều vĩ độ và có địa hình đa dạng."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập sơ đồ 4 nhánh về tự nhiên châu Á.",
+"hint": "Dùng các nhánh: vị trí, địa hình, khí hậu, gió mùa.",
+"suggestedAnswer": "Sơ đồ gồm: vị trí và diện tích rộng lớn; địa hình đa dạng với núi, sơn nguyên, đồng bằng; khí hậu phân hóa mạnh; gió mùa ảnh hưởng đến nhiều khu vực."
+},
+{
+"question": "Giải thích vì sao bản đồ rất cần khi học châu Á.",
+"hint": "Châu Á quá rộng và phân hóa phức tạp.",
+"suggestedAnswer": "Vì châu Á rộng lớn, có nhiều kiểu địa hình, khí hậu và khu vực khác nhau. Bản đồ giúp nhìn rõ sự phân bố và mối quan hệ giữa tự nhiên với dân cư, kinh tế."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bản đồ tự nhiên châu Á với các dãy núi, sơn nguyên, đồng bằng, hoang mạc và vùng gió mùa.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả đặc điểm tự nhiên vào đúng khu vực châu Á: Bắc Á, Trung Á, Nam Á, Đông Á, Đông Nam Á.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_geo_005",
+"subjectKey": "history_geography",
+"learningObjectives": [
+"Trình bày được đặc điểm dân cư đông và đa dạng của châu Á.",
+"Nhận biết được sự đa dạng văn hóa, tôn giáo, ngôn ngữ ở châu Á.",
+"Hiểu kinh tế châu Á phát triển không đều giữa các khu vực và quốc gia.",
+"Nêu được một số trung tâm kinh tế lớn và khu vực đang phát triển năng động.",
+"Biết đọc bản đồ dân cư, biểu đồ kinh tế để nhận xét sự phân bố và phát triển."
+],
+"easyExplanation": "Châu Á là châu lục đông dân nhất thế giới và có văn hóa rất đa dạng. Dân cư không phân bố đều: nhiều đồng bằng, vùng ven biển, khu vực gió mùa thường đông dân; hoang mạc, núi cao, vùng lạnh thường thưa dân. Châu Á có nhiều nền văn minh, tôn giáo, ngôn ngữ và phong tục khác nhau, tạo nên một bức tranh văn hóa nhiều màu. Kinh tế châu Á phát triển không đều: có những quốc gia rất phát triển, có nền công nghiệp, dịch vụ hiện đại; cũng có nơi còn gặp khó khăn. Khi học bài này, cần chú ý hai cụm từ: đông và đa dạng, phát triển không đều.",
+"workedExamples": [
+{
+"title": "Giải thích phân bố dân cư",
+"problem": "Vì sao nhiều đồng bằng và vùng ven biển châu Á có dân cư đông?",
+"steps": [
+"Đồng bằng thường thuận lợi cho trồng trọt và cư trú.",
+"Vùng ven biển thuận lợi cho giao thông, đánh bắt, buôn bán.",
+"Nhiều khu vực có khí hậu gió mùa thuận lợi cho nông nghiệp.",
+"Vì vậy dân cư tập trung đông."
+],
+"answer": "Vì các đồng bằng và vùng ven biển thuận lợi cho nông nghiệp, giao thông, buôn bán và đời sống.",
+"explanation": "Phân bố dân cư thường gắn với điều kiện tự nhiên và kinh tế."
+},
+{
+"title": "Hiểu phát triển không đều",
+"problem": "Kinh tế châu Á phát triển không đều nghĩa là gì?",
+"steps": [
+"Không phải quốc gia nào cũng có trình độ phát triển giống nhau.",
+"Một số nước phát triển cao về công nghiệp, công nghệ, dịch vụ.",
+"Một số nước còn phụ thuộc nhiều vào nông nghiệp hoặc tài nguyên.",
+"Sự khác biệt thể hiện qua thu nhập, cơ sở hạ tầng, ngành kinh tế."
+],
+"answer": "Nghĩa là giữa các quốc gia và khu vực châu Á có sự chênh lệch lớn về trình độ kinh tế.",
+"explanation": "Không nên kết luận toàn châu Á phát triển giống nhau."
+}
+],
+"steps": [
+"Đọc bản đồ phân bố dân cư châu Á.",
+"Xác định nơi đông dân và thưa dân.",
+"Tìm nguyên nhân tự nhiên, kinh tế, lịch sử của sự phân bố.",
+"Ghi các biểu hiện đa dạng văn hóa, tôn giáo, ngôn ngữ.",
+"Đọc bảng hoặc biểu đồ kinh tế để thấy sự phát triển không đều.",
+"Tóm tắt bằng sơ đồ: dân cư, văn hóa, kinh tế, phân hóa."
+],
+"commonMistakes": [
+{
+"mistake": "Nói châu Á đông dân nhưng không biết dân cư phân bố không đều.",
+"fix": "Cần nêu rõ nơi đông, nơi thưa và nguyên nhân."
+},
+{
+"mistake": "Gộp văn hóa châu Á thành một kiểu duy nhất.",
+"fix": "Châu Á có nhiều tôn giáo, ngôn ngữ, dân tộc và truyền thống khác nhau."
+},
+{
+"mistake": "Nghĩ kinh tế châu Á hoặc rất giàu hoặc rất nghèo một cách đồng loạt.",
+"fix": "Kinh tế châu Á phát triển không đều, có nhiều mức độ và mô hình khác nhau."
+}
+],
+"quickMemory": "Châu Á dân cư - kinh tế: đông dân, phân bố không đều, văn hóa đa dạng, kinh tế phát triển không đều.",
+"warmupQuestions": [
+{
+"question": "Châu Á có đặc điểm dân số nổi bật nào?",
+"suggestedAnswer": "Là châu lục đông dân nhất thế giới."
+},
+{
+"question": "Dân cư châu Á thường tập trung đông ở đâu?",
+"suggestedAnswer": "Ở đồng bằng, vùng ven biển, khu vực có điều kiện tự nhiên và kinh tế thuận lợi."
+},
+{
+"question": "Kinh tế châu Á phát triển như thế nào giữa các khu vực?",
+"suggestedAnswer": "Phát triển không đều, có nơi rất phát triển, có nơi còn khó khăn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nêu 3 nguyên nhân làm dân cư châu Á phân bố không đều.",
+"hint": "Tự nhiên, kinh tế, lịch sử.",
+"suggestedAnswer": "Điều kiện tự nhiên khác nhau, mức độ phát triển kinh tế khác nhau và lịch sử cư trú lâu đời ở một số đồng bằng, lưu vực sông làm dân cư phân bố không đều."
+},
+{
+"question": "Viết 4 câu nhận xét về dân cư và kinh tế châu Á.",
+"hint": "Nhắc đông dân, đa dạng, phân bố không đều, kinh tế chênh lệch.",
+"suggestedAnswer": "Châu Á là châu lục đông dân nhất thế giới. Dân cư châu Á rất đa dạng về văn hóa, tôn giáo và ngôn ngữ. Dân cư phân bố không đều, tập trung đông ở đồng bằng và ven biển. Kinh tế châu Á phát triển không đều giữa các quốc gia và khu vực."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bản đồ dân cư châu Á với vùng đông dân, thưa dân và các trung tâm kinh tế lớn.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Đọc bản đồ dân cư và biểu đồ kinh tế châu Á để chọn nhận xét đúng/sai.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

@@ -1,0 +1,530 @@
+[
+{
+"lessonId": "g7_science_026",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu trao đổi khí là quá trình sinh vật lấy khí cần thiết và thải khí không cần thiết ra môi trường.",
+"Mô tả được trao đổi khí ở thực vật qua khí khổng.",
+"Mô tả được trao đổi khí ở động vật/người qua cơ quan hô hấp ở mức trực quan.",
+"Phân biệt vai trò của oxygen và carbon dioxide trong hô hấp và quang hợp.",
+"Liên hệ trao đổi khí với hoạt động sống hằng ngày."
+],
+"easyExplanation": "Trao đổi khí là việc sinh vật lấy khí từ môi trường và thải khí ra môi trường. Ở người và nhiều động vật, cơ thể lấy oxygen để hô hấp tế bào và thải carbon dioxide. Ở thực vật, lá có khí khổng giúp khí ra vào. Ban ngày khi có ánh sáng, cây dùng carbon dioxide cho quang hợp và thải oxygen. Cây cũng hô hấp nên vẫn cần oxygen. Vì vậy không nên hiểu đơn giản rằng cây chỉ thải oxygen và không bao giờ dùng oxygen.",
+"workedExamples": [
+{
+"title": "Trao đổi khí ở người",
+"problem": "Khi hô hấp, con người lấy khí gì và thải khí gì?",
+"steps": [
+"Con người cần oxygen cho hô hấp tế bào.",
+"Hô hấp tế bào tạo ra carbon dioxide.",
+"Phổi giúp lấy oxygen vào và thải carbon dioxide ra."
+],
+"answer": "Con người lấy oxygen và thải carbon dioxide.",
+"explanation": "Đây là trao đổi khí giữa cơ thể và môi trường."
+},
+{
+"title": "Trao đổi khí ở lá cây",
+"problem": "Khí khổng ở lá cây có vai trò gì?",
+"steps": [
+"Khí khổng là các lỗ nhỏ trên bề mặt lá.",
+"Khí có thể đi vào và đi ra qua khí khổng.",
+"Nhờ khí khổng, lá trao đổi CO2, O2 và hơi nước với môi trường."
+],
+"answer": "Khí khổng giúp lá trao đổi khí và thoát hơi nước.",
+"explanation": "Khí khổng là cửa nhỏ để lá giao tiếp với không khí."
+}
+],
+"steps": [
+"Xác định sinh vật đang xét là thực vật hay động vật.",
+"Xác định khí được lấy vào và khí được thải ra.",
+"Liên hệ oxygen với hô hấp tế bào.",
+"Liên hệ carbon dioxide với quang hợp ở cây xanh.",
+"Dùng sơ đồ mũi tên để mô tả khí đi vào và đi ra."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ thực vật không cần oxygen.",
+"fix": "Thực vật vẫn cần oxygen cho hô hấp tế bào."
+},
+{
+"mistake": "Nhầm khí khổng với lục lạp.",
+"fix": "Khí khổng giúp trao đổi khí, lục lạp là nơi quang hợp diễn ra mạnh."
+},
+{
+"mistake": "Cho rằng trao đổi khí chỉ xảy ra ở phổi.",
+"fix": "Trao đổi khí có ở nhiều sinh vật với cơ quan/cấu trúc khác nhau."
+}
+],
+"quickMemory": "Trao đổi khí là lấy khí cần và thải khí không cần. Người lấy O2, thải CO2. Lá trao đổi khí qua khí khổng.",
+"warmupQuestions": [
+{
+"question": "Con người lấy khí gì khi hít vào để phục vụ hô hấp tế bào?",
+"suggestedAnswer": "Oxygen."
+},
+{
+"question": "Lá cây trao đổi khí chủ yếu qua cấu trúc nào?",
+"suggestedAnswer": "Khí khổng."
+},
+{
+"question": "Carbon dioxide có vai trò gì trong quang hợp?",
+"suggestedAnswer": "Là nguyên liệu của quang hợp."
+}
+],
+"applicationQuestions": [
+{
+"question": "Vì sao khi vận động mạnh, ta thở nhanh hơn?",
+"hint": "Cơ thể cần nhiều oxygen và cần thải carbon dioxide nhanh hơn.",
+"suggestedAnswer": "Khi vận động mạnh, tế bào cần nhiều năng lượng hơn nên cần nhiều oxygen hơn và tạo nhiều carbon dioxide hơn. Vì vậy ta thở nhanh hơn để trao đổi khí hiệu quả."
+},
+{
+"question": "Hãy vẽ sơ đồ trao đổi khí ở lá cây vào ban ngày.",
+"hint": "Nhắc CO2 đi vào, O2 có thể đi ra, khí khổng là cửa trao đổi.",
+"suggestedAnswer": "CO2 từ không khí đi vào lá qua khí khổng để quang hợp. O2 tạo ra có thể đi ra ngoài qua khí khổng. Lá cũng dùng O2 cho hô hấp tế bào."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ trao đổi khí ở lá cây qua khí khổng và ở người qua phổi.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả O2, CO2, khí khổng, phổi vào sơ đồ trao đổi khí.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_027",
+"subjectKey": "science",
+"learningObjectives": [
+"Nêu được vai trò của nước đối với sinh vật.",
+"Nêu được vai trò của chất dinh dưỡng đối với sinh trưởng và hoạt động sống.",
+"Hiểu nước tham gia vận chuyển chất, điều hòa nhiệt độ và môi trường cho phản ứng sống.",
+"Liên hệ thiếu nước, thiếu dinh dưỡng với biểu hiện sinh trưởng kém.",
+"Biết một số biện pháp chăm sóc cây hoặc cơ thể để đảm bảo nước và dinh dưỡng phù hợp."
+],
+"easyExplanation": "Nước và chất dinh dưỡng là hai điều kiện sống rất quan trọng. Nước giúp hòa tan và vận chuyển chất trong cơ thể, tham gia nhiều quá trình sống, giúp điều hòa nhiệt độ. Ở cây, nước giúp vận chuyển muối khoáng từ rễ lên thân, lá; thiếu nước cây dễ héo. Chất dinh dưỡng cung cấp vật liệu xây dựng cơ thể và năng lượng cho hoạt động sống. Ở người, dinh dưỡng cân đối giúp cơ thể lớn lên khỏe mạnh. Ở cây, muối khoáng và chất hữu cơ giúp cây sinh trưởng.",
+"workedExamples": [
+{
+"title": "Vai trò của nước ở cây",
+"problem": "Vì sao cây thiếu nước thường bị héo?",
+"steps": [
+"Nước giúp duy trì độ căng của tế bào thực vật.",
+"Nước giúp vận chuyển muối khoáng và tham gia quá trình sống.",
+"Khi thiếu nước, tế bào mất độ căng và hoạt động sống giảm.",
+"Lá và thân non có thể rũ xuống."
+],
+"answer": "Cây thiếu nước bị héo vì tế bào mất nước, giảm độ căng và các quá trình sống bị ảnh hưởng.",
+"explanation": "Nước không chỉ để 'uống' mà còn giúp cây giữ hình dạng và vận chuyển chất."
+},
+{
+"title": "Dinh dưỡng và sinh trưởng",
+"problem": "Một cây được tưới nước đầy đủ nhưng trồng trong đất nghèo dinh dưỡng lâu ngày. Cây có thể gặp vấn đề gì?",
+"steps": [
+"Nước đủ nhưng muối khoáng và dinh dưỡng thiếu.",
+"Cây cần chất dinh dưỡng để tạo vật chất mới.",
+"Thiếu dinh dưỡng khiến cây sinh trưởng chậm, lá vàng hoặc yếu."
+],
+"answer": "Cây có thể sinh trưởng chậm, yếu, lá vàng hoặc kém phát triển.",
+"explanation": "Nước và dinh dưỡng đều cần, không thể chỉ có một yếu tố."
+}
+],
+"steps": [
+"Xác định sinh vật cần nước để làm gì.",
+"Xác định chất dinh dưỡng cung cấp vật liệu và năng lượng ra sao.",
+"Liên hệ thiếu nước với héo, khát, giảm hoạt động sống.",
+"Liên hệ thiếu dinh dưỡng với chậm lớn, yếu, kém phát triển.",
+"Đưa ra biện pháp chăm sóc hợp lí."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ nước chỉ có vai trò làm hết khát.",
+"fix": "Nước còn hòa tan, vận chuyển chất, tham gia phản ứng sống và điều hòa nhiệt độ."
+},
+{
+"mistake": "Cho rằng càng nhiều phân bón càng tốt cho cây.",
+"fix": "Cây cần dinh dưỡng phù hợp; quá nhiều phân có thể gây hại."
+},
+{
+"mistake": "Tách rời nước và dinh dưỡng hoàn toàn.",
+"fix": "Nước thường giúp vận chuyển chất dinh dưỡng trong sinh vật."
+}
+],
+"quickMemory": "Nước là dòng vận chuyển và môi trường sống trong cơ thể. Dinh dưỡng là vật liệu và nguồn năng lượng để sinh vật lớn lên.",
+"warmupQuestions": [
+{
+"question": "Nước giúp vận chuyển chất trong cây như thế nào?",
+"suggestedAnswer": "Nước giúp đưa muối khoáng từ rễ lên các bộ phận khác."
+},
+{
+"question": "Thiếu dinh dưỡng lâu ngày có thể làm sinh vật thế nào?",
+"suggestedAnswer": "Sinh trưởng chậm, yếu hoặc kém phát triển."
+},
+{
+"question": "Vì sao con người cần ăn đa dạng thực phẩm?",
+"suggestedAnswer": "Để cung cấp đủ các nhóm chất dinh dưỡng cho cơ thể."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy giải thích vì sao cây trồng trong chậu cần được tưới nước nhưng cũng cần thay đất hoặc bón phân hợp lí.",
+"hint": "Nước và chất dinh dưỡng có vai trò khác nhau nhưng đều cần.",
+"suggestedAnswer": "Tưới nước giúp cây có nước để vận chuyển chất và duy trì hoạt động sống. Thay đất hoặc bón phân hợp lí cung cấp muối khoáng và dinh dưỡng để cây sinh trưởng."
+},
+{
+"question": "Nêu 3 việc giúp cơ thể học sinh có đủ nước và dinh dưỡng.",
+"hint": "Uống nước, ăn cân đối, không bỏ bữa.",
+"suggestedAnswer": "Uống đủ nước, ăn đủ bữa, ăn đa dạng thực phẩm như rau, trái cây, tinh bột, đạm và hạn chế đồ ăn quá nhiều đường/dầu."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ vai trò của nước và chất dinh dưỡng trong cây và cơ thể người.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Phân loại vai trò: vận chuyển, cung cấp năng lượng, xây dựng cơ thể, điều hòa nhiệt độ.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_028",
+"subjectKey": "science",
+"learningObjectives": [
+"Mô tả được sự vận chuyển nước và muối khoáng từ rễ lên thân, lá.",
+"Mô tả được sự vận chuyển chất hữu cơ từ lá đến các bộ phận khác của cây.",
+"Làm quen vai trò của mạch gỗ và mạch rây ở mức cơ bản.",
+"Giải thích được vì sao rễ, thân, lá có liên hệ trong hoạt động sống của cây.",
+"Đọc được sơ đồ vận chuyển chất trong cây."
+],
+"easyExplanation": "Trong cây, các chất không nằm yên một chỗ mà được vận chuyển liên tục. Rễ hút nước và muối khoáng từ đất. Các chất này được đưa lên thân và lá chủ yếu qua mạch gỗ. Lá quang hợp tạo chất hữu cơ, rồi chất hữu cơ được vận chuyển đến thân, rễ, hoa, quả và các bộ phận đang cần nguyên liệu, chủ yếu qua mạch rây. Có thể hình dung cây có hai hệ đường vận chuyển: một đường đưa nước và muối khoáng đi lên, một đường phân phối chất hữu cơ từ nơi tạo ra đến nơi sử dụng hoặc dự trữ.",
+"workedExamples": [
+{
+"title": "Đường đi của nước trong cây",
+"problem": "Nước và muối khoáng được rễ hút vào sẽ đi đến lá bằng con đường nào?",
+"steps": [
+"Rễ hút nước và muối khoáng từ đất.",
+"Nước và muối khoáng đi lên qua thân.",
+"Mạch gỗ là đường vận chuyển chủ yếu.",
+"Cuối cùng nước đến lá để tham gia quá trình sống như quang hợp và thoát hơi nước."
+],
+"answer": "Nước và muối khoáng đi từ rễ lên thân rồi đến lá, chủ yếu qua mạch gỗ.",
+"explanation": "Mạch gỗ vận chuyển nước và muối khoáng từ rễ lên các phần trên của cây."
+},
+{
+"title": "Đường đi của chất hữu cơ",
+"problem": "Chất hữu cơ do lá tạo ra được vận chuyển đi đâu?",
+"steps": [
+"Lá là nơi quang hợp tạo chất hữu cơ.",
+"Cây cần chất hữu cơ ở nhiều bộ phận.",
+"Chất hữu cơ được vận chuyển đến thân, rễ, hoa, quả hoặc nơi dự trữ.",
+"Mạch rây là đường vận chuyển chủ yếu."
+],
+"answer": "Chất hữu cơ từ lá được vận chuyển đến các bộ phận khác của cây, chủ yếu qua mạch rây.",
+"explanation": "Lá tạo chất hữu cơ nhưng toàn cây đều cần sử dụng hoặc dự trữ."
+}
+],
+"steps": [
+"Xác định chất đang xét là nước/muối khoáng hay chất hữu cơ.",
+"Nếu là nước và muối khoáng, đi từ rễ lên thân, lá.",
+"Nếu là chất hữu cơ, xuất phát chủ yếu từ lá.",
+"Gắn mạch gỗ với vận chuyển nước và muối khoáng.",
+"Gắn mạch rây với vận chuyển chất hữu cơ.",
+"Vẽ mũi tên chiều vận chuyển trên sơ đồ cây."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ lá chỉ nhận chất mà không tạo chất.",
+"fix": "Lá quang hợp tạo chất hữu cơ rồi phân phối cho cây."
+},
+{
+"mistake": "Nhầm mạch gỗ và mạch rây.",
+"fix": "Mạch gỗ vận chuyển nước, muối khoáng; mạch rây vận chuyển chất hữu cơ."
+},
+{
+"mistake": "Cho rằng nước chỉ ở rễ, không lên lá.",
+"fix": "Nước được vận chuyển từ rễ lên lá để tham gia quang hợp và thoát hơi nước."
+}
+],
+"quickMemory": "Mạch gỗ đưa nước và muối khoáng từ rễ lên. Mạch rây đưa chất hữu cơ từ lá đi nuôi cây.",
+"warmupQuestions": [
+{
+"question": "Rễ cây hút những chất gì từ đất?",
+"suggestedAnswer": "Nước và muối khoáng."
+},
+{
+"question": "Mạch gỗ chủ yếu vận chuyển gì?",
+"suggestedAnswer": "Nước và muối khoáng."
+},
+{
+"question": "Chất hữu cơ do bộ phận nào tạo ra nhiều nhất?",
+"suggestedAnswer": "Lá cây."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nếu rễ cây bị tổn thương nặng, lá cây có thể bị ảnh hưởng thế nào?",
+"hint": "Rễ hút nước và muối khoáng cho lá.",
+"suggestedAnswer": "Lá có thể héo, quang hợp kém vì không nhận đủ nước và muối khoáng từ rễ."
+},
+{
+"question": "Vì sao quả đang lớn cần nhận chất hữu cơ từ lá?",
+"hint": "Quả cần vật liệu và năng lượng để phát triển.",
+"suggestedAnswer": "Quả cần chất hữu cơ để lớn lên và tích lũy chất dự trữ, nên cần nhận sản phẩm quang hợp từ lá qua mạch rây."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ cây với mũi tên nước/muối khoáng từ rễ lên và chất hữu cơ từ lá đi xuống/đi đến các bộ phận.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo nhãn mạch gỗ, mạch rây, nước, muối khoáng, chất hữu cơ vào sơ đồ thân cây.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_029",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu dinh dưỡng ở động vật/người là quá trình lấy thức ăn, tiêu hóa, hấp thụ và sử dụng chất dinh dưỡng.",
+"Nêu được vai trò cơ bản của tiêu hóa trong việc biến đổi thức ăn.",
+"Nhận biết một số cơ quan chính trong hệ tiêu hóa người ở mức đơn giản.",
+"Hiểu hấp thụ chất dinh dưỡng là đưa chất đã tiêu hóa vào cơ thể.",
+"Liên hệ kiến thức tiêu hóa với thói quen ăn uống lành mạnh."
+],
+"easyExplanation": "Động vật và con người không thể dùng ngay nhiều loại thức ăn ở dạng ban đầu. Cơ thể cần tiêu hóa để biến đổi thức ăn thành các chất đơn giản hơn, có thể hấp thụ. Ở người, thức ăn đi qua miệng, thực quản, dạ dày, ruột non, ruột già. Miệng nghiền nhỏ thức ăn và trộn với nước bọt. Dạ dày nhào trộn và tiêu hóa một phần. Ruột non là nơi tiêu hóa tiếp và hấp thụ nhiều chất dinh dưỡng. Ăn chậm, nhai kĩ, ăn đa dạng và giữ vệ sinh giúp hệ tiêu hóa hoạt động tốt.",
+"workedExamples": [
+{
+"title": "Vai trò của tiêu hóa",
+"problem": "Vì sao thức ăn cần được tiêu hóa trước khi cơ thể sử dụng?",
+"steps": [
+"Nhiều thức ăn có cấu trúc phức tạp.",
+"Cơ thể khó hấp thụ trực tiếp ở dạng ban đầu.",
+"Tiêu hóa biến đổi thức ăn thành chất đơn giản hơn.",
+"Các chất đơn giản có thể được hấp thụ và sử dụng."
+],
+"answer": "Vì tiêu hóa biến đổi thức ăn thành các chất đơn giản để cơ thể hấp thụ và sử dụng.",
+"explanation": "Tiêu hóa là bước chuẩn bị để chất dinh dưỡng đi vào cơ thể."
+},
+{
+"title": "Đường đi của thức ăn",
+"problem": "Hãy sắp xếp đường đi cơ bản của thức ăn ở người: dạ dày, miệng, ruột non, thực quản.",
+"steps": [
+"Thức ăn vào cơ thể qua miệng.",
+"Sau đó đi qua thực quản.",
+"Tiếp theo đến dạ dày.",
+"Sau đó đến ruột non."
+],
+"answer": "Miệng → thực quản → dạ dày → ruột non.",
+"explanation": "Đây là đường đi cơ bản trước khi chất dinh dưỡng được hấp thụ nhiều ở ruột non."
+}
+],
+"steps": [
+"Xác định thức ăn được đưa vào cơ thể.",
+"Mô tả tiêu hóa là biến đổi thức ăn.",
+"Mô tả hấp thụ là đưa chất dinh dưỡng vào cơ thể.",
+"Ghi nhớ đường đi chính của thức ăn.",
+"Liên hệ với thói quen ăn uống và vệ sinh."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm tiêu hóa với hấp thụ.",
+"fix": "Tiêu hóa là biến đổi thức ăn, hấp thụ là đưa chất dinh dưỡng vào cơ thể."
+},
+{
+"mistake": "Nghĩ dạ dày là nơi hấp thụ hầu hết chất dinh dưỡng.",
+"fix": "Ruột non là nơi hấp thụ nhiều chất dinh dưỡng."
+},
+{
+"mistake": "Bỏ qua vai trò của miệng khi tiêu hóa.",
+"fix": "Miệng nghiền nhỏ thức ăn và trộn với nước bọt, giúp tiêu hóa bắt đầu."
+}
+],
+"quickMemory": "Dinh dưỡng ở người: ăn vào → tiêu hóa → hấp thụ → sử dụng. Đường đi: miệng → thực quản → dạ dày → ruột non → ruột già.",
+"warmupQuestions": [
+{
+"question": "Tiêu hóa có vai trò gì?",
+"suggestedAnswer": "Biến đổi thức ăn thành chất đơn giản để cơ thể hấp thụ."
+},
+{
+"question": "Cơ quan nào hấp thụ nhiều chất dinh dưỡng?",
+"suggestedAnswer": "Ruột non."
+},
+{
+"question": "Vì sao nên nhai kĩ khi ăn?",
+"suggestedAnswer": "Để thức ăn được nghiền nhỏ, trộn với nước bọt và dễ tiêu hóa hơn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy nêu 4 thói quen tốt cho hệ tiêu hóa.",
+"hint": "Ăn chậm, nhai kĩ, ăn sạch, ăn đa dạng.",
+"suggestedAnswer": "Ăn chậm nhai kĩ, ăn đủ bữa, ăn thực phẩm sạch, ăn nhiều rau và uống đủ nước."
+},
+{
+"question": "Giải thích vì sao thức ăn bẩn có thể gây hại cho hệ tiêu hóa.",
+"hint": "Có thể chứa vi khuẩn hoặc chất gây bệnh.",
+"suggestedAnswer": "Thức ăn bẩn có thể chứa vi khuẩn, độc tố hoặc kí sinh trùng làm rối loạn tiêu hóa và gây bệnh."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ hệ tiêu hóa người đơn giản có miệng, thực quản, dạ dày, ruột non, ruột già.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp đường đi của thức ăn và ghép chức năng với cơ quan tiêu hóa.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_030",
+"subjectKey": "science",
+"learningObjectives": [
+"Phân biệt sinh trưởng và phát triển ở sinh vật.",
+"Nêu được ví dụ về sinh trưởng như tăng kích thước, khối lượng, số lượng tế bào.",
+"Nêu được ví dụ về phát triển như biến đổi hình thái, chức năng, hoàn thiện cơ quan.",
+"Nhận biết được một số giai đoạn sống trong vòng đời sinh vật.",
+"Nêu được một số yếu tố môi trường ảnh hưởng đến sinh trưởng và phát triển."
+],
+"easyExplanation": "Sinh trưởng là sự tăng lên về kích thước và khối lượng của cơ thể, thường liên quan đến tăng số lượng hoặc kích thước tế bào. Phát triển là những biến đổi làm cơ thể hoàn thiện hơn về hình thái, cấu tạo và chức năng. Ví dụ cây non cao lên là sinh trưởng; cây ra hoa, kết quả là phát triển. Ở bướm, sâu non lớn lên là sinh trưởng, còn biến đổi từ sâu thành nhộng rồi thành bướm là phát triển. Sinh trưởng và phát triển chịu ảnh hưởng của dinh dưỡng, nước, ánh sáng, nhiệt độ và điều kiện sống.",
+"workedExamples": [
+{
+"title": "Phân biệt sinh trưởng và phát triển",
+"problem": "Một cây cao từ 10 cm lên 30 cm, sau đó ra hoa. Hiện tượng nào là sinh trưởng, hiện tượng nào là phát triển?",
+"steps": [
+"Cây cao lên là tăng kích thước.",
+"Tăng kích thước là sinh trưởng.",
+"Ra hoa là biến đổi về cơ quan sinh sản và chức năng.",
+"Ra hoa là phát triển."
+],
+"answer": "Cây cao từ 10 cm lên 30 cm là sinh trưởng. Cây ra hoa là phát triển.",
+"explanation": "Sinh trưởng nghiêng về tăng lượng, phát triển nghiêng về biến đổi chất lượng và chức năng."
+},
+{
+"title": "Yếu tố ảnh hưởng",
+"problem": "Vì sao hai cây cùng loài nhưng cây thiếu ánh sáng thường thấp yếu hơn?",
+"steps": [
+"Ánh sáng ảnh hưởng đến quang hợp.",
+"Quang hợp tạo chất hữu cơ cho cây.",
+"Thiếu ánh sáng làm cây tạo ít chất hữu cơ.",
+"Sinh trưởng và phát triển bị ảnh hưởng."
+],
+"answer": "Vì thiếu ánh sáng làm quang hợp kém, cây tạo ít chất hữu cơ nên sinh trưởng yếu.",
+"explanation": "Môi trường có thể ảnh hưởng mạnh đến sự lớn lên và hoàn thiện của sinh vật."
+}
+],
+"steps": [
+"Xác định hiện tượng có phải tăng kích thước/khối lượng không.",
+"Nếu chủ yếu tăng kích thước hoặc khối lượng, gọi là sinh trưởng.",
+"Nếu có biến đổi hình thái, cơ quan, chức năng, gọi là phát triển.",
+"Xác định giai đoạn sống của sinh vật nếu có.",
+"Tìm yếu tố môi trường ảnh hưởng như nước, dinh dưỡng, ánh sáng, nhiệt độ."
+],
+"commonMistakes": [
+{
+"mistake": "Dùng sinh trưởng và phát triển như hai từ giống hệt nhau.",
+"fix": "Sinh trưởng là tăng kích thước/khối lượng. Phát triển là biến đổi, hoàn thiện cơ quan và chức năng."
+},
+{
+"mistake": "Chỉ nghĩ động vật mới phát triển.",
+"fix": "Thực vật cũng phát triển, ví dụ ra hoa, kết quả."
+},
+{
+"mistake": "Bỏ qua ảnh hưởng môi trường.",
+"fix": "Nước, dinh dưỡng, ánh sáng, nhiệt độ đều ảnh hưởng đến sinh trưởng và phát triển."
+}
+],
+"quickMemory": "Sinh trưởng là lớn lên. Phát triển là biến đổi và hoàn thiện. Cây cao lên là sinh trưởng, cây ra hoa là phát triển.",
+"warmupQuestions": [
+{
+"question": "Sinh trưởng là gì?",
+"suggestedAnswer": "Là sự tăng kích thước, khối lượng hoặc số lượng tế bào của cơ thể."
+},
+{
+"question": "Cây ra hoa là sinh trưởng hay phát triển?",
+"suggestedAnswer": "Là phát triển."
+},
+{
+"question": "Kể hai yếu tố môi trường ảnh hưởng đến sinh trưởng của cây.",
+"suggestedAnswer": "Nước, ánh sáng, dinh dưỡng, nhiệt độ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Phân loại các hiện tượng: em bé tăng cân, sâu biến thành bướm, cây mọc thêm lá, cây ra quả.",
+"hint": "Tăng lượng là sinh trưởng, biến đổi giai đoạn/cơ quan là phát triển.",
+"suggestedAnswer": "Em bé tăng cân và cây mọc thêm lá nghiêng về sinh trưởng. Sâu biến thành bướm và cây ra quả là phát triển."
+},
+{
+"question": "Hãy giải thích vì sao cần chăm sóc cây non đủ nước và ánh sáng.",
+"hint": "Liên hệ quang hợp, vận chuyển chất và sinh trưởng.",
+"suggestedAnswer": "Cây non cần nước để vận chuyển chất và cần ánh sáng để quang hợp tạo chất hữu cơ. Nhờ đó cây sinh trưởng và phát triển tốt."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ phân biệt sinh trưởng và phát triển với ví dụ cây, bướm, người.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo các hiện tượng vào cột sinh trưởng hoặc phát triển.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

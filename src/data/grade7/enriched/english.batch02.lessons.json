@@ -1,0 +1,420 @@
+[
+{
+"lessonId": "g7_eng_u05",
+"subjectKey": "english",
+"learningObjectives": [
+"Gọi tên món ăn, đồ uống quen thuộc và phân loại theo nhóm: food, drink, fruit, vegetable, snack.",
+"Dùng được cấu trúc hỏi đáp về sở thích ăn uống: What food do you like? I like...",
+"Phân biệt và dùng cơ bản danh từ đếm được, không đếm được trong chủ đề đồ ăn.",
+"Biết dùng some, any, much, many trong câu đơn giản.",
+"Viết được đoạn ngắn 4 đến 6 câu giới thiệu bữa ăn yêu thích hoặc món ăn lành mạnh."
+],
+"easyExplanation": "Bài Food and Drink giúp em nói về đồ ăn, đồ uống hằng ngày. Khi học bài này, em không chỉ học từ mới như rice, noodles, chicken, juice, milk, vegetables mà còn học cách nói mình thích gì, cần mua gì, hoặc trong tủ lạnh có gì. Điểm dễ nhầm là có những danh từ đếm được như apples, eggs, bananas, và danh từ không đếm được như rice, milk, water, bread. Với danh từ đếm được số nhiều, ta thường dùng many. Với danh từ không đếm được, ta thường dùng much. Trong câu khẳng định, some rất hay dùng; trong câu phủ định và câu hỏi, any thường xuất hiện.",
+"workedExamples": [
+{
+"title": "Phân biệt some và any",
+"problem": "Điền some hoặc any: There is ___ milk in the bottle. There aren't ___ apples on the table.",
+"steps": [
+"Câu đầu là câu khẳng định: There is ... milk.",
+"Milk là danh từ không đếm được, nhưng trong câu khẳng định vẫn dùng some.",
+"Câu sau là câu phủ định: There aren't ... apples.",
+"Trong câu phủ định, dùng any."
+],
+"answer": "There is some milk in the bottle. There aren't any apples on the table.",
+"explanation": "Some thường đi với câu khẳng định. Any thường đi với câu phủ định và câu hỏi."
+},
+{
+"title": "Hỏi đáp về món ăn yêu thích",
+"problem": "Viết câu trả lời cho câu hỏi: What food do you like?",
+"steps": [
+"Xác định món ăn mình thích.",
+"Dùng mẫu: I like + food.",
+"Có thể thêm lý do bằng because."
+],
+"answer": "I like noodles because they are delicious.",
+"explanation": "Câu trả lời có đủ món ăn và lý do nên tự nhiên hơn."
+}
+],
+"steps": [
+"Học từ vựng theo nhóm: main food, drinks, fruit, vegetables, snacks.",
+"Gạch chân danh từ đếm được và khoanh danh từ không đếm được.",
+"Tập đặt câu với I like, I don't like, There is, There are.",
+"Luyện some, any, much, many bằng câu ngắn.",
+"Viết đoạn ngắn về bữa sáng, bữa trưa hoặc món ăn yêu thích."
+],
+"commonMistakes": [
+{
+"mistake": "Dùng many với danh từ không đếm được: many milk.",
+"fix": "Dùng much milk hoặc some milk."
+},
+{
+"mistake": "Thêm s vào danh từ không đếm được: rices, waters.",
+"fix": "Dùng rice, water. Khi cần đếm, dùng a bowl of rice, a bottle of water."
+},
+{
+"mistake": "Dùng any trong câu khẳng định đơn giản: There is any juice.",
+"fix": "Câu khẳng định thường dùng some: There is some juice."
+}
+],
+"quickMemory": "Some đi với câu khẳng định, any hay đi với phủ định/câu hỏi. Many dùng với danh từ đếm được số nhiều, much dùng với danh từ không đếm được.",
+"warmupQuestions": [
+{
+"question": "Name three drinks in English.",
+"suggestedAnswer": "Water, milk, orange juice."
+},
+{
+"question": "Is bread countable or uncountable?",
+"suggestedAnswer": "Bread is usually uncountable."
+},
+{
+"question": "Complete: There are ___ bananas on the table.",
+"suggestedAnswer": "There are some bananas on the table."
+}
+],
+"applicationQuestions": [
+{
+"question": "Write 4 sentences about your favourite breakfast.",
+"hint": "Use: I usually have..., I like..., There is/are...",
+"suggestedAnswer": "I usually have bread and milk for breakfast. I like eggs. There is some milk in my glass. My breakfast is simple but healthy."
+},
+{
+"question": "Make a shopping list with 3 countable nouns and 2 uncountable nouns.",
+"hint": "Countable: apples, eggs. Uncountable: rice, milk.",
+"suggestedAnswer": "Apples, eggs, bananas, rice, milk."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Bảng hình ảnh chia nhóm food, drink, fruit, vegetables, snacks.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Kéo thả từ vào cột countable hoặc uncountable.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_eng_u06",
+"subjectKey": "english",
+"learningObjectives": [
+"Gọi tên các địa điểm trong thị trấn: school, hospital, market, cinema, park, post office, museum, bus stop.",
+"Hỏi và chỉ đường đơn giản bằng tiếng Anh.",
+"Dùng giới từ chỉ vị trí: next to, opposite, between, near, behind, in front of.",
+"Dùng cấu trúc There is/There are để mô tả nơi chốn.",
+"Viết được đoạn ngắn mô tả khu phố hoặc thị trấn của mình."
+],
+"easyExplanation": "Bài Places in Town giúp em nói về các địa điểm quanh mình và cách đi đến đó. Khi muốn hỏi đường, em có thể dùng Where is the...? hoặc How can I get to...? Khi chỉ đường, các cụm như go straight, turn left, turn right, next to, opposite rất quan trọng. Với mô tả khu phố, em dùng There is nếu có một địa điểm hoặc danh từ không đếm được, dùng There are nếu có nhiều địa điểm.",
+"workedExamples": [
+{
+"title": "Hỏi và chỉ đường",
+"problem": "Hoàn thành đoạn hội thoại: A: Where is the cinema? B: It is ___ the supermarket and the park.",
+"steps": [
+"Câu cần một giới từ/cụm giới từ chỉ vị trí.",
+"Có hai địa điểm: the supermarket and the park.",
+"Khi một vật ở giữa hai vật, dùng between."
+],
+"answer": "It is between the supermarket and the park.",
+"explanation": "Between dùng khi nói một địa điểm nằm giữa hai địa điểm khác."
+},
+{
+"title": "Mô tả thị trấn bằng There is/There are",
+"problem": "Viết 2 câu mô tả thị trấn có một bệnh viện và nhiều cửa hàng.",
+"steps": [
+"Một bệnh viện: dùng There is.",
+"Nhiều cửa hàng: dùng There are.",
+"Danh từ số nhiều cần thêm s: shops."
+],
+"answer": "There is a hospital in my town. There are many shops near the market.",
+"explanation": "There is dùng cho số ít. There are dùng cho số nhiều."
+}
+],
+"steps": [
+"Học tên địa điểm qua hình ảnh hoặc bản đồ nhỏ.",
+"Luyện hỏi: Where is the...? và How can I get to...?",
+"Luyện chỉ đường: go straight, turn left, turn right.",
+"Dùng giới từ vị trí để mô tả bản đồ.",
+"Viết đoạn văn 5 câu về nơi em sống."
+],
+"commonMistakes": [
+{
+"mistake": "Dùng sai There is/There are: There is many shops.",
+"fix": "Many shops là số nhiều, phải dùng There are many shops."
+},
+{
+"mistake": "Nhầm between và next to.",
+"fix": "Between là ở giữa hai nơi. Next to là ngay cạnh một nơi."
+},
+{
+"mistake": "Thiếu mạo từ a/an: There is hospital.",
+"fix": "Viết: There is a hospital."
+}
+],
+"quickMemory": "Hỏi đường dùng Where is...? Chỉ đường dùng go straight, turn left, turn right. Vị trí: next to là bên cạnh, opposite là đối diện, between là ở giữa.",
+"warmupQuestions": [
+{
+"question": "Name three places in town.",
+"suggestedAnswer": "Hospital, cinema, market."
+},
+{
+"question": "Complete: The park is ___ the school and the museum.",
+"suggestedAnswer": "between"
+},
+{
+"question": "How do you say 'rẽ trái' in English?",
+"suggestedAnswer": "Turn left."
+}
+],
+"applicationQuestions": [
+{
+"question": "Look at your neighbourhood and write 5 sentences about places near your house.",
+"hint": "Use There is/There are and prepositions.",
+"suggestedAnswer": "There is a market near my house. There is a school opposite the park. There are many shops on the street. The bus stop is next to the supermarket. The hospital is not far from my house."
+},
+{
+"question": "Write a short dialogue asking for directions to the bus stop.",
+"hint": "Use Where is...? Go straight. Turn right.",
+"suggestedAnswer": "A: Excuse me, where is the bus stop? B: Go straight and turn right. It is next to the park. A: Thank you. B: You're welcome."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bản đồ thị trấn đơn giản để luyện next to, opposite, between, near.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài tập kéo địa điểm vào bản đồ theo câu chỉ dẫn.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_eng_u07",
+"subjectKey": "english",
+"learningObjectives": [
+"Nắm từ vựng về giao thông: traffic lights, zebra crossing, pavement, helmet, seat belt, road sign.",
+"Nói được các quy tắc an toàn giao thông đơn giản.",
+"Dùng should và shouldn't để đưa lời khuyên.",
+"Dùng must và mustn't để nói điều bắt buộc hoặc cấm.",
+"Viết được đoạn ngắn về cách đi học an toàn."
+],
+"easyExplanation": "Bài Traffic and Road Safety giúp em nói về giao thông và cách đi đường an toàn. Khi khuyên ai đó nên làm gì, dùng should. Khi khuyên không nên làm gì, dùng shouldn't. Khi nói điều bắt buộc, dùng must. Khi nói điều cấm hoặc rất không được làm, dùng mustn't. Ví dụ: You should wear a helmet. You mustn't run across the road. Đây là chủ đề vừa học tiếng Anh vừa học thói quen an toàn.",
+"workedExamples": [
+{
+"title": "Dùng should và shouldn't",
+"problem": "Viết lời khuyên cho tình huống: A student rides a bike without a helmet.",
+"steps": [
+"Xác định hành động nguy hiểm: đi xe đạp không đội mũ bảo hiểm.",
+"Dùng should để khuyên điều nên làm.",
+"Dùng shouldn't để nói điều không nên làm."
+],
+"answer": "He should wear a helmet. He shouldn't ride a bike without a helmet.",
+"explanation": "Should là nên, shouldn't là không nên."
+},
+{
+"title": "Dùng must và mustn't",
+"problem": "Hoàn thành câu: You ___ stop when the traffic light is red.",
+"steps": [
+"Đèn đỏ là quy tắc bắt buộc phải dừng.",
+"Điều bắt buộc dùng must.",
+"Sau must dùng động từ nguyên mẫu."
+],
+"answer": "You must stop when the traffic light is red.",
+"explanation": "Must diễn tả quy tắc bắt buộc."
+}
+],
+"steps": [
+"Học từ vựng bằng hình ảnh biển báo và vật dụng an toàn.",
+"Phân biệt should/shouldn't với must/mustn't.",
+"Đặt câu lời khuyên cho người đi bộ, đi xe đạp, đi xe máy.",
+"Luyện nói theo tình huống giao thông.",
+"Viết đoạn văn về đường đi học an toàn."
+],
+"commonMistakes": [
+{
+"mistake": "Thêm to sau should: You should to wear a helmet.",
+"fix": "Sau should dùng động từ nguyên mẫu: You should wear a helmet."
+},
+{
+"mistake": "Nhầm mustn't với don't have to.",
+"fix": "Mustn't là cấm/không được. Don't have to là không cần."
+},
+{
+"mistake": "Dùng helmet cho mọi loại an toàn.",
+"fix": "Helmet là mũ bảo hiểm. Seat belt là dây an toàn."
+}
+],
+"quickMemory": "Should là nên, shouldn't là không nên. Must là phải, mustn't là không được. Đèn đỏ: must stop. Sang đường ẩu: mustn't run.",
+"warmupQuestions": [
+{
+"question": "What should you wear when riding a bike?",
+"suggestedAnswer": "I should wear a helmet."
+},
+{
+"question": "Complete: You ___ cross the road when the light is red.",
+"suggestedAnswer": "mustn't"
+},
+{
+"question": "What does zebra crossing mean?",
+"suggestedAnswer": "It is a place where people cross the road."
+}
+],
+"applicationQuestions": [
+{
+"question": "Write 5 road safety rules for students.",
+"hint": "Use should, shouldn't, must, mustn't.",
+"suggestedAnswer": "Students should wear helmets. They must stop at red lights. They shouldn't use phones on the road. They mustn't run across the road. They should use zebra crossings."
+},
+{
+"question": "Write a short paragraph about how you go to school safely.",
+"hint": "Mention helmet, traffic lights, road signs or zebra crossing.",
+"suggestedAnswer": "I go to school by bike. I always wear a helmet. I stop at red lights and look at road signs. I don't ride too fast. I think road safety is very important."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Bộ hình traffic signs, helmet, zebra crossing, traffic lights để học từ vựng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn should, shouldn't, must, mustn't theo tình huống giao thông.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_eng_u08",
+"subjectKey": "english",
+"learningObjectives": [
+"Nắm từ vựng về phim và truyền thông: film, cartoon, comedy, documentary, actor, actress, director, review.",
+"Nói được thể loại phim yêu thích và lý do.",
+"Dùng tính từ mô tả phim: funny, boring, exciting, scary, moving, interesting.",
+"Viết được review ngắn về một bộ phim hoặc chương trình.",
+"Luyện hỏi đáp ý kiến bằng What do you think of...? và I think..."
+],
+"easyExplanation": "Bài Films and Media giúp em nói về phim, chương trình và ý kiến cá nhân. Khi muốn hỏi người khác nghĩ gì về một bộ phim, dùng What do you think of...? Khi trả lời, dùng I think it is... hoặc In my opinion,... Em cũng cần phân biệt tên thể loại phim như comedy, cartoon, horror film, documentary, action film. Khi viết review ngắn, chỉ cần đủ 4 ý: tên phim, thể loại, nội dung chung, cảm nhận của em.",
+"workedExamples": [
+{
+"title": "Nói ý kiến về phim",
+"problem": "Trả lời câu hỏi: What do you think of the cartoon?",
+"steps": [
+"Xác định đối tượng được hỏi: the cartoon.",
+"Chọn tính từ mô tả: funny, interesting, boring...",
+"Dùng mẫu: I think it is..."
+],
+"answer": "I think it is funny and interesting.",
+"explanation": "Câu trả lời ngắn nhưng đủ ý kiến cá nhân."
+},
+{
+"title": "Viết review phim ngắn",
+"problem": "Viết 4 câu review về một bộ phim em thích.",
+"steps": [
+"Nêu tên phim.",
+"Nêu thể loại phim.",
+"Nói nội dung chung, không cần kể hết.",
+"Nêu cảm nhận và lý do."
+],
+"answer": "My favourite film is Doraemon. It is a cartoon. It is about a robot cat and his friends. I like it because it is funny and creative.",
+"explanation": "Một review ngắn nên có tên phim, thể loại, nội dung và cảm nhận."
+}
+],
+"steps": [
+"Học từ vựng thể loại phim và người làm phim.",
+"Ghép tính từ mô tả với cảm xúc sau khi xem phim.",
+"Luyện hỏi đáp: What do you think of...?",
+"Viết câu với I think, In my opinion, because.",
+"Viết review 4 đến 6 câu về phim hoặc chương trình yêu thích."
+],
+"commonMistakes": [
+{
+"mistake": "Dùng boring và bored lẫn lộn: The film is bored.",
+"fix": "The film is boring. I am bored."
+},
+{
+"mistake": "Chỉ viết tên phim mà không nêu lý do thích.",
+"fix": "Thêm because: I like it because it is funny."
+},
+{
+"mistake": "Dịch word by word 'phim hoạt hình' thành activity film.",
+"fix": "Phim hoạt hình là cartoon hoặc animated film."
+}
+],
+"quickMemory": "Review phim ngắn cần 4 mảnh: name, type, story, opinion. Boring mô tả phim gây chán. Bored mô tả người cảm thấy chán.",
+"warmupQuestions": [
+{
+"question": "Name two types of films.",
+"suggestedAnswer": "Comedy and cartoon."
+},
+{
+"question": "Complete: I like this film because it is ___.",
+"suggestedAnswer": "interesting"
+},
+{
+"question": "Choose the correct sentence: The film is boring / The film is bored.",
+"suggestedAnswer": "The film is boring."
+}
+],
+"applicationQuestions": [
+{
+"question": "Write a short review of a film or TV programme you like.",
+"hint": "Use: My favourite..., It is about..., I like it because...",
+"suggestedAnswer": "My favourite TV programme is a science show. It is about animals and nature. I like it because it is interesting and useful. I often watch it at weekends."
+},
+{
+"question": "Interview a friend about films and write 3 answers.",
+"hint": "Ask: What kind of films do you like? What do you think of cartoons?",
+"suggestedAnswer": "My friend likes comedies. He thinks cartoons are funny. His favourite film is an action film."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Poster minh họa các thể loại phim: comedy, cartoon, documentary, action film, horror film.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Chọn boring/bored, interesting/interested trong câu về phim.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

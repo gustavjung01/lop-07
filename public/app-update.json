@@ -1,0 +1,15 @@
+{
+  "appId": "hoc-tap-lop-07",
+  "channel": "stable",
+  "latestVersion": "1.0.1",
+  "minimumSupportedVersion": "1.0.0",
+  "publishedAt": "2026-06-09T00:00:00.000Z",
+  "title": "Kênh cập nhật Lớp 7",
+  "notes": [
+    "Bản đầu cho kênh kiểm tra cập nhật Lớp 7.",
+    "Hỗ trợ nút tải app desktop và kiểm tra phiên bản mới."
+  ],
+  "downloadUrl": "https://pub-53f18eb6ccaf40f5a7c141e65e97dfb3.r2.dev/app-updates/app-lop-07/HocHungKhoi_Lop07-Win.exe",
+  "installerUrl": "https://pub-53f18eb6ccaf40f5a7c141e65e97dfb3.r2.dev/app-updates/app-lop-07/HocHungKhoi_Lop07-Win.exe",
+  "forceUpdate": false
+}

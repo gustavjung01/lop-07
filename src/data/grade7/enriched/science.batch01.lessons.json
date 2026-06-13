@@ -1,0 +1,525 @@
+[
+{
+"lessonId": "g7_science_001",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu KHTN học bằng quan sát, đặt câu hỏi, dự đoán, thí nghiệm và rút kết luận.",
+"Nêu được các bước cơ bản của quy trình tìm hiểu tự nhiên.",
+"Nhận biết một số quy tắc an toàn trong phòng thực hành.",
+"Biết cách ghi chép kết quả quan sát vào bảng đơn giản.",
+"Phân biệt hiện tượng quan sát được với suy đoán hoặc kết luận."
+],
+"easyExplanation": "Khoa học tự nhiên không phải chỉ học thuộc. Em học bằng cách nhìn hiện tượng, đặt câu hỏi, thử giải thích, làm thí nghiệm hoặc thu thập dữ liệu, rồi rút ra kết luận. Ví dụ thấy cây trong bóng tối mọc yếu hơn, ta có thể đặt câu hỏi: Ánh sáng có ảnh hưởng đến sự phát triển của cây không? Sau đó thiết kế thí nghiệm so sánh cây có ánh sáng và cây thiếu ánh sáng. Trong phòng thực hành, an toàn là luật đầu tiên: không tự ý nếm, ngửi sát hóa chất, không chạy nhảy, đọc hướng dẫn trước khi làm.",
+"workedExamples": [
+{
+"title": "Từ hiện tượng đến câu hỏi khoa học",
+"problem": "Một bạn thấy nước trong cốc để ngoài nắng nóng lên. Hãy đặt một câu hỏi khoa học và nêu cách kiểm tra.",
+"steps": [
+"Xác định hiện tượng quan sát được: nước để ngoài nắng nóng lên.",
+"Đặt câu hỏi có thể kiểm tra: ánh sáng mặt trời có làm nước tăng nhiệt độ không?",
+"Thiết kế so sánh: một cốc để ngoài nắng, một cốc để trong bóng râm.",
+"Đo nhiệt độ ban đầu và sau một khoảng thời gian như nhau."
+],
+"answer": "Câu hỏi: Ánh sáng mặt trời có làm nước tăng nhiệt độ không? Cách kiểm tra: đặt hai cốc nước giống nhau, một cốc ngoài nắng và một cốc trong bóng râm, đo nhiệt độ trước và sau 20 phút.",
+"explanation": "Một câu hỏi khoa học tốt nên có thể kiểm tra bằng quan sát, đo đạc hoặc thí nghiệm."
+},
+{
+"title": "Ghi kết quả quan sát",
+"problem": "Khi quan sát hạt đậu nảy mầm trong 3 ngày, cần ghi những gì?",
+"steps": [
+"Ghi thời gian quan sát.",
+"Ghi đặc điểm nhìn thấy như chiều dài rễ, màu sắc, số lá.",
+"Không trộn cảm xúc cá nhân vào phần dữ liệu.",
+"Có thể lập bảng ngày 1, ngày 2, ngày 3."
+],
+"answer": "Nên ghi ngày quan sát, chiều dài rễ, số lá, màu sắc và thay đổi nổi bật của hạt đậu.",
+"explanation": "Dữ liệu tốt là dữ liệu rõ, có thể so sánh và không mơ hồ."
+}
+],
+"steps": [
+"Quan sát hiện tượng bằng mắt, tai, mũi ở khoảng cách an toàn hoặc bằng dụng cụ.",
+"Đặt câu hỏi cụ thể, có thể kiểm tra.",
+"Dự đoán kết quả trước khi làm thí nghiệm.",
+"Tiến hành quan sát/thí nghiệm và ghi dữ liệu.",
+"So sánh dữ liệu với dự đoán rồi rút kết luận."
+],
+"commonMistakes": [
+{
+"mistake": "Gọi luôn suy đoán là kết luận.",
+"fix": "Suy đoán là ý nghĩ ban đầu. Kết luận phải dựa trên dữ liệu."
+},
+{
+"mistake": "Làm thí nghiệm khi chưa đọc hướng dẫn.",
+"fix": "Đọc hướng dẫn và nghe giáo viên trước, đặc biệt khi có hóa chất, lửa hoặc dụng cụ sắc nhọn."
+},
+{
+"mistake": "Ghi kết quả kiểu chung chung: cây đẹp hơn, nước nóng hơn.",
+"fix": "Ghi cụ thể: cây cao 5 cm, nước 35 độ C."
+}
+],
+"quickMemory": "KHTN đi theo đường: quan sát → câu hỏi → dự đoán → kiểm tra → dữ liệu → kết luận. An toàn luôn đứng trước tò mò.",
+"warmupQuestions": [
+{
+"question": "Một câu hỏi khoa học cần có đặc điểm gì?",
+"suggestedAnswer": "Nên rõ ràng và có thể kiểm tra bằng quan sát, đo đạc hoặc thí nghiệm."
+},
+{
+"question": "Vì sao không được tự ý nếm hóa chất trong phòng thực hành?",
+"suggestedAnswer": "Vì hóa chất có thể độc, gây bỏng hoặc nguy hiểm cho cơ thể."
+},
+{
+"question": "Dữ liệu và kết luận khác nhau thế nào?",
+"suggestedAnswer": "Dữ liệu là thông tin thu được. Kết luận là nhận định rút ra từ dữ liệu."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy thiết kế một thí nghiệm đơn giản để kiểm tra cây cần ánh sáng hay không.",
+"hint": "So sánh hai cây giống nhau, chỉ khác điều kiện ánh sáng.",
+"suggestedAnswer": "Đặt hai cây giống nhau, tưới lượng nước như nhau. Một cây để nơi có ánh sáng, một cây để nơi tối. Đo chiều cao và quan sát màu lá trong vài ngày rồi so sánh."
+},
+{
+"question": "Kể 4 quy tắc an toàn trong phòng thực hành.",
+"hint": "Nghĩ đến hóa chất, dụng cụ, lửa, hành vi trong lớp.",
+"suggestedAnswer": "Không chạy nhảy, không tự ý nếm hóa chất, đeo kính/găng khi cần, báo ngay cho giáo viên khi có sự cố."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ quy trình tìm hiểu tự nhiên từ quan sát đến kết luận.",
+"priority": "high"
+},
+{
+"type": "image",
+"description": "Bảng biểu tượng an toàn phòng thực hành: kính bảo hộ, găng tay, cấm ăn uống, cảnh báo hóa chất.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_002",
+"subjectKey": "science",
+"learningObjectives": [
+"Nêu được vai trò của đo lường trong KHTN.",
+"Nhận biết một số đại lượng thường gặp: khối lượng, thể tích, thời gian, nhiệt độ, tốc độ.",
+"Chọn được dụng cụ đo phù hợp với từng đại lượng.",
+"Biết đọc kết quả đo và ghi kèm đơn vị.",
+"Thực hiện được một số đổi đơn vị cơ bản ở mức nhập môn."
+],
+"easyExplanation": "Đo lường giúp khoa học bớt mơ hồ. Thay vì nói vật này nặng, ta đo được 500 g. Thay vì nói nước nóng, ta đo được 60 độ C. Mỗi đại lượng có dụng cụ và đơn vị riêng: khối lượng dùng cân, đơn vị g hoặc kg; thể tích dùng bình chia độ, đơn vị mL hoặc L; thời gian dùng đồng hồ, đơn vị giây, phút; nhiệt độ dùng nhiệt kế, đơn vị độ C. Khi ghi kết quả đo, không được quên đơn vị, vì số 25 không nói rõ là 25 giây, 25 cm hay 25 độ C.",
+"workedExamples": [
+{
+"title": "Chọn dụng cụ đo phù hợp",
+"problem": "Muốn đo thể tích của 80 mL nước, nên dùng cân, thước hay bình chia độ?",
+"steps": [
+"Xác định đại lượng cần đo: thể tích.",
+"Thể tích chất lỏng thường đo bằng bình chia độ.",
+"Đơn vị phù hợp là mL."
+],
+"answer": "Dùng bình chia độ, ghi kết quả theo mL.",
+"explanation": "Cân đo khối lượng, thước đo chiều dài, bình chia độ đo thể tích chất lỏng."
+},
+{
+"title": "Đổi đơn vị đơn giản",
+"problem": "Đổi 2,5 kg ra gam.",
+"steps": [
+"Nhớ 1 kg = 1000 g.",
+"Lấy 2,5 nhân 1000.",
+"Ghi kết quả kèm đơn vị."
+],
+"answer": "2,5 kg = 2500 g.",
+"explanation": "Khi đổi từ kg sang g, nhân với 1000."
+}
+],
+"steps": [
+"Xác định đại lượng cần đo trước.",
+"Chọn dụng cụ đo phù hợp.",
+"Kiểm tra vạch chia và giới hạn đo của dụng cụ.",
+"Đặt mắt đúng vị trí khi đọc số đo.",
+"Ghi kết quả gồm số đo và đơn vị."
+],
+"commonMistakes": [
+{
+"mistake": "Ghi kết quả đo mà quên đơn vị.",
+"fix": "Luôn ghi đủ: 25 cm, 40 giây, 500 g, 30 độ C."
+},
+{
+"mistake": "Dùng sai dụng cụ, ví dụ dùng cân để đo thể tích nước.",
+"fix": "Đại lượng nào dùng dụng cụ đó: cân đo khối lượng, bình chia độ đo thể tích."
+},
+{
+"mistake": "Đọc mực nước trong bình chia độ từ góc nghiêng.",
+"fix": "Đặt mắt ngang với mực chất lỏng để đọc chính xác hơn."
+}
+],
+"quickMemory": "Đo lường = số đo + đơn vị. Chọn đúng dụng cụ trước khi đo: cân, thước, bình chia độ, đồng hồ, nhiệt kế.",
+"warmupQuestions": [
+{
+"question": "Dụng cụ nào dùng để đo nhiệt độ?",
+"suggestedAnswer": "Nhiệt kế."
+},
+{
+"question": "1 kg bằng bao nhiêu gam?",
+"suggestedAnswer": "1 kg = 1000 g."
+},
+{
+"question": "Vì sao số đo cần có đơn vị?",
+"suggestedAnswer": "Vì nếu không có đơn vị thì không biết số đó đang chỉ đại lượng nào."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy chọn dụng cụ và đơn vị để đo chiều dài bàn học.",
+"hint": "Chiều dài thường dùng thước.",
+"suggestedAnswer": "Dùng thước mét hoặc thước dây, ghi đơn vị cm hoặc m."
+},
+{
+"question": "Một bạn ghi kết quả là 36. Em hãy giải thích vì sao kết quả này chưa đủ.",
+"hint": "Thiếu phần quan trọng sau số đo.",
+"suggestedAnswer": "Kết quả thiếu đơn vị. Cần ghi rõ 36 cm, 36 giây, 36 độ C hoặc đơn vị phù hợp."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Bộ hình dụng cụ đo: cân, thước, nhiệt kế, đồng hồ bấm giây, bình chia độ.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Ghép đại lượng với dụng cụ đo và đơn vị phù hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_003",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu nguyên tử là hạt rất nhỏ cấu tạo nên các chất.",
+"Nêu được cấu tạo cơ bản của nguyên tử gồm hạt nhân và lớp electron.",
+"Biết proton mang điện tích dương, electron mang điện tích âm, neutron không mang điện.",
+"Đọc được mô hình nguyên tử đơn giản.",
+"Nhận ra nguyên tử trung hòa có số proton bằng số electron."
+],
+"easyExplanation": "Mọi chất quanh ta đều được tạo nên từ những hạt rất nhỏ gọi là nguyên tử. Nguyên tử giống một mô hình có phần trung tâm là hạt nhân và các electron chuyển động xung quanh. Trong hạt nhân có proton mang điện dương và neutron không mang điện. Electron mang điện âm. Một nguyên tử bình thường trung hòa về điện vì số proton dương bằng số electron âm. Bài này quan trọng vì nó là viên gạch đầu tiên để học nguyên tố, phân tử và phản ứng hóa học sau này.",
+"workedExamples": [
+{
+"title": "Xác định điện tích của hạt trong nguyên tử",
+"problem": "Cho ba hạt: proton, neutron, electron. Hạt nào mang điện dương, hạt nào mang điện âm, hạt nào không mang điện?",
+"steps": [
+"Nhớ proton nằm trong hạt nhân và mang điện dương.",
+"Neutron nằm trong hạt nhân và không mang điện.",
+"Electron ở xung quanh hạt nhân và mang điện âm."
+],
+"answer": "Proton mang điện dương, electron mang điện âm, neutron không mang điện.",
+"explanation": "Tên electron thường gắn với điện âm trong mô hình nguyên tử cơ bản."
+},
+{
+"title": "Nguyên tử trung hòa",
+"problem": "Một nguyên tử có 6 proton và 6 electron. Nguyên tử này có trung hòa về điện không?",
+"steps": [
+"Proton mang điện dương.",
+"Electron mang điện âm.",
+"Số proton bằng số electron nên điện dương và điện âm cân bằng."
+],
+"answer": "Có. Nguyên tử trung hòa về điện.",
+"explanation": "Nguyên tử trung hòa khi số proton bằng số electron."
+}
+],
+"steps": [
+"Học tên ba loại hạt: proton, neutron, electron.",
+"Ghi nhớ điện tích của từng hạt.",
+"Nhìn mô hình để xác định hạt nhân và lớp electron.",
+"So sánh số proton và electron để xét trung hòa điện.",
+"Liên hệ nguyên tử với chất quen thuộc như nước, sắt, oxygen."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ nguyên tử là hạt không còn cấu tạo bên trong.",
+"fix": "Ở mức lớp 7, nguyên tử có hạt nhân và electron."
+},
+{
+"mistake": "Nhầm neutron mang điện âm.",
+"fix": "Neutron không mang điện. Electron mới mang điện âm."
+},
+{
+"mistake": "Nói nguyên tử trung hòa vì không có hạt mang điện.",
+"fix": "Nguyên tử trung hòa vì điện dương và điện âm cân bằng nhau."
+}
+],
+"quickMemory": "Proton dương, electron âm, neutron không điện. Hạt nhân ở giữa, electron ở xung quanh.",
+"warmupQuestions": [
+{
+"question": "Nguyên tử gồm hai phần chính nào?",
+"suggestedAnswer": "Hạt nhân và lớp electron xung quanh."
+},
+{
+"question": "Electron mang điện tích gì?",
+"suggestedAnswer": "Electron mang điện tích âm."
+},
+{
+"question": "Khi nào nguyên tử trung hòa về điện?",
+"suggestedAnswer": "Khi số proton bằng số electron."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một nguyên tử có 8 proton và 8 electron. Nó có trung hòa không? Vì sao?",
+"hint": "So sánh số proton và electron.",
+"suggestedAnswer": "Có. Vì số proton bằng số electron nên điện tích dương và âm cân bằng."
+},
+{
+"question": "Hãy giải thích bằng lời của em vì sao nguyên tử rất quan trọng khi học về chất.",
+"hint": "Nghĩ đến việc mọi chất đều được tạo nên từ các hạt rất nhỏ.",
+"suggestedAnswer": "Nguyên tử quan trọng vì các chất được tạo nên từ nguyên tử. Muốn hiểu chất và phản ứng hóa học cần hiểu nguyên tử trước."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mô hình nguyên tử đơn giản có hạt nhân, proton, neutron và electron.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả proton, neutron, electron vào đúng vị trí và điện tích.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_004",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu nguyên tố hóa học là tập hợp các nguyên tử có cùng số proton trong hạt nhân.",
+"Nhận biết kí hiệu hóa học của một số nguyên tố phổ biến.",
+"Biết cách viết kí hiệu hóa học đúng chữ hoa, chữ thường.",
+"Phân biệt tên nguyên tố và kí hiệu hóa học.",
+"Vận dụng số proton để nhận biết nguyên tố ở mức cơ bản."
+],
+"easyExplanation": "Nguyên tố hóa học được xác định bởi số proton trong hạt nhân. Các nguyên tử có cùng số proton thì thuộc cùng một nguyên tố. Ví dụ các nguyên tử có 1 proton là hydrogen, kí hiệu H. Oxygen có kí hiệu O, carbon có kí hiệu C, sodium có kí hiệu Na. Kí hiệu hóa học thường gồm một hoặc hai chữ cái. Chữ cái đầu luôn viết hoa, chữ cái thứ hai nếu có thì viết thường. Vì vậy sodium là Na, không phải NA; chlorine là Cl, không phải CL.",
+"workedExamples": [
+{
+"title": "Viết kí hiệu hóa học đúng",
+"problem": "Trong các kí hiệu sau, kí hiệu nào viết đúng: NA, Na, na?",
+"steps": [
+"Kí hiệu hóa học có chữ đầu viết hoa.",
+"Nếu có chữ thứ hai thì viết thường.",
+"Sodium có kí hiệu gồm hai chữ cái."
+],
+"answer": "Na là kí hiệu viết đúng.",
+"explanation": "NA sai vì chữ thứ hai không viết hoa. na sai vì chữ đầu không viết hoa."
+},
+{
+"title": "Nhận biết nguyên tố bằng số proton",
+"problem": "Hai nguyên tử đều có 8 proton. Chúng có thuộc cùng một nguyên tố không?",
+"steps": [
+"Nguyên tố hóa học được xác định bằng số proton.",
+"Hai nguyên tử có cùng số proton.",
+"Vậy chúng thuộc cùng một nguyên tố."
+],
+"answer": "Có. Chúng thuộc cùng một nguyên tố.",
+"explanation": "Số proton là dấu hiệu nhận biết nguyên tố."
+}
+],
+"steps": [
+"Nhớ định nghĩa: cùng số proton là cùng nguyên tố.",
+"Học một số kí hiệu phổ biến: H, O, C, N, Na, Cl, Fe, Cu.",
+"Luyện quy tắc viết hoa chữ cái đầu, viết thường chữ thứ hai.",
+"Tách tên nguyên tố và kí hiệu hóa học trong bảng.",
+"Làm bài nhận biết nguyên tố qua số proton."
+],
+"commonMistakes": [
+{
+"mistake": "Viết kí hiệu hai chữ cái đều in hoa: CL, NA.",
+"fix": "Chỉ chữ đầu viết hoa: Cl, Na."
+},
+{
+"mistake": "Nghĩ nguyên tố được xác định bằng số electron.",
+"fix": "Nguyên tố được xác định bằng số proton."
+},
+{
+"mistake": "Nhầm tên nguyên tố với kí hiệu hóa học.",
+"fix": "Oxygen là tên nguyên tố, O là kí hiệu hóa học."
+}
+],
+"quickMemory": "Nguyên tố = cùng số proton. Kí hiệu hóa học: chữ đầu viết hoa, chữ sau viết thường.",
+"warmupQuestions": [
+{
+"question": "Kí hiệu hóa học của oxygen là gì?",
+"suggestedAnswer": "O."
+},
+{
+"question": "Na hay NA là kí hiệu đúng của sodium?",
+"suggestedAnswer": "Na."
+},
+{
+"question": "Nguyên tố hóa học được xác định bởi hạt nào?",
+"suggestedAnswer": "Số proton trong hạt nhân."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hai nguyên tử A và B cùng có 11 proton. Chúng có cùng nguyên tố không?",
+"hint": "Dùng định nghĩa nguyên tố hóa học.",
+"suggestedAnswer": "Có. Vì chúng có cùng số proton nên thuộc cùng một nguyên tố."
+},
+{
+"question": "Sửa các kí hiệu viết sai: he, CL, fe.",
+"hint": "Chữ đầu viết hoa, chữ thứ hai viết thường.",
+"suggestedAnswer": "He, Cl, Fe."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Thẻ học nguyên tố phổ biến gồm tên, kí hiệu và số proton.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Bài chọn kí hiệu hóa học viết đúng và sửa kí hiệu sai.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_005",
+"subjectKey": "science",
+"learningObjectives": [
+"Nhận biết bảng tuần hoàn là cách sắp xếp các nguyên tố hóa học theo quy luật.",
+"Biết ô nguyên tố thường cho biết kí hiệu, tên nguyên tố và số hiệu nguyên tử.",
+"Hiểu sơ lược chu kì là hàng ngang và nhóm là cột dọc.",
+"Đọc được thông tin cơ bản từ một ô nguyên tố đơn giản.",
+"Nhận ra bảng tuần hoàn giúp tra cứu và dự đoán một số đặc điểm nguyên tố."
+],
+"easyExplanation": "Bảng tuần hoàn giống một bản đồ của các nguyên tố hóa học. Mỗi nguyên tố nằm trong một ô. Ô nguyên tố thường cho ta biết số hiệu nguyên tử, kí hiệu hóa học và tên nguyên tố. Các hàng ngang gọi là chu kì, các cột dọc gọi là nhóm. Ở mức lớp 7, em chưa cần nhớ toàn bộ bảng, mà cần biết cách đọc thông tin cơ bản và hiểu rằng các nguyên tố được sắp xếp có quy luật, không phải đặt ngẫu nhiên.",
+"workedExamples": [
+{
+"title": "Đọc ô nguyên tố",
+"problem": "Một ô nguyên tố ghi số 8, kí hiệu O, tên Oxygen. Hãy nêu thông tin đọc được.",
+"steps": [
+"Số 8 là số hiệu nguyên tử ở mức đọc cơ bản.",
+"O là kí hiệu hóa học.",
+"Oxygen là tên nguyên tố.",
+"Có thể liên hệ số hiệu nguyên tử với số proton."
+],
+"answer": "Nguyên tố là oxygen, kí hiệu O, số hiệu nguyên tử 8.",
+"explanation": "Một ô nguyên tố cho phép tra cứu nhanh thông tin quan trọng của nguyên tố."
+},
+{
+"title": "Phân biệt chu kì và nhóm",
+"problem": "Trong bảng tuần hoàn, hàng ngang và cột dọc lần lượt gọi là gì?",
+"steps": [
+"Quan sát bảng tuần hoàn như một bảng có hàng và cột.",
+"Hàng ngang gọi là chu kì.",
+"Cột dọc gọi là nhóm."
+],
+"answer": "Hàng ngang là chu kì, cột dọc là nhóm.",
+"explanation": "Ghi nhớ theo hình ảnh: chu kì nằm ngang, nhóm đứng dọc."
+}
+],
+"steps": [
+"Quan sát bảng tuần hoàn tổng thể trước, chưa cần học thuộc.",
+"Chọn một ô nguyên tố và đọc số hiệu, kí hiệu, tên.",
+"Xác định hàng ngang là chu kì.",
+"Xác định cột dọc là nhóm.",
+"Luyện tra cứu vài nguyên tố quen thuộc như H, O, C, Na, Cl, Fe."
+],
+"commonMistakes": [
+{
+"mistake": "Cố học thuộc cả bảng tuần hoàn ngay từ đầu.",
+"fix": "Trước hết học cách đọc ô nguyên tố, chu kì và nhóm."
+},
+{
+"mistake": "Nhầm chu kì với nhóm.",
+"fix": "Chu kì là hàng ngang, nhóm là cột dọc."
+},
+{
+"mistake": "Nhìn kí hiệu mà không phân biệt chữ hoa/chữ thường.",
+"fix": "Kí hiệu hóa học phải viết đúng: Co khác CO, Na khác NA."
+}
+],
+"quickMemory": "Bảng tuần hoàn là bản đồ nguyên tố. Ô nguyên tố cho biết thông tin. Chu kì là hàng ngang, nhóm là cột dọc.",
+"warmupQuestions": [
+{
+"question": "Trong bảng tuần hoàn, hàng ngang gọi là gì?",
+"suggestedAnswer": "Chu kì."
+},
+{
+"question": "Cột dọc trong bảng tuần hoàn gọi là gì?",
+"suggestedAnswer": "Nhóm."
+},
+{
+"question": "Một ô nguyên tố thường cho biết những thông tin nào?",
+"suggestedAnswer": "Số hiệu nguyên tử, kí hiệu hóa học và tên nguyên tố."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy chọn một nguyên tố quen thuộc trong bảng tuần hoàn và ghi tên, kí hiệu, số hiệu nguyên tử.",
+"hint": "Có thể chọn H, O, C, Na, Cl.",
+"suggestedAnswer": "Oxygen, kí hiệu O, số hiệu nguyên tử 8."
+},
+{
+"question": "Giải thích vì sao bảng tuần hoàn giống một bản đồ.",
+"hint": "Bản đồ giúp tìm vị trí và thông tin.",
+"suggestedAnswer": "Vì bảng tuần hoàn sắp xếp các nguyên tố theo vị trí có quy luật, giúp ta tra cứu tên, kí hiệu và thông tin cơ bản của nguyên tố."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Hình bảng tuần hoàn đơn giản có đánh dấu ô nguyên tố, chu kì, nhóm.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài bấm vào ô nguyên tố để đọc kí hiệu, tên, số hiệu và vị trí.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

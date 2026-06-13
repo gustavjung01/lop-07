@@ -1,0 +1,532 @@
+[
+{
+"lessonId": "g7_lit_001",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được đặc điểm cơ bản của truyện dân gian qua cốt truyện, nhân vật, chi tiết kì ảo.",
+"Phân tích được vai trò của chi tiết kì ảo trong việc làm nổi bật bài học nhân sinh.",
+"Tóm tắt được sự việc chính của truyện theo trình tự hợp lí.",
+"Nhận xét được tính cách nhân vật qua hành động, lời nói và lựa chọn.",
+"Rút ra được thông điệp hoặc bài học từ truyện bằng lời của mình."
+],
+"easyExplanation": "Truyện dân gian thường có những chi tiết khác thường như vật thần, phép màu, con vật biết nói hoặc thử thách kì lạ. Những chi tiết ấy không chỉ để làm truyện hấp dẫn, mà còn giúp soi rõ phẩm chất con người. Trong câu chuyện chiếc đèn cũ ở giếng làng, điều quan trọng không phải chiếc đèn có phép màu hay không, mà là nó làm lộ ra lòng tham, lòng tốt, sự trung thực hoặc ích kỉ của từng nhân vật. Khi đọc truyện dân gian, em nên hỏi: chi tiết kì ảo xuất hiện ở đâu, nó làm thay đổi sự việc thế nào, và nó giúp gửi gắm bài học gì.",
+"workedExamples": [
+{
+"title": "Phân tích chi tiết kì ảo",
+"problem": "Chiếc đèn cũ có khả năng soi rõ lòng người. Chi tiết này có tác dụng gì trong truyện?",
+"steps": [
+"Xác định chi tiết kì ảo: chiếc đèn soi rõ lòng tham và lòng tốt.",
+"Xem chi tiết đó tác động đến nhân vật như thế nào.",
+"Nhận ra chi tiết giúp bộc lộ bản chất nhân vật.",
+"Liên hệ với bài học: con người được đánh giá qua lựa chọn và hành động."
+],
+"answer": "Chi tiết chiếc đèn giúp câu chuyện hấp dẫn hơn, đồng thời làm rõ phẩm chất của các nhân vật. Ai tham lam, ích kỉ hay tốt bụng đều được bộc lộ qua cách ứng xử với chiếc đèn.",
+"explanation": "Chi tiết kì ảo trong truyện dân gian thường là chiếc gương soi đạo đức, giúp người đọc nhận ra bài học."
+},
+{
+"title": "Rút bài học nhân sinh",
+"problem": "Từ câu chuyện, có thể rút ra bài học gì?",
+"steps": [
+"Nhìn vào kết cục của người tốt và người tham.",
+"Xác định hành vi nào được truyện ca ngợi.",
+"Xác định hành vi nào bị phê phán.",
+"Viết bài học bằng câu ngắn gọn."
+],
+"answer": "Câu chuyện nhắc ta sống trung thực, biết giúp đỡ người khác và không để lòng tham che mất điều tốt đẹp.",
+"explanation": "Bài học nên gắn với hành động cụ thể trong truyện, không viết quá chung chung."
+}
+],
+"steps": [
+"Đọc nhanh để nắm nhân vật, sự việc chính và chi tiết kì ảo.",
+"Tóm tắt truyện theo 3 phần: mở đầu, thử thách, kết quả.",
+"Gạch chân chi tiết kì ảo và sự việc nó làm thay đổi.",
+"Phân tích nhân vật qua hành động, lời nói, lựa chọn.",
+"Rút thông điệp bằng một hoặc hai câu."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ kể lại truyện mà không phân tích chi tiết kì ảo.",
+"fix": "Sau khi kể chi tiết, cần nói nó có tác dụng gì với cốt truyện và thông điệp."
+},
+{
+"mistake": "Rút bài học quá chung: phải sống tốt.",
+"fix": "Viết cụ thể hơn: không tham lam, biết giúp đỡ, trung thực trong lựa chọn."
+},
+{
+"mistake": "Nhầm nhân vật chính với nhân vật xuất hiện nhiều nhất.",
+"fix": "Nhân vật chính là người gắn với xung đột, sự việc trung tâm và thông điệp của truyện."
+}
+],
+"quickMemory": "Đọc truyện dân gian: sự việc chính, chi tiết kì ảo, tính cách nhân vật, bài học nhân sinh.",
+"warmupQuestions": [
+{
+"question": "Chi tiết kì ảo là gì?",
+"suggestedAnswer": "Là chi tiết khác thường, không có thật trong đời sống thông thường, làm truyện hấp dẫn và gửi gắm ý nghĩa."
+},
+{
+"question": "Trong truyện chiếc đèn cũ, chiếc đèn giúp bộc lộ điều gì?",
+"suggestedAnswer": "Giúp bộc lộ lòng tham, lòng tốt và phẩm chất của nhân vật."
+},
+{
+"question": "Khi nhận xét nhân vật, nên dựa vào những yếu tố nào?",
+"suggestedAnswer": "Dựa vào hành động, lời nói, suy nghĩ, lựa chọn và cách nhân vật đối xử với người khác."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 5 đến 7 câu phân tích tác dụng của chiếc đèn kì ảo trong truyện.",
+"hint": "Nêu chi tiết, tác dụng với cốt truyện, tác dụng bộc lộ nhân vật và bài học.",
+"suggestedAnswer": "Chiếc đèn cũ là chi tiết kì ảo quan trọng trong truyện. Nó làm cho câu chuyện trở nên hấp dẫn và tạo ra thử thách cho các nhân vật. Qua cách mỗi người ứng xử với chiếc đèn, lòng tham hay lòng tốt của họ được bộc lộ rõ. Chi tiết này cũng giúp truyện gửi gắm bài học về sự trung thực và lòng nhân ái. Vì vậy, chiếc đèn không chỉ là vật thần kì mà còn là biểu tượng soi rõ phẩm chất con người."
+},
+{
+"question": "Tóm tắt truyện bằng 4 câu.",
+"hint": "Có nhân vật chính, chiếc đèn, thử thách và bài học.",
+"suggestedAnswer": "Một cậu bé tìm thấy chiếc đèn cũ ở giếng làng. Chiếc đèn kì lạ có thể soi rõ lòng tham và lòng tốt của con người. Nhiều người bộc lộ bản chất qua cách họ đối xử với chiếc đèn. Câu chuyện nhắc người đọc sống trung thực, nhân hậu và không tham lam."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ truyện dân gian: nhân vật, sự việc, chi tiết kì ảo, bài học.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả chi tiết vào cột: sự việc chính, chi tiết kì ảo, bài học.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_002",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được đặc điểm nhân vật thiếu nhi trong truyện hiện đại.",
+"Phân tích được sự thay đổi, trưởng thành của nhân vật qua sự việc.",
+"Hiểu vai trò của chi tiết biểu tượng trong truyện.",
+"Nêu được chủ đề về tình bạn, trường học, sự sẻ chia.",
+"Viết được đoạn văn nhận xét nhân vật có dẫn chứng."
+],
+"easyExplanation": "Truyện hiện đại thường gần với đời sống hôm nay: lớp học, sân trường, tình bạn, gia đình, những cảm xúc tuổi mới lớn. Trong câu chuyện học sinh mới chuyển trường thường ngồi một mình ở chiếc ghế cuối sân, nhân vật có thể đang cô đơn, ngại hòa nhập hoặc sợ bị từ chối. Sự việc cùng bạn chăm sóc cây bị gãy là điểm ngoặt. Cây bị gãy có thể là chi tiết biểu tượng cho một điều mong manh cần được quan tâm, cũng giống tâm trạng của bạn học sinh mới. Khi nhân vật biết chăm sóc cây và nhận sự giúp đỡ, em dần mở lòng với lớp.",
+"workedExamples": [
+{
+"title": "Nhận xét sự trưởng thành của nhân vật",
+"problem": "Nhân vật học sinh mới thay đổi như thế nào sau khi cùng bạn chăm sóc cây bị gãy?",
+"steps": [
+"Xác định trạng thái ban đầu: thường ngồi một mình.",
+"Xác định sự việc tác động: cùng bạn chăm sóc cây.",
+"Quan sát thay đổi: dần mở lòng, gắn bó hơn với lớp.",
+"Rút ý nghĩa: nhân vật trưởng thành qua sự sẻ chia."
+],
+"answer": "Nhân vật từ chỗ khép kín, cô đơn đã dần biết tin tưởng và mở lòng với bạn bè. Sự thay đổi ấy cho thấy tình bạn và sự quan tâm có thể giúp con người vượt qua cảm giác lạc lõng.",
+"explanation": "Khi phân tích nhân vật, cần nêu được trước, sau và nguyên nhân thay đổi."
+},
+{
+"title": "Phân tích chi tiết biểu tượng",
+"problem": "Cây bị gãy trong truyện có thể gợi ý nghĩa gì?",
+"steps": [
+"Nhìn nghĩa thực: cây bị gãy cần được chăm sóc.",
+"Liên hệ với nhân vật: học sinh mới cũng đang tổn thương, cô đơn.",
+"Xem hành động chăm cây tạo kết nối giữa các bạn.",
+"Rút ý nghĩa biểu tượng."
+],
+"answer": "Cây bị gãy có thể biểu tượng cho sự mong manh, tổn thương cần được chăm sóc. Việc cùng chăm cây giúp nhân vật học cách quan tâm và được quan tâm.",
+"explanation": "Chi tiết biểu tượng thường có nghĩa thực và nghĩa gợi sâu hơn."
+}
+],
+"steps": [
+"Xác định nhân vật chính và hoàn cảnh ban đầu.",
+"Tìm sự việc làm nhân vật thay đổi.",
+"Ghi lại các chi tiết thể hiện tâm trạng, hành động, lời nói.",
+"So sánh nhân vật trước và sau sự việc chính.",
+"Nêu chủ đề truyện bằng một câu ngắn."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ nói nhân vật tốt hoặc đáng thương mà không có dẫn chứng.",
+"fix": "Luôn kèm chi tiết: ngồi một mình, chăm cây bị gãy, mở lòng với lớp."
+},
+{
+"mistake": "Không nhận ra sự thay đổi của nhân vật.",
+"fix": "So sánh nhân vật ở đầu truyện và cuối truyện."
+},
+{
+"mistake": "Hiểu chi tiết biểu tượng chỉ theo nghĩa đen.",
+"fix": "Hỏi thêm: chi tiết này gợi điều gì về tâm trạng, chủ đề hoặc nhân vật?"
+}
+],
+"quickMemory": "Truyện hiện đại về thiếu nhi: hoàn cảnh, tâm trạng, sự việc thay đổi, trưởng thành, chủ đề.",
+"warmupQuestions": [
+{
+"question": "Nhân vật học sinh mới ban đầu có biểu hiện gì?",
+"suggestedAnswer": "Thường ngồi một mình ở chiếc ghế cuối sân."
+},
+{
+"question": "Sự việc nào giúp nhân vật dần mở lòng?",
+"suggestedAnswer": "Cùng bạn chăm sóc cây bị gãy."
+},
+{
+"question": "Chi tiết cây bị gãy có thể gợi ý nghĩa gì?",
+"suggestedAnswer": "Gợi sự mong manh, tổn thương và nhu cầu được chăm sóc."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 6 đến 8 câu nhận xét nhân vật học sinh mới.",
+"hint": "Nêu hoàn cảnh, tâm trạng ban đầu, sự thay đổi và ý nghĩa.",
+"suggestedAnswer": "Nhân vật học sinh mới là một bạn nhỏ có tâm trạng cô đơn khi chuyển đến môi trường lạ. Việc bạn thường ngồi một mình ở chiếc ghế cuối sân cho thấy bạn còn khép kín và chưa tìm được sự gắn bó với lớp. Sự việc cùng bạn chăm sóc cây bị gãy đã tạo ra một nhịp cầu kết nối. Qua hành động chăm cây, bạn học cách quan tâm và cũng cảm nhận được sự quan tâm từ người khác. Nhân vật dần mở lòng hơn với bạn bè. Sự thay đổi ấy cho thấy tình bạn có thể giúp con người trưởng thành."
+},
+{
+"question": "Nêu chủ đề của truyện bằng một câu.",
+"hint": "Nhắc tình bạn, sự sẻ chia, trưởng thành.",
+"suggestedAnswer": "Truyện ca ngợi tình bạn và sự sẻ chia, vì chính sự quan tâm chân thành giúp con người vượt qua cô đơn và trưởng thành."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Biểu đồ thay đổi nhân vật: ban đầu cô đơn, sự việc chăm cây, cuối truyện mở lòng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn dẫn chứng phù hợp để chứng minh sự trưởng thành của nhân vật.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_003",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được người kể chuyện trong truyện ngắn.",
+"Hiểu điểm nhìn trần thuật và tác dụng của điểm nhìn trong việc bộc lộ cảm xúc.",
+"Phân tích được chi tiết nhỏ có giá trị gợi tình cảm gia đình.",
+"Tóm tắt được mạch hồi tưởng trong truyện.",
+"Viết được đoạn văn cảm nhận về tình thương âm thầm của nhân vật."
+],
+"easyExplanation": "Người kể chuyện là người kể lại câu chuyện cho người đọc. Trong truyện nhớ lại những ngày ở với bà, người kể có thể kể từ điểm nhìn hồi tưởng: nhìn về quá khứ bằng cảm xúc của hiện tại. Bát chè nhỏ bà để phần là chi tiết rất đời thường, nhưng nó chứa tình thương âm thầm. Bà không nói nhiều, không giảng giải dài, chỉ lặng lẽ để phần. Khi đọc kiểu truyện này, em cần chú ý những chi tiết nhỏ, vì tình cảm gia đình thường được thể hiện qua hành động giản dị, không ồn ào.",
+"workedExamples": [
+{
+"title": "Xác định điểm nhìn",
+"problem": "Người kể nhớ lại những ngày ở với bà. Điểm nhìn này có tác dụng gì?",
+"steps": [
+"Xác định thời gian kể: hiện tại nhớ về quá khứ.",
+"Nhận ra câu chuyện được lọc qua kí ức và cảm xúc.",
+"Tìm tác dụng: tạo giọng kể tha thiết, sâu lắng.",
+"Liên hệ với chủ đề tình bà cháu."
+],
+"answer": "Điểm nhìn hồi tưởng giúp câu chuyện có giọng kể ấm áp, xúc động. Những kỉ niệm với bà hiện lên không chỉ như sự việc đã qua mà còn như tình thương còn đọng lại trong tâm trí người kể.",
+"explanation": "Điểm nhìn quyết định cách câu chuyện được cảm nhận."
+},
+{
+"title": "Phân tích chi tiết bát chè",
+"problem": "Chi tiết bát chè bà để phần thể hiện điều gì?",
+"steps": [
+"Xác định hành động: bà để phần bát chè nhỏ.",
+"Nhận ra đây là hành động chăm sóc âm thầm.",
+"Liên hệ với tình thương của bà.",
+"Nêu tác dụng gợi cảm xúc."
+],
+"answer": "Chi tiết bát chè bà để phần thể hiện tình thương lặng lẽ, chu đáo của bà dành cho cháu. Đó là tình yêu không cần nói nhiều nhưng rất sâu sắc.",
+"explanation": "Một chi tiết nhỏ có thể chứa cảm xúc lớn nếu gắn với nhân vật và hoàn cảnh."
+}
+],
+"steps": [
+"Xác định ai là người kể chuyện.",
+"Xác định câu chuyện được kể ở hiện tại hay hồi tưởng quá khứ.",
+"Tìm chi tiết nhỏ lặp lại hoặc gây xúc động.",
+"Phân tích chi tiết theo nghĩa thực và tình cảm gợi ra.",
+"Viết cảm nhận có dẫn chứng cụ thể."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm tác giả với người kể chuyện.",
+"fix": "Người kể chuyện là giọng kể trong văn bản, không nhất thiết trùng với tác giả."
+},
+{
+"mistake": "Bỏ qua chi tiết nhỏ vì nghĩ không quan trọng.",
+"fix": "Trong truyện ngắn, chi tiết nhỏ thường là hạt nhân cảm xúc."
+},
+{
+"mistake": "Viết cảm nhận chung chung về tình yêu thương.",
+"fix": "Gắn cảm nhận với chi tiết cụ thể như bát chè bà để phần."
+}
+],
+"quickMemory": "Đọc truyện hồi tưởng: người kể, điểm nhìn, kí ức, chi tiết nhỏ, cảm xúc lớn.",
+"warmupQuestions": [
+{
+"question": "Người kể chuyện là gì?",
+"suggestedAnswer": "Là người kể lại câu chuyện trong văn bản."
+},
+{
+"question": "Chi tiết bát chè bà để phần gợi tình cảm gì?",
+"suggestedAnswer": "Gợi tình thương âm thầm, chu đáo của bà."
+},
+{
+"question": "Điểm nhìn hồi tưởng thường tạo giọng kể như thế nào?",
+"suggestedAnswer": "Thường tạo giọng kể sâu lắng, tha thiết, giàu cảm xúc."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 6 đến 8 câu cảm nhận chi tiết bát chè bà để phần.",
+"hint": "Nêu chi tiết, tình cảm của bà, cảm xúc người kể và ý nghĩa.",
+"suggestedAnswer": "Chi tiết bát chè nhỏ bà để phần là một chi tiết giản dị nhưng giàu sức gợi. Bát chè không chỉ là món ăn mà còn là biểu hiện của tình thương bà dành cho cháu. Bà không cần nói những lời lớn lao, chỉ lặng lẽ dành phần ngon cho cháu. Chính sự âm thầm ấy khiến tình cảm trở nên sâu sắc và xúc động. Qua chi tiết này, người đọc cảm nhận được vẻ đẹp của tình thân trong đời sống bình thường. Tình yêu thương đôi khi nằm trong những việc nhỏ bé nhất."
+},
+{
+"question": "Hãy chỉ ra điểm khác nhau giữa kể chuyện ở hiện tại và kể chuyện bằng hồi tưởng.",
+"hint": "Nghĩ đến thời gian, cảm xúc và khoảng cách nhìn lại.",
+"suggestedAnswer": "Kể chuyện ở hiện tại thường tạo cảm giác sự việc đang diễn ra. Kể bằng hồi tưởng là nhìn lại chuyện đã qua, nên thường có thêm cảm xúc, suy ngẫm và sự lắng đọng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ người kể chuyện, điểm nhìn hồi tưởng và chi tiết gợi cảm xúc.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn câu văn/dẫn chứng phù hợp với nhận xét về người kể chuyện và tình cảm gia đình.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_004",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được sự việc chính trong truyện phiêu lưu nhỏ.",
+"Hiểu xung đột truyện là tình huống tạo căng thẳng và thúc đẩy hành động.",
+"Phân tích được cách nhân vật phản ứng trước nỗi sợ và trách nhiệm.",
+"Nêu được vai trò của hợp tác nhóm trong diễn biến truyện.",
+"Rút ra bài học về quan sát, bình tĩnh và báo người lớn khi cần."
+],
+"easyExplanation": "Truyện phiêu lưu thường có tình huống bất ngờ, chút hồi hộp và một thử thách khiến nhân vật phải hành động. Trong câu chuyện nhóm bạn đi cắm trại phát hiện dấu chân lạ bên bờ suối, xung đột ban đầu là nỗi sợ và sự không chắc chắn: dấu chân đó của ai, có nguy hiểm không, các bạn nên làm gì. Cách nhân vật xử lí mới là điểm đáng đọc. Thay vì hoảng loạn hoặc tự ý liều lĩnh, các bạn học cách quan sát, hợp tác và báo người lớn đúng lúc. Truyện vì thế không chỉ có phiêu lưu mà còn có bài học trách nhiệm.",
+"workedExamples": [
+{
+"title": "Xác định xung đột truyện",
+"problem": "Dấu chân lạ bên bờ suối tạo xung đột gì cho câu chuyện?",
+"steps": [
+"Xác định sự việc bất ngờ: dấu chân lạ xuất hiện.",
+"Nhận ra cảm xúc nhân vật: sợ hãi, tò mò, lo lắng.",
+"Tìm câu hỏi căng thẳng: có nguy hiểm không, nên làm gì.",
+"Nêu xung đột bằng một câu."
+],
+"answer": "Dấu chân lạ tạo xung đột giữa nỗi sợ, sự tò mò và trách nhiệm phải xử lí tình huống an toàn.",
+"explanation": "Xung đột không chỉ là cãi nhau, mà là tình huống có vấn đề cần được giải quyết."
+},
+{
+"title": "Bài học từ cách xử lí tình huống",
+"problem": "Vì sao việc báo người lớn đúng lúc là hành động có trách nhiệm?",
+"steps": [
+"Tình huống có dấu hiệu chưa rõ, có thể nguy hiểm.",
+"Các bạn còn nhỏ, không nên tự ý mạo hiểm.",
+"Người lớn có kinh nghiệm và khả năng xử lí tốt hơn.",
+"Báo đúng lúc giúp bảo vệ bản thân và tập thể."
+],
+"answer": "Vì khi gặp tình huống chưa rõ và có thể nguy hiểm, báo người lớn giúp xử lí an toàn, tránh hành động liều lĩnh.",
+"explanation": "Trưởng thành không phải là tự làm mọi thứ, mà là biết chọn cách an toàn và đúng lúc."
+}
+],
+"steps": [
+"Tìm sự việc mở đầu chuyến phiêu lưu.",
+"Xác định tình huống gây hồi hộp hoặc xung đột.",
+"Theo dõi cách các nhân vật bàn bạc và hành động.",
+"Nhận xét phẩm chất nhân vật qua cách xử lí.",
+"Rút bài học thực tế từ truyện."
+],
+"commonMistakes": [
+{
+"mistake": "Hiểu xung đột chỉ là đánh nhau hoặc tranh cãi.",
+"fix": "Xung đột có thể là nỗi sợ, bí ẩn, khó khăn hoặc lựa chọn cần giải quyết."
+},
+{
+"mistake": "Ca ngợi hành động liều lĩnh như dũng cảm.",
+"fix": "Dũng cảm cần đi cùng quan sát, suy nghĩ và trách nhiệm."
+},
+{
+"mistake": "Tóm tắt truyện quá dài, thiếu sự việc chính.",
+"fix": "Chọn các mốc: đi cắm trại, phát hiện dấu chân, hợp tác quan sát, báo người lớn."
+}
+],
+"quickMemory": "Truyện phiêu lưu: tình huống bất ngờ, xung đột, hành động, hợp tác, bài học trách nhiệm.",
+"warmupQuestions": [
+{
+"question": "Xung đột trong truyện là gì?",
+"suggestedAnswer": "Là tình huống có vấn đề, căng thẳng hoặc khó khăn thúc đẩy nhân vật hành động."
+},
+{
+"question": "Dấu chân lạ bên bờ suối tạo cảm giác gì cho câu chuyện?",
+"suggestedAnswer": "Tạo cảm giác hồi hộp, bí ẩn và lo lắng."
+},
+{
+"question": "Khi gặp tình huống có thể nguy hiểm, học sinh nên làm gì?",
+"suggestedAnswer": "Bình tĩnh, quan sát, không liều lĩnh và báo người lớn đúng lúc."
+}
+],
+"applicationQuestions": [
+{
+"question": "Tóm tắt truyện bằng 5 câu.",
+"hint": "Theo các mốc sự việc chính.",
+"suggestedAnswer": "Một nhóm bạn đi cắm trại bên bờ suối. Các bạn phát hiện dấu chân lạ và cảm thấy lo lắng. Thay vì hoảng sợ, các bạn cùng quan sát và trao đổi với nhau. Nhận thấy tình huống cần được xử lí an toàn, các bạn báo người lớn. Qua sự việc ấy, nhóm bạn học được bài học về hợp tác và trách nhiệm."
+},
+{
+"question": "Viết đoạn văn nêu bài học em rút ra từ truyện.",
+"hint": "Nhắc bình tĩnh, hợp tác, trách nhiệm, báo người lớn.",
+"suggestedAnswer": "Từ câu chuyện, em rút ra bài học rằng khi gặp tình huống bất ngờ, chúng ta cần bình tĩnh và quan sát cẩn thận. Sự tò mò là tự nhiên, nhưng không nên biến nó thành hành động liều lĩnh. Làm việc nhóm giúp mọi người suy nghĩ đầy đủ hơn và tránh sai lầm. Đặc biệt, khi sự việc có thể nguy hiểm, báo người lớn đúng lúc là lựa chọn có trách nhiệm."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ diễn biến truyện phiêu lưu: tình huống, xung đột, hành động, kết quả, bài học.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp các sự việc trong truyện theo đúng trình tự.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_005",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được đặc điểm thơ bốn chữ, năm chữ qua số tiếng trong dòng thơ.",
+"Phân tích được nhịp, vần và hình ảnh thơ.",
+"Nhận ra tác dụng của biện pháp tu từ trong việc gợi hình, gợi cảm.",
+"Cảm nhận được vẻ đẹp thiên nhiên qua ngôn ngữ thơ.",
+"Viết được đoạn văn ngắn cảm nhận một hình ảnh thơ."
+],
+"easyExplanation": "Thơ bốn chữ và năm chữ thường có dòng thơ ngắn, nhịp nhanh, dễ tạo âm điệu trong trẻo. Khi đọc bài thơ gợi khu vườn khi gió về, em nên chú ý các hình ảnh như lá khế rung, giàn mướp nghiêng, tiếng chim mỏng như sợi nắng. Hình ảnh thơ không chỉ để tả cảnh, mà còn gợi cảm giác: nhẹ, trong, mềm, sáng. Nhịp và vần giúp câu thơ có nhạc. Biện pháp so sánh trong hình ảnh tiếng chim mỏng như sợi nắng làm âm thanh trở nên có hình, có màu, rất giàu chất thơ.",
+"workedExamples": [
+{
+"title": "Cảm nhận hình ảnh thơ",
+"problem": "Hình ảnh 'tiếng chim mỏng như sợi nắng' gợi cảm giác gì?",
+"steps": [
+"Xác định biện pháp tu từ: so sánh.",
+"Tiếng chim là âm thanh, sợi nắng là hình ảnh ánh sáng.",
+"Sự kết hợp này làm âm thanh trở nên nhẹ, mảnh, trong.",
+"Nêu cảm xúc về khung cảnh."
+],
+"answer": "Hình ảnh gợi tiếng chim rất nhẹ, trong và mong manh. Cách so sánh âm thanh với sợi nắng làm khu vườn hiện lên êm dịu, tươi sáng và giàu chất thơ.",
+"explanation": "Thơ thường làm các giác quan giao nhau: âm thanh có thể gợi ánh sáng, màu sắc hoặc chuyển động."
+},
+{
+"title": "Nhận biết nhịp và hình ảnh",
+"problem": "Khi đọc thơ bốn chữ/năm chữ, vì sao cần chú ý nhịp?",
+"steps": [
+"Thơ có âm điệu khác văn xuôi.",
+"Nhịp giúp tạo độ ngân, độ nhanh chậm.",
+"Nhịp phù hợp làm cảm xúc bài thơ rõ hơn.",
+"Đọc đúng nhịp giúp hiểu và cảm hay hơn."
+],
+"answer": "Cần chú ý nhịp vì nhịp tạo âm điệu cho bài thơ và góp phần thể hiện cảm xúc.",
+"explanation": "Trong thơ, cách ngắt nhịp cũng là một phần của ý nghĩa."
+}
+],
+"steps": [
+"Đếm số tiếng trong một dòng để nhận biết thơ bốn chữ hoặc năm chữ.",
+"Đọc thành tiếng để cảm nhận nhịp.",
+"Gạch chân các từ ngữ, hình ảnh gợi hình, gợi cảm.",
+"Tìm biện pháp tu từ như so sánh, nhân hóa.",
+"Viết cảm nhận theo mẫu: hình ảnh, biện pháp, cảm giác gợi ra, cảm xúc của em."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ đếm số chữ mà không cảm nhận hình ảnh thơ.",
+"fix": "Đếm thể thơ là bước đầu, sau đó cần phân tích nhịp, vần, hình ảnh."
+},
+{
+"mistake": "Gọi mọi câu thơ đẹp là nhân hóa.",
+"fix": "Cần xác định đúng biện pháp: so sánh có từ như, là, tựa; nhân hóa gán đặc điểm người cho vật."
+},
+{
+"mistake": "Viết cảm nhận quá chung: hình ảnh rất hay.",
+"fix": "Nói rõ hay ở đâu: nhẹ, trong, sáng, gợi chuyển động, gợi cảm xúc."
+}
+],
+"quickMemory": "Đọc thơ: thể thơ, nhịp, vần, hình ảnh, biện pháp tu từ, cảm xúc.",
+"warmupQuestions": [
+{
+"question": "Thơ bốn chữ là gì?",
+"suggestedAnswer": "Là thể thơ mà mỗi dòng thường có bốn tiếng."
+},
+{
+"question": "Hình ảnh 'tiếng chim mỏng như sợi nắng' dùng biện pháp tu từ gì?",
+"suggestedAnswer": "Biện pháp so sánh."
+},
+{
+"question": "Nhịp thơ có tác dụng gì?",
+"suggestedAnswer": "Tạo âm điệu và góp phần thể hiện cảm xúc."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 5 đến 7 câu cảm nhận hình ảnh khu vườn khi gió về.",
+"hint": "Nhắc lá khế rung, giàn mướp nghiêng, tiếng chim mỏng như sợi nắng.",
+"suggestedAnswer": "Hình ảnh khu vườn khi gió về hiện lên thật mềm mại và trong trẻo. Lá khế rung gợi chuyển động nhẹ nhàng của thiên nhiên. Giàn mướp nghiêng khiến khu vườn như đang khẽ chào gió. Đặc biệt, hình ảnh tiếng chim mỏng như sợi nắng làm âm thanh trở nên mong manh, sáng và ấm. Những hình ảnh ấy khiến người đọc cảm nhận được vẻ đẹp bình dị mà giàu chất thơ của khu vườn."
+},
+{
+"question": "Tự viết 4 dòng thơ bốn chữ về một cảnh thiên nhiên.",
+"hint": "Mỗi dòng khoảng 4 tiếng, có hình ảnh cụ thể.",
+"suggestedAnswer": "Gió qua hiên nhỏ\nLá khẽ nghiêng đầu\nNắng vương trên cỏ\nChim gọi vườn sâu"
+}
+],
+"mediaHints": [
+{
+"type": "audio",
+"description": "File đọc mẫu thơ bốn chữ/năm chữ với nhịp rõ để học sinh nghe âm điệu.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài gạch chân hình ảnh thơ và chọn biện pháp tu từ tương ứng.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

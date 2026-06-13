@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_info_016",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu cấu trúc rẽ nhánh nếu-thì dùng để chọn hành động theo điều kiện.",
+"Biết xác định điều kiện đúng hoặc sai trong một thuật toán đơn giản.",
+"Biết mô tả rẽ nhánh bằng lời hoặc sơ đồ khối cơ bản.",
+"Phân biệt được cấu trúc tuần tự và cấu trúc rẽ nhánh.",
+"Thực hành viết thuật toán có điều kiện nếu-thì trong tình huống quen thuộc."
+],
+"easyExplanation": "Rẽ nhánh nếu-thì giống một ngã rẽ trong thuật toán. Nếu điều kiện đúng, ta làm một việc; nếu điều kiện sai, có thể làm việc khác hoặc bỏ qua. Ví dụ: nếu trời mưa thì mang áo mưa. Trong Tin học, điều kiện thường là một câu có thể trả lời đúng hoặc sai, như 'điểm >= 5', 'mật khẩu đúng', 'số nhập vào lớn hơn 0'. Rẽ nhánh giúp thuật toán linh hoạt hơn cấu trúc tuần tự vì không phải lúc nào cũng làm y hệt một dãy bước.",
+"workedExamples": [
+{
+"title": "Nhận biết điều kiện",
+"problem": "Trong câu 'Nếu điểm trung bình từ 5 trở lên thì đạt', điều kiện là gì?",
+"steps": [
+"Tìm phần sau từ 'nếu'.",
+"Điều kiện phải kiểm tra được đúng hoặc sai.",
+"Ở đây cần kiểm tra điểm trung bình có từ 5 trở lên không.",
+"Viết điều kiện ngắn gọn."
+],
+"answer": "Điều kiện là: điểm trung bình >= 5.",
+"explanation": "Điều kiện là cánh cửa quyết định thuật toán đi theo nhánh nào."
+},
+{
+"title": "Viết thuật toán rẽ nhánh",
+"problem": "Viết thuật toán kiểm tra một số n có dương hay không.",
+"steps": [
+"Nhập số n.",
+"Kiểm tra điều kiện n > 0.",
+"Nếu đúng, thông báo n là số dương.",
+"Nếu sai, thông báo n không phải số dương."
+],
+"answer": "Bước 1: Nhập n. Bước 2: Nếu n > 0 thì thông báo 'n là số dương', ngược lại thông báo 'n không phải số dương'.",
+"explanation": "Đây là rẽ nhánh vì kết quả phụ thuộc vào điều kiện n > 0."
+}
+],
+"steps": [
+"Xác định bài toán cần có quyết định.",
+"Tìm điều kiện có thể đúng hoặc sai.",
+"Viết nhánh nếu điều kiện đúng.",
+"Viết nhánh ngược lại nếu cần.",
+"Kiểm tra thuật toán bằng ít nhất hai ví dụ: một ví dụ đúng điều kiện, một ví dụ sai điều kiện.",
+"Vẽ sơ đồ khối nếu cần trình bày trực quan."
+],
+"commonMistakes": [
+{
+"mistake": "Viết điều kiện mơ hồ, không kiểm tra được đúng sai.",
+"fix": "Điều kiện nên rõ ràng như điểm >= 5, n > 0, mật khẩu đúng."
+},
+{
+"mistake": "Quên nhánh ngược lại khi bài toán cần xử lí cả hai trường hợp.",
+"fix": "Hỏi lại: nếu điều kiện sai thì cần làm gì?"
+},
+{
+"mistake": "Nhầm rẽ nhánh với tuần tự.",
+"fix": "Tuần tự luôn chạy lần lượt; rẽ nhánh chọn đường dựa trên điều kiện."
+}
+],
+"quickMemory": "Rẽ nhánh nếu-thì: kiểm tra điều kiện, đúng đi một đường, sai đi đường khác hoặc bỏ qua.",
+"warmupQuestions": [
+{
+"question": "Cấu trúc nếu-thì dùng để làm gì?",
+"suggestedAnswer": "Dùng để chọn hành động dựa trên điều kiện đúng hoặc sai."
+},
+{
+"question": "Điều kiện trong thuật toán cần có đặc điểm gì?",
+"suggestedAnswer": "Phải kiểm tra được là đúng hoặc sai."
+},
+{
+"question": "Ví dụ một điều kiện trong học tập là gì?",
+"suggestedAnswer": "Nếu điểm trung bình >= 5 thì đạt."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết thuật toán rẽ nhánh kiểm tra học sinh có được khen thưởng không, biết nếu điểm trung bình >= 8 thì được khen.",
+"hint": "Nhập điểm, kiểm tra điều kiện, thông báo kết quả.",
+"suggestedAnswer": "Bước 1: Nhập điểm trung bình TB. Bước 2: Nếu TB >= 8 thì thông báo 'Được khen thưởng', ngược lại thông báo 'Chưa được khen thưởng'."
+},
+{
+"question": "Nêu một tình huống đời sống có dùng rẽ nhánh nếu-thì.",
+"hint": "Thời tiết, mật khẩu, điểm số, đèn giao thông.",
+"suggestedAnswer": "Nếu trời mưa thì mang áo mưa, ngược lại có thể không cần mang."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ khối rẽ nhánh nếu-thì với điều kiện đúng/sai và hai hướng xử lí.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả điều kiện, nhánh đúng, nhánh sai vào sơ đồ rẽ nhánh.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_017",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu cấu trúc lặp dùng để thực hiện một nhóm bước nhiều lần.",
+"Nhận biết được điều kiện dừng trong thuật toán lặp.",
+"Phân biệt được lặp có số lần biết trước và lặp cho đến khi đạt điều kiện.",
+"Biết mô tả thuật toán lặp bằng lời hoặc sơ đồ đơn giản.",
+"Thực hành kiểm tra thuật toán lặp để tránh lặp vô hạn."
+],
+"easyExplanation": "Lặp lại là khi một việc được thực hiện nhiều lần. Ví dụ: chép 10 từ mới tiếng Anh, tưới cây mỗi sáng trong 7 ngày, kiểm tra từng câu hỏi trong bài kiểm tra. Trong thuật toán, vòng lặp giúp tránh viết lại cùng một nhóm bước quá nhiều lần. Nhưng vòng lặp cần có điều kiện dừng, nếu không thuật toán có thể chạy mãi như chiếc quạt không có nút tắt. Có hai kiểu dễ gặp: lặp một số lần biết trước và lặp cho đến khi một điều kiện được thỏa mãn.",
+"workedExamples": [
+{
+"title": "Lặp số lần biết trước",
+"problem": "Mô tả thuật toán in ra câu 'Xin chào' 5 lần.",
+"steps": [
+"Xác định số lần lặp là 5.",
+"Mỗi lần thực hiện hành động in 'Xin chào'.",
+"Sau 5 lần thì dừng.",
+"Viết thuật toán ngắn gọn."
+],
+"answer": "Lặp 5 lần: in ra 'Xin chào'. Sau khi đủ 5 lần thì dừng.",
+"explanation": "Đây là lặp có số lần biết trước."
+},
+{
+"title": "Điều kiện dừng",
+"problem": "Trong trò chơi đoán số, người chơi đoán cho đến khi đúng. Điều kiện dừng là gì?",
+"steps": [
+"Hành động lặp là đoán số.",
+"Việc lặp tiếp tục khi đoán chưa đúng.",
+"Khi đoán đúng thì dừng.",
+"Nêu điều kiện dừng."
+],
+"answer": "Điều kiện dừng là người chơi đoán đúng số.",
+"explanation": "Điều kiện dừng giúp thuật toán biết lúc nào phải kết thúc."
+}
+],
+"steps": [
+"Xác định nhóm bước cần lặp lại.",
+"Xác định lặp bao nhiêu lần hoặc lặp đến khi nào.",
+"Viết hành động trong vòng lặp.",
+"Viết điều kiện dừng rõ ràng.",
+"Kiểm tra xem điều kiện dừng có thể xảy ra không.",
+"Thử thuật toán với ví dụ nhỏ để tránh lặp vô hạn."
+],
+"commonMistakes": [
+{
+"mistake": "Viết vòng lặp nhưng không có điều kiện dừng.",
+"fix": "Luôn xác định khi nào vòng lặp kết thúc."
+},
+{
+"mistake": "Nhầm hành động lặp với hành động chỉ làm một lần.",
+"fix": "Chỉ đặt trong vòng lặp các bước cần lặp nhiều lần."
+},
+{
+"mistake": "Không kiểm tra lặp vô hạn.",
+"fix": "Thử bằng ví dụ để xem điều kiện dừng có thể đạt được không."
+}
+],
+"quickMemory": "Lặp = làm lại nhiều lần. Muốn lặp an toàn phải có điều kiện dừng.",
+"warmupQuestions": [
+{
+"question": "Cấu trúc lặp dùng để làm gì?",
+"suggestedAnswer": "Dùng để thực hiện một nhóm bước nhiều lần."
+},
+{
+"question": "Điều kiện dừng là gì?",
+"suggestedAnswer": "Là điều kiện cho biết khi nào vòng lặp kết thúc."
+},
+{
+"question": "Lặp vô hạn là gì?",
+"suggestedAnswer": "Là vòng lặp không bao giờ dừng vì thiếu hoặc sai điều kiện dừng."
+}
+],
+"applicationQuestions": [
+{
+"question": "Mô tả thuật toán cộng các số từ 1 đến 5.",
+"hint": "Cần lặp qua từng số và cộng vào tổng.",
+"suggestedAnswer": "Bước 1: Đặt tổng T = 0. Bước 2: Lặp với i từ 1 đến 5, cộng i vào T. Bước 3: Thông báo T."
+},
+{
+"question": "Nêu một ví dụ lặp trong đời sống và chỉ ra điều kiện dừng.",
+"hint": "Đánh răng, luyện từ mới, tưới cây, đoán mật khẩu.",
+"suggestedAnswer": "Luyện viết từ mới 10 lần. Hành động lặp là viết từ mới, điều kiện dừng là đã viết đủ 10 lần."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ vòng lặp với hành động lặp, bộ đếm/điều kiện và điểm dừng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Xác định hành động lặp và điều kiện dừng trong các tình huống đơn giản.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_018",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu biến là tên dùng để lưu trữ giá trị trong chương trình.",
+"Nhận biết được một số kiểu dữ liệu nhập môn như số, văn bản, đúng/sai.",
+"Biết giá trị của biến có thể thay đổi trong quá trình chương trình chạy.",
+"Biết đặt tên biến dễ hiểu ở mức cơ bản.",
+"Thực hành truy vết giá trị biến qua một vài bước đơn giản."
+],
+"easyExplanation": "Biến trong lập trình giống một chiếc hộp có dán nhãn. Nhãn là tên biến, còn bên trong là giá trị. Ví dụ biến diem có thể chứa số 8, biến hoTen có thể chứa văn bản 'An', biến daNopBai có thể chứa giá trị đúng hoặc sai. Khi chương trình chạy, giá trị trong biến có thể thay đổi. Kiểu dữ liệu cho biết biến đang chứa loại giá trị nào: số để tính toán, văn bản để hiển thị chữ, đúng/sai để kiểm tra điều kiện. Đặt tên biến rõ giúp đọc chương trình dễ hơn.",
+"workedExamples": [
+{
+"title": "Nhận biết kiểu dữ liệu",
+"problem": "Các giá trị 7.5, 'Lan', true thuộc kiểu dữ liệu nào?",
+"steps": [
+"7.5 là giá trị dùng để tính toán.",
+"'Lan' là chuỗi văn bản.",
+"true biểu thị đúng.",
+"Gọi tên kiểu dữ liệu."
+],
+"answer": "7.5 là kiểu số, 'Lan' là kiểu văn bản, true là kiểu đúng/sai.",
+"explanation": "Chọn đúng kiểu dữ liệu giúp chương trình xử lí đúng."
+},
+{
+"title": "Truy vết biến",
+"problem": "Ban đầu x = 3. Sau đó x = x + 2. Giá trị mới của x là bao nhiêu?",
+"steps": [
+"Giá trị ban đầu của x là 3.",
+"Biểu thức x + 2 nghĩa là 3 + 2.",
+"Kết quả là 5.",
+"Gán giá trị mới 5 cho x."
+],
+"answer": "Giá trị mới của x là 5.",
+"explanation": "Khi gán x = x + 2, giá trị cũ của x được dùng để tính giá trị mới."
+}
+],
+"steps": [
+"Xác định thông tin cần lưu.",
+"Chọn tên biến rõ nghĩa.",
+"Xác định kiểu dữ liệu phù hợp: số, văn bản hoặc đúng/sai.",
+"Gán giá trị ban đầu cho biến nếu cần.",
+"Theo dõi biến thay đổi qua từng bước.",
+"Kiểm tra biến có được dùng đúng mục đích không."
+],
+"commonMistakes": [
+{
+"mistake": "Đặt tên biến quá khó hiểu như a1, x2 khi không cần thiết.",
+"fix": "Nên đặt tên gợi nghĩa như diem, hoTen, soLuong."
+},
+{
+"mistake": "Nhầm số với văn bản chứa số.",
+"fix": "Số 7 dùng để tính toán; văn bản '7' là chữ số dạng chuỗi."
+},
+{
+"mistake": "Không hiểu biến có thể thay đổi giá trị.",
+"fix": "Hãy truy vết từng bước để xem giá trị biến mới là gì."
+}
+],
+"quickMemory": "Biến là hộp có tên. Kiểu dữ liệu cho biết hộp đang chứa số, chữ hay đúng/sai.",
+"warmupQuestions": [
+{
+"question": "Biến trong lập trình dùng để làm gì?",
+"suggestedAnswer": "Dùng để lưu trữ giá trị trong chương trình."
+},
+{
+"question": "Kể tên ba kiểu dữ liệu nhập môn.",
+"suggestedAnswer": "Số, văn bản, đúng/sai."
+},
+{
+"question": "Nếu x = 4 rồi x = x + 1 thì x bằng bao nhiêu?",
+"suggestedAnswer": "x bằng 5."
+}
+],
+"applicationQuestions": [
+{
+"question": "Chọn tên biến phù hợp để lưu điểm Toán của học sinh.",
+"hint": "Tên nên gợi nghĩa.",
+"suggestedAnswer": "Có thể đặt tên biến là diemToan."
+},
+{
+"question": "Xác định kiểu dữ liệu cho các biến: hoTen = 'Minh', tuoi = 12, daNopBai = false.",
+"hint": "Văn bản, số, đúng/sai.",
+"suggestedAnswer": "hoTen là văn bản, tuoi là số, daNopBai là kiểu đúng/sai."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Minh họa biến như hộp có tên, giá trị và kiểu dữ liệu: số, văn bản, đúng/sai.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Truy vết giá trị biến qua từng lệnh gán đơn giản.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_019",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu lỗi trong thuật toán hoặc chương trình là điều thường gặp khi học lập trình.",
+"Biết phân biệt lỗi cú pháp, lỗi logic ở mức nhập môn.",
+"Biết truy vết từng bước để tìm vị trí sai.",
+"Biết thử chương trình bằng dữ liệu mẫu để kiểm tra kết quả.",
+"Hình thành thái độ bình tĩnh, có phương pháp khi gỡ lỗi."
+],
+"easyExplanation": "Gỡ lỗi là quá trình tìm và sửa lỗi trong thuật toán hoặc chương trình. Khi chương trình sai, không có nghĩa là em dở, mà là em đang đối thoại với máy tính bằng ngôn ngữ rất chặt chẽ. Lỗi cú pháp là viết sai quy tắc của ngôn ngữ, giống như thiếu dấu hoặc viết sai từ khóa. Lỗi logic là chương trình chạy được nhưng kết quả sai vì thuật toán hoặc công thức chưa đúng. Cách gỡ lỗi tốt là đọc thông báo lỗi, kiểm tra từng bước, dùng dữ liệu nhỏ để thử và không sửa lung tung như đang mò chìa khóa trong bóng tối.",
+"workedExamples": [
+{
+"title": "Lỗi logic",
+"problem": "Muốn tính trung bình của a và b, bạn viết TB = a + b / 2. Vì sao có thể sai?",
+"steps": [
+"Theo thứ tự tính toán, b / 2 được tính trước.",
+"Sau đó cộng với a.",
+"Muốn trung bình cần cộng a và b trước.",
+"Công thức đúng là TB = (a + b) / 2."
+],
+"answer": "Có thể sai vì thiếu ngoặc. Công thức đúng là TB = (a + b) / 2.",
+"explanation": "Chương trình có thể chạy nhưng vẫn sai kết quả, đó là lỗi logic."
+},
+{
+"title": "Truy vết",
+"problem": "Ban đầu x = 2. Sau lệnh x = x * 3, rồi x = x + 1, x bằng bao nhiêu?",
+"steps": [
+"Ban đầu x = 2.",
+"Sau x = x * 3, x = 6.",
+"Sau x = x + 1, x = 7.",
+"Kết luận giá trị cuối."
+],
+"answer": "x bằng 7.",
+"explanation": "Truy vết giúp biết chương trình thay đổi dữ liệu như thế nào qua từng bước."
+}
+],
+"steps": [
+"Đọc kĩ thông báo lỗi nếu có.",
+"Xác định lỗi xảy ra ở bước nào hoặc dòng nào.",
+"Kiểm tra cú pháp: thiếu dấu, sai tên biến, sai từ khóa.",
+"Kiểm tra logic: công thức, điều kiện, thứ tự bước.",
+"Thử với dữ liệu nhỏ, dễ tính tay.",
+"Sửa từng lỗi một và kiểm tra lại."
+],
+"commonMistakes": [
+{
+"mistake": "Thấy lỗi là xóa nhiều phần cùng lúc.",
+"fix": "Chỉ sửa từng phần nhỏ để biết lỗi nào đã được khắc phục."
+},
+{
+"mistake": "Không thử bằng dữ liệu mẫu.",
+"fix": "Dùng ví dụ nhỏ có thể tính tay để so sánh kết quả."
+},
+{
+"mistake": "Chỉ kiểm tra cú pháp, quên kiểm tra logic.",
+"fix": "Chương trình chạy được chưa chắc đã đúng kết quả."
+}
+],
+"quickMemory": "Gỡ lỗi: đọc lỗi, truy vết, thử dữ liệu nhỏ, sửa từng bước, kiểm tra lại. Lỗi là thầy giáo mặc áo báo đỏ.",
+"warmupQuestions": [
+{
+"question": "Lỗi cú pháp là gì?",
+"suggestedAnswer": "Là lỗi do viết sai quy tắc của ngôn ngữ lập trình, như thiếu dấu hoặc sai từ khóa."
+},
+{
+"question": "Lỗi logic là gì?",
+"suggestedAnswer": "Là lỗi khiến chương trình chạy được nhưng kết quả sai do thuật toán hoặc công thức sai."
+},
+{
+"question": "Truy vết dùng để làm gì?",
+"suggestedAnswer": "Dùng để theo dõi giá trị biến và các bước xử lí để tìm lỗi."
+}
+],
+"applicationQuestions": [
+{
+"question": "Tìm lỗi logic trong công thức chu vi hình chữ nhật P = a + b * 2.",
+"hint": "Cần cộng a và b trước rồi nhân 2.",
+"suggestedAnswer": "Công thức sai vì thiếu ngoặc. Công thức đúng là P = (a + b) * 2."
+},
+{
+"question": "Nêu quy trình 5 bước khi chương trình cho kết quả sai.",
+"hint": "Đọc lỗi, kiểm tra đầu vào, truy vết, sửa, thử lại.",
+"suggestedAnswer": "Đọc thông báo lỗi nếu có. Kiểm tra dữ liệu đầu vào. Truy vết từng bước. Sửa lỗi nghi ngờ. Chạy thử lại với dữ liệu mẫu."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Quy trình gỡ lỗi: phát hiện, đọc lỗi, truy vết, sửa từng phần, kiểm tra lại.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Tìm lỗi cú pháp, lỗi logic và truy vết biến trong đoạn thuật toán đơn giản.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_020",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu quy trình cơ bản: thu thập, làm sạch, trình bày và nhận xét dữ liệu.",
+"Biết thu thập dữ liệu đơn giản từ khảo sát, quan sát hoặc bảng có sẵn.",
+"Biết phát hiện dữ liệu thiếu, trùng, sai định dạng ở mức cơ bản.",
+"Biết trình bày dữ liệu bằng bảng hoặc biểu đồ phù hợp.",
+"Biết rút ra nhận xét ngắn từ dữ liệu đã trình bày."
+],
+"easyExplanation": "Dữ liệu giống nguyên liệu nấu ăn: trước khi trình bày thành món ngon, cần chọn, rửa, cắt và kiểm tra. Thu thập dữ liệu là lấy thông tin từ khảo sát, quan sát, tài liệu hoặc tệp có sẵn. Làm sạch dữ liệu là sửa các lỗi như thiếu thông tin, nhập sai, trùng lặp, viết không thống nhất. Trình bày dữ liệu bằng bảng hoặc biểu đồ giúp người xem hiểu nhanh. Cuối cùng, cần rút ra nhận xét: nhóm nào nhiều nhất, ít nhất, xu hướng ra sao, có điều gì bất thường không.",
+"workedExamples": [
+{
+"title": "Làm sạch dữ liệu",
+"problem": "Trong bảng khảo sát môn yêu thích có các giá trị: 'Toán', 'toan', 'TOÁN'. Có vấn đề gì?",
+"steps": [
+"Ba giá trị cùng chỉ một môn học.",
+"Cách viết không thống nhất làm kết quả thống kê bị sai.",
+"Cần chuẩn hóa về một cách viết.",
+"Ví dụ dùng 'Toán' cho cả ba."
+],
+"answer": "Dữ liệu không thống nhất. Cần chuẩn hóa các giá trị này thành 'Toán'.",
+"explanation": "Làm sạch dữ liệu giúp kết quả thống kê không bị méo."
+},
+{
+"title": "Chọn biểu đồ",
+"problem": "Muốn so sánh số học sinh thích từng môn học, nên dùng biểu đồ gì?",
+"steps": [
+"Mục tiêu là so sánh số lượng giữa các nhóm.",
+"Biểu đồ cột giúp so sánh trực quan.",
+"Bảng cũng cần để lưu số liệu gốc.",
+"Chọn biểu đồ cột."
+],
+"answer": "Nên dùng biểu đồ cột.",
+"explanation": "Biểu đồ cột rất phù hợp để so sánh số lượng giữa các nhóm."
+}
+],
+"steps": [
+"Xác định câu hỏi cần trả lời bằng dữ liệu.",
+"Thu thập dữ liệu từ khảo sát, quan sát hoặc nguồn có sẵn.",
+"Kiểm tra dữ liệu thiếu, trùng, sai chính tả hoặc sai định dạng.",
+"Làm sạch và thống nhất cách ghi dữ liệu.",
+"Trình bày bằng bảng hoặc biểu đồ phù hợp.",
+"Rút ra nhận xét ngắn, có căn cứ từ dữ liệu."
+],
+"commonMistakes": [
+{
+"mistake": "Thu thập dữ liệu nhưng không kiểm tra lỗi.",
+"fix": "Cần làm sạch dữ liệu trước khi tính toán hoặc vẽ biểu đồ."
+},
+{
+"mistake": "Dùng biểu đồ không phù hợp.",
+"fix": "So sánh số lượng thường dùng biểu đồ cột; cơ cấu phần trăm có thể dùng biểu đồ tròn nếu phù hợp."
+},
+{
+"mistake": "Nhận xét không dựa vào số liệu.",
+"fix": "Mọi nhận xét cần có căn cứ từ bảng hoặc biểu đồ."
+}
+],
+"quickMemory": "Dữ liệu đi qua 4 cửa: thu thập, làm sạch, trình bày, nhận xét. Bỏ cửa làm sạch là dễ sai cả món.",
+"warmupQuestions": [
+{
+"question": "Làm sạch dữ liệu là gì?",
+"suggestedAnswer": "Là kiểm tra và sửa dữ liệu thiếu, sai, trùng lặp hoặc không thống nhất."
+},
+{
+"question": "Muốn so sánh số lượng giữa các nhóm, nên dùng biểu đồ gì?",
+"suggestedAnswer": "Biểu đồ cột."
+},
+{
+"question": "Vì sao nhận xét dữ liệu cần có căn cứ?",
+"suggestedAnswer": "Vì nhận xét phải dựa trên số liệu hoặc thông tin trong bảng, biểu đồ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nêu quy trình 4 bước xử lí dữ liệu khảo sát môn học yêu thích.",
+"hint": "Thu thập, làm sạch, trình bày, nhận xét.",
+"suggestedAnswer": "Thu thập câu trả lời từ học sinh. Làm sạch bằng cách sửa cách viết không thống nhất và loại dữ liệu trùng. Trình bày số lượng học sinh thích từng môn bằng bảng hoặc biểu đồ cột. Nhận xét môn nào được thích nhiều nhất, ít nhất."
+},
+{
+"question": "Trong bảng dữ liệu có hai dòng giống hệt nhau cho cùng một học sinh. Cần làm gì?",
+"hint": "Đây là dữ liệu trùng.",
+"suggestedAnswer": "Cần kiểm tra và loại bỏ hoặc gộp dữ liệu trùng để kết quả thống kê không bị sai."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Quy trình dữ liệu: câu hỏi khảo sát, thu thập, làm sạch, bảng, biểu đồ, nhận xét.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Làm sạch bảng khảo sát có dữ liệu trùng, sai chính tả, thiếu giá trị rồi chọn biểu đồ phù hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

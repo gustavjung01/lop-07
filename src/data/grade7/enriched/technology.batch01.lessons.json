@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_tech_001",
+"subjectKey": "technology",
+"learningObjectives": [
+"Nhận biết được sản phẩm công nghệ trong gia đình, trường học, sản xuất và đời sống.",
+"Hiểu công nghệ giúp con người giải quyết nhu cầu và nâng cao chất lượng sống.",
+"Phân biệt được sản phẩm công nghệ với vật tự nhiên ở mức đơn giản.",
+"Nêu được lợi ích và tác động cần chú ý khi sử dụng công nghệ.",
+"Hình thành thái độ sử dụng công nghệ an toàn, tiết kiệm và có trách nhiệm."
+],
+"easyExplanation": "Công nghệ không chỉ là máy móc hiện đại. Một chiếc bút, cái bàn học, nồi cơm điện, điện thoại, xe đạp, máy lọc nước hay phần mềm học tập đều là sản phẩm công nghệ vì chúng do con người thiết kế, chế tạo để phục vụ nhu cầu. Công nghệ giúp học tập thuận tiện hơn, gia đình làm việc nhanh hơn, sản xuất hiệu quả hơn và đời sống tiện nghi hơn. Nhưng công nghệ cũng cần được dùng đúng cách: an toàn, tiết kiệm năng lượng, không lãng phí và chú ý tác động đến môi trường.",
+"workedExamples": [
+{
+"title": "Nhận biết sản phẩm công nghệ",
+"problem": "Cây bút chì và viên đá tự nhiên, cái nào là sản phẩm công nghệ? Vì sao?",
+"steps": [
+"Sản phẩm công nghệ là vật do con người tạo ra để phục vụ nhu cầu.",
+"Bút chì được con người thiết kế, sản xuất để viết, vẽ.",
+"Viên đá tự nhiên không phải do con người chế tạo.",
+"Kết luận bút chì là sản phẩm công nghệ."
+],
+"answer": "Cây bút chì là sản phẩm công nghệ vì do con người chế tạo để phục vụ việc viết, vẽ.",
+"explanation": "Không phải cứ có điện mới là công nghệ. Đồ dùng đơn giản cũng có thể là sản phẩm công nghệ."
+},
+{
+"title": "Vai trò công nghệ trong học tập",
+"problem": "Nêu hai sản phẩm công nghệ hỗ trợ học tập và vai trò của chúng.",
+"steps": [
+"Chọn sản phẩm quen thuộc trong học tập.",
+"Nêu công dụng cụ thể.",
+"Liên hệ với việc học hiệu quả hơn.",
+"Trình bày ngắn gọn."
+],
+"answer": "Máy tính giúp tìm tài liệu, soạn bài và học trực tuyến. Máy chiếu giúp giáo viên trình bày hình ảnh, video và nội dung bài học rõ hơn.",
+"explanation": "Khi nêu vai trò, cần gắn sản phẩm với nhu cầu cụ thể."
+}
+],
+"steps": [
+"Quan sát đồ vật quanh em trong nhà, lớp học, đường phố.",
+"Xác định đồ vật nào do con người thiết kế, chế tạo.",
+"Nêu nhu cầu mà sản phẩm đó đáp ứng.",
+"Ghi lợi ích của sản phẩm.",
+"Nêu cách sử dụng an toàn, tiết kiệm.",
+"Suy nghĩ về tác động môi trường khi sản phẩm hỏng hoặc bị vứt bỏ."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ công nghệ chỉ là thiết bị điện tử hiện đại.",
+"fix": "Công nghệ bao gồm cả dụng cụ đơn giản như bút, kéo, bàn ghế, dụng cụ nấu ăn."
+},
+{
+"mistake": "Chỉ nêu tên sản phẩm mà không nêu nhu cầu sử dụng.",
+"fix": "Cần nói sản phẩm dùng để làm gì và giải quyết vấn đề nào."
+},
+{
+"mistake": "Bỏ qua an toàn và môi trường khi dùng sản phẩm công nghệ.",
+"fix": "Mỗi sản phẩm nên được dùng đúng hướng dẫn, tiết kiệm và xử lí hợp lí khi hỏng."
+}
+],
+"quickMemory": "Sản phẩm công nghệ là thứ con người tạo ra để giải quyết nhu cầu. Dùng công nghệ phải an toàn, tiết kiệm và có trách nhiệm.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba sản phẩm công nghệ trong lớp học.",
+"suggestedAnswer": "Bàn ghế, bảng, máy chiếu, máy tính, bút, quạt điện."
+},
+{
+"question": "Vì sao điện thoại là sản phẩm công nghệ?",
+"suggestedAnswer": "Vì do con người thiết kế, chế tạo để liên lạc, học tập, giải trí và xử lí thông tin."
+},
+{
+"question": "Một cách dùng công nghệ có trách nhiệm là gì?",
+"suggestedAnswer": "Dùng đúng mục đích, tiết kiệm điện, bảo quản sản phẩm và không vứt rác điện tử bừa bãi."
+}
+],
+"applicationQuestions": [
+{
+"question": "Chọn một sản phẩm công nghệ trong gia đình và phân tích: nhu cầu, lợi ích, lưu ý an toàn.",
+"hint": "Có thể chọn nồi cơm điện, quạt, máy lọc nước, điện thoại.",
+"suggestedAnswer": "Nồi cơm điện đáp ứng nhu cầu nấu cơm nhanh và ổn định. Lợi ích là tiết kiệm thời gian, dễ sử dụng, cơm chín đều. Lưu ý an toàn là không chạm tay ướt vào ổ điện, không để dây điện hỏng và rút điện khi không dùng."
+},
+{
+"question": "Phân biệt sản phẩm công nghệ và vật tự nhiên bằng 2 ví dụ.",
+"hint": "Một vật do con người tạo ra, một vật có sẵn trong tự nhiên.",
+"suggestedAnswer": "Bàn học là sản phẩm công nghệ vì do con người thiết kế và làm ra. Cành cây trong tự nhiên không phải sản phẩm công nghệ nếu chưa được con người chế tạo thành đồ dùng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ sản phẩm công nghệ quanh em theo nhóm: gia đình, trường học, sản xuất, giao thông, thông tin.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả đồ vật vào nhóm sản phẩm công nghệ hoặc vật tự nhiên, rồi chọn nhu cầu tương ứng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_002",
+"subjectKey": "technology",
+"learningObjectives": [
+"Biết đọc thông tin cơ bản trên sản phẩm công nghệ.",
+"Xác định được nhu cầu sử dụng trước khi lựa chọn sản phẩm.",
+"Biết so sánh sản phẩm theo tiêu chí: công dụng, an toàn, chi phí, độ bền, tiết kiệm năng lượng.",
+"Nêu được cách sử dụng sản phẩm công nghệ đúng hướng dẫn.",
+"Hình thành thói quen tiêu dùng tiết kiệm, phù hợp và an toàn."
+],
+"easyExplanation": "Lựa chọn sản phẩm công nghệ giống chọn một người bạn đồng hành: phải hợp nhu cầu, an toàn và dùng được lâu. Trước khi mua hoặc sử dụng, cần đọc thông tin sản phẩm như công dụng, thông số, hướng dẫn dùng, cảnh báo an toàn, hạn bảo hành, mức tiêu thụ điện nếu có. Không phải sản phẩm đắt nhất là phù hợp nhất. Sản phẩm tốt là sản phẩm đáp ứng đúng nhu cầu, vừa khả năng chi trả, an toàn, bền, dễ sửa hoặc ít gây lãng phí.",
+"workedExamples": [
+{
+"title": "Chọn đèn học",
+"problem": "Khi chọn đèn học, nên xét những tiêu chí nào?",
+"steps": [
+"Xác định nhu cầu: chiếu sáng bàn học.",
+"Xem độ sáng có phù hợp mắt không.",
+"Xem đèn có an toàn điện không.",
+"Xem tiết kiệm điện, độ bền và giá cả."
+],
+"answer": "Nên xét độ sáng phù hợp, an toàn điện, tiết kiệm năng lượng, độ bền và giá cả.",
+"explanation": "Chọn sản phẩm cần dựa trên tiêu chí, không chỉ nhìn màu sắc hoặc quảng cáo."
+},
+{
+"title": "Đọc hướng dẫn sử dụng",
+"problem": "Vì sao cần đọc hướng dẫn trước khi dùng máy xay sinh tố?",
+"steps": [
+"Máy xay có lưỡi dao sắc và dùng điện.",
+"Hướng dẫn cho biết cách lắp, dùng và vệ sinh đúng.",
+"Đọc hướng dẫn giúp tránh hỏng máy hoặc tai nạn.",
+"Kết luận về vai trò an toàn."
+],
+"answer": "Vì hướng dẫn giúp dùng đúng cách, tránh nguy hiểm và kéo dài tuổi thọ sản phẩm.",
+"explanation": "Một phút đọc hướng dẫn có thể tránh rất nhiều cú giật mình."
+}
+],
+"steps": [
+"Xác định rõ nhu cầu sử dụng.",
+"Đọc thông tin và hướng dẫn trên sản phẩm.",
+"Lập tiêu chí lựa chọn: công dụng, an toàn, chi phí, độ bền, tiết kiệm.",
+"So sánh ít nhất hai sản phẩm nếu cần.",
+"Chọn sản phẩm phù hợp nhất với nhu cầu và điều kiện.",
+"Sử dụng, bảo quản theo đúng hướng dẫn."
+],
+"commonMistakes": [
+{
+"mistake": "Chọn sản phẩm chỉ vì mẫu mã đẹp.",
+"fix": "Mẫu mã chỉ là một tiêu chí, cần xem công dụng, an toàn, chi phí và độ bền."
+},
+{
+"mistake": "Không đọc cảnh báo an toàn.",
+"fix": "Luôn đọc phần cảnh báo, đặc biệt với sản phẩm dùng điện, nhiệt, dao cắt hoặc hóa chất."
+},
+{
+"mistake": "Mua sản phẩm vượt nhu cầu gây lãng phí.",
+"fix": "Chọn sản phẩm vừa đủ, phù hợp tần suất sử dụng và khả năng chi trả."
+}
+],
+"quickMemory": "Chọn sản phẩm công nghệ: đúng nhu cầu, đọc thông tin, so tiêu chí, dùng đúng hướng dẫn, tránh lãng phí.",
+"warmupQuestions": [
+{
+"question": "Trước khi chọn sản phẩm, cần xác định điều gì đầu tiên?",
+"suggestedAnswer": "Nhu cầu sử dụng."
+},
+{
+"question": "Kể tên ba tiêu chí khi chọn sản phẩm công nghệ.",
+"suggestedAnswer": "Công dụng, an toàn, chi phí, độ bền, tiết kiệm năng lượng, tác động môi trường."
+},
+{
+"question": "Vì sao cần đọc hướng dẫn sử dụng?",
+"suggestedAnswer": "Để dùng đúng cách, an toàn và tránh làm hỏng sản phẩm."
+}
+],
+"applicationQuestions": [
+{
+"question": "So sánh hai bình nước học sinh: bình A rẻ nhưng dễ rò nước, bình B đắt hơn nhưng bền và an toàn. Em chọn bình nào? Vì sao?",
+"hint": "Dùng tiêu chí an toàn, độ bền, chi phí dài hạn.",
+"suggestedAnswer": "Nên chọn bình B nếu phù hợp khả năng chi trả vì bền và an toàn hơn, tránh rò nước làm hỏng sách vở và dùng được lâu hơn."
+},
+{
+"question": "Lập bảng tiêu chí chọn quạt điện cho phòng học.",
+"hint": "Công suất, an toàn, tiếng ồn, tiết kiệm điện, giá.",
+"suggestedAnswer": "Tiêu chí gồm: đủ mát cho diện tích phòng, lồng quạt an toàn, tiếng ồn thấp, tiết kiệm điện, giá phù hợp và dễ bảo dưỡng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bảng tiêu chí lựa chọn sản phẩm công nghệ: nhu cầu, an toàn, chi phí, độ bền, tiết kiệm, môi trường.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "So sánh hai sản phẩm theo tiêu chí và chọn phương án phù hợp nhất.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_003",
+"subjectKey": "technology",
+"learningObjectives": [
+"Hiểu quy trình thiết kế bắt đầu từ việc xác định vấn đề và nhu cầu người dùng.",
+"Biết phân biệt vấn đề, nhu cầu, tiêu chí sản phẩm và ý tưởng thiết kế.",
+"Biết quan sát tình huống thực tế để tìm vấn đề cần giải quyết.",
+"Đề xuất được một vài ý tưởng thiết kế đơn giản.",
+"Hình thành tư duy thiết kế lấy người dùng làm trung tâm."
+],
+"easyExplanation": "Thiết kế không bắt đầu bằng việc vẽ ngay sản phẩm thật đẹp. Nó bắt đầu bằng câu hỏi: người dùng đang gặp vấn đề gì? Họ cần gì? Sản phẩm phải đạt tiêu chí nào? Ví dụ, nếu góc học tập bừa bộn, vấn đề là đồ dùng khó tìm; nhu cầu là có hộp đựng gọn; tiêu chí có thể là dễ làm, chắc, an toàn, ít tốn vật liệu, để vừa bàn học. Từ đó mới nghĩ ra ý tưởng như hộp bút nhiều ngăn, kệ giấy mini hoặc giá đỡ sách.",
+"workedExamples": [
+{
+"title": "Phân biệt vấn đề và nhu cầu",
+"problem": "Tình huống: bạn thường làm rơi bút khỏi bàn học. Vấn đề và nhu cầu là gì?",
+"steps": [
+"Vấn đề là điều gây khó khăn trong thực tế.",
+"Ở đây bút dễ rơi, bàn học thiếu nơi giữ bút.",
+"Nhu cầu là mong muốn giải quyết vấn đề.",
+"Bạn cần một vật giữ bút gọn và chắc."
+],
+"answer": "Vấn đề: bút dễ rơi khỏi bàn học. Nhu cầu: cần dụng cụ giữ bút gọn, chắc và dễ lấy.",
+"explanation": "Xác định đúng vấn đề giúp ý tưởng thiết kế không đi lạc."
+},
+{
+"title": "Đề xuất tiêu chí sản phẩm",
+"problem": "Thiết kế hộp đựng bút cho học sinh lớp 7 nên có tiêu chí nào?",
+"steps": [
+"Sản phẩm dùng trên bàn học nên gọn.",
+"Dùng thường xuyên nên cần chắc.",
+"Học sinh tự làm nên cần dễ chế tạo.",
+"Cần an toàn và chi phí thấp."
+],
+"answer": "Tiêu chí: gọn, chắc, dễ làm, an toàn, chi phí thấp và có đủ ngăn cho bút/thước.",
+"explanation": "Tiêu chí là thước đo để chọn và đánh giá ý tưởng thiết kế."
+}
+],
+"steps": [
+"Quan sát tình huống thực tế.",
+"Ghi vấn đề người dùng đang gặp.",
+"Xác định người dùng là ai và họ cần gì.",
+"Đặt tiêu chí sản phẩm: công dụng, an toàn, thẩm mĩ, chi phí, vật liệu.",
+"Đề xuất nhiều ý tưởng khác nhau.",
+"Chọn ý tưởng phù hợp nhất để phác thảo."
+],
+"commonMistakes": [
+{
+"mistake": "Vẽ sản phẩm ngay mà chưa xác định vấn đề.",
+"fix": "Bắt đầu bằng quan sát, vấn đề, nhu cầu và tiêu chí."
+},
+{
+"mistake": "Ý tưởng đẹp nhưng không giải quyết đúng nhu cầu.",
+"fix": "Luôn kiểm tra ý tưởng có đáp ứng nhu cầu người dùng không."
+},
+{
+"mistake": "Tiêu chí quá mơ hồ như 'sản phẩm tốt'.",
+"fix": "Tiêu chí nên cụ thể: nhẹ, bền, an toàn, giá dưới mức nào, dùng được bao lâu."
+}
+],
+"quickMemory": "Thiết kế bắt đầu từ vấn đề thật. Vấn đề → nhu cầu → tiêu chí → ý tưởng.",
+"warmupQuestions": [
+{
+"question": "Quy trình thiết kế nên bắt đầu từ đâu?",
+"suggestedAnswer": "Từ việc xác định vấn đề và nhu cầu người dùng."
+},
+{
+"question": "Tiêu chí sản phẩm dùng để làm gì?",
+"suggestedAnswer": "Dùng để định hướng và đánh giá ý tưởng, sản phẩm."
+},
+{
+"question": "Vì sao cần hiểu người dùng trước khi thiết kế?",
+"suggestedAnswer": "Để sản phẩm giải quyết đúng nhu cầu thực tế của người dùng."
+}
+],
+"applicationQuestions": [
+{
+"question": "Tìm một vấn đề trong lớp học và đề xuất ý tưởng thiết kế để giải quyết.",
+"hint": "Có thể là dây sạc rối, góc sách lộn xộn, thiếu nơi để chai nước.",
+"suggestedAnswer": "Vấn đề: góc sách lớp học lộn xộn. Nhu cầu: có nơi xếp sách gọn, dễ lấy. Ý tưởng: làm kệ sách mini bằng bìa carton cứng, chia ngăn theo môn học."
+},
+{
+"question": "Nêu 5 tiêu chí cho sản phẩm giá đỡ điện thoại học online.",
+"hint": "An toàn, chắc, góc nhìn, chi phí, vật liệu.",
+"suggestedAnswer": "Chắc chắn, giữ được điện thoại ở góc nhìn phù hợp, an toàn khi dùng, chi phí thấp, dễ làm từ vật liệu sẵn có."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ tư duy quy trình khởi đầu thiết kế: quan sát, vấn đề, người dùng, nhu cầu, tiêu chí, ý tưởng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn vấn đề, nhu cầu và tiêu chí đúng cho các tình huống thiết kế trong lớp học.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_004",
+"subjectKey": "technology",
+"learningObjectives": [
+"Hiểu vai trò của bản phác thảo trong quy trình thiết kế.",
+"Biết tạo bản phác thảo đơn giản thể hiện hình dạng, kích thước và bộ phận chính của sản phẩm.",
+"Hiểu mô hình giúp thử ý tưởng trước khi làm sản phẩm thật.",
+"Biết thử nghiệm sản phẩm/mô hình và ghi nhận phản hồi.",
+"Biết cải tiến ý tưởng dựa trên kết quả thử nghiệm."
+],
+"easyExplanation": "Phác thảo là bản vẽ nhanh để biến ý tưởng trong đầu thành hình ảnh nhìn thấy được. Mô hình là phiên bản thử của sản phẩm, có thể làm bằng giấy, bìa, que gỗ, đất nặn hoặc vật liệu đơn giản. Thử nghiệm giúp phát hiện vấn đề: sản phẩm có đứng vững không, có vừa kích thước không, có dễ dùng không, có an toàn không. Sau thử nghiệm, ta nhận phản hồi và cải tiến. Thiết kế giỏi không phải vẽ một lần là hoàn hảo, mà biết sửa cho sản phẩm tốt dần lên.",
+"workedExamples": [
+{
+"title": "Vai trò bản phác thảo",
+"problem": "Vì sao nên phác thảo trước khi làm mô hình hộp bút?",
+"steps": [
+"Phác thảo giúp hình dung hình dạng sản phẩm.",
+"Có thể ghi kích thước và số ngăn.",
+"Phát hiện điểm chưa hợp lí trước khi cắt vật liệu.",
+"Tiết kiệm thời gian và vật liệu."
+],
+"answer": "Vì phác thảo giúp hình dung sản phẩm, tính kích thước, số ngăn và tránh lãng phí vật liệu khi làm thật.",
+"explanation": "Bản phác thảo là bản nháp thông minh của sản phẩm."
+},
+{
+"title": "Thử nghiệm mô hình",
+"problem": "Mô hình giá đỡ điện thoại bị đổ khi đặt điện thoại lên. Nên làm gì?",
+"steps": [
+"Xác định lỗi: sản phẩm chưa đủ vững.",
+"Tìm nguyên nhân: chân đế nhỏ, vật liệu yếu hoặc góc nghiêng chưa hợp lí.",
+"Đề xuất cải tiến: mở rộng chân đế, gia cố vật liệu, chỉnh góc.",
+"Thử lại sau khi cải tiến."
+],
+"answer": "Cần cải tiến chân đế, gia cố vật liệu hoặc chỉnh góc nghiêng rồi thử nghiệm lại.",
+"explanation": "Thử nghiệm thất bại không phải kết thúc, mà là dữ liệu để cải tiến."
+}
+],
+"steps": [
+"Chọn ý tưởng thiết kế đã có.",
+"Vẽ phác thảo hình dạng tổng thể.",
+"Ghi các bộ phận chính và kích thước dự kiến.",
+"Làm mô hình bằng vật liệu đơn giản, an toàn.",
+"Thử nghiệm theo tiêu chí đã đặt ra.",
+"Ghi phản hồi và cải tiến phác thảo/mô hình."
+],
+"commonMistakes": [
+{
+"mistake": "Làm sản phẩm ngay mà không phác thảo.",
+"fix": "Nên vẽ nhanh hình dạng, kích thước và bộ phận trước khi làm."
+},
+{
+"mistake": "Mô hình lỗi nhưng không ghi lại nguyên nhân.",
+"fix": "Ghi lỗi, nguyên nhân và cách cải tiến sau mỗi lần thử."
+},
+{
+"mistake": "Chỉ quan tâm sản phẩm đẹp, quên an toàn và công dụng.",
+"fix": "Thử nghiệm phải dựa trên tiêu chí: dùng được, an toàn, chắc, phù hợp."
+}
+],
+"quickMemory": "Phác thảo để thấy ý tưởng. Mô hình để thử ý tưởng. Thử nghiệm để tìm lỗi. Cải tiến để tốt hơn.",
+"warmupQuestions": [
+{
+"question": "Bản phác thảo dùng để làm gì?",
+"suggestedAnswer": "Dùng để thể hiện ý tưởng sản phẩm bằng hình vẽ, kích thước và bộ phận chính."
+},
+{
+"question": "Mô hình có vai trò gì?",
+"suggestedAnswer": "Giúp thử ý tưởng trước khi làm sản phẩm thật."
+},
+{
+"question": "Sau khi thử nghiệm thấy sản phẩm chưa tốt, cần làm gì?",
+"suggestedAnswer": "Tìm nguyên nhân, nhận phản hồi và cải tiến."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nêu các thông tin cần có trên bản phác thảo giá đỡ điện thoại.",
+"hint": "Hình dạng, kích thước, vật liệu, bộ phận chính.",
+"suggestedAnswer": "Cần có hình dạng tổng thể, kích thước dự kiến, chân đế, phần tựa điện thoại, vật liệu dùng và ghi chú an toàn."
+},
+{
+"question": "Lập kế hoạch thử nghiệm mô hình hộp bút.",
+"hint": "Thử độ chắc, sức chứa, dễ lấy bút, an toàn cạnh sắc.",
+"suggestedAnswer": "Đặt bút và thước vào hộp để kiểm tra sức chứa. Lắc nhẹ để kiểm tra độ chắc. Thử lấy bút nhiều lần để xem có dễ dùng không. Kiểm tra mép hộp có sắc hoặc dễ rách không."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu bản phác thảo sản phẩm có hình dạng, kích thước, bộ phận, vật liệu và ghi chú thử nghiệm.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn lỗi trong mô hình thử nghiệm và đề xuất cách cải tiến phù hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_005",
+"subjectKey": "technology",
+"learningObjectives": [
+"Hiểu đánh giá sản phẩm là bước kiểm tra sản phẩm theo tiêu chí đã đặt ra.",
+"Biết đánh giá sản phẩm theo các tiêu chí: an toàn, hiệu quả, thẩm mĩ, chi phí, môi trường.",
+"Biết ghi nhận ưu điểm, hạn chế và đề xuất cải tiến.",
+"Biết trình bày báo cáo thiết kế ngắn gọn, có hình ảnh hoặc minh chứng.",
+"Hình thành thói quen đánh giá công bằng, có căn cứ."
+],
+"easyExplanation": "Sau khi làm sản phẩm, cần đánh giá xem sản phẩm có thật sự giải quyết được vấn đề ban đầu không. Đánh giá không phải chỉ nói 'đẹp' hay 'xấu', mà phải dựa trên tiêu chí: có an toàn không, dùng có hiệu quả không, hình thức có phù hợp không, chi phí có hợp lí không, có gây lãng phí hoặc ảnh hưởng môi trường không. Báo cáo thiết kế là cách kể lại hành trình: vấn đề là gì, nhu cầu là gì, ý tưởng nào được chọn, đã phác thảo - thử nghiệm ra sao, sản phẩm cuối có ưu điểm và hạn chế gì.",
+"workedExamples": [
+{
+"title": "Đánh giá theo tiêu chí",
+"problem": "Một hộp bút đẹp nhưng dễ đổ khi đặt nhiều bút. Đánh giá thế nào?",
+"steps": [
+"Xét tiêu chí thẩm mĩ: sản phẩm đẹp.",
+"Xét tiêu chí hiệu quả và độ vững: chưa tốt.",
+"Nêu hạn chế cụ thể: dễ đổ khi dùng.",
+"Đề xuất cải tiến: mở rộng đáy hoặc gia cố vật liệu."
+],
+"answer": "Sản phẩm có ưu điểm về thẩm mĩ nhưng hạn chế về độ vững và hiệu quả sử dụng. Nên mở rộng đáy hoặc gia cố để hộp bút chắc hơn.",
+"explanation": "Đánh giá tốt cần chỉ ra cả ưu điểm, hạn chế và cách cải tiến."
+},
+{
+"title": "Nội dung báo cáo thiết kế",
+"problem": "Một báo cáo thiết kế ngắn nên có những mục nào?",
+"steps": [
+"Nêu vấn đề và nhu cầu người dùng.",
+"Nêu tiêu chí sản phẩm.",
+"Trình bày ý tưởng, phác thảo, mô hình.",
+"Nêu kết quả thử nghiệm, đánh giá và cải tiến."
+],
+"answer": "Báo cáo nên có: vấn đề, nhu cầu, tiêu chí, ý tưởng, phác thảo/mô hình, thử nghiệm, đánh giá và đề xuất cải tiến.",
+"explanation": "Báo cáo thiết kế giúp người khác hiểu quá trình tạo ra sản phẩm, không chỉ nhìn sản phẩm cuối."
+}
+],
+"steps": [
+"Nhắc lại vấn đề và nhu cầu ban đầu.",
+"Liệt kê tiêu chí đánh giá sản phẩm.",
+"Thử sản phẩm theo từng tiêu chí.",
+"Ghi ưu điểm và hạn chế.",
+"Đề xuất cách cải tiến.",
+"Viết báo cáo thiết kế ngắn kèm hình ảnh, bản phác thảo hoặc bảng đánh giá."
+],
+"commonMistakes": [
+{
+"mistake": "Đánh giá sản phẩm chỉ bằng cảm tính.",
+"fix": "Dùng tiêu chí rõ: an toàn, hiệu quả, thẩm mĩ, chi phí, môi trường."
+},
+{
+"mistake": "Chỉ nêu ưu điểm, giấu hạn chế.",
+"fix": "Báo cáo tốt cần trung thực về hạn chế và đề xuất cải tiến."
+},
+{
+"mistake": "Báo cáo chỉ chụp sản phẩm cuối, không nói quá trình.",
+"fix": "Cần trình bày vấn đề, tiêu chí, phác thảo, thử nghiệm và đánh giá."
+}
+],
+"quickMemory": "Đánh giá sản phẩm: dựa tiêu chí, nêu ưu - nhược, có minh chứng, đề xuất cải tiến.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba tiêu chí đánh giá sản phẩm thiết kế.",
+"suggestedAnswer": "An toàn, hiệu quả, thẩm mĩ, chi phí, tác động môi trường."
+},
+{
+"question": "Vì sao cần nêu hạn chế trong báo cáo thiết kế?",
+"suggestedAnswer": "Để đánh giá trung thực và có căn cứ cải tiến sản phẩm."
+},
+{
+"question": "Báo cáo thiết kế nên nhắc lại điều gì ở phần đầu?",
+"suggestedAnswer": "Vấn đề, nhu cầu người dùng và tiêu chí sản phẩm."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập bảng đánh giá sản phẩm giá đỡ điện thoại theo 5 tiêu chí.",
+"hint": "An toàn, chắc chắn, dễ dùng, thẩm mĩ, chi phí/môi trường.",
+"suggestedAnswer": "Tiêu chí gồm: an toàn khi dùng, giữ điện thoại chắc, dễ đặt và lấy điện thoại, hình thức gọn đẹp, chi phí thấp và có thể dùng vật liệu tái chế."
+},
+{
+"question": "Viết phần kết luận ngắn cho báo cáo thiết kế hộp bút tái chế.",
+"hint": "Nêu sản phẩm giải quyết được gì, còn hạn chế gì, cải tiến gì.",
+"suggestedAnswer": "Sản phẩm hộp bút tái chế đã giúp sắp xếp bút, thước gọn hơn trên bàn học. Sản phẩm có ưu điểm là chi phí thấp, dễ làm và tận dụng vật liệu cũ. Hạn chế là độ bền chưa cao nếu bị ẩm. Nhóm em sẽ cải tiến bằng cách gia cố đáy hộp và phủ lớp bảo vệ bên ngoài."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu bảng đánh giá sản phẩm theo tiêu chí an toàn, hiệu quả, thẩm mĩ, chi phí, môi trường và cải tiến.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Đọc mô tả sản phẩm, chấm theo tiêu chí và chọn cải tiến phù hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

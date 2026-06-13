@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_info_001",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Nhận biết được các thiết bị số quen thuộc trong học tập và đời sống.",
+"Hiểu vai trò của thiết bị số trong lưu trữ, xử lí và trao đổi thông tin.",
+"Phân biệt được thiết bị vào, thiết bị ra, thiết bị lưu trữ ở mức cơ bản.",
+"Nêu được ví dụ dùng thiết bị số an toàn, đúng mục đích.",
+"Hình thành thói quen bảo quản thiết bị và dữ liệu cá nhân."
+],
+"easyExplanation": "Thiết bị số là những thiết bị có khả năng xử lí, lưu trữ hoặc trao đổi dữ liệu dạng số như máy tính, điện thoại thông minh, máy tính bảng, máy ảnh số, USB, máy in, loa, tai nghe, máy chiếu. Khi học, thiết bị số giúp em tìm tài liệu, soạn bài, lưu tệp, trình bày sản phẩm và trao đổi với thầy cô, bạn bè. Tuy nhiên, dùng thiết bị số cần đúng mục đích, không lạm dụng, không chia sẻ dữ liệu cá nhân tùy tiện và biết bảo quản thiết bị.",
+"workedExamples": [
+{
+"title": "Phân loại thiết bị",
+"problem": "Bàn phím, màn hình, USB lần lượt thuộc nhóm thiết bị nào?",
+"steps": [
+"Bàn phím dùng để nhập dữ liệu vào máy tính.",
+"Màn hình dùng để hiển thị kết quả.",
+"USB dùng để lưu trữ và chuyển dữ liệu.",
+"Gọi tên từng nhóm thiết bị."
+],
+"answer": "Bàn phím là thiết bị vào, màn hình là thiết bị ra, USB là thiết bị lưu trữ.",
+"explanation": "Có thể phân loại thiết bị theo vai trò của chúng trong quá trình làm việc với dữ liệu."
+},
+{
+"title": "Dùng thiết bị số trong học tập",
+"problem": "Nêu một cách dùng máy tính bảng để học hiệu quả.",
+"steps": [
+"Chọn mục đích học tập rõ ràng.",
+"Dùng ứng dụng phù hợp.",
+"Lưu sản phẩm học tập có tên rõ.",
+"Không mở nội dung gây xao nhãng."
+],
+"answer": "Có thể dùng máy tính bảng để đọc tài liệu, ghi chú bài học và lưu bài tập vào thư mục môn học.",
+"explanation": "Thiết bị số hữu ích nhất khi được dùng có kế hoạch."
+}
+],
+"steps": [
+"Kể tên các thiết bị số em thường gặp.",
+"Xác định thiết bị dùng để nhập, xuất, lưu trữ hay trao đổi dữ liệu.",
+"Nêu vai trò của thiết bị trong học tập.",
+"Thực hành đặt tên tệp và lưu vào thư mục phù hợp.",
+"Kiểm tra thói quen an toàn: không chia sẻ dữ liệu cá nhân, không cài phần mềm lạ.",
+"Bảo quản thiết bị: sạc đúng cách, tránh nước, tránh va đập."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ thiết bị số chỉ là máy tính.",
+"fix": "Thiết bị số còn có điện thoại, máy tính bảng, USB, máy ảnh, máy in, máy chiếu và nhiều thiết bị khác."
+},
+{
+"mistake": "Dùng thiết bị học tập nhưng lưu tệp lộn xộn.",
+"fix": "Nên tạo thư mục theo môn học hoặc dự án và đặt tên tệp rõ ràng."
+},
+{
+"mistake": "Chia sẻ tài khoản hoặc dữ liệu cá nhân cho bạn bè.",
+"fix": "Không chia sẻ mật khẩu, ảnh riêng, số điện thoại, địa chỉ hoặc thông tin nhạy cảm."
+}
+],
+"quickMemory": "Thiết bị số giúp nhập, xử lí, lưu trữ, hiển thị và trao đổi dữ liệu. Dùng đúng mục đích mới thật sự thông minh.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba thiết bị số em thường dùng.",
+"suggestedAnswer": "Máy tính, điện thoại thông minh, máy tính bảng hoặc USB."
+},
+{
+"question": "Màn hình thuộc nhóm thiết bị nào?",
+"suggestedAnswer": "Thiết bị ra."
+},
+{
+"question": "Vì sao cần bảo vệ dữ liệu cá nhân khi dùng thiết bị số?",
+"suggestedAnswer": "Vì dữ liệu cá nhân nếu bị lộ có thể gây mất an toàn hoặc bị lợi dụng."
+}
+],
+"applicationQuestions": [
+{
+"question": "Phân loại các thiết bị sau: chuột, loa, ổ cứng ngoài, máy in.",
+"hint": "Xem thiết bị dùng để nhập, xuất hay lưu trữ.",
+"suggestedAnswer": "Chuột là thiết bị vào. Loa và máy in là thiết bị ra. Ổ cứng ngoài là thiết bị lưu trữ."
+},
+{
+"question": "Viết 4 quy tắc dùng thiết bị số trong học tập.",
+"hint": "Nêu đúng mục đích, lưu tệp rõ, bảo vệ tài khoản, bảo quản thiết bị.",
+"suggestedAnswer": "Dùng thiết bị đúng mục đích học tập. Đặt tên tệp và thư mục rõ ràng. Không chia sẻ mật khẩu hoặc dữ liệu cá nhân. Bảo quản thiết bị, tránh va đập và nước."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ thiết bị số theo nhóm: thiết bị vào, thiết bị ra, thiết bị lưu trữ, thiết bị kết nối.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả thiết bị vào đúng nhóm và chọn cách dùng an toàn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_002",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu khái niệm tệp, thư mục và vai trò của lưu trữ dữ liệu.",
+"Biết đặt tên tệp, tạo thư mục và sắp xếp dữ liệu khoa học.",
+"Phân biệt được tên tệp, phần mở rộng và vị trí lưu trữ ở mức cơ bản.",
+"Thực hiện được thao tác sao chép, di chuyển, đổi tên và xóa tệp/thư mục an toàn.",
+"Hình thành thói quen sao lưu dữ liệu quan trọng."
+],
+"easyExplanation": "Tệp là đơn vị lưu trữ dữ liệu như bài văn, ảnh, bảng tính, bài trình chiếu hoặc video. Thư mục giống chiếc ngăn kéo giúp sắp xếp tệp theo chủ đề. Nếu lưu bài tập lộn xộn, em sẽ mất thời gian tìm lại. Một tên tệp tốt nên ngắn, rõ nội dung và có thể kèm ngày tháng, ví dụ 'Van7_cam_nhan_bai_tho_2026-06-09.docx'. Thư mục nên chia theo môn học hoặc dự án. Dữ liệu quan trọng nên được sao lưu ở nơi khác để tránh mất khi máy hỏng hoặc xóa nhầm.",
+"workedExamples": [
+{
+"title": "Đặt tên tệp rõ ràng",
+"problem": "Tên tệp nào tốt hơn: 'baitap.docx' hay 'Tin7_timkiem_thongtin_Nam.docx'?",
+"steps": [
+"Tên 'baitap.docx' quá chung chung.",
+"Tên thứ hai có môn học, nội dung và người làm.",
+"Tên rõ giúp tìm lại nhanh hơn.",
+"Chọn tên tệp phù hợp."
+],
+"answer": "Tên 'Tin7_timkiem_thongtin_Nam.docx' tốt hơn vì rõ môn học, nội dung và người làm.",
+"explanation": "Tên tệp tốt là tên giúp người dùng hiểu tệp chứa gì mà không cần mở ra."
+},
+{
+"title": "Sắp xếp thư mục",
+"problem": "Em có tệp Toán, Văn, Tin học. Nên lưu thế nào cho dễ tìm?",
+"steps": [
+"Tạo thư mục chính 'Lop7'.",
+"Trong đó tạo các thư mục con: Toan, Van, Tin_hoc.",
+"Lưu từng tệp vào đúng thư mục môn học.",
+"Đặt tên tệp rõ nội dung."
+],
+"answer": "Nên tạo thư mục theo môn học, ví dụ Lop7/Toan, Lop7/Van, Lop7/Tin_hoc, rồi lưu tệp vào đúng nơi.",
+"explanation": "Cấu trúc thư mục rõ giúp tiết kiệm thời gian và tránh thất lạc dữ liệu."
+}
+],
+"steps": [
+"Tạo thư mục chính cho lớp hoặc năm học.",
+"Tạo thư mục con theo môn học hoặc dự án.",
+"Đặt tên tệp rõ nội dung, tránh tên quá chung như 'moi', 'final', 'baitap'.",
+"Kiểm tra phần mở rộng để biết loại tệp.",
+"Sao chép hoặc di chuyển tệp đúng nơi.",
+"Sao lưu dữ liệu quan trọng vào ổ khác hoặc dịch vụ lưu trữ tin cậy."
+],
+"commonMistakes": [
+{
+"mistake": "Lưu mọi tệp ở màn hình chính hoặc thư mục Downloads.",
+"fix": "Nên chuyển tệp vào thư mục môn học hoặc dự án."
+},
+{
+"mistake": "Đặt tên tệp quá mơ hồ.",
+"fix": "Tên tệp nên có môn học, nội dung chính và ngày nếu cần."
+},
+{
+"mistake": "Xóa tệp mà không kiểm tra.",
+"fix": "Trước khi xóa, cần xem đúng tệp chưa và có cần sao lưu không."
+}
+],
+"quickMemory": "Tệp là dữ liệu được lưu. Thư mục là nơi sắp xếp tệp. Tên rõ, nơi đúng, có sao lưu.",
+"warmupQuestions": [
+{
+"question": "Tệp là gì?",
+"suggestedAnswer": "Tệp là đơn vị lưu trữ dữ liệu như văn bản, ảnh, âm thanh, video hoặc bài trình chiếu."
+},
+{
+"question": "Thư mục dùng để làm gì?",
+"suggestedAnswer": "Dùng để chứa và sắp xếp các tệp, thư mục con."
+},
+{
+"question": "Vì sao nên sao lưu dữ liệu quan trọng?",
+"suggestedAnswer": "Để tránh mất dữ liệu khi máy hỏng, xóa nhầm hoặc tệp bị lỗi."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy đề xuất cấu trúc thư mục cho học sinh lớp 7.",
+"hint": "Có thư mục chính và thư mục con theo môn.",
+"suggestedAnswer": "Lop7/Toan, Lop7/Ngu_van, Lop7/Tin_hoc, Lop7/KHTN, Lop7/Lich_su_Dia_li, Lop7/Tieng_Anh."
+},
+{
+"question": "Đặt tên tệp phù hợp cho bài thuyết trình Tin học về tìm kiếm thông tin.",
+"hint": "Tên nên có môn, nội dung, người làm hoặc ngày.",
+"suggestedAnswer": "Tin7_tim_kiem_thong_tin_nhom1_2026-06-09.pptx"
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Cây thư mục mẫu cho học sinh lớp 7 với các môn học và dự án.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp tệp vào đúng thư mục và chọn tên tệp rõ ràng nhất.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_003",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu dữ liệu là thông tin được thu thập, lưu trữ và xử lí bằng nhiều dạng khác nhau.",
+"Nhận biết được một số dạng biểu diễn thông tin: văn bản, số, hình ảnh, âm thanh, video, kí hiệu.",
+"Hiểu máy tính biểu diễn và xử lí dữ liệu ở dạng số.",
+"Biết chọn cách biểu diễn thông tin phù hợp với mục đích.",
+"Phân biệt được dữ liệu thô và thông tin có ý nghĩa ở mức đơn giản."
+],
+"easyExplanation": "Dữ liệu là những gì được ghi lại để lưu trữ, xử lí hoặc truyền đi: chữ, số, ảnh, âm thanh, video, biểu tượng, bảng điểm, nhiệt độ, lượt truy cập. Khi dữ liệu được đặt trong ngữ cảnh và được hiểu đúng, nó trở thành thông tin có ý nghĩa. Ví dụ số '38' một mình chưa rõ là gì, nhưng '38 học sinh trong lớp 7A' là thông tin rõ hơn. Máy tính lưu trữ và xử lí dữ liệu dưới dạng số, còn con người có thể nhìn thấy nó dưới dạng chữ, ảnh, bảng, biểu đồ hoặc âm thanh.",
+"workedExamples": [
+{
+"title": "Dữ liệu và thông tin",
+"problem": "Số '12' là dữ liệu hay thông tin?",
+"steps": [
+"Số 12 đứng một mình chưa rõ ý nghĩa.",
+"Nếu nói '12 quyển sách', nó có ngữ cảnh.",
+"Khi có ngữ cảnh, dữ liệu trở thành thông tin dễ hiểu.",
+"Kết luận theo trường hợp."
+],
+"answer": "Số '12' đứng một mình là dữ liệu chưa đủ ngữ cảnh. '12 quyển sách' là thông tin rõ nghĩa hơn.",
+"explanation": "Thông tin là dữ liệu được hiểu trong ngữ cảnh."
+},
+{
+"title": "Chọn cách biểu diễn",
+"problem": "Muốn so sánh số học sinh yêu thích các môn học, nên biểu diễn bằng văn bản dài hay biểu đồ?",
+"steps": [
+"Mục tiêu là so sánh số lượng.",
+"Biểu đồ giúp nhìn nhanh nhóm nhiều - ít.",
+"Văn bản dài có thể khó so sánh.",
+"Chọn biểu đồ."
+],
+"answer": "Nên dùng bảng hoặc biểu đồ để so sánh dễ hơn.",
+"explanation": "Cách biểu diễn tốt phụ thuộc vào mục đích sử dụng thông tin."
+}
+],
+"steps": [
+"Xác định dữ liệu đang ở dạng nào: chữ, số, ảnh, âm thanh, video.",
+"Tìm ngữ cảnh để hiểu ý nghĩa dữ liệu.",
+"Chọn cách biểu diễn phù hợp: bảng, biểu đồ, văn bản, hình ảnh.",
+"Kiểm tra dữ liệu có đủ, đúng và rõ nguồn không.",
+"Rút ra thông tin hoặc nhận xét từ dữ liệu.",
+"Lưu dữ liệu vào tệp/thư mục phù hợp."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm dữ liệu với thông tin trong mọi trường hợp.",
+"fix": "Dữ liệu cần ngữ cảnh và xử lí để trở thành thông tin có ý nghĩa."
+},
+{
+"mistake": "Dùng văn bản dài để trình bày số liệu cần so sánh.",
+"fix": "Số liệu nên trình bày bằng bảng hoặc biểu đồ khi cần so sánh."
+},
+{
+"mistake": "Tin mọi dữ liệu mà không kiểm tra nguồn.",
+"fix": "Cần xem dữ liệu có đáng tin, đủ và phù hợp không."
+}
+],
+"quickMemory": "Dữ liệu là nguyên liệu. Thông tin là dữ liệu đã có ý nghĩa. Biểu diễn đúng giúp hiểu nhanh hơn.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba dạng dữ liệu thường gặp.",
+"suggestedAnswer": "Văn bản, số, hình ảnh, âm thanh hoặc video."
+},
+{
+"question": "Khi nào dữ liệu trở thành thông tin?",
+"suggestedAnswer": "Khi dữ liệu được đặt trong ngữ cảnh, được xử lí và có ý nghĩa với người dùng."
+},
+{
+"question": "Muốn so sánh số liệu, nên dùng cách biểu diễn nào?",
+"suggestedAnswer": "Bảng hoặc biểu đồ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Chuyển dữ liệu '7A, Toán, 8.5' thành thông tin rõ nghĩa.",
+"hint": "Thêm ngữ cảnh lớp, môn, điểm.",
+"suggestedAnswer": "Học sinh/lớp 7A có điểm môn Toán là 8.5."
+},
+{
+"question": "Nêu ví dụ một dữ liệu dạng hình ảnh và một dữ liệu dạng âm thanh trong học tập.",
+"hint": "Ảnh bài thí nghiệm, file ghi âm đọc tiếng Anh.",
+"suggestedAnswer": "Dữ liệu hình ảnh: ảnh chụp thí nghiệm KHTN. Dữ liệu âm thanh: file ghi âm luyện đọc tiếng Anh."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ dữ liệu thô → xử lí/ngữ cảnh → thông tin có ý nghĩa, kèm ví dụ văn bản, số, ảnh, âm thanh.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Phân loại dữ liệu theo dạng và chọn cách biểu diễn phù hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_004",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu khái niệm mạng máy tính và Internet ở mức cơ bản.",
+"Nhận biết được lợi ích của Internet trong học tập, giao tiếp và chia sẻ thông tin.",
+"Phân biệt được mạng cục bộ và Internet ở mức đơn giản.",
+"Nêu được một số nguy cơ khi sử dụng Internet.",
+"Biết một số quy tắc sử dụng Internet an toàn và văn minh."
+],
+"easyExplanation": "Mạng máy tính là sự kết nối giữa các máy tính hoặc thiết bị để trao đổi dữ liệu và dùng chung tài nguyên. Internet là mạng toàn cầu kết nối rất nhiều mạng và thiết bị trên khắp thế giới. Nhờ Internet, em có thể tìm tài liệu học tập, xem bài giảng, gửi thư, học trực tuyến, trao đổi với bạn bè và lưu trữ dữ liệu. Nhưng Internet cũng có rủi ro như thông tin sai, lừa đảo, mã độc, nghiện mạng, lộ dữ liệu cá nhân. Vì vậy, dùng Internet cần thông minh: biết chọn nguồn, bảo vệ tài khoản, giao tiếp lịch sự và không tải nội dung lạ.",
+"workedExamples": [
+{
+"title": "Mạng máy tính và Internet",
+"problem": "Internet có phải là một mạng máy tính không?",
+"steps": [
+"Mạng máy tính là các thiết bị được kết nối để trao đổi dữ liệu.",
+"Internet kết nối rất nhiều mạng trên toàn cầu.",
+"Vì vậy Internet là mạng toàn cầu.",
+"Nêu câu trả lời ngắn."
+],
+"answer": "Có. Internet là mạng toàn cầu kết nối rất nhiều mạng máy tính và thiết bị trên thế giới.",
+"explanation": "Có thể hiểu Internet là mạng của các mạng."
+},
+{
+"title": "Dùng Internet an toàn",
+"problem": "Vì sao không nên bấm vào liên kết lạ được gửi trong tin nhắn?",
+"steps": [
+"Liên kết lạ có thể dẫn đến trang giả mạo.",
+"Trang đó có thể yêu cầu nhập mật khẩu hoặc thông tin cá nhân.",
+"Liên kết cũng có thể chứa mã độc.",
+"Vì vậy cần kiểm tra nguồn trước khi bấm."
+],
+"answer": "Vì liên kết lạ có thể dẫn đến trang lừa đảo, đánh cắp dữ liệu hoặc gây hại cho thiết bị.",
+"explanation": "Một cú bấm thiếu kiểm tra có thể mở cửa cho rủi ro số."
+}
+],
+"steps": [
+"Tìm ví dụ mạng máy tính trong trường học hoặc gia đình.",
+"Nêu các hoạt động học tập sử dụng Internet.",
+"Phân biệt lợi ích và nguy cơ của Internet.",
+"Kiểm tra địa chỉ trang web, nguồn thông tin và quyền riêng tư.",
+"Không tải tệp lạ, không nhập mật khẩu ở trang đáng ngờ.",
+"Giao tiếp trực tuyến văn minh, tôn trọng người khác."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ Internet chỉ dùng để giải trí.",
+"fix": "Internet còn dùng để học tập, giao tiếp, làm việc, lưu trữ, nghiên cứu và sáng tạo."
+},
+{
+"mistake": "Tin mọi thông tin trên Internet.",
+"fix": "Cần kiểm tra nguồn, tác giả, ngày đăng và so sánh nhiều nguồn đáng tin."
+},
+{
+"mistake": "Bấm liên kết lạ hoặc tải tệp không rõ nguồn.",
+"fix": "Chỉ mở liên kết/tệp từ nguồn tin cậy và hỏi người lớn khi nghi ngờ."
+}
+],
+"quickMemory": "Internet là mạng toàn cầu. Nó mở cửa tri thức, nhưng phải đi cùng an toàn, kiểm chứng và văn minh.",
+"warmupQuestions": [
+{
+"question": "Internet là gì?",
+"suggestedAnswer": "Là mạng toàn cầu kết nối rất nhiều mạng máy tính và thiết bị."
+},
+{
+"question": "Nêu một lợi ích của Internet trong học tập.",
+"suggestedAnswer": "Tìm tài liệu, học trực tuyến, xem bài giảng, trao đổi với thầy cô và bạn bè."
+},
+{
+"question": "Một nguy cơ khi dùng Internet là gì?",
+"suggestedAnswer": "Thông tin sai, lừa đảo, mã độc, lộ dữ liệu cá nhân hoặc nghiện mạng."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết 5 quy tắc sử dụng Internet an toàn.",
+"hint": "Mật khẩu, liên kết lạ, thông tin cá nhân, nguồn tin, giao tiếp.",
+"suggestedAnswer": "Không chia sẻ mật khẩu. Không bấm liên kết lạ. Không đăng thông tin cá nhân tùy tiện. Kiểm tra nguồn tin trước khi tin hoặc chia sẻ. Giao tiếp lịch sự, không xúc phạm người khác."
+},
+{
+"question": "Nêu 3 việc em có thể làm trên Internet để phục vụ học tập.",
+"hint": "Tìm tài liệu, xem bài giảng, nộp bài.",
+"suggestedAnswer": "Tìm tài liệu học tập, xem video bài giảng, gửi bài cho thầy cô hoặc trao đổi bài với bạn."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ Internet: thiết bị cá nhân, mạng gia đình, mạng trường học, máy chủ, dịch vụ học tập và rủi ro an toàn.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn hành vi an toàn hoặc nguy hiểm khi sử dụng Internet.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_005",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Biết xác định nhu cầu thông tin trước khi tìm kiếm.",
+"Biết chọn từ khóa phù hợp để tìm kiếm thông tin hiệu quả.",
+"Hiểu cách dùng cụm từ, từ khóa chính và từ khóa bổ sung.",
+"Biết đánh giá kết quả tìm kiếm theo nguồn, thời gian, độ tin cậy và sự phù hợp.",
+"Hình thành thói quen kiểm chứng thông tin trước khi sử dụng hoặc chia sẻ."
+],
+"easyExplanation": "Tìm kiếm thông tin hiệu quả không phải là gõ cả một câu dài rồi bấm đại vào kết quả đầu tiên. Trước hết, em cần biết mình muốn tìm gì. Sau đó chọn từ khóa chính, thêm từ khóa phụ nếu cần, ví dụ thay vì gõ 'em muốn biết châu Á có khí hậu như thế nào', có thể gõ 'đặc điểm khí hậu châu Á lớp 7'. Khi có kết quả, cần xem nguồn có đáng tin không, nội dung có đúng yêu cầu không, ngày đăng có mới không và có cần so sánh với nguồn khác không. Tìm kiếm giỏi là biết hỏi đúng và biết nghi ngờ đúng chỗ.",
+"workedExamples": [
+{
+"title": "Chọn từ khóa",
+"problem": "Muốn tìm thông tin về dân số già ở châu Âu, nên dùng từ khóa nào?",
+"steps": [
+"Xác định chủ đề chính: dân số già.",
+"Xác định khu vực: châu Âu.",
+"Có thể thêm mức học: lớp 7.",
+"Tạo cụm từ khóa ngắn gọn."
+],
+"answer": "Có thể dùng từ khóa: 'dân số già châu Âu lớp 7' hoặc 'đặc điểm dân cư châu Âu dân số già'.",
+"explanation": "Từ khóa tốt thường ngắn, đúng chủ đề và có từ bổ sung để lọc kết quả."
+},
+{
+"title": "Đánh giá kết quả tìm kiếm",
+"problem": "Một trang web không ghi tác giả, không rõ ngày đăng, nhiều quảng cáo lạ. Có nên dùng ngay làm nguồn học tập không?",
+"steps": [
+"Nguồn không rõ tác giả làm giảm độ tin cậy.",
+"Không rõ ngày đăng có thể khiến thông tin lỗi thời.",
+"Nhiều quảng cáo lạ có thể gây rủi ro.",
+"Nên tìm nguồn khác đáng tin hơn."
+],
+"answer": "Không nên dùng ngay. Cần kiểm tra thêm hoặc chọn nguồn đáng tin hơn.",
+"explanation": "Kết quả tìm kiếm không tự động đúng chỉ vì nó xuất hiện trên Internet."
+}
+],
+"steps": [
+"Xác định câu hỏi cần trả lời.",
+"Chọn 2 đến 5 từ khóa chính.",
+"Thêm từ khóa phụ như lớp học, khu vực, năm, dạng tài liệu nếu cần.",
+"Đọc tiêu đề và mô tả kết quả trước khi bấm.",
+"Kiểm tra nguồn, tác giả, ngày đăng, mục đích trang.",
+"So sánh ít nhất hai nguồn khi thông tin quan trọng."
+],
+"commonMistakes": [
+{
+"mistake": "Gõ câu hỏi quá dài và mơ hồ.",
+"fix": "Rút câu hỏi thành vài từ khóa chính."
+},
+{
+"mistake": "Chọn ngay kết quả đầu tiên mà không kiểm tra nguồn.",
+"fix": "Cần xem trang đó có đáng tin và phù hợp không."
+},
+{
+"mistake": "Sao chép nguyên văn thông tin tìm được.",
+"fix": "Cần đọc hiểu, tóm tắt bằng lời của mình và ghi nguồn khi cần."
+}
+],
+"quickMemory": "Tìm kiếm hiệu quả: hỏi đúng, chọn từ khóa gọn, lọc kết quả, kiểm chứng nguồn, dùng thông tin có trách nhiệm.",
+"warmupQuestions": [
+{
+"question": "Từ khóa tìm kiếm là gì?",
+"suggestedAnswer": "Là những từ hoặc cụm từ chính dùng để tìm thông tin cần thiết."
+},
+{
+"question": "Vì sao không nên tin ngay kết quả đầu tiên?",
+"suggestedAnswer": "Vì kết quả đầu tiên chưa chắc đáng tin hoặc phù hợp nhất."
+},
+{
+"question": "Khi kiểm tra nguồn thông tin, cần xem gì?",
+"suggestedAnswer": "Tác giả, tổ chức đăng, ngày đăng, nội dung, mục đích và độ tin cậy."
+}
+],
+"applicationQuestions": [
+{
+"question": "Tạo 3 bộ từ khóa để tìm hiểu về chiến thắng Bạch Đằng 938.",
+"hint": "Có thể thêm lớp 7, Ngô Quyền, ý nghĩa.",
+"suggestedAnswer": "Bạch Đằng 938 Ngô Quyền; ý nghĩa chiến thắng Bạch Đằng 938 lớp 7; Ngô Quyền chống Nam Hán Bạch Đằng."
+},
+{
+"question": "Nêu 4 tiêu chí đánh giá một nguồn thông tin trên Internet.",
+"hint": "Tác giả, ngày, độ tin cậy, phù hợp.",
+"suggestedAnswer": "Nguồn có tác giả hoặc tổ chức rõ ràng, ngày đăng/cập nhật rõ, nội dung phù hợp với câu hỏi, thông tin có căn cứ và không chứa dấu hiệu lừa đảo."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Quy trình tìm kiếm thông tin: xác định câu hỏi, chọn từ khóa, đọc kết quả, kiểm tra nguồn, ghi chú.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn từ khóa tốt nhất và đánh giá độ tin cậy của các kết quả tìm kiếm giả lập.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

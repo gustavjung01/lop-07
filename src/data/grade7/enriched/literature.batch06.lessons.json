@@ -1,0 +1,323 @@
+[
+{
+"lessonId": "g7_lit_026",
+"subjectKey": "literature",
+"learningObjectives": [
+"Hiểu bài kể lại trải nghiệm là bài viết kể một sự việc bản thân đã trải qua hoặc chứng kiến.",
+"Biết chọn trải nghiệm có ý nghĩa, có diễn biến và cảm xúc rõ.",
+"Sắp xếp được bài viết theo trình tự mở bài, thân bài, kết bài.",
+"Kể được diễn biến sự việc kết hợp cảm xúc, suy nghĩ và bài học.",
+"Viết được bài kể trải nghiệm có chi tiết cụ thể, giọng kể tự nhiên."
+],
+"easyExplanation": "Bài kể lại trải nghiệm không chỉ là liệt kê 'em đã làm gì'. Một bài kể tốt cần có sự việc đáng nhớ, diễn biến rõ, cảm xúc thay đổi và bài học sau trải nghiệm. Em có thể kể lần đầu thuyết trình trước lớp, lần giúp bạn, lần mắc lỗi rồi sửa, chuyến đi đáng nhớ hoặc một việc khiến em trưởng thành hơn. Thân bài nên đi theo trình tự: hoàn cảnh xảy ra, sự việc bắt đầu, cao trào hoặc khó khăn, cách em xử lí, kết quả. Phần hay nhất thường nằm ở cảm xúc và suy nghĩ của người kể.",
+"workedExamples": [
+{
+"title": "Chọn trải nghiệm để kể",
+"problem": "Trong các đề tài: đi học mỗi ngày, lần đầu thuyết trình trước lớp, ăn cơm tối, em nên chọn đề tài nào để viết bài kể trải nghiệm? Vì sao?",
+"steps": [
+"Ưu tiên sự việc có điểm đáng nhớ.",
+"Trải nghiệm nên có cảm xúc thay đổi.",
+"Trải nghiệm nên rút ra được bài học.",
+"Chọn đề tài có diễn biến rõ."
+],
+"answer": "Nên chọn lần đầu thuyết trình trước lớp vì trải nghiệm này có diễn biến, cảm xúc hồi hộp, khó khăn khi trình bày và bài học về sự tự tin.",
+"explanation": "Không phải việc nào cũng thành bài kể hay. Trải nghiệm cần có ý nghĩa và cảm xúc."
+},
+{
+"title": "Lập dàn ý bài kể trải nghiệm",
+"problem": "Lập dàn ý ngắn cho bài kể về lần em giúp một bạn trong lớp.",
+"steps": [
+"Mở bài: giới thiệu trải nghiệm đáng nhớ.",
+"Thân bài: kể hoàn cảnh, sự việc, hành động giúp bạn, cảm xúc.",
+"Kết bài: nêu kết quả và bài học.",
+"Dùng ngôi kể thứ nhất nếu kể trải nghiệm của bản thân."
+],
+"answer": "Mở bài: giới thiệu lần em giúp bạn bị quên vở. Thân bài: kể lúc phát hiện bạn lo lắng, em chia sẻ vở và cùng bạn hoàn thành bài, cảm xúc hồi hộp rồi vui. Kết bài: em hiểu rằng giúp đỡ đúng lúc làm tình bạn gần gũi hơn.",
+"explanation": "Dàn ý giúp bài kể không bị lan man hoặc thiếu bài học."
+}
+],
+"steps": [
+"Chọn một trải nghiệm thật sự đáng nhớ.",
+"Xác định ngôi kể, thường là ngôi thứ nhất: em, tôi.",
+"Ghi các mốc diễn biến theo trình tự thời gian.",
+"Thêm chi tiết cụ thể: địa điểm, âm thanh, lời nói, hành động.",
+"Đan xen cảm xúc của em ở từng mốc sự việc.",
+"Kết bài bằng suy nghĩ hoặc bài học sau trải nghiệm."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ kể sự việc theo kiểu liệt kê, thiếu cảm xúc.",
+"fix": "Sau mỗi sự việc quan trọng, thêm cảm xúc: lo lắng, vui, xấu hổ, tự hào, biết ơn."
+},
+{
+"mistake": "Kể quá nhiều sự việc không liên quan.",
+"fix": "Chỉ giữ chi tiết phục vụ trải nghiệm chính và bài học chính."
+},
+{
+"mistake": "Kết bài không nêu ý nghĩa.",
+"fix": "Kết bài nên có suy nghĩ, bài học hoặc thay đổi của bản thân."
+}
+],
+"quickMemory": "Kể trải nghiệm: sự việc đáng nhớ + diễn biến rõ + cảm xúc thật + bài học sau cùng.",
+"warmupQuestions": [
+{
+"question": "Bài kể trải nghiệm thường dùng ngôi kể nào?",
+"suggestedAnswer": "Thường dùng ngôi thứ nhất: em hoặc tôi."
+},
+{
+"question": "Một trải nghiệm nên có yếu tố gì để đáng kể?",
+"suggestedAnswer": "Có sự việc đáng nhớ, cảm xúc thay đổi và bài học."
+},
+{
+"question": "Vì sao cần đan xen cảm xúc khi kể?",
+"suggestedAnswer": "Để bài viết chân thật, sinh động và thể hiện sự trưởng thành của người kể."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập dàn ý cho bài kể về lần em mắc lỗi và biết sửa lỗi.",
+"hint": "Có hoàn cảnh, lỗi xảy ra, cảm xúc, cách sửa và bài học.",
+"suggestedAnswer": "Mở bài: giới thiệu lần em làm mất đồ của bạn. Thân bài: kể hoàn cảnh mượn đồ, làm mất, cảm xúc lo lắng, quyết định xin lỗi và tìm cách bù lại. Kết bài: em hiểu cần cẩn thận và trung thực khi mắc lỗi."
+},
+{
+"question": "Viết đoạn mở bài cho đề: Kể lại một trải nghiệm khiến em tự tin hơn.",
+"hint": "Giới thiệu trải nghiệm và cảm xúc chung.",
+"suggestedAnswer": "Trong năm học này, trải nghiệm khiến em nhớ nhất là lần đầu tiên thuyết trình trước lớp. Trước hôm đó, em luôn nghĩ mình sẽ run đến mức không nói được. Nhưng chính buổi thuyết trình ấy đã giúp em hiểu rằng sự tự tin có thể bắt đầu từ một lần dám thử."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Khung bài kể trải nghiệm: mở bài, hoàn cảnh, diễn biến, cảm xúc, kết quả, bài học.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp các mốc sự việc và cảm xúc thành dàn ý bài kể trải nghiệm.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_027",
+"subjectKey": "literature",
+"learningObjectives": [
+"Hiểu bài nghị luận về vấn đề đời sống là bài viết nêu ý kiến về một vấn đề gần gũi.",
+"Biết xác định vấn đề, quan điểm, lí lẽ và bằng chứng.",
+"Viết được đoạn hoặc bài nghị luận ngắn có mở bài, thân bài, kết bài.",
+"Dùng ví dụ thực tế để làm rõ ý kiến.",
+"Biết kết luận bằng lời khuyên hoặc nhận thức phù hợp."
+],
+"easyExplanation": "Bài nghị luận về vấn đề đời sống không kể chuyện là chính, mà dùng lí lẽ và bằng chứng để thuyết phục người đọc đồng tình với một ý kiến. Vấn đề có thể là đọc sách mỗi ngày, giữ vệ sinh lớp học, cư xử văn minh trên mạng, giúp đỡ bạn bè, tiết kiệm nước. Một bài ngắn thường có: mở bài nêu vấn đề và ý kiến, thân bài đưa lí lẽ và ví dụ, kết bài khẳng định lại quan điểm và rút lời khuyên. Điều quan trọng là không chỉ nói 'nên' hoặc 'không nên', mà phải giải thích vì sao.",
+"workedExamples": [
+{
+"title": "Xác định ý kiến và lí lẽ",
+"problem": "Với vấn đề 'học sinh nên giữ vệ sinh lớp học', hãy nêu một ý kiến và hai lí lẽ.",
+"steps": [
+"Nêu ý kiến rõ ràng.",
+"Lí lẽ 1 giải thích lợi ích cho sức khỏe và môi trường học.",
+"Lí lẽ 2 giải thích trách nhiệm chung của tập thể.",
+"Có thể thêm ví dụ để làm rõ."
+],
+"answer": "Ý kiến: Học sinh nên giữ vệ sinh lớp học. Lí lẽ: Lớp học sạch giúp mọi người học tập thoải mái hơn; giữ vệ sinh còn thể hiện trách nhiệm của mỗi học sinh với tập thể.",
+"explanation": "Lí lẽ cần trực tiếp bảo vệ ý kiến."
+},
+{
+"title": "Thêm bằng chứng thực tế",
+"problem": "Hãy đưa một ví dụ cho ý kiến: học sinh cần suy nghĩ trước khi bình luận trên mạng.",
+"steps": [
+"Chọn tình huống gần gũi với học sinh.",
+"Nêu hành động thiếu suy nghĩ.",
+"Nêu hậu quả.",
+"Liên hệ với ý kiến cần chứng minh."
+],
+"answer": "Ví dụ, trong nhóm lớp, một lời chê bai bài làm của bạn có thể khiến bạn xấu hổ và ngại phát biểu. Vì vậy, trước khi bình luận, học sinh cần cân nhắc lời nói của mình.",
+"explanation": "Bằng chứng thực tế giúp bài nghị luận bớt khô và thuyết phục hơn."
+}
+],
+"steps": [
+"Chọn một vấn đề đời sống rõ và gần gũi.",
+"Viết quan điểm của em bằng một câu chắc chắn.",
+"Tìm ít nhất hai lí lẽ trả lời câu hỏi vì sao.",
+"Chọn ví dụ thực tế phù hợp với từng lí lẽ.",
+"Sắp xếp bài theo mở bài, thân bài, kết bài.",
+"Đọc lại để tránh lạc đề hoặc chỉ kể chuyện mà thiếu lập luận."
+],
+"commonMistakes": [
+{
+"mistake": "Nêu ý kiến nhưng không có lí lẽ.",
+"fix": "Sau ý kiến cần giải thích vì sao em đồng tình hoặc không đồng tình."
+},
+{
+"mistake": "Biến bài nghị luận thành bài kể chuyện.",
+"fix": "Ví dụ chỉ dùng để minh họa cho lí lẽ, không kể lan man."
+},
+{
+"mistake": "Kết bài chỉ lặp lại nguyên câu mở bài.",
+"fix": "Kết bài nên khẳng định quan điểm và rút ra lời khuyên, hành động."
+}
+],
+"quickMemory": "Nghị luận đời sống: vấn đề → ý kiến → lí lẽ → ví dụ → kết luận/hành động.",
+"warmupQuestions": [
+{
+"question": "Bài nghị luận cần có những yếu tố chính nào?",
+"suggestedAnswer": "Ý kiến, lí lẽ, bằng chứng hoặc ví dụ, kết luận."
+},
+{
+"question": "Bằng chứng trong bài nghị luận dùng để làm gì?",
+"suggestedAnswer": "Để làm rõ và tăng sức thuyết phục cho lí lẽ."
+},
+{
+"question": "Một vấn đề đời sống gần gũi với học sinh là gì?",
+"suggestedAnswer": "Đọc sách, giữ vệ sinh lớp học, cư xử văn minh trên mạng, giúp đỡ bạn bè."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 6 đến 8 câu nêu ý kiến về việc học sinh nên tiết kiệm nước ở trường.",
+"hint": "Có ý kiến, lí lẽ, ví dụ, kết luận.",
+"suggestedAnswer": "Em cho rằng học sinh nên tiết kiệm nước ở trường. Nước là tài nguyên cần thiết cho đời sống, vì vậy chúng ta không nên sử dụng lãng phí. Ở trường, chỉ cần quên khóa vòi nước cũng có thể làm mất nhiều nước sạch. Tiết kiệm nước còn thể hiện ý thức trách nhiệm với môi trường chung. Mỗi học sinh có thể bắt đầu từ việc dùng nước vừa đủ, khóa vòi sau khi rửa tay và báo cho thầy cô khi thấy vòi bị rò rỉ. Những hành động nhỏ ấy sẽ góp phần xây dựng trường học xanh hơn."
+},
+{
+"question": "Lập dàn ý cho đề: Có nên đọc sách mỗi ngày không?",
+"hint": "Mở bài nêu ý kiến, thân bài có hai lí lẽ và ví dụ, kết bài khuyên rèn thói quen.",
+"suggestedAnswer": "Mở bài: Em đồng tình rằng học sinh nên đọc sách mỗi ngày. Thân bài: Lí lẽ 1, đọc sách giúp tăng vốn từ và viết tốt hơn; ví dụ ghi lại câu hay. Lí lẽ 2, đọc sách giúp mở rộng hiểu biết và rèn tập trung; ví dụ đọc 10 trang mỗi ngày. Kết bài: Mỗi học sinh nên bắt đầu từ thời lượng nhỏ nhưng đều đặn."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Khung bài nghị luận ngắn: mở bài nêu vấn đề, thân bài lí lẽ và ví dụ, kết bài lời khuyên.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo câu vào đúng phần: ý kiến, lí lẽ, bằng chứng, kết luận.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_028",
+"subjectKey": "literature",
+"learningObjectives": [
+"Biết tóm tắt văn bản bằng cách giữ ý chính và bỏ chi tiết phụ.",
+"Biết viết đoạn giới thiệu ngắn về một văn bản, địa điểm hoặc vấn đề.",
+"Hiểu yêu cầu cơ bản khi trình bày ý kiến trước lớp.",
+"Sắp xếp được nội dung nói theo mở đầu, nội dung chính và kết thúc.",
+"Rèn sự tự tin, rõ ràng và tôn trọng người nghe khi trình bày."
+],
+"easyExplanation": "Bài này gom ba kĩ năng thường dùng khi học: tóm tắt, thuyết minh ngắn và trình bày trước lớp. Tóm tắt là rút văn bản dài thành bản ngắn nhưng vẫn giữ ý chính. Thuyết minh hoặc giới thiệu ngắn là cung cấp thông tin rõ ràng về một đối tượng như cuốn sách, di tích, kế hoạch lớp. Trình bày trước lớp cần nói có bố cục, giọng vừa đủ nghe, mắt nhìn người nghe và biết kết thúc gọn. Một bài nói tốt không cần quá dài, nhưng phải rõ: em nói về gì, có những ý nào, em muốn người nghe nhớ điều gì.",
+"workedExamples": [
+{
+"title": "Tóm tắt văn bản",
+"problem": "Tóm tắt văn bản về kế hoạch giảm rác trong lớp bằng một câu.",
+"steps": [
+"Xác định chủ đề: giảm rác trong lớp.",
+"Giữ các hành động chính: mang bình nước, dùng hộp đựng đồ ăn, phân loại rác.",
+"Bỏ chi tiết phụ.",
+"Viết một câu ngắn."
+],
+"answer": "Văn bản hướng dẫn học sinh giảm rác trong lớp bằng cách mang bình nước cá nhân, dùng hộp đựng đồ ăn và phân loại giấy, nhựa đúng nơi.",
+"explanation": "Tóm tắt tốt phải ngắn nhưng không mất ý chính."
+},
+{
+"title": "Mở đầu bài trình bày",
+"problem": "Viết phần mở đầu ngắn cho bài trình bày về một cuốn sách em thích.",
+"steps": [
+"Chào người nghe.",
+"Nêu tên chủ đề trình bày.",
+"Giới thiệu tên sách.",
+"Nói lí do chọn sách bằng một câu."
+],
+"answer": "Kính thưa cô và các bạn, hôm nay em xin giới thiệu cuốn sách mà em rất yêu thích. Đó là cuốn ... Em chọn cuốn sách này vì câu chuyện trong sách đã giúp em suy nghĩ nhiều hơn về tình bạn và lòng dũng cảm.",
+"explanation": "Mở đầu cần rõ chủ đề và tạo lí do để người nghe chú ý."
+}
+],
+"steps": [
+"Với tóm tắt: đọc văn bản, gạch ý chính, bỏ chi tiết phụ, viết ngắn.",
+"Với thuyết minh: xác định đối tượng, chọn thông tin quan trọng, sắp xếp theo nhóm.",
+"Với trình bày: mở đầu chào và nêu chủ đề.",
+"Nội dung chính nên có 2 đến 3 ý rõ.",
+"Kết thúc bằng nhận xét, lời cảm ơn hoặc thông điệp.",
+"Luyện nói thành tiếng để điều chỉnh tốc độ và giọng."
+],
+"commonMistakes": [
+{
+"mistake": "Tóm tắt nhưng giữ quá nhiều chi tiết nhỏ.",
+"fix": "Chỉ giữ ý chính và thông tin cần thiết nhất."
+},
+{
+"mistake": "Trình bày trước lớp không có mở đầu hoặc kết thúc.",
+"fix": "Cần chào, nêu chủ đề, trình bày ý chính và kết thúc lịch sự."
+},
+{
+"mistake": "Nói quá nhanh, nhìn giấy suốt.",
+"fix": "Luyện nói chậm hơn, dùng gạch đầu dòng và nhìn người nghe khi có thể."
+}
+],
+"quickMemory": "Tóm tắt giữ ý chính. Thuyết minh nói rõ thông tin. Trình bày trước lớp cần bố cục, giọng rõ và thái độ tự tin.",
+"warmupQuestions": [
+{
+"question": "Tóm tắt cần giữ điều gì?",
+"suggestedAnswer": "Giữ ý chính của văn bản."
+},
+{
+"question": "Một bài trình bày trước lớp nên có mấy phần cơ bản?",
+"suggestedAnswer": "Có mở đầu, nội dung chính và kết thúc."
+},
+{
+"question": "Khi trình bày, vì sao không nên đọc nguyên văn toàn bộ giấy?",
+"suggestedAnswer": "Vì người nghe khó theo dõi và người nói thiếu giao tiếp với lớp."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập dàn ý 3 phần cho bài trình bày về một địa điểm văn hóa địa phương.",
+"hint": "Mở đầu, thông tin chính, kết thúc.",
+"suggestedAnswer": "Mở đầu: chào lớp và giới thiệu địa điểm. Nội dung chính: vị trí, đặc điểm nổi bật, giá trị văn hóa, cách giữ gìn. Kết thúc: nêu cảm nghĩ và lời mời mọi người trân trọng địa điểm."
+},
+{
+"question": "Viết lời kết cho bài trình bày về thói quen đọc sách.",
+"hint": "Khẳng định lợi ích và cảm ơn người nghe.",
+"suggestedAnswer": "Tóm lại, đọc sách mỗi ngày tuy là việc nhỏ nhưng có thể giúp chúng ta giàu vốn từ, hiểu biết hơn và tập trung tốt hơn. Em mong mỗi bạn sẽ thử bắt đầu từ vài trang sách mỗi ngày. Em xin cảm ơn cô và các bạn đã lắng nghe."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu phiếu chuẩn bị bài trình bày: chủ đề, 3 ý chính, ví dụ, câu mở đầu, câu kết.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp nội dung thành dàn ý trình bày trước lớp và chọn câu tóm tắt tốt nhất.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

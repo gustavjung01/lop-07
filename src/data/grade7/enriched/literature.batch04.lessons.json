@@ -1,0 +1,535 @@
+[
+{
+"lessonId": "g7_lit_016",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được đặc điểm của văn bản thông tin.",
+"Xác định được nhan đề, đề mục và ý chính trong văn bản.",
+"Hiểu cách văn bản triển khai thông tin theo trình tự hoặc nhóm ý.",
+"Tóm tắt được kế hoạch giảm rác trong lớp bằng các ý chính.",
+"Liên hệ được nội dung văn bản với hành động bảo vệ môi trường ở trường học."
+],
+"easyExplanation": "Văn bản thông tin dùng để cung cấp tri thức, hướng dẫn hoặc giải thích một vấn đề. Khi đọc văn bản về kế hoạch giảm rác trong lớp, em cần chú ý nhan đề cho biết chủ đề chung, các đề mục chia nội dung thành phần nhỏ, còn ý chính cho biết thông tin quan trọng nhất. Ví dụ kế hoạch có thể gồm chuẩn bị bình nước cá nhân, dùng hộp đựng đồ ăn, phân loại giấy và nhựa. Đọc văn bản thông tin không chỉ đọc từng câu, mà cần biết câu nào là ý chính, câu nào là chi tiết hỗ trợ.",
+"workedExamples": [
+{
+"title": "Xác định ý chính",
+"problem": "Văn bản nói về kế hoạch giảm rác trong lớp. Hãy nêu ý chính của văn bản.",
+"steps": [
+"Đọc nhan đề để xác định chủ đề.",
+"Xem các đề mục hoặc các đoạn chính.",
+"Tìm những việc được nhắc nhiều và có vai trò trung tâm.",
+"Gộp các việc thành một câu ý chính."
+],
+"answer": "Văn bản trình bày kế hoạch giúp lớp giảm rác bằng cách chuẩn bị đồ dùng cá nhân, hạn chế đồ dùng một lần và phân loại rác.",
+"explanation": "Ý chính cần bao quát toàn văn bản, không chỉ nhắc một chi tiết nhỏ."
+},
+{
+"title": "Phân biệt ý chính và chi tiết",
+"problem": "Câu 'Mỗi bạn mang bình nước cá nhân' là ý chính hay chi tiết?",
+"steps": [
+"Xem câu này có bao quát toàn văn bản không.",
+"Câu này chỉ là một việc cụ thể trong kế hoạch.",
+"Nó hỗ trợ cho ý lớn là giảm rác.",
+"Kết luận đây là chi tiết."
+],
+"answer": "Đây là chi tiết hỗ trợ cho ý chính về kế hoạch giảm rác.",
+"explanation": "Chi tiết giúp làm rõ ý chính."
+}
+],
+"steps": [
+"Đọc nhan đề để đoán nội dung chính.",
+"Tìm đề mục hoặc các đoạn lớn.",
+"Gạch chân câu nêu ý chính của từng đoạn.",
+"Khoanh các chi tiết hỗ trợ như ví dụ, bước làm, dụng cụ.",
+"Tóm tắt văn bản bằng 3 đến 5 ý ngắn."
+],
+"commonMistakes": [
+{
+"mistake": "Chép lại quá nhiều chi tiết thay vì tìm ý chính.",
+"fix": "Mỗi đoạn nên rút còn một ý quan trọng nhất."
+},
+{
+"mistake": "Bỏ qua nhan đề và đề mục.",
+"fix": "Nhan đề, đề mục là biển chỉ đường khi đọc văn bản thông tin."
+},
+{
+"mistake": "Tóm tắt bằng câu quá dài, lẫn ví dụ nhỏ.",
+"fix": "Tóm tắt nên ngắn, rõ, chỉ giữ ý quan trọng."
+}
+],
+"quickMemory": "Văn bản thông tin: nhan đề cho chủ đề, đề mục chia ý, ý chính là xương sống, chi tiết là phần làm rõ.",
+"warmupQuestions": [
+{
+"question": "Văn bản thông tin dùng để làm gì?",
+"suggestedAnswer": "Dùng để cung cấp thông tin, giải thích hoặc hướng dẫn về một vấn đề."
+},
+{
+"question": "Nêu một việc giúp giảm rác trong lớp.",
+"suggestedAnswer": "Mang bình nước cá nhân, dùng hộp đựng đồ ăn hoặc phân loại giấy và nhựa."
+},
+{
+"question": "Đề mục có tác dụng gì?",
+"suggestedAnswer": "Giúp chia văn bản thành các phần và định hướng nội dung từng phần."
+}
+],
+"applicationQuestions": [
+{
+"question": "Tóm tắt kế hoạch giảm rác trong lớp bằng 4 ý.",
+"hint": "Nhắc bình nước, hộp đựng đồ ăn, phân loại giấy và nhựa, thói quen chung của lớp.",
+"suggestedAnswer": "Mỗi bạn chuẩn bị bình nước cá nhân. Học sinh dùng hộp đựng đồ ăn để hạn chế túi nilon. Lớp phân loại giấy và nhựa vào đúng nơi. Cả lớp cùng theo dõi thói quen giảm rác hằng tuần."
+},
+{
+"question": "Viết một đề mục phù hợp cho phần nói về phân loại giấy và nhựa.",
+"hint": "Đề mục nên ngắn và rõ.",
+"suggestedAnswer": "Phân loại giấy và nhựa đúng cách"
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ văn bản thông tin: nhan đề, đề mục, ý chính, chi tiết.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo câu vào cột ý chính hoặc chi tiết hỗ trợ trong kế hoạch giảm rác.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_017",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được đặc điểm của văn bản giới thiệu di tích hoặc danh lam.",
+"Xác định được các thông tin chính: vị trí, đặc điểm kiến trúc, lễ hội, giá trị văn hóa.",
+"Hiểu cách sắp xếp thông tin trong văn bản giới thiệu.",
+"Tóm tắt được nội dung giới thiệu một ngôi đình làng.",
+"Nêu được ý nghĩa của việc giữ gìn di tích và không gian chung."
+],
+"easyExplanation": "Văn bản giới thiệu di tích/danh lam giúp người đọc hiểu một địa điểm có giá trị về lịch sử, văn hóa hoặc cảnh quan. Với văn bản giới thiệu một ngôi đình làng, em cần tìm các nhóm thông tin: đình ở đâu, kiến trúc chính có gì, lễ hội nào gắn với đình, người dân giữ gìn không gian ấy ra sao. Kiểu văn bản này thường không kể chuyện theo cốt truyện, mà cung cấp thông tin có trật tự để người đọc hình dung và thêm trân trọng di sản địa phương.",
+"workedExamples": [
+{
+"title": "Tìm nhóm thông tin chính",
+"problem": "Khi đọc văn bản giới thiệu đình làng, cần tìm những nhóm thông tin nào?",
+"steps": [
+"Tìm vị trí của đình.",
+"Tìm đặc điểm kiến trúc chính.",
+"Tìm lễ hội hoặc sinh hoạt văn hóa liên quan.",
+"Tìm cách người dân bảo vệ, giữ gìn đình.",
+"Gộp thành các nhóm thông tin chính."
+],
+"answer": "Cần tìm vị trí, kiến trúc, lễ hội, giá trị văn hóa và cách giữ gìn ngôi đình.",
+"explanation": "Các nhóm thông tin giúp người đọc hiểu địa điểm một cách có hệ thống."
+},
+{
+"title": "Nêu ý nghĩa giữ gìn di tích",
+"problem": "Vì sao cần giữ gìn ngôi đình làng?",
+"steps": [
+"Đình là nơi lưu giữ kí ức và văn hóa cộng đồng.",
+"Đình gắn với lễ hội, sinh hoạt chung.",
+"Nếu không giữ gìn, giá trị vật chất và tinh thần có thể mất đi.",
+"Rút ra ý nghĩa bảo vệ di sản."
+],
+"answer": "Cần giữ gìn đình làng vì đó là không gian văn hóa chung, lưu giữ kí ức cộng đồng và bản sắc địa phương.",
+"explanation": "Di tích không chỉ là công trình, mà còn là nơi chứa giá trị tinh thần."
+}
+],
+"steps": [
+"Đọc nhan đề để xác định địa điểm được giới thiệu.",
+"Gạch chân thông tin về vị trí.",
+"Tìm các chi tiết kiến trúc nổi bật.",
+"Tìm thông tin về lễ hội, sinh hoạt văn hóa.",
+"Tìm câu thể hiện ý nghĩa và trách nhiệm giữ gìn.",
+"Tóm tắt theo nhóm thông tin, không tóm tắt lộn xộn."
+],
+"commonMistakes": [
+{
+"mistake": "Đọc văn bản giới thiệu như truyện kể.",
+"fix": "Đây là văn bản thông tin, cần tìm nhóm thông tin chính."
+},
+{
+"mistake": "Chỉ nhớ tên địa điểm mà quên giá trị văn hóa.",
+"fix": "Cần nêu địa điểm có ý nghĩa gì với cộng đồng."
+},
+{
+"mistake": "Tóm tắt thiếu trật tự.",
+"fix": "Có thể theo thứ tự: vị trí, kiến trúc, lễ hội, giữ gìn."
+}
+],
+"quickMemory": "Giới thiệu di tích: ở đâu, có gì nổi bật, gắn với văn hóa nào, cần giữ gìn ra sao.",
+"warmupQuestions": [
+{
+"question": "Văn bản giới thiệu di tích thường cung cấp những thông tin nào?",
+"suggestedAnswer": "Vị trí, đặc điểm, giá trị lịch sử/văn hóa, hoạt động liên quan và cách giữ gìn."
+},
+{
+"question": "Ngôi đình làng thường gắn với sinh hoạt nào?",
+"suggestedAnswer": "Lễ hội, sinh hoạt cộng đồng và văn hóa địa phương."
+},
+{
+"question": "Vì sao cần giữ gìn di tích?",
+"suggestedAnswer": "Để bảo vệ giá trị lịch sử, văn hóa và kí ức cộng đồng."
+}
+],
+"applicationQuestions": [
+{
+"question": "Tóm tắt văn bản giới thiệu đình làng bằng 4 ý.",
+"hint": "Vị trí, kiến trúc, lễ hội, giữ gìn.",
+"suggestedAnswer": "Văn bản giới thiệu vị trí của ngôi đình làng. Tiếp đó, văn bản nêu một số nét kiến trúc chính của đình. Ngôi đình còn gắn với lễ hội và sinh hoạt văn hóa của người dân. Cuối cùng, văn bản nhấn mạnh ý thức giữ gìn không gian chung."
+},
+{
+"question": "Viết 4 câu giới thiệu một địa điểm văn hóa ở quê em hoặc nơi em sống.",
+"hint": "Nêu tên, vị trí, đặc điểm nổi bật và ý nghĩa.",
+"suggestedAnswer": "Ở quê em có một ngôi đình nằm gần cây đa đầu làng. Đình có mái ngói cổ và sân rộng, nơi người dân thường tổ chức lễ hội. Đây là địa điểm gắn với nhiều kỉ niệm của cộng đồng. Em nghĩ mọi người cần giữ gìn nơi này sạch đẹp và trang nghiêm."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Tranh hoặc ảnh minh họa ngôi đình làng, sân đình, mái ngói, lễ hội.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Ghép nhóm thông tin trong văn bản giới thiệu di tích: vị trí, kiến trúc, lễ hội, giá trị.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_018",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được đặc điểm của văn bản quy trình.",
+"Xác định được các bước trong quy trình lập sổ tay đọc sách.",
+"Hiểu vai trò của trình tự bước trong văn bản hướng dẫn.",
+"Tóm tắt được quy trình bằng các động từ chỉ hành động.",
+"Thực hành lập mẫu sổ tay đọc sách đơn giản."
+],
+"easyExplanation": "Văn bản quy trình dùng để hướng dẫn người đọc làm một việc theo các bước. Với văn bản hướng dẫn lập sổ tay đọc sách, các bước có thể gồm ghi tên sách, ghi nhân vật hoặc ý chính, chép câu yêu thích, viết suy nghĩ sau khi đọc. Khi đọc văn bản quy trình, em cần chú ý thứ tự: bước nào làm trước, bước nào làm sau, vì đổi sai thứ tự có thể khiến việc thực hiện khó hơn. Từ khóa thường gặp trong văn bản quy trình là: trước hết, tiếp theo, sau đó, cuối cùng.",
+"workedExamples": [
+{
+"title": "Sắp xếp quy trình",
+"problem": "Sắp xếp các việc sau khi lập sổ tay đọc sách: viết suy nghĩ sau khi đọc, ghi tên sách, ghi câu yêu thích, ghi nhân vật/ý chính.",
+"steps": [
+"Bắt đầu bằng thông tin nhận diện cuốn sách.",
+"Sau đó ghi nội dung chính hoặc nhân vật.",
+"Tiếp theo chọn câu yêu thích.",
+"Cuối cùng viết suy nghĩ sau khi đọc."
+],
+"answer": "Ghi tên sách → ghi nhân vật/ý chính → ghi câu yêu thích → viết suy nghĩ sau khi đọc.",
+"explanation": "Quy trình cần trình tự rõ để người làm dễ theo dõi."
+},
+{
+"title": "Nhận diện từ ngữ chỉ trình tự",
+"problem": "Các từ 'trước hết', 'tiếp theo', 'cuối cùng' có tác dụng gì trong văn bản quy trình?",
+"steps": [
+"Các từ này đánh dấu thứ tự.",
+"Chúng giúp người đọc biết bước trước, bước sau.",
+"Nhờ vậy quy trình dễ thực hiện hơn."
+],
+"answer": "Chúng giúp sắp xếp và nhận biết trình tự các bước trong quy trình.",
+"explanation": "Từ ngữ chỉ trình tự là biển báo trên con đường làm việc."
+}
+],
+"steps": [
+"Đọc nhan đề để biết việc cần làm.",
+"Gạch chân các từ chỉ trình tự.",
+"Đánh số từng bước.",
+"Tóm tắt mỗi bước bằng một cụm động từ.",
+"Kiểm tra xem thiếu dụng cụ hoặc thông tin nào không.",
+"Thử làm theo quy trình để xem có rõ ràng không."
+],
+"commonMistakes": [
+{
+"mistake": "Đọc văn bản quy trình nhưng không đánh số bước.",
+"fix": "Nên đánh số để tránh bỏ sót hoặc đảo lộn bước."
+},
+{
+"mistake": "Tóm tắt bước quá dài.",
+"fix": "Dùng cụm động từ ngắn: ghi tên sách, ghi ý chính, chọn câu hay, viết suy nghĩ."
+},
+{
+"mistake": "Làm bước suy nghĩ trước khi đọc hoặc ghi nội dung.",
+"fix": "Suy nghĩ sau khi đọc nên đặt ở cuối quy trình."
+}
+],
+"quickMemory": "Văn bản quy trình: mục đích rõ, bước rõ, trình tự rõ, làm theo được.",
+"warmupQuestions": [
+{
+"question": "Văn bản quy trình dùng để làm gì?",
+"suggestedAnswer": "Dùng để hướng dẫn thực hiện một việc theo các bước."
+},
+{
+"question": "Khi lập sổ tay đọc sách, việc đầu tiên nên ghi gì?",
+"suggestedAnswer": "Ghi tên sách."
+},
+{
+"question": "Từ nào thường báo hiệu bước cuối?",
+"suggestedAnswer": "Cuối cùng."
+}
+],
+"applicationQuestions": [
+{
+"question": "Tóm tắt quy trình lập sổ tay đọc sách bằng 4 bước.",
+"hint": "Dùng cụm động từ ngắn.",
+"suggestedAnswer": "Ghi tên sách. Ghi nhân vật hoặc ý chính. Chép câu yêu thích. Viết suy nghĩ sau khi đọc."
+},
+{
+"question": "Tạo mẫu một trang sổ tay đọc sách.",
+"hint": "Có tên sách, tác giả, ý chính, câu yêu thích, suy nghĩ.",
+"suggestedAnswer": "Tên sách: ...; Tác giả: ...; Nhân vật/ý chính: ...; Câu em thích: ...; Suy nghĩ sau khi đọc: ..."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu sổ tay đọc sách dạng một trang có các ô thông tin.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp các bước lập sổ tay đọc sách theo đúng trình tự.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_019",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được văn bản đa phương thức có sự kết hợp giữa chữ, bảng số liệu và biểu tượng.",
+"Đọc được thông tin chính từ đoạn chữ, bảng và biểu tượng.",
+"Hiểu vai trò của hình ảnh, số liệu, kí hiệu trong việc làm rõ thông điệp.",
+"Tóm tắt được nội dung về thói quen tiết kiệm nước trong trường học.",
+"Đánh giá được hiệu quả của cách trình bày chữ và hình trong văn bản."
+],
+"easyExplanation": "Văn bản đa phương thức không chỉ có chữ. Nó có thể kết hợp đoạn văn, bảng số liệu, biểu tượng, màu sắc, hình vẽ hoặc sơ đồ. Trong văn bản về thói quen tiết kiệm nước ở trường học, đoạn chữ có thể nêu vấn đề, bảng số liệu cho thấy mức sử dụng nước, còn biểu tượng giúp người đọc nhớ nhanh các hành động như khóa vòi nước, dùng nước vừa đủ, báo khi vòi rò rỉ. Khi đọc loại văn bản này, em cần đọc cả chữ và hình, không bỏ qua bảng số liệu hay kí hiệu.",
+"workedExamples": [
+{
+"title": "Đọc bảng số liệu",
+"problem": "Nếu bảng cho thấy lớp A dùng ít nước hơn lớp B sau một tuần, có thể rút ra nhận xét gì?",
+"steps": [
+"Xác định đối tượng so sánh: lớp A và lớp B.",
+"Xem số liệu lớp nào thấp hơn.",
+"Liên hệ với thói quen tiết kiệm nước.",
+"Viết nhận xét ngắn gọn."
+],
+"answer": "Có thể nhận xét lớp A tiết kiệm nước hơn lớp B trong tuần đó.",
+"explanation": "Bảng số liệu giúp nhận xét có căn cứ hơn."
+},
+{
+"title": "Tác dụng của biểu tượng",
+"problem": "Biểu tượng vòi nước bị khóa có tác dụng gì trong văn bản?",
+"steps": [
+"Nhận diện hình ảnh biểu tượng.",
+"Liên hệ với hành động khóa vòi nước.",
+"Xem tác dụng: giúp nhớ nhanh và dễ hiểu.",
+"Nêu hiệu quả biểu đạt."
+],
+"answer": "Biểu tượng giúp người đọc nhanh chóng hiểu thông điệp cần khóa vòi nước sau khi dùng.",
+"explanation": "Hình ảnh trong văn bản đa phương thức thường hỗ trợ và nhấn mạnh thông tin chữ."
+}
+],
+"steps": [
+"Đọc nhan đề và đoạn chữ để biết chủ đề.",
+"Quan sát bảng số liệu: tiêu đề bảng, hàng, cột, con số.",
+"Đọc biểu tượng hoặc hình minh họa.",
+"Nối thông tin chữ với thông tin hình/bảng.",
+"Rút thông điệp chính của văn bản.",
+"Đánh giá cách trình bày có dễ hiểu không."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ đọc đoạn chữ, bỏ qua bảng số liệu và biểu tượng.",
+"fix": "Văn bản đa phương thức phải đọc cả chữ, hình, bảng và kí hiệu."
+},
+{
+"mistake": "Nhìn số liệu nhưng không so sánh.",
+"fix": "Cần xem số nào lớn hơn, nhỏ hơn, tăng hay giảm để rút nhận xét."
+},
+{
+"mistake": "Hiểu biểu tượng tách rời chủ đề.",
+"fix": "Biểu tượng phải được đọc trong ngữ cảnh tiết kiệm nước."
+}
+],
+"quickMemory": "Văn bản đa phương thức = chữ + hình/bảng/kí hiệu. Đọc đủ kênh mới hiểu đủ thông điệp.",
+"warmupQuestions": [
+{
+"question": "Văn bản đa phương thức có thể gồm những kênh thông tin nào?",
+"suggestedAnswer": "Chữ, hình ảnh, bảng số liệu, biểu tượng, màu sắc, sơ đồ."
+},
+{
+"question": "Bảng số liệu giúp ích gì?",
+"suggestedAnswer": "Giúp thông tin cụ thể hơn và có căn cứ để so sánh."
+},
+{
+"question": "Nêu một hành động tiết kiệm nước ở trường.",
+"suggestedAnswer": "Khóa vòi nước sau khi dùng hoặc báo khi vòi bị rò rỉ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Tóm tắt thông điệp của văn bản về tiết kiệm nước trong trường học.",
+"hint": "Nhắc thói quen, hành động cụ thể và trách nhiệm chung.",
+"suggestedAnswer": "Văn bản nhắc học sinh hình thành thói quen tiết kiệm nước ở trường bằng cách dùng nước vừa đủ, khóa vòi sau khi dùng và báo người lớn khi phát hiện rò rỉ."
+},
+{
+"question": "Đề xuất 3 biểu tượng nên có trong poster tiết kiệm nước.",
+"hint": "Biểu tượng nên dễ hiểu.",
+"suggestedAnswer": "Biểu tượng khóa vòi nước, giọt nước có dấu tiết kiệm, bàn tay báo sửa vòi nước rò rỉ."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Poster tiết kiệm nước có đoạn chữ, bảng số liệu nhỏ và biểu tượng hành động.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Đọc bảng số liệu giả định và chọn nhận xét đúng về thói quen tiết kiệm nước.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_020",
+"subjectKey": "literature",
+"learningObjectives": [
+"Hiểu nghĩa của từ có thể thay đổi hoặc được xác định rõ hơn trong ngữ cảnh.",
+"Phân biệt nghĩa gốc, nghĩa chuyển và sắc thái biểu cảm ở mức cơ bản.",
+"Nhận biết sắc thái trang trọng, thân mật, tích cực, tiêu cực của từ ngữ.",
+"Chọn được từ phù hợp với ngữ cảnh giao tiếp.",
+"Sửa được câu dùng từ chưa phù hợp về nghĩa hoặc sắc thái."
+],
+"easyExplanation": "Một từ không phải lúc nào cũng có nghĩa y hệt nhau trong mọi câu. Ngữ cảnh giúp ta hiểu từ đang được dùng theo nghĩa nào và có sắc thái ra sao. Ví dụ từ 'ấm' trong 'cốc nước ấm' nói về nhiệt độ; còn 'nụ cười ấm' gợi cảm giác thân thiện, yêu thương. Ngoài nghĩa, từ còn có sắc thái: có từ trang trọng, có từ thân mật, có từ khen, có từ chê nhẹ hoặc chê nặng. Khi viết và nói, chọn đúng từ giúp câu rõ nghĩa, lịch sự và đúng cảm xúc.",
+"workedExamples": [
+{
+"title": "Xác định nghĩa theo ngữ cảnh",
+"problem": "Từ 'sáng' trong hai câu 'đèn sáng' và 'ý nghĩ sáng' có giống nhau không?",
+"steps": [
+"Trong 'đèn sáng', sáng chỉ ánh sáng nhìn thấy.",
+"Trong 'ý nghĩ sáng', sáng gợi sự thông minh, rõ ràng.",
+"Cùng một từ nhưng nghĩa thay đổi theo ngữ cảnh.",
+"Kết luận hai nghĩa không hoàn toàn giống nhau."
+],
+"answer": "Không giống hoàn toàn. 'Đèn sáng' là có ánh sáng; 'ý nghĩ sáng' là ý nghĩ rõ ràng, thông minh.",
+"explanation": "Ngữ cảnh là chiếc chìa khóa mở đúng nghĩa của từ."
+},
+{
+"title": "Chọn từ theo sắc thái",
+"problem": "Trong bài viết trang trọng, nên dùng 'qua đời' hay 'chết' khi nói về một người đáng kính?",
+"steps": [
+"Xác định ngữ cảnh: trang trọng, nói về người đáng kính.",
+"So sánh sắc thái: 'qua đời' nhẹ và trang trọng hơn.",
+"'Chết' trực tiếp, có thể thiếu trang trọng trong ngữ cảnh này.",
+"Chọn từ phù hợp."
+],
+"answer": "Nên dùng 'qua đời'.",
+"explanation": "Sắc thái từ ngữ ảnh hưởng đến sự lịch sự và cảm xúc của câu."
+}
+],
+"steps": [
+"Đọc cả câu, không tách riêng một từ.",
+"Xác định từ đang nói về sự vật, hành động, cảm xúc hay đánh giá.",
+"So sánh nghĩa trong các ngữ cảnh khác nhau.",
+"Xem từ có sắc thái tích cực, tiêu cực, thân mật hay trang trọng.",
+"Chọn hoặc sửa từ để phù hợp với mục đích giao tiếp."
+],
+"commonMistakes": [
+{
+"mistake": "Tra nghĩa từ một cách máy móc, không xét câu đang dùng.",
+"fix": "Luôn đặt từ vào ngữ cảnh cụ thể."
+},
+{
+"mistake": "Dùng từ đúng nghĩa nhưng sai sắc thái.",
+"fix": "Cần xem câu đang cần trang trọng, thân mật, nhẹ nhàng hay mạnh mẽ."
+},
+{
+"mistake": "Nhầm nghĩa chuyển là dùng sai.",
+"fix": "Nghĩa chuyển vẫn đúng nếu phù hợp ngữ cảnh và được người đọc hiểu."
+}
+],
+"quickMemory": "Nghĩa của từ nằm trong ngữ cảnh. Chọn từ không chỉ đúng nghĩa, mà còn đúng sắc thái.",
+"warmupQuestions": [
+{
+"question": "Ngữ cảnh giúp ta điều gì khi hiểu từ?",
+"suggestedAnswer": "Giúp xác định nghĩa và sắc thái của từ trong câu."
+},
+{
+"question": "Từ 'ấm' trong 'tình cảm ấm áp' có phải chỉ nhiệt độ không?",
+"suggestedAnswer": "Không. Nó gợi sự thân thương, dịu dàng."
+},
+{
+"question": "Sắc thái biểu cảm của từ là gì?",
+"suggestedAnswer": "Là cảm xúc, thái độ hoặc mức độ trang trọng/thân mật mà từ gợi ra."
+}
+],
+"applicationQuestions": [
+{
+"question": "Giải thích nghĩa của từ 'nặng' trong hai câu: 'cặp sách nặng' và 'lời nói nặng'.",
+"hint": "Một câu là nghĩa cụ thể, một câu là nghĩa chuyển.",
+"suggestedAnswer": "'Cặp sách nặng' nghĩa là có khối lượng lớn, khó mang. 'Lời nói nặng' nghĩa là lời nói gay gắt, làm người khác buồn hoặc tổn thương."
+},
+{
+"question": "Sửa câu sau cho nhẹ nhàng hơn: 'Bạn viết bài này dở quá'.",
+"hint": "Giữ ý góp ý nhưng giảm sắc thái chê bai.",
+"suggestedAnswer": "Bài này của bạn còn vài chỗ cần chỉnh để rõ ý hơn."
+}
+],
+"mediaHints": [
+{
+"type": "interactive",
+"description": "Chọn nghĩa đúng của từ theo ngữ cảnh và sửa câu sai sắc thái.",
+"priority": "high"
+},
+{
+"type": "diagram",
+"description": "Sơ đồ nghĩa của từ: nghĩa gốc, nghĩa chuyển, sắc thái, ngữ cảnh.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_tech_016",
+"subjectKey": "technology",
+"learningObjectives": [
+"Nhận biết được nhu cầu cơ bản của vật nuôi: thức ăn, nước uống, nơi ở, vệ sinh và chăm sóc sức khỏe.",
+"Nêu được một số loại thức ăn phù hợp với vật nuôi phổ biến.",
+"Hiểu vai trò của chuồng trại sạch, thoáng, an toàn đối với sức khỏe vật nuôi.",
+"Biết một số việc chăm sóc vật nuôi hằng ngày ở mức cơ bản.",
+"Hình thành thái độ chăm sóc vật nuôi nhân đạo, an toàn và có trách nhiệm."
+],
+"easyExplanation": "Vật nuôi cũng cần được chăm sóc đúng cách giống như một thành viên nhỏ trong hệ sinh thái gia đình hoặc trang trại. Chúng cần thức ăn phù hợp, nước sạch, nơi ở thoáng mát, vệ sinh chuồng trại và theo dõi sức khỏe. Gà cần thức ăn hạt, rau xanh, nước sạch; chó mèo cần khẩu phần phù hợp và nơi nằm sạch; trâu bò cần cỏ, nước và chuồng thoáng. Chăm sóc vật nuôi không chỉ để vật nuôi lớn nhanh, mà còn để phòng bệnh, giảm mùi hôi, bảo vệ môi trường và tránh lây bệnh cho người.",
+"workedExamples": [
+{
+"title": "Chăm sóc vật nuôi hằng ngày",
+"problem": "Một gia đình nuôi gà. Hằng ngày cần chú ý những việc gì?",
+"steps": [
+"Kiểm tra thức ăn và nước uống.",
+"Quan sát gà có ăn uống bình thường không.",
+"Giữ chuồng sạch, khô, thoáng.",
+"Theo dõi dấu hiệu bất thường như ủ rũ, bỏ ăn, xù lông."
+],
+"answer": "Cần cho gà ăn uống đủ, giữ chuồng sạch thoáng và quan sát sức khỏe hằng ngày.",
+"explanation": "Chăm sóc tốt là chăm từ những việc nhỏ nhưng đều đặn."
+},
+{
+"title": "Nơi ở của vật nuôi",
+"problem": "Vì sao chuồng vật nuôi không nên ẩm thấp, bẩn và bí khí?",
+"steps": [
+"Môi trường ẩm bẩn dễ phát sinh mầm bệnh.",
+"Bí khí làm vật nuôi khó chịu và dễ bệnh đường hô hấp.",
+"Mùi hôi ảnh hưởng người xung quanh.",
+"Chuồng sạch, thoáng giúp vật nuôi khỏe hơn."
+],
+"answer": "Vì chuồng ẩm bẩn và bí khí dễ gây bệnh cho vật nuôi, tạo mùi hôi và ảnh hưởng môi trường sống.",
+"explanation": "Chuồng trại là nền đất đầu tiên của chăn nuôi an toàn."
+}
+],
+"steps": [
+"Xác định vật nuôi cần chăm sóc là loài nào.",
+"Tìm hiểu loại thức ăn, lượng nước và nơi ở phù hợp.",
+"Cho ăn uống đúng giờ, không dùng thức ăn ôi thiu.",
+"Vệ sinh chuồng trại hoặc nơi ở thường xuyên.",
+"Quan sát dấu hiệu sức khỏe bất thường.",
+"Báo người lớn hoặc người có chuyên môn khi vật nuôi có dấu hiệu bệnh."
+],
+"commonMistakes": [
+{
+"mistake": "Cho vật nuôi ăn thức ăn thừa không phù hợp hoặc đã hỏng.",
+"fix": "Cần chọn thức ăn sạch, phù hợp từng loài và không dùng thức ăn ôi thiu."
+},
+{
+"mistake": "Chỉ cho ăn mà quên nước uống và vệ sinh.",
+"fix": "Nước sạch và môi trường sống sạch quan trọng không kém thức ăn."
+},
+{
+"mistake": "Thấy vật nuôi bệnh nhưng tự xử lí bừa.",
+"fix": "Cần báo người lớn, cách ly nếu cần và hỏi người có chuyên môn."
+}
+],
+"quickMemory": "Chăm vật nuôi: ăn đúng, uống sạch, ở thoáng, chuồng sạch, quan sát đều, xử lí bệnh có trách nhiệm.",
+"warmupQuestions": [
+{
+"question": "Vật nuôi cần những điều kiện cơ bản nào?",
+"suggestedAnswer": "Cần thức ăn, nước uống, nơi ở sạch thoáng, vệ sinh và chăm sóc sức khỏe."
+},
+{
+"question": "Vì sao cần cho vật nuôi uống nước sạch?",
+"suggestedAnswer": "Để vật nuôi khỏe mạnh, tiêu hóa tốt và hạn chế bệnh."
+},
+{
+"question": "Khi vật nuôi bỏ ăn, ủ rũ, em nên làm gì?",
+"suggestedAnswer": "Báo người lớn hoặc người có chuyên môn, không tự xử lí bừa."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập bảng chăm sóc một vật nuôi quen thuộc trong 1 tuần.",
+"hint": "Có ngày, thức ăn, nước uống, vệ sinh, quan sát sức khỏe.",
+"suggestedAnswer": "Bảng gồm các cột: ngày, thức ăn, nước uống, vệ sinh nơi ở, dấu hiệu sức khỏe. Mỗi ngày ghi vật nuôi ăn uống thế nào, chuồng có sạch không và có dấu hiệu bất thường không."
+},
+{
+"question": "Nêu 4 nguyên tắc chăm sóc chó hoặc mèo trong gia đình.",
+"hint": "Thức ăn, nước, nơi ở, vệ sinh, không đánh đập.",
+"suggestedAnswer": "Cho ăn thức ăn phù hợp, cung cấp nước sạch, giữ nơi ở sạch sẽ, theo dõi sức khỏe và không đánh đập hoặc bỏ đói vật nuôi."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ nhu cầu cơ bản của vật nuôi: thức ăn, nước, chuồng trại, vệ sinh, sức khỏe, chăm sóc nhân đạo.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn cách chăm sóc phù hợp cho gà, chó, mèo, bò và phát hiện hành vi không an toàn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_017",
+"subjectKey": "technology",
+"learningObjectives": [
+"Hiểu phòng bệnh cho vật nuôi quan trọng hơn chỉ chữa bệnh khi đã nặng.",
+"Nêu được một số biện pháp vệ sinh chuồng trại và an toàn sinh học cơ bản.",
+"Nhận biết được một số dấu hiệu bất thường ở vật nuôi.",
+"Biết cách xử lí an toàn khi nghi vật nuôi bị bệnh: cách ly, báo người lớn, không tiếp xúc tùy tiện.",
+"Hình thành ý thức bảo vệ sức khỏe vật nuôi, con người và môi trường."
+],
+"easyExplanation": "Phòng bệnh cho vật nuôi là giữ cho vật nuôi ít bị bệnh ngay từ đầu. Việc này gồm vệ sinh chuồng trại, cho ăn uống sạch, không để vật nuôi tiếp xúc bừa bãi với nguồn bệnh, theo dõi dấu hiệu bất thường và cách ly khi cần. An toàn sinh học nghĩa là áp dụng các biện pháp để mầm bệnh không dễ lây lan giữa vật nuôi, từ vật nuôi sang người hoặc ra môi trường. Nếu thấy vật nuôi bỏ ăn, sốt, tiêu chảy, ho, chảy nước mũi, đi đứng bất thường, cần báo người lớn và không tự ý dùng thuốc.",
+"workedExamples": [
+{
+"title": "Xử lí khi vật nuôi có dấu hiệu bệnh",
+"problem": "Một con gà trong đàn bỏ ăn, xù lông, đứng riêng. Em nên làm gì?",
+"steps": [
+"Nhận biết đây là dấu hiệu bất thường.",
+"Không bế, ôm hoặc tiếp xúc tùy tiện.",
+"Báo người lớn để kiểm tra.",
+"Có thể cần cách ly con gà bệnh khỏi đàn theo hướng dẫn."
+],
+"answer": "Cần báo người lớn, hạn chế tiếp xúc và cách ly con gà nếu được hướng dẫn để tránh lây bệnh.",
+"explanation": "Phát hiện sớm giúp bảo vệ cả đàn và người chăm sóc."
+},
+{
+"title": "Vệ sinh chuồng trại",
+"problem": "Vì sao cần thu gom phân, thay chất độn và giữ chuồng khô?",
+"steps": [
+"Phân và chất bẩn có thể chứa mầm bệnh.",
+"Chuồng ẩm tạo điều kiện cho vi khuẩn, nấm, kí sinh trùng phát triển.",
+"Mùi hôi ảnh hưởng vật nuôi và con người.",
+"Vệ sinh giúp giảm nguy cơ bệnh."
+],
+"answer": "Vì vệ sinh chuồng trại giúp giảm mầm bệnh, giảm mùi hôi và giữ vật nuôi khỏe mạnh.",
+"explanation": "Một chuồng sạch là chiếc áo giáp đầu tiên chống bệnh."
+}
+],
+"steps": [
+"Giữ chuồng trại sạch, khô, thoáng.",
+"Cung cấp thức ăn và nước uống sạch.",
+"Không để vật nuôi khỏe tiếp xúc tùy tiện với vật nuôi nghi bệnh.",
+"Quan sát dấu hiệu bệnh hằng ngày.",
+"Cách ly vật nuôi nghi bệnh khi cần và báo người lớn.",
+"Rửa tay, vệ sinh dụng cụ sau khi chăm sóc vật nuôi."
+],
+"commonMistakes": [
+{
+"mistake": "Đợi vật nuôi bệnh nặng mới chú ý.",
+"fix": "Cần phòng bệnh bằng vệ sinh, thức ăn sạch, nước sạch và quan sát hằng ngày."
+},
+{
+"mistake": "Tự ý dùng thuốc cho vật nuôi.",
+"fix": "Không tự ý dùng thuốc. Cần hỏi người lớn hoặc người có chuyên môn."
+},
+{
+"mistake": "Tiếp xúc gần với vật nuôi nghi bệnh mà không bảo vệ.",
+"fix": "Hạn chế tiếp xúc, rửa tay và báo người lớn để xử lí an toàn."
+}
+],
+"quickMemory": "Phòng bệnh vật nuôi: sạch chuồng, sạch ăn uống, quan sát sớm, cách ly khi nghi bệnh, hỏi người lớn.",
+"warmupQuestions": [
+{
+"question": "An toàn sinh học trong chăn nuôi nhằm mục đích gì?",
+"suggestedAnswer": "Nhằm hạn chế mầm bệnh lây lan giữa vật nuôi, sang người và ra môi trường."
+},
+{
+"question": "Kể tên hai dấu hiệu vật nuôi có thể đang bệnh.",
+"suggestedAnswer": "Bỏ ăn, ủ rũ, tiêu chảy, ho, sốt, xù lông, đi đứng bất thường."
+},
+{
+"question": "Khi nghi vật nuôi bị bệnh, em nên làm gì?",
+"suggestedAnswer": "Báo người lớn, hạn chế tiếp xúc và cách ly nếu được hướng dẫn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập checklist phòng bệnh cho chuồng gà nhỏ.",
+"hint": "Vệ sinh, nước sạch, thức ăn sạch, quan sát, cách ly.",
+"suggestedAnswer": "Chuồng sạch và khô; nước uống sạch; thức ăn không ôi thiu; quan sát đàn gà hằng ngày; cách ly con có dấu hiệu bệnh; rửa tay sau khi chăm sóc."
+},
+{
+"question": "Vì sao không nên để vật nuôi bệnh ở chung với đàn khỏe?",
+"hint": "Liên hệ lây bệnh.",
+"suggestedAnswer": "Vì vật nuôi bệnh có thể làm mầm bệnh lây sang con khỏe. Cách ly giúp giảm nguy cơ lây lan và dễ theo dõi điều trị."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ an toàn sinh học trong chăn nuôi: vệ sinh, quan sát, cách ly, báo người lớn, rửa tay, xử lí chất thải.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Nhận diện dấu hiệu vật nuôi bệnh và chọn cách xử lí an toàn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_018",
+"subjectKey": "technology",
+"learningObjectives": [
+"Nhận biết được một số nguy cơ mất an toàn trong học tập và thực hành công nghệ.",
+"Nêu được nguy cơ khi sử dụng dụng cụ sắc, điện, nhiệt, hóa chất nhẹ hoặc vật liệu dễ vỡ.",
+"Biết chuẩn bị không gian, dụng cụ và bảo hộ cơ bản trước khi thực hành.",
+"Biết một số cách xử lí tình huống nhẹ như đứt tay nhỏ, bỏng nhẹ, đổ nước gần ổ điện.",
+"Hình thành thói quen thực hành cẩn thận, không đùa nghịch và báo người lớn khi có sự cố."
+],
+"easyExplanation": "An toàn lao động trong học tập và thực hành là biết nhận ra nguy cơ trước khi tai nạn xảy ra. Khi cắt giấy có thể đứt tay, khi dùng keo nóng có thể bỏng, khi dùng điện có thể bị giật nếu tay ướt hoặc dây hỏng, khi làm với thủy tinh có thể vỡ sắc cạnh. Vì vậy cần chuẩn bị bàn làm việc gọn, đủ ánh sáng, dụng cụ đúng loại, bảo hộ khi cần và luôn làm theo hướng dẫn. Trong phòng thực hành, một phút cẩn thận đáng giá hơn mười phút sửa sai.",
+"workedExamples": [
+{
+"title": "Nguy cơ điện",
+"problem": "Tại sao không được cắm điện khi tay đang ướt?",
+"steps": [
+"Nước dẫn điện trong nhiều trường hợp.",
+"Tay ướt làm tăng nguy cơ bị điện giật.",
+"Thiết bị điện cần dùng khi tay khô và dây/ổ cắm an toàn.",
+"Kết luận về quy tắc an toàn."
+],
+"answer": "Không được cắm điện khi tay ướt vì có nguy cơ bị điện giật.",
+"explanation": "Điện rất hữu ích, nhưng không thích những bàn tay ướt liều lĩnh."
+},
+{
+"title": "Xử lí đứt tay nhỏ",
+"problem": "Nếu bị đứt tay nhẹ khi cắt bìa, em nên làm gì?",
+"steps": [
+"Dừng thao tác và đặt dụng cụ xuống nơi an toàn.",
+"Báo giáo viên hoặc người lớn.",
+"Rửa vết thương nhẹ bằng nước sạch nếu được hướng dẫn.",
+"Băng lại bằng vật dụng y tế phù hợp."
+],
+"answer": "Cần dừng thực hành, báo giáo viên/người lớn và xử lí vết thương đúng cách.",
+"explanation": "Không nên giấu sự cố vì vết thương nhỏ cũng cần xử lí sạch."
+}
+],
+"steps": [
+"Quan sát khu vực thực hành để phát hiện nguy cơ.",
+"Chuẩn bị dụng cụ đúng loại và kiểm tra tình trạng dụng cụ.",
+"Sắp xếp bàn làm việc gọn, tránh nước gần ổ điện.",
+"Dùng bảo hộ khi cần: găng tay, khẩu trang, kính bảo hộ theo hướng dẫn.",
+"Không đùa nghịch, chạy nhảy hoặc chĩa dụng cụ sắc vào người khác.",
+"Báo giáo viên/người lớn khi có sự cố."
+],
+"commonMistakes": [
+{
+"mistake": "Đùa nghịch khi đang cầm dụng cụ sắc.",
+"fix": "Dụng cụ sắc chỉ dùng khi thực hành, không dùng để trêu đùa."
+},
+{
+"mistake": "Để nước, dây điện và vật liệu bừa bộn trên bàn.",
+"fix": "Giữ khu vực thực hành khô, gọn, dây điện an toàn."
+},
+{
+"mistake": "Tự xử lí sự cố mà không báo người lớn.",
+"fix": "Dù sự cố nhỏ cũng nên báo giáo viên hoặc người lớn để xử lí đúng."
+}
+],
+"quickMemory": "An toàn thực hành: nhìn nguy cơ trước, dùng đúng dụng cụ, bàn gọn, tay khô, không đùa, có sự cố thì báo.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba nguy cơ trong thực hành công nghệ.",
+"suggestedAnswer": "Dụng cụ sắc, điện, nhiệt, vật liệu dễ vỡ, hóa chất nhẹ, keo nóng."
+},
+{
+"question": "Vì sao cần giữ bàn thực hành gọn?",
+"suggestedAnswer": "Để tránh vướng víu, đổ vỡ, thất lạc dụng cụ và giảm tai nạn."
+},
+{
+"question": "Khi có sự cố trong thực hành, em cần làm gì?",
+"suggestedAnswer": "Dừng thao tác, đặt dụng cụ an toàn và báo giáo viên hoặc người lớn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập 6 quy tắc an toàn trước khi làm sản phẩm thủ công trong lớp.",
+"hint": "Dụng cụ, bàn, điện, nước, bảo hộ, báo sự cố.",
+"suggestedAnswer": "Kiểm tra dụng cụ trước khi dùng. Giữ bàn gọn và khô. Không để nước gần ổ điện. Không đùa nghịch khi cầm kéo/dao. Dùng bảo hộ khi được yêu cầu. Báo giáo viên khi có sự cố."
+},
+{
+"question": "Nếu thấy dây điện của thiết bị bị hở, em nên làm gì?",
+"hint": "Không chạm, báo người lớn.",
+"suggestedAnswer": "Không chạm vào dây điện, không sử dụng thiết bị và báo ngay cho giáo viên hoặc người lớn."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Poster an toàn lao động trong lớp Công nghệ: dụng cụ sắc, điện, nhiệt, vật liệu, bảo hộ, xử lí sự cố.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Tìm nguy cơ mất an toàn trong hình phòng thực hành và chọn cách xử lí đúng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_019",
+"subjectKey": "technology",
+"learningObjectives": [
+"Hiểu công nghệ xanh là hướng sử dụng công nghệ nhằm giảm tác động xấu đến môi trường.",
+"Nêu được một số hành động tiết kiệm điện, nước, vật liệu trong gia đình và trường học.",
+"Nhận biết được ý nghĩa của tái sử dụng, tái chế và lựa chọn sản phẩm thân thiện môi trường.",
+"Biết đánh giá sản phẩm công nghệ theo tiêu chí tiết kiệm tài nguyên và môi trường.",
+"Hình thành thói quen sử dụng công nghệ có trách nhiệm."
+],
+"easyExplanation": "Công nghệ xanh không nhất thiết là điều gì xa xôi như nhà máy hiện đại hay pin mặt trời khổng lồ. Nó bắt đầu từ cách ta dùng công nghệ sao cho ít lãng phí và ít gây hại môi trường hơn: tắt điện khi không dùng, dùng nước vừa đủ, sửa đồ còn dùng được, tái sử dụng hộp giấy, phân loại rác, chọn sản phẩm tiết kiệm năng lượng, hạn chế nhựa dùng một lần. Một sản phẩm công nghệ tốt trong thời đại mới không chỉ tiện lợi mà còn cần bền, tiết kiệm và thân thiện hơn với môi trường.",
+"workedExamples": [
+{
+"title": "Tiết kiệm điện",
+"problem": "Trong lớp học, làm gì để tiết kiệm điện khi ra về?",
+"steps": [
+"Kiểm tra các thiết bị đang bật.",
+"Tắt đèn, quạt, máy chiếu nếu không dùng.",
+"Không rút/cắm thiết bị bừa bãi nếu không được phép.",
+"Phân công người kiểm tra cuối buổi."
+],
+"answer": "Cần tắt đèn, quạt, máy chiếu và các thiết bị không cần thiết trước khi ra về.",
+"explanation": "Tiết kiệm điện là một thói quen nhỏ nhưng cộng lại thành kết quả lớn."
+},
+{
+"title": "Tái sử dụng vật liệu",
+"problem": "Vì sao nên tận dụng bìa carton cũ để làm mô hình học tập?",
+"steps": [
+"Bìa carton cũ có thể còn dùng tốt.",
+"Tận dụng giúp giảm rác thải.",
+"Giảm chi phí mua vật liệu mới.",
+"Rèn thói quen sáng tạo và tiết kiệm."
+],
+"answer": "Vì tận dụng bìa carton giúp giảm rác, tiết kiệm chi phí và tạo sản phẩm học tập hữu ích.",
+"explanation": "Tái sử dụng là một nhịp cầu giữa sáng tạo và bảo vệ môi trường."
+}
+],
+"steps": [
+"Quan sát các hoạt động dùng điện, nước, vật liệu quanh em.",
+"Tìm điểm còn lãng phí.",
+"Đề xuất cách tiết kiệm hoặc tái sử dụng.",
+"Chọn sản phẩm tiết kiệm năng lượng nếu có điều kiện.",
+"Phân loại rác, tái chế vật liệu phù hợp.",
+"Đánh giá sản phẩm theo cả công dụng, chi phí và tác động môi trường."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ công nghệ xanh chỉ là sản phẩm đắt tiền.",
+"fix": "Công nghệ xanh còn là cách dùng tiết kiệm, bền, tái sử dụng và giảm rác."
+},
+{
+"mistake": "Tắt thiết bị bằng cách rút dây tùy tiện.",
+"fix": "Cần tắt đúng nút/công tắc và theo hướng dẫn an toàn."
+},
+{
+"mistake": "Tái chế vật liệu bẩn hoặc nguy hiểm.",
+"fix": "Chỉ tái sử dụng vật liệu sạch, an toàn và phù hợp mục đích."
+}
+],
+"quickMemory": "Công nghệ xanh: dùng đủ, dùng bền, tiết kiệm điện nước, tái sử dụng, tái chế và giảm tác động môi trường.",
+"warmupQuestions": [
+{
+"question": "Công nghệ xanh hướng tới điều gì?",
+"suggestedAnswer": "Giảm lãng phí tài nguyên và giảm tác động xấu đến môi trường."
+},
+{
+"question": "Kể tên hai hành động tiết kiệm tài nguyên ở trường.",
+"suggestedAnswer": "Tắt điện khi ra khỏi lớp, dùng nước vừa đủ, tận dụng giấy một mặt, phân loại rác."
+},
+{
+"question": "Tái sử dụng khác gì tái chế?",
+"suggestedAnswer": "Tái sử dụng là dùng lại sản phẩm/vật liệu cho mục đích cũ hoặc mới; tái chế là xử lí vật liệu để tạo sản phẩm mới."
+}
+],
+"applicationQuestions": [
+{
+"question": "Đề xuất 5 việc lớp học có thể làm để tiết kiệm tài nguyên.",
+"hint": "Điện, nước, giấy, vật liệu, rác.",
+"suggestedAnswer": "Tắt đèn và quạt khi không dùng, dùng nước vừa đủ, tận dụng giấy một mặt, tái sử dụng bìa carton làm đồ học tập, phân loại rác tái chế."
+},
+{
+"question": "Đánh giá một sản phẩm công nghệ theo tiêu chí môi trường.",
+"hint": "Có bền không, tiết kiệm điện không, dễ sửa không, tạo nhiều rác không.",
+"suggestedAnswer": "Một đèn học LED có thể được đánh giá tốt nếu tiết kiệm điện, đủ sáng, bền, dễ sửa hoặc thay linh kiện và không tạo nhiều rác thải trong quá trình sử dụng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ công nghệ xanh: tiết kiệm điện, tiết kiệm nước, tái sử dụng, tái chế, lựa chọn sản phẩm bền.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn hành động xanh trong gia đình/trường học và đánh giá sản phẩm theo tiêu chí môi trường.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_020",
+"subjectKey": "technology",
+"learningObjectives": [
+"Vận dụng được quy trình thiết kế để thực hiện một dự án công nghệ nhỏ.",
+"Biết lựa chọn dự án phù hợp như vườn rau mini, lọ tưới đơn giản hoặc sản phẩm tái chế.",
+"Biết lập kế hoạch gồm mục tiêu, vật liệu, dụng cụ, phân công, quy trình và tiêu chí đánh giá.",
+"Thực hiện được dự án an toàn, tiết kiệm và có ghi chép quá trình.",
+"Biết báo cáo kết quả dự án, nêu ưu điểm, hạn chế và đề xuất cải tiến."
+],
+"easyExplanation": "Dự án công nghệ nhỏ là lúc em ghép nhiều mảnh kiến thức đã học thành một sản phẩm thật: có thể là vườn rau mini, lọ tưới cây từ chai tái chế, hộp bút từ bìa carton, kệ giấy nhỏ hoặc sản phẩm hỗ trợ học tập. Dự án cần bắt đầu từ vấn đề thực tế, xác định nhu cầu, chọn ý tưởng, chuẩn bị vật liệu, làm theo quy trình, thử nghiệm, đánh giá và báo cáo. Sản phẩm không cần cầu kì, nhưng cần an toàn, dùng được, có ý nghĩa và biết cải tiến sau khi thử.",
+"workedExamples": [
+{
+"title": "Dự án lọ tưới cây từ chai tái chế",
+"problem": "Lập kế hoạch ngắn cho dự án làm lọ tưới cây từ chai nhựa đã dùng.",
+"steps": [
+"Vấn đề: cần dụng cụ tưới cây nhỏ, tiết kiệm.",
+"Vật liệu: chai nhựa sạch, nắp chai, kim/đinh nhỏ để tạo lỗ với người lớn hỗ trợ.",
+"Quy trình: rửa chai, tạo lỗ nhỏ ở nắp, đổ nước, thử tia nước.",
+"Đánh giá: nước chảy đều, dễ cầm, không rò mạnh, an toàn."
+],
+"answer": "Dự án gồm mục tiêu làm lọ tưới nhỏ từ chai tái chế, chuẩn bị chai sạch, tạo lỗ ở nắp có người lớn hỗ trợ, thử tưới và đánh giá theo tiêu chí dễ dùng, an toàn, tiết kiệm.",
+"explanation": "Một dự án tốt không cần đắt tiền, chỉ cần giải quyết đúng vấn đề."
+},
+{
+"title": "Báo cáo dự án",
+"problem": "Báo cáo dự án vườn rau mini nên có những phần nào?",
+"steps": [
+"Nêu mục tiêu và vấn đề cần giải quyết.",
+"Nêu vật liệu, dụng cụ và quy trình thực hiện.",
+"Ghi kết quả quan sát cây.",
+"Đánh giá ưu điểm, hạn chế và cải tiến."
+],
+"answer": "Báo cáo nên có: mục tiêu, vật liệu, quy trình, nhật kí quan sát, kết quả, đánh giá và đề xuất cải tiến.",
+"explanation": "Báo cáo là cuốn nhật kí hành trình của sản phẩm."
+}
+],
+"steps": [
+"Chọn vấn đề thực tế cần giải quyết.",
+"Xác định người dùng, nhu cầu và tiêu chí sản phẩm.",
+"Chọn dự án phù hợp với thời gian, vật liệu và độ an toàn.",
+"Lập kế hoạch vật liệu, dụng cụ, phân công và quy trình.",
+"Thực hiện sản phẩm hoặc mô hình theo kế hoạch.",
+"Thử nghiệm, đánh giá, cải tiến và báo cáo kết quả."
+],
+"commonMistakes": [
+{
+"mistake": "Chọn dự án quá phức tạp, vượt thời gian và dụng cụ.",
+"fix": "Chọn dự án nhỏ, an toàn, phù hợp khả năng và vật liệu sẵn có."
+},
+{
+"mistake": "Làm sản phẩm nhưng không ghi lại quá trình.",
+"fix": "Ghi nhật kí, chụp ảnh bước chính, lưu bảng vật liệu và kết quả thử nghiệm."
+},
+{
+"mistake": "Chỉ khoe sản phẩm cuối, không đánh giá hạn chế.",
+"fix": "Báo cáo cần nêu ưu điểm, hạn chế và hướng cải tiến."
+}
+],
+"quickMemory": "Dự án công nghệ nhỏ: vấn đề thật, ý tưởng vừa sức, làm an toàn, thử nghiệm, đánh giá, cải tiến.",
+"warmupQuestions": [
+{
+"question": "Một dự án công nghệ nhỏ có thể là gì?",
+"suggestedAnswer": "Vườn rau mini, lọ tưới cây, hộp bút tái chế, kệ giấy mini hoặc sản phẩm học tập đơn giản."
+},
+{
+"question": "Trước khi làm dự án cần xác định gì?",
+"suggestedAnswer": "Vấn đề, nhu cầu người dùng, tiêu chí sản phẩm, vật liệu, dụng cụ và quy trình."
+},
+{
+"question": "Sau khi hoàn thành sản phẩm, cần làm gì?",
+"suggestedAnswer": "Thử nghiệm, đánh giá, nêu ưu điểm, hạn chế và đề xuất cải tiến."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập kế hoạch dự án vườn rau mini cho lớp học.",
+"hint": "Mục tiêu, vật liệu, phân công, chăm sóc, đánh giá.",
+"suggestedAnswer": "Mục tiêu: trồng rau mini để quan sát sinh trưởng. Vật liệu: chậu, đất/giá thể, hạt giống, bình tưới, bảng theo dõi. Phân công: nhóm chuẩn bị vật liệu, nhóm gieo hạt, nhóm tưới nước, nhóm ghi nhật kí. Đánh giá: cây nảy mầm, phát triển đều, chăm sóc đúng lịch, khu vực trồng sạch."
+},
+{
+"question": "Đề xuất tiêu chí đánh giá sản phẩm tái chế từ bìa carton.",
+"hint": "Dùng được, chắc, an toàn, đẹp, tiết kiệm.",
+"suggestedAnswer": "Sản phẩm dùng được đúng mục đích, chắc chắn, không có cạnh sắc, hình thức gọn đẹp, tận dụng vật liệu cũ và dễ tái chế sau khi hỏng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu kế hoạch dự án công nghệ nhỏ: vấn đề, mục tiêu, vật liệu, quy trình, an toàn, đánh giá, cải tiến.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn dự án phù hợp, sắp xếp quy trình và chấm sản phẩm theo tiêu chí.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

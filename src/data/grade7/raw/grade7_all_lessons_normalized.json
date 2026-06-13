@@ -1,0 +1,5193 @@
+﻿{
+  "meta": {
+    "grade": 7,
+    "batch": "BATCH_12",
+    "version": "batch12-v1",
+    "createdAt": "2026-06-03",
+    "recordCount": 207
+  },
+  "lessons": [
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_001",
+      "unitId": "math_rational_numbers",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Số hữu tỉ: khái niệm, biểu diễn, so sánh",
+      "summary": "Nhận biết số hữu tỉ, biểu diễn trên trục số và so sánh các số hữu tỉ.",
+      "skillTags": [
+        "rational_number_concept",
+        "number_line",
+        "compare_order"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_001"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_002",
+      "unitId": "math_rational_numbers",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Cộng, trừ số hữu tỉ",
+      "summary": "Thực hiện cộng trừ số hữu tỉ ở dạng phân số, số thập phân và bài toán thực tế.",
+      "skillTags": [
+        "rational_operations",
+        "sign_rule",
+        "compute_fluency"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_002"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_003",
+      "unitId": "math_rational_numbers",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Nhân, chia số hữu tỉ",
+      "summary": "Thực hiện nhân chia số hữu tỉ và rút gọn kết quả.",
+      "skillTags": [
+        "rational_operations",
+        "inverse_number",
+        "sign_rule"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_003"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_004",
+      "unitId": "math_rational_numbers",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Lũy thừa của số hữu tỉ",
+      "summary": "Hiểu và vận dụng lũy thừa với số mũ tự nhiên của số hữu tỉ.",
+      "skillTags": [
+        "power_rules",
+        "compute_fluency",
+        "sign_rule"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_004"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_005",
+      "unitId": "math_rational_numbers",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Thứ tự thực hiện phép tính với số hữu tỉ",
+      "summary": "Phối hợp cộng, trừ, nhân, chia, lũy thừa và dấu ngoặc.",
+      "skillTags": [
+        "operation_order",
+        "expression_evaluation",
+        "compute_fluency"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_005"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_006",
+      "unitId": "math_rational_numbers",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Số vô tỉ và căn bậc hai số học",
+      "summary": "Làm quen số vô tỉ, căn bậc hai số học và cách ước lượng căn.",
+      "skillTags": [
+        "square_root",
+        "irrational_number",
+        "estimate"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_006"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_007",
+      "unitId": "math_rational_numbers",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Số thực, giá trị tuyệt đối, làm tròn và ước lượng",
+      "summary": "Liên hệ số hữu tỉ, số vô tỉ thành tập số thực; dùng giá trị tuyệt đối và làm tròn.",
+      "skillTags": [
+        "real_number",
+        "absolute_value",
+        "rounding_estimation"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_007"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_008",
+      "unitId": "math_ratio_proportion",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Tỉ lệ thức",
+      "summary": "Nhận biết và vận dụng tỉ lệ thức, tính chất tích chéo.",
+      "skillTags": [
+        "proportion",
+        "solve_unknown",
+        "ratio_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_008"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_009",
+      "unitId": "math_ratio_proportion",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Tính chất dãy tỉ số bằng nhau",
+      "summary": "Vận dụng dãy tỉ số bằng nhau để tìm các đại lượng liên hệ tỉ lệ.",
+      "skillTags": [
+        "equal_ratios",
+        "ratio_word_problem",
+        "solve_unknown"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_009"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_010",
+      "unitId": "math_ratio_proportion",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Đại lượng tỉ lệ thuận",
+      "summary": "Nhận biết, biểu diễn và giải bài toán tỉ lệ thuận.",
+      "skillTags": [
+        "direct_proportion",
+        "table_reasoning",
+        "real_world_modeling"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_010"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_011",
+      "unitId": "math_ratio_proportion",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Đại lượng tỉ lệ nghịch",
+      "summary": "Nhận biết, biểu diễn và giải bài toán tỉ lệ nghịch.",
+      "skillTags": [
+        "inverse_proportion",
+        "table_reasoning",
+        "real_world_modeling"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_011"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_012",
+      "unitId": "math_ratio_proportion",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Bài toán chia tỉ lệ và mô hình hóa thực tế",
+      "summary": "Tổng hợp tỉ lệ thức, dãy tỉ số bằng nhau, tỉ lệ thuận/nghịch trong tình huống thực tế.",
+      "skillTags": [
+        "ratio_word_problem",
+        "modeling",
+        "unit_conversion"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_012"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_013",
+      "unitId": "math_expressions_polynomials",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Biểu thức đại số và giá trị biểu thức",
+      "summary": "Nhận biết biểu thức đại số, thay giá trị biến và tính giá trị biểu thức.",
+      "skillTags": [
+        "algebraic_expression",
+        "substitution",
+        "operation_order"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_013"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_014",
+      "unitId": "math_expressions_polynomials",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Đa thức một biến: hạng tử, hệ số, bậc",
+      "summary": "Nhận biết đa thức một biến và các thành phần của đa thức.",
+      "skillTags": [
+        "polynomial_concept",
+        "degree_coefficient",
+        "algebraic_structure"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_014"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_015",
+      "unitId": "math_expressions_polynomials",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Cộng, trừ đa thức một biến",
+      "summary": "Cộng trừ đa thức bằng cách nhóm các hạng tử đồng dạng.",
+      "skillTags": [
+        "polynomial_operations",
+        "like_terms",
+        "sign_rule"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_015"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_016",
+      "unitId": "math_expressions_polynomials",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Nhân, chia đa thức một biến ở mức cơ bản",
+      "summary": "Vận dụng phân phối để nhân đa thức và chia đa thức trong trường hợp cơ bản.",
+      "skillTags": [
+        "polynomial_operations",
+        "distributive_property",
+        "compute_fluency"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_016"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_017",
+      "unitId": "math_expressions_polynomials",
+      "unitTitle": "Số và Đại số",
+      "strandId": "math_number_algebra",
+      "title": "Nghiệm của đa thức một biến",
+      "summary": "Hiểu nghiệm của đa thức một biến và kiểm tra một số có là nghiệm hay không.",
+      "skillTags": [
+        "polynomial_root",
+        "substitution",
+        "solve_unknown"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_017"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_018",
+      "unitId": "math_solid_geometry",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Hình hộp chữ nhật và hình lập phương",
+      "summary": "Nhận biết các yếu tố của hình hộp chữ nhật, hình lập phương và liên hệ thực tế.",
+      "skillTags": [
+        "solid_geometry",
+        "visual_recognition",
+        "measurement"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_018"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_019",
+      "unitId": "math_solid_geometry",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Lăng trụ đứng tam giác và lăng trụ đứng tứ giác",
+      "summary": "Nhận biết lăng trụ đứng, đáy, mặt bên, chiều cao và lưới hình.",
+      "skillTags": [
+        "solid_geometry",
+        "prism_concept",
+        "visual_recognition"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_019"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_020",
+      "unitId": "math_solid_geometry",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Diện tích xung quanh và thể tích lăng trụ đứng",
+      "summary": "Tính diện tích xung quanh, diện tích toàn phần và thể tích các khối lăng trụ/hình hộp.",
+      "skillTags": [
+        "solid_measurement",
+        "formula_application",
+        "unit_conversion"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_020"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_021",
+      "unitId": "math_angles_lines",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Góc kề bù, góc đối đỉnh và tia phân giác",
+      "summary": "Nhận biết quan hệ góc cơ bản và tính số đo góc.",
+      "skillTags": [
+        "angle_relationships",
+        "angle_calculation",
+        "diagram_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_021"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_022",
+      "unitId": "math_angles_lines",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Hai đường thẳng song song và dấu hiệu nhận biết",
+      "summary": "Dùng các cặp góc tạo bởi một đường cắt hai đường thẳng để nhận biết song song.",
+      "skillTags": [
+        "parallel_lines",
+        "angle_relationships",
+        "proof_basic"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_022"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_023",
+      "unitId": "math_angles_lines",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Tiên đề Euclid và tính chất của hai đường thẳng song song",
+      "summary": "Vận dụng tiên đề Euclid và tính chất đường thẳng song song trong suy luận hình học.",
+      "skillTags": [
+        "parallel_lines",
+        "geometric_reasoning",
+        "proof_basic"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_023"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_024",
+      "unitId": "math_angles_lines",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Định lí, giả thiết, kết luận và chứng minh",
+      "summary": "Làm quen cấu trúc định lí và cách trình bày chứng minh hình học.",
+      "skillTags": [
+        "proof_basic",
+        "hypothesis_conclusion",
+        "logical_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_024"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_025",
+      "unitId": "math_triangles",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Tổng ba góc của tam giác và góc ngoài",
+      "summary": "Dùng tổng ba góc trong tam giác và tính chất góc ngoài để tính góc.",
+      "skillTags": [
+        "triangle_angle",
+        "angle_calculation",
+        "diagram_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_025"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_026",
+      "unitId": "math_triangles",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Các trường hợp bằng nhau của tam giác",
+      "summary": "Nhận biết và vận dụng c.c.c, c.g.c, g.c.g để chứng minh hai tam giác bằng nhau.",
+      "skillTags": [
+        "triangle_congruence",
+        "proof_basic",
+        "corresponding_parts"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_026"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_027",
+      "unitId": "math_triangles",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Tam giác cân và tam giác đều",
+      "summary": "Vận dụng tính chất và dấu hiệu nhận biết tam giác cân, tam giác đều.",
+      "skillTags": [
+        "isosceles_triangle",
+        "triangle_angle",
+        "proof_basic"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_027"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_028",
+      "unitId": "math_triangles",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Tam giác vuông và suy luận cơ bản",
+      "summary": "Nhận biết tam giác vuông, dùng góc nhọn phụ nhau và các trường hợp bằng nhau phù hợp.",
+      "skillTags": [
+        "right_triangle",
+        "angle_calculation",
+        "proof_basic"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_028"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_029",
+      "unitId": "math_triangles",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Quan hệ giữa cạnh và góc trong tam giác; bất đẳng thức tam giác",
+      "summary": "Dùng quan hệ cạnh-góc đối diện và điều kiện tồn tại tam giác.",
+      "skillTags": [
+        "triangle_inequality",
+        "triangle_side_angle",
+        "reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_029"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_030",
+      "unitId": "math_triangles",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Đường vuông góc, đường xiên và hình chiếu",
+      "summary": "Hiểu quan hệ giữa đường vuông góc, đường xiên, hình chiếu và khoảng cách.",
+      "skillTags": [
+        "perpendicular_distance",
+        "projection",
+        "geometric_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_030"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_031",
+      "unitId": "math_triangles",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Trung tuyến, đường cao, phân giác, trung trực trong tam giác",
+      "summary": "Nhận biết bốn loại đường đặc biệt trong tam giác và cách vẽ/ứng dụng.",
+      "skillTags": [
+        "triangle_special_lines",
+        "visual_recognition",
+        "construction_basic"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_031"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_032",
+      "unitId": "math_triangles",
+      "unitTitle": "Hình học và Đo lường",
+      "strandId": "math_geometry_measurement",
+      "title": "Tính chất và đồng quy các đường trong tam giác",
+      "summary": "Làm quen các điểm đồng quy của trung tuyến, đường cao, phân giác, trung trực.",
+      "skillTags": [
+        "triangle_centers",
+        "triangle_special_lines",
+        "diagram_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_032"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_033",
+      "unitId": "math_data_charts",
+      "unitTitle": "Thống kê và Xác suất",
+      "strandId": "math_statistics_probability",
+      "title": "Thu thập, phân loại và biểu diễn dữ liệu",
+      "summary": "Tổ chức dữ liệu, phân loại dữ liệu và chuẩn bị bảng/biểu đồ.",
+      "skillTags": [
+        "data_collection",
+        "frequency_table",
+        "data_literacy"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_033"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_034",
+      "unitId": "math_data_charts",
+      "unitTitle": "Thống kê và Xác suất",
+      "strandId": "math_statistics_probability",
+      "title": "Biểu đồ đoạn thẳng",
+      "summary": "Đọc, vẽ và phân tích xu hướng trên biểu đồ đoạn thẳng.",
+      "skillTags": [
+        "line_chart",
+        "data_interpretation",
+        "trend_analysis"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_034"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_035",
+      "unitId": "math_data_charts",
+      "unitTitle": "Thống kê và Xác suất",
+      "strandId": "math_statistics_probability",
+      "title": "Biểu đồ hình quạt tròn",
+      "summary": "Đọc, vẽ và phân tích tỉ lệ phần trăm trên biểu đồ hình quạt tròn.",
+      "skillTags": [
+        "pie_chart",
+        "percentage",
+        "data_interpretation"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_035"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_036",
+      "unitId": "math_data_charts",
+      "unitTitle": "Thống kê và Xác suất",
+      "strandId": "math_statistics_probability",
+      "title": "Phân tích dữ liệu từ bảng và biểu đồ",
+      "summary": "Kết hợp bảng, biểu đồ đoạn thẳng, biểu đồ quạt tròn để rút ra kết luận.",
+      "skillTags": [
+        "data_interpretation",
+        "reasoning_from_data",
+        "percentage"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_036"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_037",
+      "unitId": "math_probability",
+      "unitTitle": "Thống kê và Xác suất",
+      "strandId": "math_statistics_probability",
+      "title": "Biến cố ngẫu nhiên",
+      "summary": "Nhận biết phép thử ngẫu nhiên, kết quả có thể xảy ra và biến cố.",
+      "skillTags": [
+        "probability_event",
+        "outcome_listing",
+        "logic_classification"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_037"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_038",
+      "unitId": "math_probability",
+      "unitTitle": "Thống kê và Xác suất",
+      "strandId": "math_statistics_probability",
+      "title": "Xác suất trong mô hình đơn giản",
+      "summary": "Tính xác suất của biến cố trong các trò chơi/cách chọn đơn giản có khả năng như nhau.",
+      "skillTags": [
+        "probability_calculation",
+        "outcome_listing",
+        "fraction_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_038"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_039",
+      "unitId": "math_real_world",
+      "unitTitle": "Hoạt động thực hành và trải nghiệm",
+      "strandId": "math_practice_experience",
+      "title": "Bài toán thực tế tổng hợp số và đại số",
+      "summary": "Vận dụng số hữu tỉ, tỉ lệ, biểu thức và đa thức trong bối cảnh đời sống.",
+      "skillTags": [
+        "modeling",
+        "multi_step_problem",
+        "unit_conversion"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_039"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "math",
+      "subjectId": "g7_math",
+      "subject": "Toán",
+      "lessonId": "g7_math_040",
+      "unitId": "math_real_world",
+      "unitTitle": "Hoạt động thực hành và trải nghiệm",
+      "strandId": "math_practice_experience",
+      "title": "Dự án đo đạc, hình học và thống kê",
+      "summary": "Tổ chức hoạt động đo đạc, thu thập dữ liệu, biểu diễn và báo cáo kết quả.",
+      "skillTags": [
+        "project_based_math",
+        "measurement",
+        "data_interpretation",
+        "presentation"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "math7_lessons.json",
+      "rawId": "g7_math_040"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u01",
+      "unitId": "g7_eng_u01",
+      "unitTitle": "Hobbies and Free Time",
+      "strandId": "english_units",
+      "title": "Hobbies and Free Time",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u01"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u02",
+      "unitId": "g7_eng_u02",
+      "unitTitle": "Healthy Living",
+      "strandId": "english_units",
+      "title": "Healthy Living",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u02"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u03",
+      "unitId": "g7_eng_u03",
+      "unitTitle": "Community Service",
+      "strandId": "english_units",
+      "title": "Community Service",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u03"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u04",
+      "unitId": "g7_eng_u04",
+      "unitTitle": "Music and Arts",
+      "strandId": "english_units",
+      "title": "Music and Arts",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u04"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u05",
+      "unitId": "g7_eng_u05",
+      "unitTitle": "Food and Drink",
+      "strandId": "english_units",
+      "title": "Food and Drink",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u05"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u06",
+      "unitId": "g7_eng_u06",
+      "unitTitle": "Places in Town",
+      "strandId": "english_units",
+      "title": "Places in Town",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u06"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u07",
+      "unitId": "g7_eng_u07",
+      "unitTitle": "Traffic and Road Safety",
+      "strandId": "english_units",
+      "title": "Traffic and Road Safety",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u07"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u08",
+      "unitId": "g7_eng_u08",
+      "unitTitle": "Films and Media",
+      "strandId": "english_units",
+      "title": "Films and Media",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u08"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u09",
+      "unitId": "g7_eng_u09",
+      "unitTitle": "Festivals and Celebrations",
+      "strandId": "english_units",
+      "title": "Festivals and Celebrations",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u09"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u10",
+      "unitId": "g7_eng_u10",
+      "unitTitle": "Energy and the Environment",
+      "strandId": "english_units",
+      "title": "Energy and the Environment",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u10"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u11",
+      "unitId": "g7_eng_u11",
+      "unitTitle": "Travelling and Future Transport",
+      "strandId": "english_units",
+      "title": "Travelling and Future Transport",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u11"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "english",
+      "subjectId": "g7_english",
+      "subject": "Tiếng Anh",
+      "lessonId": "g7_eng_u12",
+      "unitId": "g7_eng_u12",
+      "unitTitle": "English-speaking Countries and World Cultures",
+      "strandId": "english_units",
+      "title": "English-speaking Countries and World Cultures",
+      "summary": "",
+      "skillTags": [
+        "general"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "english7_units.json",
+      "rawId": "g7_eng_u12"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_001",
+      "unitId": "inquiry",
+      "unitTitle": "Phương pháp khoa học",
+      "strandId": "science_inquiry",
+      "title": "Mở đầu KHTN: phương pháp học và an toàn phòng thực hành",
+      "summary": "Làm quen quy trình tìm hiểu tự nhiên, quy tắc an toàn, dụng cụ và cách ghi chép kết quả.",
+      "skillTags": [
+        "scientific_method",
+        "lab_safety",
+        "observation_table"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_001"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_002",
+      "unitId": "inquiry",
+      "unitTitle": "Phương pháp khoa học",
+      "strandId": "science_inquiry",
+      "title": "Đo lường trong KHTN",
+      "summary": "Ôn và mở rộng cách đo khối lượng, thể tích, thời gian, nhiệt độ và tốc độ ở mức nhập môn.",
+      "skillTags": [
+        "measurement",
+        "unit_conversion",
+        "data_recording"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_002"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_003",
+      "unitId": "chemistry_atoms",
+      "unitTitle": "Hóa học",
+      "strandId": "chemistry",
+      "title": "Nguyên tử và cấu tạo nguyên tử",
+      "summary": "Hiểu nguyên tử là hạt vô cùng nhỏ cấu tạo nên chất, gồm hạt nhân và lớp electron.",
+      "skillTags": [
+        "atom_structure",
+        "particle_charge",
+        "model_reading"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_003"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_004",
+      "unitId": "chemistry_atoms",
+      "unitTitle": "Hóa học",
+      "strandId": "chemistry",
+      "title": "Nguyên tố hóa học và kí hiệu hóa học",
+      "summary": "Nhận biết nguyên tố hóa học qua số proton và dùng kí hiệu hóa học phổ biến.",
+      "skillTags": [
+        "chemical_element",
+        "chemical_symbol",
+        "classification"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_004"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_005",
+      "unitId": "chemistry_periodic_table",
+      "unitTitle": "Hóa học",
+      "strandId": "chemistry",
+      "title": "Sơ lược bảng tuần hoàn các nguyên tố hóa học",
+      "summary": "Làm quen ô nguyên tố, chu kì, nhóm và ý nghĩa sắp xếp trong bảng tuần hoàn.",
+      "skillTags": [
+        "periodic_table",
+        "element_cell",
+        "pattern_recognition"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_005"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_006",
+      "unitId": "chemistry_molecules",
+      "unitTitle": "Hóa học",
+      "strandId": "chemistry",
+      "title": "Phân tử, đơn chất và hợp chất",
+      "summary": "Phân biệt phân tử, đơn chất, hợp chất qua thành phần nguyên tố.",
+      "skillTags": [
+        "molecule",
+        "simple_compound_substance",
+        "formula_reading"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_006"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_007",
+      "unitId": "chemistry_bonding",
+      "unitTitle": "Hóa học",
+      "strandId": "chemistry",
+      "title": "Liên kết hóa học ở mức nhập môn",
+      "summary": "Làm quen ý tưởng các nguyên tử liên kết tạo phân tử/chất.",
+      "skillTags": [
+        "chemical_bond_basic",
+        "model_reading",
+        "molecule"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_007"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_008",
+      "unitId": "chemistry_formula",
+      "unitTitle": "Hóa học",
+      "strandId": "chemistry",
+      "title": "Hóa trị và công thức hóa học",
+      "summary": "Làm quen hóa trị, quy tắc lập công thức hóa học đơn giản.",
+      "skillTags": [
+        "valency",
+        "chemical_formula",
+        "formula_check"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_008"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_009",
+      "unitId": "chemistry_mass",
+      "unitTitle": "Hóa học",
+      "strandId": "chemistry",
+      "title": "Khối lượng phân tử và phần trăm nguyên tố",
+      "summary": "Tính khối lượng phân tử và phần trăm khối lượng nguyên tố trong hợp chất đơn giản nếu chương trình/bộ sách yêu cầu.",
+      "skillTags": [
+        "molecular_mass",
+        "percent_composition",
+        "formula_reading"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_009"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_010",
+      "unitId": "chemistry_review",
+      "unitTitle": "Hóa học",
+      "strandId": "chemistry",
+      "title": "Sơ đồ hóa kiến thức chất và cấu tạo chất",
+      "summary": "Tổng hợp mối quan hệ nguyên tử, nguyên tố, phân tử, đơn chất, hợp chất và công thức hóa học.",
+      "skillTags": [
+        "classification",
+        "concept_map",
+        "chemistry_foundation"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_010"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_011",
+      "unitId": "physics_speed",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Chuyển động và quãng đường",
+      "summary": "Nhận biết chuyển động, quãng đường, thời gian và mô tả chuyển động đơn giản.",
+      "skillTags": [
+        "motion_reference",
+        "distance_time",
+        "observation_table"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_011"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_012",
+      "unitId": "physics_speed",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Tốc độ và công thức tính tốc độ",
+      "summary": "Tính tốc độ từ quãng đường và thời gian; so sánh nhanh/chậm.",
+      "skillTags": [
+        "speed_formula",
+        "unit_conversion",
+        "calculation"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_012"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_013",
+      "unitId": "physics_speed",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Đo tốc độ trong thực tế",
+      "summary": "Thiết kế phép đo tốc độ đơn giản và xử lí kết quả.",
+      "skillTags": [
+        "speed_measurement",
+        "average_speed",
+        "experimental_error"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_013"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_014",
+      "unitId": "physics_graph",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Đồ thị quãng đường - thời gian",
+      "summary": "Đọc và vẽ đồ thị quãng đường-thời gian để mô tả chuyển động.",
+      "skillTags": [
+        "distance_time_graph",
+        "graph_reading",
+        "trend_interpretation"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_014"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_015",
+      "unitId": "physics_sound",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Nguồn âm và dao động",
+      "summary": "Hiểu âm phát ra do vật dao động và nhận biết nguồn âm.",
+      "skillTags": [
+        "sound_source",
+        "vibration",
+        "phenomenon_explanation"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_015"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_016",
+      "unitId": "physics_sound",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Độ cao, độ to và môi trường truyền âm",
+      "summary": "Mô tả độ cao/độ to của âm và điều kiện truyền âm qua môi trường vật chất.",
+      "skillTags": [
+        "pitch_loudness",
+        "sound_medium",
+        "compare_experiment"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_016"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_017",
+      "unitId": "physics_light",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Ánh sáng và sự truyền thẳng của ánh sáng",
+      "summary": "Nhận biết nguồn sáng, vật sáng và sự truyền thẳng của ánh sáng trong môi trường trong suốt đồng tính.",
+      "skillTags": [
+        "light_source",
+        "light_ray",
+        "shadow_explanation"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_017"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_018",
+      "unitId": "physics_light",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Phản xạ ánh sáng và gương phẳng",
+      "summary": "Làm quen định luật phản xạ ánh sáng và ảnh trong gương phẳng.",
+      "skillTags": [
+        "reflection_law",
+        "mirror_image",
+        "ray_diagram"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_018"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_019",
+      "unitId": "physics_magnet",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Nam châm và từ tính",
+      "summary": "Nhận biết nam châm, cực từ và vật liệu bị nam châm hút.",
+      "skillTags": [
+        "magnet_properties",
+        "magnetic_material",
+        "classification"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_019"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_020",
+      "unitId": "physics_magnet",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Từ trường và đường sức từ",
+      "summary": "Làm quen khái niệm từ trường xung quanh nam châm và cách biểu diễn bằng đường sức từ.",
+      "skillTags": [
+        "magnetic_field",
+        "field_line_model",
+        "diagram_reading"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_020"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_021",
+      "unitId": "physics_magnet",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Nam châm điện và ứng dụng",
+      "summary": "Nhận biết nam châm điện, yếu tố ảnh hưởng và ứng dụng đơn giản.",
+      "skillTags": [
+        "electromagnet",
+        "application",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_021"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_022",
+      "unitId": "physics_review",
+      "unitTitle": "Vật lí",
+      "strandId": "physics",
+      "title": "Sơ đồ hóa năng lượng và sự biến đổi trong KHTN 7",
+      "summary": "Tổng hợp chuyển động, âm, ánh sáng, từ qua bảng hiện tượng - khái niệm - ứng dụng.",
+      "skillTags": [
+        "physics_concept_map",
+        "phenomenon_explanation",
+        "evidence_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_022"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_023",
+      "unitId": "biology_cell_energy",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+      "summary": "Hiểu sinh vật cần trao đổi chất và chuyển hóa năng lượng để sống, sinh trưởng và phát triển.",
+      "skillTags": [
+        "metabolism",
+        "energy_transformation",
+        "life_process"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_023"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_024",
+      "unitId": "biology_photosynthesis",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Quang hợp ở thực vật",
+      "summary": "Mô tả vai trò lá cây, ánh sáng, carbon dioxide, nước và sản phẩm quang hợp.",
+      "skillTags": [
+        "photosynthesis",
+        "plant_leaf",
+        "gas_exchange"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_024"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_025",
+      "unitId": "biology_respiration",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Hô hấp tế bào",
+      "summary": "Hiểu hô hấp tế bào giải phóng năng lượng từ chất hữu cơ ở sinh vật.",
+      "skillTags": [
+        "cellular_respiration",
+        "energy_release",
+        "compare_process"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_025"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_026",
+      "unitId": "biology_gas_exchange",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Trao đổi khí ở sinh vật",
+      "summary": "Mô tả trao đổi khí ở thực vật và động vật ở mức trực quan.",
+      "skillTags": [
+        "gas_exchange",
+        "stomata",
+        "animal_respiration"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_026"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_027",
+      "unitId": "biology_water_nutrition",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Vai trò của nước và chất dinh dưỡng ở sinh vật",
+      "summary": "Hiểu nước và dinh dưỡng cần cho trao đổi chất, vận chuyển và sinh trưởng.",
+      "skillTags": [
+        "water_role",
+        "nutrition",
+        "plant_growth"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_027"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_028",
+      "unitId": "biology_transport",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Vận chuyển chất trong cây",
+      "summary": "Mô tả đường vận chuyển nước, muối khoáng và chất hữu cơ trong cây.",
+      "skillTags": [
+        "plant_transport",
+        "xylem_phloem",
+        "model_explanation"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_028"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_029",
+      "unitId": "biology_digestion",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Dinh dưỡng và tiêu hóa ở động vật/người",
+      "summary": "Làm quen nhu cầu dinh dưỡng, tiêu hóa và hấp thụ chất ở động vật/người.",
+      "skillTags": [
+        "animal_nutrition",
+        "digestive_system",
+        "health_connection"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_029"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_030",
+      "unitId": "biology_growth",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Sinh trưởng và phát triển ở sinh vật",
+      "summary": "Phân biệt sinh trưởng, phát triển và các giai đoạn sống của sinh vật.",
+      "skillTags": [
+        "growth_development",
+        "life_cycle",
+        "environment_factor"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_030"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_031",
+      "unitId": "biology_reproduction",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Sinh sản ở sinh vật",
+      "summary": "Nhận biết sinh sản vô tính và hữu tính qua ví dụ thực vật/động vật.",
+      "skillTags": [
+        "reproduction",
+        "asexual_sexual",
+        "classification"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_031"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_032",
+      "unitId": "biology_response",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Cảm ứng ở sinh vật",
+      "summary": "Hiểu sinh vật phản ứng với kích thích từ môi trường.",
+      "skillTags": [
+        "response_to_stimuli",
+        "plant_tropism",
+        "animal_behavior"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_032"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_033",
+      "unitId": "biology_ecology",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Môi trường sống và nhân tố sinh thái",
+      "summary": "Làm quen môi trường sống, nhân tố sinh thái và quan hệ giữa sinh vật với môi trường.",
+      "skillTags": [
+        "ecology_basic",
+        "biotic_abiotic",
+        "adaptation"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_033"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_034",
+      "unitId": "biology_ecosystem",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Hệ sinh thái, chuỗi thức ăn và bảo vệ thiên nhiên",
+      "summary": "Nhận biết thành phần hệ sinh thái, chuỗi thức ăn và ý nghĩa bảo vệ đa dạng sinh học.",
+      "skillTags": [
+        "ecosystem",
+        "food_chain",
+        "biodiversity"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_034"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "science",
+      "subjectId": "g7_science",
+      "subject": "Khoa học tự nhiên",
+      "lessonId": "g7_science_035",
+      "unitId": "biology_review",
+      "unitTitle": "Sinh học",
+      "strandId": "biology",
+      "title": "Sơ đồ hóa vật sống trong KHTN 7",
+      "summary": "Tổng hợp trao đổi chất, sinh trưởng, sinh sản, cảm ứng và quan hệ môi trường.",
+      "skillTags": [
+        "biology_concept_map",
+        "life_process",
+        "systems_thinking"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "science7_lessons.json",
+      "rawId": "g7_science_035"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_001",
+      "unitId": "story_folk_modern",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Truyện dân gian: chi tiết kì ảo và bài học nhân sinh",
+      "summary": "Một cậu bé tìm thấy chiếc đèn cũ ở giếng làng. Điều kì lạ không phải phép màu, mà là việc chiếc đèn soi rõ lòng tham và lòng tốt của từng người.",
+      "skillTags": [
+        "story_plot",
+        "fantasy_detail",
+        "message"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_001"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_002",
+      "unitId": "story_folk_modern",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Truyện hiện đại: nhân vật thiếu nhi và sự trưởng thành",
+      "summary": "Một học sinh mới chuyển trường thường ngồi một mình ở chiếc ghế cuối sân. Nhờ một lần cùng bạn chăm sóc cây bị gãy, em dần mở lòng với lớp.",
+      "skillTags": [
+        "character_development",
+        "school_theme",
+        "symbol_detail"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_002"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_003",
+      "unitId": "story_folk_modern",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Truyện ngắn: người kể chuyện và điểm nhìn",
+      "summary": "Người kể nhớ lại những ngày ở với bà. Bát chè nhỏ bà để phần trở thành dấu hiệu của tình thương âm thầm.",
+      "skillTags": [
+        "narrator",
+        "memory",
+        "family_love"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_003"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_004",
+      "unitId": "story_folk_modern",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Truyện phiêu lưu nhỏ: sự việc và xung đột",
+      "summary": "Một nhóm bạn đi cắm trại phát hiện dấu chân lạ bên bờ suối. Từ nỗi sợ ban đầu, các bạn học cách quan sát, hợp tác và báo người lớn đúng lúc.",
+      "skillTags": [
+        "plot_conflict",
+        "responsibility",
+        "teamwork"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_004"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_005",
+      "unitId": "poetry",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Thơ bốn chữ/năm chữ: nhịp, vần, hình ảnh",
+      "summary": "Bài thơ seed gợi hình ảnh khu vườn khi gió về: lá khế rung, giàn mướp nghiêng, tiếng chim mỏng như sợi nắng.",
+      "skillTags": [
+        "poetry_rhythm",
+        "image",
+        "figurative_language"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_005"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_006",
+      "unitId": "poetry",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Thơ tự do: cái tôi trữ tình và mạch cảm xúc",
+      "summary": "Bài thơ seed khắc họa bàn tay mẹ vá áo, xếp sách, chạm nhẹ lên trán con trong đêm.",
+      "skillTags": [
+        "lyrical_subject",
+        "emotion",
+        "metonymy"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_006"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_007",
+      "unitId": "poetry",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Thơ lục bát: âm điệu dân tộc và cảm xúc quê hương",
+      "summary": "Bài thơ seed gợi con đường làng cuối năm với mùi rơm, tiếng chày, dáng bà đi chợ sớm.",
+      "skillTags": [
+        "luc_bat",
+        "rhyme",
+        "homeland"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_007"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_008",
+      "unitId": "poetry",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Thơ và thông điệp sống xanh",
+      "summary": "Dòng sông trong bài thơ seed như một nhân vật biết nhớ, biết buồn khi bị rác phủ và biết vui khi con người chăm sóc.",
+      "skillTags": [
+        "personification",
+        "environment_message",
+        "tone"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_008"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_009",
+      "unitId": "memoir_essay",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Tùy bút: cái tôi và mạch cảm xúc",
+      "summary": "Người viết nhớ lại tiếng trống trường đầu năm, từ bỡ ngỡ đến thân quen, từ sợ hãi đến yêu mến lớp học.",
+      "skillTags": [
+        "essay_voice",
+        "emotion_flow",
+        "school_memory"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_009"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_010",
+      "unitId": "memoir_essay",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Tản văn: quan sát đời sống và suy ngẫm",
+      "summary": "Văn bản seed ghi lại hình ảnh người lao công quét lá khi phố còn chưa thức dậy, từ đó suy ngẫm về những việc âm thầm giữ thành phố sạch đẹp.",
+      "skillTags": [
+        "reflection",
+        "ordinary_detail",
+        "gratitude"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_010"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_011",
+      "unitId": "memoir_essay",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Hồi kí nhỏ: người kể và sự thật hồi tưởng",
+      "summary": "Người kể nhớ mùi khói bếp trong những ngày mưa quê, gắn với bữa cơm đơn sơ và tiếng cười trong căn bếp nhỏ.",
+      "skillTags": [
+        "memoir",
+        "sensory_detail",
+        "family_memory"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_011"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_012",
+      "unitId": "argument",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Nghị luận xã hội: ý kiến, lí lẽ, bằng chứng",
+      "summary": "Văn bản seed nêu ý kiến rằng học sinh nên đọc mỗi ngày một ít, đưa lí lẽ về vốn từ, khả năng tập trung và hiểu biết đời sống.",
+      "skillTags": [
+        "argument_claim",
+        "reason_evidence",
+        "reading_habit"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_012"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_013",
+      "unitId": "argument",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Nghị luận về một vấn đề học đường",
+      "summary": "Văn bản seed bàn về thói quen suy nghĩ trước khi bình luận/chia sẻ trên mạng, nhất là trong nhóm lớp.",
+      "skillTags": [
+        "digital_citizenship",
+        "argument_structure",
+        "cause_effect"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_013"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_014",
+      "unitId": "argument",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Nghị luận văn học: phân tích chi tiết",
+      "summary": "Văn bản seed phân tích chi tiết chiếc đèn như biểu tượng của chờ đợi và yêu thương trong một câu chuyện gia đình.",
+      "skillTags": [
+        "literary_argument",
+        "symbol_detail",
+        "evidence"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_014"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_015",
+      "unitId": "argument",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Nghị luận so sánh hai ý kiến",
+      "summary": "Văn bản seed đặt hai ý kiến về việc góp ý cho bạn khi bạn mắc lỗi, rồi hướng đến cách góp ý chân thành và tôn trọng.",
+      "skillTags": [
+        "compare_opinions",
+        "respectful_debate",
+        "balanced_argument"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_015"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_016",
+      "unitId": "informational",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Văn bản thông tin: nhan đề, đề mục, ý chính",
+      "summary": "Văn bản seed cung cấp thông tin về một kế hoạch giảm rác trong lớp: chuẩn bị bình nước, hộp đựng đồ ăn, phân loại giấy và nhựa.",
+      "skillTags": [
+        "informational_text",
+        "sequence",
+        "environment"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_016"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_017",
+      "unitId": "informational",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Văn bản giới thiệu di tích/danh lam",
+      "summary": "Văn bản seed giới thiệu một ngôi đình làng: vị trí, kiến trúc chính, lễ hội và cách người dân giữ gìn không gian chung.",
+      "skillTags": [
+        "heritage",
+        "informational_structure",
+        "local_culture"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_017"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_018",
+      "unitId": "informational",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Văn bản quy trình",
+      "summary": "Văn bản seed hướng dẫn lập sổ tay đọc sách gồm ghi tên sách, nhân vật/ý chính, câu yêu thích và suy nghĩ sau khi đọc.",
+      "skillTags": [
+        "procedure",
+        "learning_skill",
+        "summary"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_018"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_019",
+      "unitId": "informational",
+      "unitTitle": "Đọc hiểu",
+      "strandId": "lit_reading",
+      "title": "Văn bản đa phương thức: chữ và hình",
+      "summary": "Văn bản seed kết hợp đoạn chữ, bảng số liệu giả định và biểu tượng để nói về thói quen tiết kiệm nước trong trường học.",
+      "skillTags": [
+        "multimodal_reading",
+        "data_reading",
+        "water_saving"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_019"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_020",
+      "unitId": "language",
+      "unitTitle": "Tiếng Việt",
+      "strandId": "lit_language",
+      "title": "Nghĩa của từ, sắc thái và ngữ cảnh",
+      "summary": "Lesson tiếng Việt về cách xác định nghĩa từ theo ngữ cảnh và sắc thái biểu cảm.",
+      "skillTags": [
+        "word_meaning",
+        "context",
+        "nuance"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_020"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_021",
+      "unitId": "language",
+      "unitTitle": "Tiếng Việt",
+      "strandId": "lit_language",
+      "title": "Biện pháp tu từ và tác dụng biểu đạt",
+      "summary": "Lesson tiếng Việt về nhận diện và phân tích tác dụng của các biện pháp tu từ thường gặp.",
+      "skillTags": [
+        "figurative_language",
+        "effect",
+        "literary_analysis"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_021"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_022",
+      "unitId": "language",
+      "unitTitle": "Tiếng Việt",
+      "strandId": "lit_language",
+      "title": "Câu, dấu câu và mở rộng câu",
+      "summary": "Lesson tiếng Việt về thành phần câu, trạng ngữ, dấu câu và cách mở rộng câu hợp lí.",
+      "skillTags": [
+        "sentence_component",
+        "punctuation",
+        "revision"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_022"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_023",
+      "unitId": "language",
+      "unitTitle": "Tiếng Việt",
+      "strandId": "lit_language",
+      "title": "Liên kết và mạch lạc trong đoạn văn",
+      "summary": "Lesson tiếng Việt về phép lặp, thế, nối, liên tưởng và trật tự ý trong đoạn.",
+      "skillTags": [
+        "cohesion",
+        "paragraph_logic",
+        "revision"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_023"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_024",
+      "unitId": "language",
+      "unitTitle": "Tiếng Việt",
+      "strandId": "lit_language",
+      "title": "Trích dẫn, tóm tắt và diễn đạt lại",
+      "summary": "Lesson tiếng Việt về cách tóm tắt, diễn đạt lại, trích dẫn ngắn và tránh sao chép.",
+      "skillTags": [
+        "paraphrase",
+        "summary",
+        "copyright_safety"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_024"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_025",
+      "unitId": "writing",
+      "unitTitle": "Viết / nói và nghe",
+      "strandId": "lit_writing",
+      "title": "Viết đoạn văn cảm nhận sau đọc",
+      "summary": "Lesson viết hướng dẫn đoạn văn cảm nhận dựa trên chi tiết trong văn bản.",
+      "skillTags": [
+        "reading_response",
+        "evidence",
+        "paragraph_writing"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_025"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_026",
+      "unitId": "writing",
+      "unitTitle": "Viết / nói và nghe",
+      "strandId": "lit_writing",
+      "title": "Viết bài kể lại trải nghiệm",
+      "summary": "Lesson viết bài kể trải nghiệm, chú trọng diễn biến, cảm xúc và bài học.",
+      "skillTags": [
+        "narrative_writing",
+        "experience",
+        "emotion_flow"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_026"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_027",
+      "unitId": "writing",
+      "unitTitle": "Viết / nói và nghe",
+      "strandId": "lit_writing",
+      "title": "Viết nghị luận về vấn đề đời sống",
+      "summary": "Lesson viết nghị luận xã hội ngắn, biết nêu ý kiến, lí lẽ, ví dụ và kết luận.",
+      "skillTags": [
+        "argument_writing",
+        "reason_evidence",
+        "social_issue"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_027"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "literature",
+      "subjectId": "g7_literature",
+      "subject": "Ngữ văn",
+      "lessonId": "g7_lit_028",
+      "unitId": "writing",
+      "unitTitle": "Viết / nói và nghe",
+      "strandId": "lit_writing",
+      "title": "Tóm tắt, thuyết minh và trình bày trước lớp",
+      "summary": "Lesson rèn tóm tắt văn bản, viết giới thiệu ngắn và trình bày ý kiến trước lớp.",
+      "skillTags": [
+        "summary",
+        "informational_writing",
+        "speaking"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "literature7_lessons.json",
+      "rawId": "g7_lit_028"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_001",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử thế giới trung đại",
+      "strandId": "Lịch sử thế giới trung đại",
+      "title": "Khái quát thế giới trung đại",
+      "summary": "thế giới trung đại, xã hội phong kiến, giao lưu văn hóa",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_001"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_002",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử thế giới trung đại",
+      "strandId": "Lịch sử thế giới trung đại",
+      "title": "Tây Âu thời trung đại",
+      "summary": "lãnh địa phong kiến, thành thị trung đại, thương mại",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_002"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_003",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử thế giới trung đại",
+      "strandId": "Lịch sử thế giới trung đại",
+      "title": "Byzantine và thế giới Hồi giáo",
+      "summary": "Byzantine, Hồi giáo, giao lưu tri thức",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_003"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_004",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử thế giới trung đại",
+      "strandId": "Lịch sử thế giới trung đại",
+      "title": "Trung Quốc thời Đường, Tống, Nguyên, Minh",
+      "summary": "triều đại Trung Quốc, khoa cử, văn hóa-kĩ thuật",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_004"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_005",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử thế giới trung đại",
+      "strandId": "Lịch sử thế giới trung đại",
+      "title": "Ấn Độ thời trung đại",
+      "summary": "vương triều, tôn giáo, thương mại Ấn Độ Dương",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_005"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_006",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử thế giới trung đại",
+      "strandId": "Lịch sử thế giới trung đại",
+      "title": "Đông Nam Á từ thế kỉ VII đến XV",
+      "summary": "vương quốc Đông Nam Á, lúa nước, thương mại biển",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_006"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_007",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử Việt Nam trung đại",
+      "strandId": "Lịch sử Việt Nam trung đại",
+      "title": "Việt Nam thế kỉ X: bước đầu độc lập",
+      "summary": "Bạch Đằng 938, nhà Ngô, Đinh, Tiền Lê",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_007"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_008",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử Việt Nam trung đại",
+      "strandId": "Lịch sử Việt Nam trung đại",
+      "title": "Đại Việt thời Lý",
+      "summary": "dời đô Thăng Long, nhà Lý, chống Tống",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_008"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_009",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử Việt Nam trung đại",
+      "strandId": "Lịch sử Việt Nam trung đại",
+      "title": "Đại Việt thời Trần và chống Mông-Nguyên",
+      "summary": "nhà Trần, ba lần kháng chiến, Bạch Đằng 1288",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_009"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_010",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử Việt Nam trung đại",
+      "strandId": "Lịch sử Việt Nam trung đại",
+      "title": "Nhà Hồ và thời kì chống Minh đầu thế kỉ XV",
+      "summary": "cải cách nhà Hồ, đô hộ Minh",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_010"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_011",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử Việt Nam trung đại",
+      "strandId": "Lịch sử Việt Nam trung đại",
+      "title": "Khởi nghĩa Lam Sơn",
+      "summary": "Lê Lợi, Nguyễn Trãi, Chi Lăng-Xương Giang",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_011"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_012",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử Việt Nam trung đại",
+      "strandId": "Lịch sử Việt Nam trung đại",
+      "title": "Đại Việt thời Lê sơ",
+      "summary": "nhà Lê sơ, luật pháp, khoa cử, Hồng Đức",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_012"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_013",
+      "unitId": "history_grade7",
+      "unitTitle": "Lịch sử Việt Nam trung đại",
+      "strandId": "Lịch sử Việt Nam trung đại",
+      "title": "Kinh tế, văn hóa Đại Việt thế kỉ X-XV",
+      "summary": "nông nghiệp, thủ công, thương nghiệp, giáo dục, tôn giáo",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_013"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_014",
+      "unitId": "history_grade7",
+      "unitTitle": "Kĩ năng lịch sử",
+      "strandId": "Kĩ năng lịch sử",
+      "title": "Kĩ năng đọc timeline và tư liệu lịch sử",
+      "summary": "timeline, niên đại, nguyên nhân, kết quả, ý nghĩa",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_014"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_his_015",
+      "unitId": "history_grade7",
+      "unitTitle": "Chủ đề tích hợp lịch sử",
+      "strandId": "Chủ đề tích hợp lịch sử",
+      "title": "Kết nối lịch sử thế giới và Việt Nam trung đại",
+      "summary": "so sánh, giao lưu văn hóa, thương mại khu vực",
+      "skillTags": [
+        "history_concept",
+        "timeline_reading",
+        "source_reading",
+        "historical_comparison"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "history7_lessons.json",
+      "rawId": "g7_his_015"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_001",
+      "unitId": "geography_grade7",
+      "unitTitle": "Kĩ năng địa lí",
+      "strandId": "Kĩ năng địa lí",
+      "title": "Kĩ năng đọc bản đồ, lược đồ và biểu đồ",
+      "summary": "bản đồ, tỉ lệ, chú giải, biểu đồ khí hậu/dân cư",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_001"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_002",
+      "unitId": "geography_grade7",
+      "unitTitle": "Châu Âu",
+      "strandId": "Châu Âu",
+      "title": "Châu Âu: vị trí, tự nhiên và khí hậu",
+      "summary": "địa hình, biển, khí hậu ôn đới, sông ngòi",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_002"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_003",
+      "unitId": "geography_grade7",
+      "unitTitle": "Châu Âu",
+      "strandId": "Châu Âu",
+      "title": "Châu Âu: dân cư, xã hội và kinh tế",
+      "summary": "đô thị hóa, dân số già, công nghiệp, dịch vụ",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_003"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_004",
+      "unitId": "geography_grade7",
+      "unitTitle": "Châu Á",
+      "strandId": "Châu Á",
+      "title": "Châu Á: vị trí, tự nhiên và khí hậu",
+      "summary": "lục địa rộng, địa hình phân hóa, gió mùa",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_004"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_005",
+      "unitId": "geography_grade7",
+      "unitTitle": "Châu Á",
+      "strandId": "Châu Á",
+      "title": "Châu Á: dân cư, xã hội và kinh tế",
+      "summary": "dân số đông, văn hóa đa dạng, kinh tế phát triển không đều",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_005"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_006",
+      "unitId": "geography_grade7",
+      "unitTitle": "Châu Phi",
+      "strandId": "Châu Phi",
+      "title": "Châu Phi: tự nhiên, hoang mạc và xavan",
+      "summary": "Sahara, xavan, sông Nile, tài nguyên",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_006"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_007",
+      "unitId": "geography_grade7",
+      "unitTitle": "Châu Phi",
+      "strandId": "Châu Phi",
+      "title": "Châu Phi: dân cư, xã hội và kinh tế",
+      "summary": "dân số tăng nhanh, đô thị hóa, tài nguyên",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_007"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_008",
+      "unitId": "geography_grade7",
+      "unitTitle": "Châu Mỹ",
+      "strandId": "Châu Mỹ",
+      "title": "Châu Mỹ: tự nhiên và các khu vực",
+      "summary": "Bắc Mỹ, Trung Mỹ, Nam Mỹ, Andes, Amazon",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_008"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_009",
+      "unitId": "geography_grade7",
+      "unitTitle": "Châu Mỹ",
+      "strandId": "Châu Mỹ",
+      "title": "Châu Mỹ: dân cư và kinh tế",
+      "summary": "dân cư đa nguồn gốc, Bắc Mỹ, Mỹ Latinh",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_009"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_010",
+      "unitId": "geography_grade7",
+      "unitTitle": "Châu Đại Dương",
+      "strandId": "Châu Đại Dương",
+      "title": "Châu Đại Dương",
+      "summary": "Australia, New Zealand, đảo Thái Bình Dương",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_010"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_011",
+      "unitId": "geography_grade7",
+      "unitTitle": "Châu Nam Cực",
+      "strandId": "Châu Nam Cực",
+      "title": "Châu Nam Cực",
+      "summary": "băng giá, khí hậu cực, trạm nghiên cứu",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_011"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_012",
+      "unitId": "geography_grade7",
+      "unitTitle": "Địa lí môi trường",
+      "strandId": "Địa lí môi trường",
+      "title": "Vấn đề môi trường ở các châu lục",
+      "summary": "biến đổi khí hậu, đa dạng sinh học, ô nhiễm",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_012"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_013",
+      "unitId": "geography_grade7",
+      "unitTitle": "Kĩ năng địa lí",
+      "strandId": "Kĩ năng địa lí",
+      "title": "So sánh các châu lục",
+      "summary": "so sánh vị trí, tự nhiên, dân cư, kinh tế",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_013"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_014",
+      "unitId": "geography_grade7",
+      "unitTitle": "Kĩ năng địa lí",
+      "strandId": "Kĩ năng địa lí",
+      "title": "Thực hành đọc bản đồ châu lục",
+      "summary": "bản đồ tự nhiên, dân cư, kinh tế, khí hậu",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_014"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "history_geography",
+      "subjectId": "g7_history_geography",
+      "subject": "Lịch sử & Địa lí",
+      "lessonId": "g7_geo_015",
+      "unitId": "geography_grade7",
+      "unitTitle": "Chủ đề tích hợp",
+      "strandId": "Chủ đề tích hợp",
+      "title": "Chủ đề tích hợp: giao lưu và không gian địa lí",
+      "summary": "vị trí, tuyến thương mại, giao lưu văn hóa",
+      "skillTags": [
+        "geo_concept",
+        "map_reading",
+        "region_knowledge",
+        "geo_reasoning"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "geography7_lessons.json",
+      "rawId": "g7_geo_015"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_001",
+      "unitId": "digital",
+      "unitTitle": "Máy tính và cộng đồng",
+      "strandId": "digital",
+      "title": "Thiết bị số quanh em",
+      "summary": "Nhận biết vai trò thiết bị số, tệp/thư mục, dữ liệu và cách dùng máy tính trong học tập.",
+      "skillTags": [
+        "digital_concept",
+        "digital_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_001"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_002",
+      "unitId": "digital",
+      "unitTitle": "Máy tính và cộng đồng",
+      "strandId": "digital",
+      "title": "Tệp, thư mục và lưu trữ dữ liệu",
+      "summary": "Nhận biết vai trò thiết bị số, tệp/thư mục, dữ liệu và cách dùng máy tính trong học tập.",
+      "skillTags": [
+        "digital_concept",
+        "digital_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_002"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_003",
+      "unitId": "digital",
+      "unitTitle": "Máy tính và cộng đồng",
+      "strandId": "digital",
+      "title": "Dữ liệu và biểu diễn thông tin",
+      "summary": "Nhận biết vai trò thiết bị số, tệp/thư mục, dữ liệu và cách dùng máy tính trong học tập.",
+      "skillTags": [
+        "digital_concept",
+        "digital_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_003"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_004",
+      "unitId": "internet",
+      "unitTitle": "Internet",
+      "strandId": "internet",
+      "title": "Mạng máy tính và Internet",
+      "summary": "Sử dụng Internet để tìm kiếm, giao tiếp và học tập an toàn.",
+      "skillTags": [
+        "internet_concept",
+        "internet_practice",
+        "digital_safety"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_004"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_005",
+      "unitId": "internet",
+      "unitTitle": "Internet",
+      "strandId": "internet",
+      "title": "Tìm kiếm thông tin hiệu quả",
+      "summary": "Sử dụng Internet để tìm kiếm, giao tiếp và học tập an toàn.",
+      "skillTags": [
+        "internet_concept",
+        "internet_practice",
+        "digital_safety"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_005"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_006",
+      "unitId": "internet",
+      "unitTitle": "Internet",
+      "strandId": "internet",
+      "title": "Thư điện tử và giao tiếp trực tuyến",
+      "summary": "Sử dụng Internet để tìm kiếm, giao tiếp và học tập an toàn.",
+      "skillTags": [
+        "internet_concept",
+        "internet_practice",
+        "digital_safety"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_006"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_007",
+      "unitId": "safety",
+      "unitTitle": "An toàn thông tin",
+      "strandId": "safety",
+      "title": "Mật khẩu và bảo vệ tài khoản",
+      "summary": "Bảo vệ tài khoản, nhận biết lừa đảo, bảo vệ dữ liệu cá nhân.",
+      "skillTags": [
+        "safety_concept",
+        "safety_practice",
+        "digital_safety"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_007"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_008",
+      "unitId": "safety",
+      "unitTitle": "An toàn thông tin",
+      "strandId": "safety",
+      "title": "Lừa đảo trực tuyến và tin giả",
+      "summary": "Bảo vệ tài khoản, nhận biết lừa đảo, bảo vệ dữ liệu cá nhân.",
+      "skillTags": [
+        "safety_concept",
+        "safety_practice",
+        "digital_safety"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_008"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_009",
+      "unitId": "safety",
+      "unitTitle": "An toàn thông tin",
+      "strandId": "safety",
+      "title": "Dữ liệu cá nhân và quyền riêng tư",
+      "summary": "Bảo vệ tài khoản, nhận biết lừa đảo, bảo vệ dữ liệu cá nhân.",
+      "skillTags": [
+        "safety_concept",
+        "safety_practice",
+        "digital_safety"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_009"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_010",
+      "unitId": "office",
+      "unitTitle": "Ứng dụng văn phòng",
+      "strandId": "office",
+      "title": "Soạn thảo văn bản học tập",
+      "summary": "Tạo văn bản, bảng tính, trình chiếu và cộng tác tài liệu số.",
+      "skillTags": [
+        "office_concept",
+        "office_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_010"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_011",
+      "unitId": "office",
+      "unitTitle": "Ứng dụng văn phòng",
+      "strandId": "office",
+      "title": "Bảng tính cơ bản",
+      "summary": "Tạo văn bản, bảng tính, trình chiếu và cộng tác tài liệu số.",
+      "skillTags": [
+        "office_concept",
+        "office_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_011"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_012",
+      "unitId": "office",
+      "unitTitle": "Ứng dụng văn phòng",
+      "strandId": "office",
+      "title": "Trình chiếu hiệu quả",
+      "summary": "Tạo văn bản, bảng tính, trình chiếu và cộng tác tài liệu số.",
+      "skillTags": [
+        "office_concept",
+        "office_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_012"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_013",
+      "unitId": "office",
+      "unitTitle": "Ứng dụng văn phòng",
+      "strandId": "office",
+      "title": "Làm việc nhóm trên tài liệu số",
+      "summary": "Tạo văn bản, bảng tính, trình chiếu và cộng tác tài liệu số.",
+      "skillTags": [
+        "office_concept",
+        "office_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_013"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_014",
+      "unitId": "algorithm",
+      "unitTitle": "Thuật toán",
+      "strandId": "algorithm",
+      "title": "Thuật toán và mô tả thuật toán",
+      "summary": "Mô tả thuật toán bằng lời/sơ đồ, hiểu tuần tự, rẽ nhánh, lặp.",
+      "skillTags": [
+        "algorithm_concept",
+        "algorithm_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_014"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_015",
+      "unitId": "algorithm",
+      "unitTitle": "Thuật toán",
+      "strandId": "algorithm",
+      "title": "Cấu trúc tuần tự",
+      "summary": "Mô tả thuật toán bằng lời/sơ đồ, hiểu tuần tự, rẽ nhánh, lặp.",
+      "skillTags": [
+        "algorithm_concept",
+        "algorithm_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_015"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_016",
+      "unitId": "algorithm",
+      "unitTitle": "Thuật toán",
+      "strandId": "algorithm",
+      "title": "Rẽ nhánh nếu-thì",
+      "summary": "Mô tả thuật toán bằng lời/sơ đồ, hiểu tuần tự, rẽ nhánh, lặp.",
+      "skillTags": [
+        "algorithm_concept",
+        "algorithm_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_016"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_017",
+      "unitId": "algorithm",
+      "unitTitle": "Thuật toán",
+      "strandId": "algorithm",
+      "title": "Lặp lại và điều kiện dừng",
+      "summary": "Mô tả thuật toán bằng lời/sơ đồ, hiểu tuần tự, rẽ nhánh, lặp.",
+      "skillTags": [
+        "algorithm_concept",
+        "algorithm_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_017"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_018",
+      "unitId": "programming",
+      "unitTitle": "Tư duy lập trình",
+      "strandId": "programming",
+      "title": "Biến và kiểu dữ liệu mức nhập môn",
+      "summary": "Làm quen biến, kiểu dữ liệu, truy vết và gỡ lỗi.",
+      "skillTags": [
+        "programming_concept",
+        "programming_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_018"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_019",
+      "unitId": "programming",
+      "unitTitle": "Tư duy lập trình",
+      "strandId": "programming",
+      "title": "Gỡ lỗi thuật toán và chương trình đơn giản",
+      "summary": "Làm quen biến, kiểu dữ liệu, truy vết và gỡ lỗi.",
+      "skillTags": [
+        "programming_concept",
+        "programming_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_019"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_020",
+      "unitId": "data",
+      "unitTitle": "Dữ liệu",
+      "strandId": "data",
+      "title": "Thu thập, làm sạch và trình bày dữ liệu",
+      "summary": "Thu thập, làm sạch, trình bày dữ liệu bằng bảng/biểu đồ.",
+      "skillTags": [
+        "data_concept",
+        "data_practice",
+        "digital_skill"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_020"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_021",
+      "unitId": "ethics",
+      "unitTitle": "Đạo đức số",
+      "strandId": "ethics",
+      "title": "Bản quyền, trích dẫn và dùng tài nguyên số",
+      "summary": "Tôn trọng bản quyền, ứng xử văn minh và cân bằng thời gian số.",
+      "skillTags": [
+        "ethics_concept",
+        "ethics_practice",
+        "digital_safety"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_021"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "informatics",
+      "subjectId": "g7_informatics",
+      "subject": "Tin học",
+      "lessonId": "g7_info_022",
+      "unitId": "ethics",
+      "unitTitle": "Đạo đức số",
+      "strandId": "ethics",
+      "title": "Ứng xử văn minh và cân bằng số",
+      "summary": "Tôn trọng bản quyền, ứng xử văn minh và cân bằng thời gian số.",
+      "skillTags": [
+        "ethics_concept",
+        "ethics_practice",
+        "digital_safety"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "informatics7_lessons.json",
+      "rawId": "g7_info_022"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_001",
+      "unitId": "tech_life",
+      "unitTitle": "Công nghệ và đời sống",
+      "strandId": "tech_life",
+      "title": "Công nghệ quanh em",
+      "summary": "Nhận biết sản phẩm công nghệ, vai trò của công nghệ trong gia đình, trường học, sản xuất và đời sống.",
+      "skillTags": [
+        "tech_life_concept",
+        "tech_life_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_001"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_002",
+      "unitId": "tech_life",
+      "unitTitle": "Công nghệ và đời sống",
+      "strandId": "tech_life",
+      "title": "Lựa chọn và sử dụng sản phẩm công nghệ",
+      "summary": "Đọc thông tin sản phẩm, chọn sản phẩm phù hợp nhu cầu, dùng đúng hướng dẫn và tiết kiệm.",
+      "skillTags": [
+        "tech_life_concept",
+        "tech_life_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_002"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_003",
+      "unitId": "design",
+      "unitTitle": "Quy trình thiết kế",
+      "strandId": "design",
+      "title": "Vấn đề, nhu cầu và ý tưởng thiết kế",
+      "summary": "Xác định vấn đề thực tế, nhu cầu người dùng, tiêu chí sản phẩm và đề xuất ý tưởng.",
+      "skillTags": [
+        "design_concept",
+        "design_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_003"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_004",
+      "unitId": "design",
+      "unitTitle": "Quy trình thiết kế",
+      "strandId": "design",
+      "title": "Phác thảo, mô hình và thử nghiệm",
+      "summary": "Tạo bản phác thảo, mô hình đơn giản, thử nghiệm, nhận phản hồi và cải tiến.",
+      "skillTags": [
+        "design_concept",
+        "design_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_004"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_005",
+      "unitId": "design",
+      "unitTitle": "Quy trình thiết kế",
+      "strandId": "design",
+      "title": "Đánh giá sản phẩm và báo cáo thiết kế",
+      "summary": "Đánh giá sản phẩm theo tiêu chí an toàn, hiệu quả, thẩm mĩ, chi phí và tác động môi trường.",
+      "skillTags": [
+        "design_concept",
+        "design_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_005"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_006",
+      "unitId": "materials",
+      "unitTitle": "Vật liệu và dụng cụ",
+      "strandId": "materials",
+      "title": "Vật liệu thông dụng trong đời sống",
+      "summary": "Nhận biết vật liệu như giấy, gỗ, nhựa, kim loại, vải, thủy tinh và cách lựa chọn phù hợp.",
+      "skillTags": [
+        "materials_concept",
+        "materials_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_006"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_007",
+      "unitId": "materials",
+      "unitTitle": "Vật liệu và dụng cụ",
+      "strandId": "materials",
+      "title": "Dụng cụ thủ công và an toàn sử dụng",
+      "summary": "Nhận biết dụng cụ học tập/thủ công, cách sử dụng an toàn và bảo quản.",
+      "skillTags": [
+        "materials_concept",
+        "materials_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_007"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_008",
+      "unitId": "practice",
+      "unitTitle": "Quy trình thực hành",
+      "strandId": "practice",
+      "title": "Đọc bản vẽ/sơ đồ quy trình đơn giản",
+      "summary": "Đọc kí hiệu, bước thao tác, thứ tự quy trình và checklist sản phẩm.",
+      "skillTags": [
+        "practice_concept",
+        "practice_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_008"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_009",
+      "unitId": "practice",
+      "unitTitle": "Quy trình thực hành",
+      "strandId": "practice",
+      "title": "Làm sản phẩm thủ công học tập an toàn",
+      "summary": "Thực hành tạo sản phẩm đơn giản bằng vật liệu an toàn như giấy, bìa, que gỗ, dây, keo học sinh.",
+      "skillTags": [
+        "practice_concept",
+        "practice_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_009"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_010",
+      "unitId": "agriculture",
+      "unitTitle": "Nông nghiệp/trồng trọt",
+      "strandId": "agriculture",
+      "title": "Vai trò của trồng trọt trong đời sống",
+      "summary": "Hiểu vai trò lương thực, thực phẩm, nguyên liệu và cảnh quan môi trường của trồng trọt.",
+      "skillTags": [
+        "agriculture_concept",
+        "agriculture_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_010"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_011",
+      "unitId": "agriculture",
+      "unitTitle": "Nông nghiệp/trồng trọt",
+      "strandId": "agriculture",
+      "title": "Đất trồng, giá thể và dinh dưỡng cây trồng",
+      "summary": "Nhận biết đất trồng, giá thể, nước, ánh sáng, dinh dưỡng và điều kiện sinh trưởng cây.",
+      "skillTags": [
+        "agriculture_concept",
+        "agriculture_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_011"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_012",
+      "unitId": "agriculture",
+      "unitTitle": "Nông nghiệp/trồng trọt",
+      "strandId": "agriculture",
+      "title": "Gieo trồng và chăm sóc cây",
+      "summary": "Tìm hiểu quy trình chọn giống, gieo hạt, tưới nước, làm cỏ, tỉa cây và theo dõi sinh trưởng.",
+      "skillTags": [
+        "agriculture_concept",
+        "agriculture_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_012"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_013",
+      "unitId": "agriculture",
+      "unitTitle": "Nông nghiệp/trồng trọt",
+      "strandId": "agriculture",
+      "title": "Phòng trừ sâu bệnh an toàn và sinh thái",
+      "summary": "Nhận biết sâu bệnh phổ biến, nguyên tắc phòng trừ an toàn, ưu tiên vệ sinh vườn, quan sát, biện pháp sinh học.",
+      "skillTags": [
+        "agriculture_concept",
+        "agriculture_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_013"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_014",
+      "unitId": "agriculture",
+      "unitTitle": "Nông nghiệp/trồng trọt",
+      "strandId": "agriculture",
+      "title": "Thu hoạch, bảo quản và chế biến nông sản",
+      "summary": "Tìm hiểu thời điểm thu hoạch, phân loại, bảo quản, đóng gói và giảm hao hụt nông sản.",
+      "skillTags": [
+        "agriculture_concept",
+        "agriculture_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_014"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_015",
+      "unitId": "livestock",
+      "unitTitle": "Chăn nuôi",
+      "strandId": "livestock",
+      "title": "Vai trò của chăn nuôi và vật nuôi phổ biến",
+      "summary": "Hiểu vai trò thực phẩm, sức kéo, phân bón, cảnh quan và thú cưng; nhận biết một số vật nuôi phổ biến.",
+      "skillTags": [
+        "livestock_concept",
+        "livestock_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_015"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_016",
+      "unitId": "livestock",
+      "unitTitle": "Chăn nuôi",
+      "strandId": "livestock",
+      "title": "Thức ăn và chăm sóc vật nuôi",
+      "summary": "Nhận biết thức ăn, nước uống, chuồng trại, vệ sinh và chăm sóc vật nuôi phù hợp.",
+      "skillTags": [
+        "livestock_concept",
+        "livestock_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_016"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_017",
+      "unitId": "livestock",
+      "unitTitle": "Chăn nuôi",
+      "strandId": "livestock",
+      "title": "Phòng bệnh cho vật nuôi và an toàn sinh học",
+      "summary": "Tìm hiểu vệ sinh chuồng trại, theo dõi dấu hiệu bệnh, cách ly, báo người lớn/chuyên môn khi cần.",
+      "skillTags": [
+        "livestock_concept",
+        "livestock_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_017"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_018",
+      "unitId": "labor_safety",
+      "unitTitle": "An toàn lao động",
+      "strandId": "labor_safety",
+      "title": "An toàn lao động trong học tập và thực hành",
+      "summary": "Nhận biết nguy cơ khi dùng dụng cụ, điện, nhiệt, vật sắc; biết chuẩn bị bảo hộ và xử lí tình huống nhẹ.",
+      "skillTags": [
+        "labor_safety_concept",
+        "labor_safety_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_018"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_019",
+      "unitId": "environment",
+      "unitTitle": "Công nghệ và môi trường",
+      "strandId": "environment",
+      "title": "Công nghệ xanh và tiết kiệm tài nguyên",
+      "summary": "Tìm hiểu tiết kiệm điện/nước, tái sử dụng, tái chế, lựa chọn sản phẩm thân thiện môi trường.",
+      "skillTags": [
+        "environment_concept",
+        "environment_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_019"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "technology",
+      "subjectId": "g7_technology",
+      "subject": "Công nghệ",
+      "lessonId": "g7_tech_020",
+      "unitId": "project",
+      "unitTitle": "Dự án công nghệ",
+      "strandId": "project",
+      "title": "Dự án nhỏ: thiết kế vườn rau/lọ tưới/sản phẩm tái chế",
+      "summary": "Vận dụng quy trình thiết kế, vật liệu, an toàn và kiến thức trồng trọt/chăn nuôi để làm dự án nhỏ.",
+      "skillTags": [
+        "project_concept",
+        "project_practice",
+        "safety_awareness"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "technology7_lessons.json",
+      "rawId": "g7_tech_020"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_001",
+      "unitId": "ethics",
+      "unitTitle": "Phẩm chất đạo đức",
+      "strandId": "ethics",
+      "title": "Tự hào về truyền thống quê hương",
+      "summary": "Nhận biết truyền thống tốt đẹp của quê hương, biết trân trọng, giữ gìn và giới thiệu phù hợp.",
+      "skillTags": [
+        "ethics_concept",
+        "ethics_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_001"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_002",
+      "unitId": "ethics",
+      "unitTitle": "Phẩm chất đạo đức",
+      "strandId": "ethics",
+      "title": "Quan tâm, cảm thông và chia sẻ",
+      "summary": "Hiểu ý nghĩa quan tâm/cảm thông/chia sẻ với người thân, bạn bè và cộng đồng.",
+      "skillTags": [
+        "ethics_concept",
+        "ethics_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_002"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_003",
+      "unitId": "ethics",
+      "unitTitle": "Phẩm chất đạo đức",
+      "strandId": "ethics",
+      "title": "Học tập tự giác và tích cực",
+      "summary": "Rèn tinh thần tự học, chủ động, không ỷ lại, biết lập kế hoạch học tập.",
+      "skillTags": [
+        "ethics_concept",
+        "ethics_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_003"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_004",
+      "unitId": "ethics",
+      "unitTitle": "Phẩm chất đạo đức",
+      "strandId": "ethics",
+      "title": "Giữ chữ tín",
+      "summary": "Hiểu chữ tín trong lời hứa, công việc, học tập và quan hệ bạn bè.",
+      "skillTags": [
+        "ethics_concept",
+        "ethics_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_004"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_005",
+      "unitId": "life_skill",
+      "unitTitle": "Kỹ năng sống",
+      "strandId": "life_skill",
+      "title": "Quản lý bản thân và thời gian",
+      "summary": "Biết đặt mục tiêu, ưu tiên việc quan trọng, cân bằng học tập-nghỉ ngơi.",
+      "skillTags": [
+        "life_skill_concept",
+        "life_skill_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_005"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_006",
+      "unitId": "life_skill",
+      "unitTitle": "Kỹ năng sống",
+      "strandId": "life_skill",
+      "title": "Quản lý cảm xúc",
+      "summary": "Nhận biết cảm xúc, gọi tên cảm xúc, bình tĩnh xử lý xung đột và tìm hỗ trợ khi cần.",
+      "skillTags": [
+        "life_skill_concept",
+        "life_skill_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_006"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_007",
+      "unitId": "life_skill",
+      "unitTitle": "Kỹ năng sống",
+      "strandId": "life_skill",
+      "title": "Ứng phó với căng thẳng và áp lực học đường",
+      "summary": "Nhận biết áp lực học tập/bạn bè, biết cách nghỉ ngơi, chia sẻ và tìm người tin cậy.",
+      "skillTags": [
+        "life_skill_concept",
+        "life_skill_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_007"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_008",
+      "unitId": "school_behavior",
+      "unitTitle": "Ứng xử học đường",
+      "strandId": "school_behavior",
+      "title": "Tôn trọng sự khác biệt",
+      "summary": "Biết tôn trọng ngoại hình, hoàn cảnh, sở thích, năng lực và quan điểm khác nhau.",
+      "skillTags": [
+        "school_behavior_concept",
+        "school_behavior_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_008"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_009",
+      "unitId": "school_behavior",
+      "unitTitle": "Ứng xử học đường",
+      "strandId": "school_behavior",
+      "title": "Phòng chống bắt nạt học đường",
+      "summary": "Nhận biết bắt nạt trực tiếp/trực tuyến, không cổ vũ, biết báo người lớn và bảo vệ bản thân an toàn.",
+      "skillTags": [
+        "school_behavior_concept",
+        "school_behavior_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_009"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_010",
+      "unitId": "school_behavior",
+      "unitTitle": "Ứng xử học đường",
+      "strandId": "school_behavior",
+      "title": "Giao tiếp văn minh và giải quyết mâu thuẫn",
+      "summary": "Rèn cách nói lời lịch sự, lắng nghe, xin lỗi, cảm ơn, thương lượng và giải quyết mâu thuẫn.",
+      "skillTags": [
+        "school_behavior_concept",
+        "school_behavior_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_010"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_011",
+      "unitId": "rights_duties",
+      "unitTitle": "Quyền và nghĩa vụ",
+      "strandId": "rights_duties",
+      "title": "Quyền trẻ em và trách nhiệm của học sinh",
+      "summary": "Nhận biết một số quyền trẻ em cơ bản và trách nhiệm tôn trọng quyền của mình/người khác.",
+      "skillTags": [
+        "rights_duties_concept",
+        "rights_duties_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_011"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_012",
+      "unitId": "rights_duties",
+      "unitTitle": "Quyền và nghĩa vụ",
+      "strandId": "rights_duties",
+      "title": "Quyền và nghĩa vụ trong gia đình, nhà trường, cộng đồng",
+      "summary": "Hiểu mối quan hệ giữa quyền, nghĩa vụ và trách nhiệm trong các môi trường gần gũi.",
+      "skillTags": [
+        "rights_duties_concept",
+        "rights_duties_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_012"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_013",
+      "unitId": "citizenship",
+      "unitTitle": "Tình huống công dân",
+      "strandId": "citizenship",
+      "title": "Tuân thủ quy định chung nơi công cộng",
+      "summary": "Biết tuân thủ nội quy, pháp luật cơ bản, văn hóa xếp hàng, giữ vệ sinh, an toàn giao thông.",
+      "skillTags": [
+        "citizenship_concept",
+        "citizenship_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_013"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_014",
+      "unitId": "citizenship",
+      "unitTitle": "Tình huống công dân",
+      "strandId": "citizenship",
+      "title": "Tham gia hoạt động cộng đồng phù hợp lứa tuổi",
+      "summary": "Biết chọn hoạt động cộng đồng an toàn, có người lớn hướng dẫn, phù hợp khả năng.",
+      "skillTags": [
+        "citizenship_concept",
+        "citizenship_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_014"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_015",
+      "unitId": "money",
+      "unitTitle": "Quản lý tiền bạc",
+      "strandId": "money",
+      "title": "Tiền bạc, nhu cầu và mong muốn",
+      "summary": "Phân biệt nhu cầu/mong muốn, biết cân nhắc trước khi chi tiêu.",
+      "skillTags": [
+        "money_concept",
+        "money_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_015"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_016",
+      "unitId": "money",
+      "unitTitle": "Quản lý tiền bạc",
+      "strandId": "money",
+      "title": "Tiết kiệm và lập kế hoạch chi tiêu cá nhân",
+      "summary": "Biết ghi thu-chi, đặt mục tiêu tiết kiệm nhỏ, tránh vay mượn/tiêu xài theo cảm xúc.",
+      "skillTags": [
+        "money_concept",
+        "money_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_016"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_017",
+      "unitId": "digital_citizenship",
+      "unitTitle": "Công dân số",
+      "strandId": "digital_citizenship",
+      "title": "Ứng xử an toàn và có trách nhiệm trên mạng",
+      "summary": "Biết bảo vệ thông tin cá nhân, không lan truyền tin xấu, tôn trọng người khác trên mạng.",
+      "skillTags": [
+        "digital_citizenship_concept",
+        "digital_citizenship_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_017"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_018",
+      "unitId": "digital_citizenship",
+      "unitTitle": "Công dân số",
+      "strandId": "digital_citizenship",
+      "title": "Tôn trọng bản quyền và trung thực học tập",
+      "summary": "Không sao chép bài, biết ghi nguồn, diễn đạt lại bằng lời của mình.",
+      "skillTags": [
+        "digital_citizenship_concept",
+        "digital_citizenship_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_018"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_019",
+      "unitId": "law_basic",
+      "unitTitle": "Pháp luật cơ bản",
+      "strandId": "law_basic",
+      "title": "Vi phạm quy định và hậu quả",
+      "summary": "Nhận biết hành vi vi phạm nội quy/quy định, hậu quả với bản thân và người khác, biết sửa sai.",
+      "skillTags": [
+        "law_basic_concept",
+        "law_basic_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_019"
+    },
+    {
+      "grade": 7,
+      "subjectKey": "civic",
+      "subjectId": "g7_civic",
+      "subject": "GDCD",
+      "lessonId": "g7_civic_020",
+      "unitId": "integrated",
+      "unitTitle": "Tổng hợp GDCD",
+      "strandId": "integrated",
+      "title": "Dự án công dân nhỏ: lớp học tử tế",
+      "summary": "Vận dụng phẩm chất, kỹ năng sống, quyền-nghĩa vụ và ứng xử học đường vào dự án nhỏ.",
+      "skillTags": [
+        "integrated_concept",
+        "integrated_situation",
+        "responsible_choice"
+      ],
+      "difficultyTags": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "textbookMap": null,
+      "sourceFile": "civic7_lessons.json",
+      "rawId": "g7_civic_020"
+    }
+  ]
+}

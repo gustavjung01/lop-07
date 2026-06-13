@@ -1,0 +1,514 @@
+[
+{
+"lessonId": "g7_math_006",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được số vô tỉ qua các ví dụ quen thuộc như căn bậc hai của số không chính phương.",
+"Hiểu căn bậc hai số học của một số không âm.",
+"Tính được căn bậc hai số học của một số chính phương đơn giản.",
+"Ước lượng được giá trị căn bậc hai trong một số trường hợp gần đúng."
+],
+"easyExplanation": "Không phải số nào cũng viết được thành phân số. Những số không viết được dưới dạng a/b với a, b là số nguyên và b khác 0 được gọi là số vô tỉ. Ví dụ quen thuộc là √2. Căn bậc hai số học của một số không âm a là số không âm x sao cho x² = a. Ví dụ √9 = 3 vì 3² = 9, không lấy -3 vì căn bậc hai số học luôn không âm.",
+"workedExamples": [
+{
+"title": "Tính căn bậc hai số học",
+"problem": "Tính √49.",
+"steps": [
+"Tìm số không âm khi bình phương lên bằng 49.",
+"Ta có 7² = 49.",
+"Vì 7 là số không âm nên phù hợp với căn bậc hai số học."
+],
+"answer": "√49 = 7",
+"explanation": "Căn bậc hai số học chỉ lấy giá trị không âm."
+},
+{
+"title": "Ước lượng căn bậc hai",
+"problem": "Ước lượng √20 nằm giữa hai số nguyên nào.",
+"steps": [
+"Tìm hai số chính phương gần 20.",
+"Ta có 16 < 20 < 25.",
+"Vì √16 = 4 và √25 = 5.",
+"Suy ra √20 nằm giữa 4 và 5."
+],
+"answer": "4 < √20 < 5",
+"explanation": "So sánh số dưới dấu căn với các số chính phương gần nó."
+}
+],
+"steps": [
+"Bước 1: Kiểm tra số dưới dấu căn có không âm không.",
+"Bước 2: Nếu là số chính phương, tìm số không âm bình phương lên bằng số đó.",
+"Bước 3: Nếu không phải số chính phương, dùng hai số chính phương gần nhất để ước lượng.",
+"Bước 4: Khi xét số vô tỉ, kiểm tra xem số đó có viết được dưới dạng phân số không.",
+"Bước 5: Viết kết luận rõ ràng, tránh nhầm căn bậc hai số học với hai nghiệm của phương trình x² = a."
+],
+"commonMistakes": [
+{
+"mistake": "Cho rằng √9 bằng cả 3 và -3.",
+"fix": "√9 là căn bậc hai số học nên chỉ bằng 3. Còn phương trình x² = 9 mới có hai nghiệm là 3 và -3."
+},
+{
+"mistake": "Nghĩ số thập phân nào dài cũng là số vô tỉ.",
+"fix": "Cần phân biệt: số thập phân vô hạn tuần hoàn vẫn là số hữu tỉ. Số vô tỉ có dạng thập phân vô hạn không tuần hoàn."
+},
+{
+"mistake": "Ước lượng căn nhưng chọn sai hai số chính phương gần nhất.",
+"fix": "Luôn tìm hai số chính phương kẹp số cần căn, ví dụ 16 và 25 kẹp 20."
+}
+],
+"quickMemory": "√a là số không âm có bình phương bằng a. Số vô tỉ có dạng thập phân vô hạn không tuần hoàn.",
+"warmupQuestions": [
+{
+"question": "√36 bằng bao nhiêu?",
+"suggestedAnswer": "√36 = 6."
+},
+{
+"question": "√10 nằm giữa hai số nguyên nào?",
+"suggestedAnswer": "3 và 4, vì 9 < 10 < 16."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một hình vuông có diện tích 64 cm². Cạnh hình vuông dài bao nhiêu?",
+"hint": "Cạnh hình vuông là căn bậc hai số học của diện tích.",
+"suggestedAnswer": "Cạnh dài √64 = 8 cm."
+},
+{
+"question": "Không dùng máy tính, hãy cho biết √50 gần 7 hay gần 8 hơn.",
+"hint": "So sánh 50 với 49 và 64.",
+"suggestedAnswer": "√50 gần 7 hơn vì 50 rất gần 49."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Trục số đánh dấu 4, √20, 5 để minh họa ước lượng căn.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo số dưới dấu căn vào khoảng giữa hai số nguyên phù hợp.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_007",
+"subjectKey": "math",
+"learningObjectives": [
+"Hiểu tập số thực gồm số hữu tỉ và số vô tỉ.",
+"Biết biểu diễn ý tưởng số thực trên trục số.",
+"Tính và hiểu giá trị tuyệt đối của một số thực đơn giản.",
+"Làm tròn và ước lượng được số thực trong tình huống phù hợp."
+],
+"easyExplanation": "Số thực là chiếc ô lớn chứa cả số hữu tỉ và số vô tỉ. Trên trục số, mỗi số thực ứng với một điểm. Giá trị tuyệt đối của một số là khoảng cách từ số đó đến 0 trên trục số, nên luôn không âm. Ví dụ |−5| = 5 và |3| = 3. Khi làm tròn số, ta giữ số chữ số cần thiết rồi nhìn chữ số ngay sau vị trí làm tròn để quyết định tăng hay giữ nguyên.",
+"workedExamples": [
+{
+"title": "Giá trị tuyệt đối",
+"problem": "Tính |−7,2|.",
+"steps": [
+"Giá trị tuyệt đối là khoảng cách đến 0.",
+"Khoảng cách không mang dấu âm.",
+"Vì vậy bỏ dấu âm của -7,2."
+],
+"answer": "|−7,2| = 7,2",
+"explanation": "Giá trị tuyệt đối luôn không âm."
+},
+{
+"title": "Làm tròn số",
+"problem": "Làm tròn 3,146 đến hàng phần trăm.",
+"steps": [
+"Hàng phần trăm là chữ số thứ hai sau dấu phẩy: 4.",
+"Nhìn chữ số ngay sau nó là 6.",
+"Vì 6 lớn hơn hoặc bằng 5 nên tăng 4 lên 5."
+],
+"answer": "3,146 ≈ 3,15",
+"explanation": "Làm tròn theo quy tắc nhìn chữ số kế tiếp."
+}
+],
+"steps": [
+"Bước 1: Xác định số thuộc nhóm hữu tỉ hay vô tỉ nếu cần phân loại.",
+"Bước 2: Khi dùng trục số, nhớ số bên trái nhỏ hơn số bên phải.",
+"Bước 3: Với giá trị tuyệt đối, hiểu đó là khoảng cách đến 0.",
+"Bước 4: Khi làm tròn, xác định đúng hàng cần làm tròn.",
+"Bước 5: Kiểm tra kết quả ước lượng có hợp lý với số ban đầu không."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ |−a| vẫn là số âm.",
+"fix": "Giá trị tuyệt đối là khoảng cách nên không âm. |−a| = a nếu a dương."
+},
+{
+"mistake": "Làm tròn sai hàng cần làm tròn.",
+"fix": "Gạch chân chữ số ở hàng cần làm tròn, sau đó nhìn chữ số ngay bên phải."
+},
+{
+"mistake": "Nhầm số thực chỉ gồm số thập phân.",
+"fix": "Số thực gồm số hữu tỉ và số vô tỉ, có thể viết dưới nhiều dạng."
+}
+],
+"quickMemory": "Số thực gồm hữu tỉ và vô tỉ. Giá trị tuyệt đối là khoảng cách đến 0 nên luôn không âm.",
+"warmupQuestions": [
+{
+"question": "|−4| bằng bao nhiêu?",
+"suggestedAnswer": "4."
+},
+{
+"question": "Số √2 là hữu tỉ hay vô tỉ?",
+"suggestedAnswer": "Vô tỉ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một thợ đo chiều dài được 12,486 m. Nếu làm tròn đến hàng phần mười thì được bao nhiêu?",
+"hint": "Hàng phần mười là chữ số đầu tiên sau dấu phẩy.",
+"suggestedAnswer": "12,486 ≈ 12,5 m."
+},
+{
+"question": "Nhiệt độ là -3°C. Khoảng cách của nhiệt độ đó đến 0°C là bao nhiêu?",
+"hint": "Dùng giá trị tuyệt đối.",
+"suggestedAnswer": "|−3| = 3, nên khoảng cách là 3°C."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Trục số minh họa khoảng cách từ -7,2 đến 0 để giải thích giá trị tuyệt đối.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài chọn hàng làm tròn và dự đoán kết quả trước khi hiện đáp án.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_008",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được tỉ lệ thức là đẳng thức của hai tỉ số.",
+"Vận dụng được tính chất tích chéo trong tỉ lệ thức.",
+"Tìm được số chưa biết trong tỉ lệ thức đơn giản.",
+"Áp dụng tỉ lệ thức vào bài toán thực tế."
+],
+"easyExplanation": "Tỉ lệ thức là một đẳng thức giữa hai tỉ số, ví dụ a/b = c/d với b và d khác 0. Tính chất quan trọng nhất là tích chéo: nếu a/b = c/d thì a × d = b × c. Tính chất này giúp em kiểm tra hai tỉ số có bằng nhau không và tìm số chưa biết trong tỉ lệ thức.",
+"workedExamples": [
+{
+"title": "Kiểm tra tỉ lệ thức",
+"problem": "Hai tỉ số 2/3 và 8/12 có lập thành tỉ lệ thức không?",
+"steps": [
+"Dùng tích chéo: 2 × 12 và 3 × 8.",
+"2 × 12 = 24.",
+"3 × 8 = 24.",
+"Hai tích bằng nhau."
+],
+"answer": "Có, 2/3 = 8/12.",
+"explanation": "Hai tỉ số bằng nhau thì lập thành tỉ lệ thức."
+},
+{
+"title": "Tìm số chưa biết",
+"problem": "Tìm x biết x/5 = 6/10.",
+"steps": [
+"Dùng tích chéo: x × 10 = 5 × 6.",
+"Ta có 10x = 30.",
+"Chia hai vế cho 10.",
+"x = 3."
+],
+"answer": "x = 3",
+"explanation": "Tích chéo biến tỉ lệ thức thành phương trình đơn giản."
+}
+],
+"steps": [
+"Bước 1: Viết tỉ lệ thức ở dạng a/b = c/d.",
+"Bước 2: Kiểm tra mẫu số khác 0.",
+"Bước 3: Dùng tích chéo: a × d = b × c.",
+"Bước 4: Nếu có ẩn, giải phương trình vừa thu được.",
+"Bước 5: Thay kết quả vào tỉ lệ thức ban đầu để kiểm tra."
+],
+"commonMistakes": [
+{
+"mistake": "Nhân ngang thay vì nhân chéo.",
+"fix": "Với a/b = c/d, phải nhân a với d và b với c."
+},
+{
+"mistake": "Quên điều kiện mẫu số khác 0.",
+"fix": "Tỉ số chỉ có nghĩa khi mẫu số khác 0."
+},
+{
+"mistake": "Tìm được x nhưng không kiểm tra lại.",
+"fix": "Thay x vào tỉ lệ thức ban đầu để xem hai tỉ số có bằng nhau không."
+}
+],
+"quickMemory": "Tỉ lệ thức là hai tỉ số bằng nhau. Vũ khí chính là tích chéo.",
+"warmupQuestions": [
+{
+"question": "1/2 và 3/6 có lập thành tỉ lệ thức không?",
+"suggestedAnswer": "Có, vì 1 × 6 = 2 × 3 = 6."
+},
+{
+"question": "Trong a/b = c/d, tích chéo là gì?",
+"suggestedAnswer": "a × d = b × c."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một bản đồ có tỉ lệ 1:1000. Trên bản đồ, đoạn đường dài 3 cm. Đoạn đường thật dài bao nhiêu cm?",
+"hint": "Tỉ lệ 1:1000 nghĩa là 1 cm trên bản đồ ứng với 1000 cm thật.",
+"suggestedAnswer": "3 × 1000 = 3000 cm."
+},
+{
+"question": "Tìm x biết 4/x = 2/5.",
+"hint": "Dùng tích chéo.",
+"suggestedAnswer": "4 × 5 = 2x, nên 20 = 2x, x = 10."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Minh họa tích chéo bằng hai đường chéo nối tử số với mẫu số đối diện.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài điền số còn thiếu trong tỉ lệ thức, sau đó app tự hiện tích chéo.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_009",
+"subjectKey": "math",
+"learningObjectives": [
+"Hiểu được tính chất của dãy tỉ số bằng nhau.",
+"Vận dụng tính chất để tìm các số chưa biết.",
+"Giải được bài toán chia một đại lượng theo tỉ lệ.",
+"Biết kiểm tra kết quả bằng cách so lại các tỉ số."
+],
+"easyExplanation": "Dãy tỉ số bằng nhau xuất hiện khi nhiều tỉ số có cùng giá trị, ví dụ a/b = c/d = e/f. Tính chất thường dùng là nếu a/b = c/d thì cũng có thể liên hệ tổng hoặc hiệu các tử với tổng hoặc hiệu các mẫu trong điều kiện phù hợp. Với bài chia theo tỉ lệ, em thường đặt các phần là k lần theo tỉ lệ đã cho, rồi dùng tổng để tìm k.",
+"workedExamples": [
+{
+"title": "Chia theo tỉ lệ",
+"problem": "Chia 35 thành hai phần theo tỉ lệ 2:5.",
+"steps": [
+"Gọi hai phần là 2k và 5k.",
+"Tổng hai phần là 35 nên 2k + 5k = 35.",
+"7k = 35 nên k = 5.",
+"Hai phần là 2 × 5 và 5 × 5."
+],
+"answer": "Hai phần là 10 và 25.",
+"explanation": "Tỉ lệ 2:5 nghĩa là hai phần có dạng 2k và 5k."
+},
+{
+"title": "Tìm hai số từ tổng và tỉ lệ",
+"problem": "Hai số có tỉ lệ 3:4 và tổng bằng 63. Tìm hai số đó.",
+"steps": [
+"Gọi hai số là 3k và 4k.",
+"Ta có 3k + 4k = 63.",
+"7k = 63 nên k = 9.",
+"Hai số là 27 và 36."
+],
+"answer": "27 và 36",
+"explanation": "Dùng một biến k để giữ đúng tỉ lệ."
+}
+],
+"steps": [
+"Bước 1: Đọc tỉ lệ đã cho, ví dụ 2:5 hoặc 3:4:6.",
+"Bước 2: Đặt các đại lượng lần lượt là 2k, 5k hoặc 3k, 4k, 6k.",
+"Bước 3: Dùng tổng, hiệu hoặc điều kiện đề bài để lập phương trình tìm k.",
+"Bước 4: Tính từng đại lượng.",
+"Bước 5: Kiểm tra lại tổng và tỉ lệ."
+],
+"commonMistakes": [
+{
+"mistake": "Lấy tổng chia đều thay vì chia theo tỉ lệ.",
+"fix": "Nếu tỉ lệ 2:5 thì hai phần không bằng nhau, phải đặt 2k và 5k."
+},
+{
+"mistake": "Tìm được k rồi quên nhân lại với các phần tỉ lệ.",
+"fix": "k chỉ là một phần đơn vị. Kết quả thật là 2k, 5k..."
+},
+{
+"mistake": "Không kiểm tra tổng sau khi tìm số.",
+"fix": "Cộng các kết quả lại xem có đúng tổng đề bài không."
+}
+],
+"quickMemory": "Chia theo tỉ lệ a:b thì đặt hai phần là ak và bk. Tìm k trước, tìm từng phần sau.",
+"warmupQuestions": [
+{
+"question": "Nếu hai phần theo tỉ lệ 1:3 thì có thể đặt là gì?",
+"suggestedAnswer": "k và 3k."
+},
+{
+"question": "Chia 20 theo tỉ lệ 1:4 thì tổng số phần là bao nhiêu?",
+"suggestedAnswer": "1 + 4 = 5 phần."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một lớp có 40 học sinh, số nam và nữ theo tỉ lệ 3:5. Tính số nam và số nữ.",
+"hint": "Gọi số nam là 3k, số nữ là 5k.",
+"suggestedAnswer": "3k + 5k = 40 nên k = 5. Nam 15, nữ 25."
+},
+{
+"question": "Pha nước chanh theo tỉ lệ đường:nước là 1:9. Nếu có 500 ml hỗn hợp, lượng đường tương ứng là bao nhiêu phần hỗn hợp?",
+"hint": "Tổng số phần là 10.",
+"suggestedAnswer": "Đường chiếm 1/10 hỗn hợp, tức 50 ml nếu tính theo thể tích tương ứng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Thanh chia tỉ lệ 2 phần và 5 phần để minh họa bài chia 35 theo tỉ lệ 2:5.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thanh tỉ lệ để thấy tổng thay đổi nhưng tỉ lệ giữa các phần giữ nguyên.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_010",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được hai đại lượng tỉ lệ thuận.",
+"Hiểu dạng liên hệ y = kx với k là hệ số tỉ lệ.",
+"Tìm được hệ số tỉ lệ từ bảng giá trị hoặc tình huống thực tế.",
+"Giải được bài toán đơn giản về đại lượng tỉ lệ thuận."
+],
+"easyExplanation": "Hai đại lượng tỉ lệ thuận khi đại lượng này tăng bao nhiêu lần thì đại lượng kia cũng tăng bấy nhiêu lần. Công thức thường gặp là y = kx, trong đó k là hệ số tỉ lệ. Ví dụ một quyển vở giá 8.000 đồng, mua x quyển hết y đồng thì y = 8000x. Số quyển vở và số tiền phải trả là hai đại lượng tỉ lệ thuận.",
+"workedExamples": [
+{
+"title": "Nhận biết tỉ lệ thuận",
+"problem": "Một kg gạo giá 18.000 đồng. Số tiền y khi mua x kg gạo có tỉ lệ thuận với x không?",
+"steps": [
+"Mua 1 kg trả 18.000 đồng.",
+"Mua x kg thì số tiền là 18.000 × x.",
+"Công thức có dạng y = kx với k = 18.000."
+],
+"answer": "Có, y tỉ lệ thuận với x.",
+"explanation": "Số kg tăng bao nhiêu lần thì số tiền tăng bấy nhiêu lần."
+},
+{
+"title": "Tìm hệ số tỉ lệ",
+"problem": "Biết y tỉ lệ thuận với x và khi x = 4 thì y = 20. Tìm k.",
+"steps": [
+"Vì y = kx.",
+"Thay x = 4, y = 20 vào công thức.",
+"20 = 4k.",
+"k = 5."
+],
+"answer": "k = 5",
+"explanation": "Hệ số tỉ lệ bằng y/x khi x khác 0."
+},
+{
+"title": "Tính giá trị còn thiếu",
+"problem": "Với y = 5x, tính y khi x = 7.",
+"steps": [
+"Thay x = 7 vào công thức.",
+"y = 5 × 7.",
+"Tính được y = 35."
+],
+"answer": "y = 35",
+"explanation": "Khi biết hệ số tỉ lệ, chỉ cần thay giá trị x."
+}
+],
+"steps": [
+"Bước 1: Xác định hai đại lượng trong bài.",
+"Bước 2: Kiểm tra xem khi một đại lượng tăng mấy lần, đại lượng kia có tăng đúng mấy lần không.",
+"Bước 3: Nếu tỉ lệ thuận, viết công thức y = kx.",
+"Bước 4: Tìm k bằng y/x từ một cặp giá trị đã biết.",
+"Bước 5: Dùng công thức để tính giá trị còn thiếu."
+],
+"commonMistakes": [
+{
+"mistake": "Thấy hai đại lượng cùng tăng thì kết luận ngay là tỉ lệ thuận.",
+"fix": "Phải kiểm tra chúng có tăng cùng một tỉ số không."
+},
+{
+"mistake": "Nhầm hệ số tỉ lệ k với giá trị x hoặc y.",
+"fix": "Trong y = kx, k = y/x khi x khác 0."
+},
+{
+"mistake": "Quên đơn vị trong bài toán thực tế.",
+"fix": "Luôn ghi rõ đơn vị như đồng, kg, mét, giờ."
+}
+],
+"quickMemory": "Tỉ lệ thuận có dạng y = kx. Tỉ số y/x không đổi.",
+"warmupQuestions": [
+{
+"question": "Nếu y = 3x thì y bằng bao nhiêu khi x = 5?",
+"suggestedAnswer": "y = 15."
+},
+{
+"question": "Trong y = kx, k gọi là gì?",
+"suggestedAnswer": "Hệ số tỉ lệ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một xe đi đều 45 km trong 1 giờ. Quãng đường s có tỉ lệ thuận với thời gian t không?",
+"hint": "Nếu tốc độ không đổi, s = v × t.",
+"suggestedAnswer": "Có, vì s = 45t."
+},
+{
+"question": "3 quyển vở giá 24.000 đồng. Hỏi 7 quyển vở cùng loại giá bao nhiêu?",
+"hint": "Tìm giá 1 quyển trước.",
+"suggestedAnswer": "1 quyển giá 8.000 đồng, 7 quyển giá 56.000 đồng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bảng giá trị x, y cho y = 5x để học sinh thấy tỉ số y/x luôn bằng 5.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Thanh kéo thay đổi x và hiển thị y = kx theo hệ số k đã chọn.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+}
+]

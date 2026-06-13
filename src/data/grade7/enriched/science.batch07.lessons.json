@@ -1,0 +1,534 @@
+[
+{
+"lessonId": "g7_science_031",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu sinh sản là quá trình tạo ra cá thể mới, giúp duy trì nòi giống.",
+"Phân biệt sinh sản vô tính và sinh sản hữu tính ở mức cơ bản.",
+"Nêu được ví dụ sinh sản vô tính ở thực vật và một số sinh vật đơn giản.",
+"Nêu được ví dụ sinh sản hữu tính ở động vật và thực vật có hoa.",
+"Nhận biết ý nghĩa của sinh sản đối với sự tồn tại của loài."
+],
+"easyExplanation": "Sinh sản là quá trình sinh vật tạo ra cá thể mới. Nhờ sinh sản, loài được duy trì qua các thế hệ. Sinh sản vô tính thường chỉ cần một cơ thể mẹ và con sinh ra có nhiều đặc điểm giống cơ thể mẹ, ví dụ cây khoai lang mọc từ thân, cây rau má bò lan tạo cây mới, một số sinh vật đơn bào phân đôi. Sinh sản hữu tính có sự kết hợp giữa giao tử đực và giao tử cái, tạo ra cá thể mới mang đặc điểm của cả bố và mẹ. Ví dụ người, gà, cá, cây có hoa tạo hạt.",
+"workedExamples": [
+{
+"title": "Phân biệt sinh sản vô tính và hữu tính",
+"problem": "Cây rau má mọc cây mới từ thân bò và gà đẻ trứng có trống thụ tinh. Trường hợp nào là vô tính, trường hợp nào là hữu tính?",
+"steps": [
+"Cây rau má tạo cây mới từ một phần cơ thể mẹ.",
+"Không có sự kết hợp giao tử trong ví dụ rau má.",
+"Gà sinh sản qua trứng có thụ tinh, có sự tham gia của bố và mẹ.",
+"Phân loại theo có hoặc không có sự kết hợp giao tử."
+],
+"answer": "Cây rau má là sinh sản vô tính. Gà đẻ trứng có thụ tinh là sinh sản hữu tính.",
+"explanation": "Vô tính thường từ một cơ thể mẹ; hữu tính có sự kết hợp giao tử đực và cái."
+},
+{
+"title": "Ý nghĩa của sinh sản",
+"problem": "Vì sao sinh sản quan trọng đối với sinh vật?",
+"steps": [
+"Cá thể sinh vật không sống mãi mãi.",
+"Sinh sản tạo ra cá thể mới.",
+"Các cá thể mới giúp loài tiếp tục tồn tại.",
+"Sinh sản hữu tính còn tạo ra biến dị, giúp loài có khả năng thích nghi."
+],
+"answer": "Sinh sản giúp duy trì nòi giống và tạo thế hệ mới cho loài.",
+"explanation": "Không có sinh sản, loài sẽ dần biến mất khi các cá thể già đi hoặc chết."
+}
+],
+"steps": [
+"Xác định cá thể mới được tạo ra bằng cách nào.",
+"Nếu cá thể mới hình thành từ một cơ thể mẹ, thường là sinh sản vô tính.",
+"Nếu có sự kết hợp giao tử đực và cái, đó là sinh sản hữu tính.",
+"Tìm ví dụ ở thực vật, động vật và sinh vật đơn giản.",
+"Giải thích ý nghĩa duy trì nòi giống."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ sinh sản chỉ có ở động vật.",
+"fix": "Thực vật, động vật và nhiều sinh vật khác đều có sinh sản."
+},
+{
+"mistake": "Nhầm cây mọc từ hạt là vô tính.",
+"fix": "Hạt thường hình thành sau sinh sản hữu tính ở thực vật có hoa."
+},
+{
+"mistake": "Chỉ dựa vào số lượng con để phân loại sinh sản.",
+"fix": "Phân loại dựa vào có hay không có sự kết hợp giao tử."
+}
+],
+"quickMemory": "Sinh sản tạo cá thể mới. Vô tính thường từ một cơ thể mẹ. Hữu tính có giao tử đực và giao tử cái.",
+"warmupQuestions": [
+{
+"question": "Sinh sản có ý nghĩa gì?",
+"suggestedAnswer": "Giúp tạo cá thể mới và duy trì nòi giống."
+},
+{
+"question": "Cây mọc từ thân bò của rau má là sinh sản gì?",
+"suggestedAnswer": "Sinh sản vô tính."
+},
+{
+"question": "Sinh sản hữu tính cần sự kết hợp của những gì?",
+"suggestedAnswer": "Giao tử đực và giao tử cái."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy phân loại: cây khoai lang mọc từ dây, cây xoài mọc từ hạt, mèo sinh con, vi khuẩn phân đôi.",
+"hint": "Xem có sự kết hợp giao tử không.",
+"suggestedAnswer": "Vô tính: cây khoai lang mọc từ dây, vi khuẩn phân đôi. Hữu tính: cây xoài mọc từ hạt, mèo sinh con."
+},
+{
+"question": "Vì sao sinh sản hữu tính có thể tạo ra con không hoàn toàn giống bố mẹ?",
+"hint": "Con nhận đặc điểm từ cả bố và mẹ.",
+"suggestedAnswer": "Vì sinh sản hữu tính có sự kết hợp vật chất di truyền từ bố và mẹ, nên con mang đặc điểm của cả hai và có thể khác bố mẹ."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ so sánh sinh sản vô tính và hữu tính bằng ví dụ cây rau má, vi khuẩn, gà, cây có hoa.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo ví dụ vào cột sinh sản vô tính hoặc sinh sản hữu tính.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_032",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu cảm ứng là khả năng sinh vật tiếp nhận và phản ứng với kích thích từ môi trường.",
+"Nêu được ví dụ cảm ứng ở thực vật như hướng sáng, hướng nước, cụp lá.",
+"Nêu được ví dụ cảm ứng ở động vật như chạy trốn, tìm thức ăn, phản xạ.",
+"Phân biệt kích thích và phản ứng trong tình huống đơn giản.",
+"Giải thích được ý nghĩa của cảm ứng đối với sự tồn tại của sinh vật."
+],
+"easyExplanation": "Cảm ứng ở sinh vật là khả năng nhận biết kích thích từ môi trường và phản ứng lại. Kích thích có thể là ánh sáng, nhiệt độ, âm thanh, va chạm, thức ăn, nước hoặc nguy hiểm. Cây non hướng về phía có ánh sáng là phản ứng với kích thích ánh sáng. Lá cây trinh nữ cụp lại khi bị chạm là phản ứng với kích thích cơ học. Động vật nghe tiếng động lớn có thể chạy trốn. Cảm ứng giúp sinh vật tìm điều kiện thuận lợi, tránh nguy hiểm và thích nghi với môi trường.",
+"workedExamples": [
+{
+"title": "Xác định kích thích và phản ứng",
+"problem": "Cây non mọc cong về phía cửa sổ có ánh sáng. Hãy xác định kích thích và phản ứng.",
+"steps": [
+"Tìm yếu tố môi trường tác động đến cây.",
+"Yếu tố đó là ánh sáng từ cửa sổ.",
+"Tìm hành động/thay đổi của cây.",
+"Cây mọc cong về phía ánh sáng."
+],
+"answer": "Kích thích là ánh sáng. Phản ứng là cây mọc hướng về phía ánh sáng.",
+"explanation": "Cảm ứng gồm hai mảnh: kích thích và phản ứng."
+},
+{
+"title": "Ý nghĩa của cảm ứng",
+"problem": "Vì sao con thỏ chạy trốn khi nghe tiếng động mạnh gần đó?",
+"steps": [
+"Tiếng động mạnh là kích thích.",
+"Thỏ phản ứng bằng cách chạy trốn.",
+"Phản ứng này giúp thỏ tránh nguy hiểm.",
+"Đó là một ví dụ cảm ứng ở động vật."
+],
+"answer": "Vì tiếng động có thể báo hiệu nguy hiểm, thỏ chạy trốn để tự bảo vệ.",
+"explanation": "Cảm ứng giúp sinh vật tồn tại tốt hơn."
+}
+],
+"steps": [
+"Đọc tình huống và tìm yếu tố môi trường tác động.",
+"Gọi yếu tố đó là kích thích.",
+"Tìm thay đổi hoặc hành động của sinh vật.",
+"Gọi đó là phản ứng.",
+"Giải thích phản ứng giúp sinh vật có lợi gì."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ nói sinh vật phản ứng mà không nêu kích thích.",
+"fix": "Luôn tách rõ kích thích là gì và phản ứng là gì."
+},
+{
+"mistake": "Nghĩ thực vật không có cảm ứng vì không di chuyển như động vật.",
+"fix": "Thực vật vẫn có cảm ứng, ví dụ hướng sáng, rễ hướng nước, lá cụp lại."
+},
+{
+"mistake": "Nhầm cảm ứng với cảm xúc.",
+"fix": "Cảm ứng trong sinh học là phản ứng với kích thích, không phải chỉ là cảm xúc."
+}
+],
+"quickMemory": "Cảm ứng = kích thích từ môi trường + phản ứng của sinh vật. Cây hướng sáng, thỏ chạy trốn đều là cảm ứng.",
+"warmupQuestions": [
+{
+"question": "Ánh sáng làm cây mọc cong về phía cửa sổ. Ánh sáng là gì trong ví dụ này?",
+"suggestedAnswer": "Ánh sáng là kích thích."
+},
+{
+"question": "Lá cây trinh nữ cụp lại khi bị chạm. Phản ứng là gì?",
+"suggestedAnswer": "Lá cụp lại."
+},
+{
+"question": "Cảm ứng giúp sinh vật làm gì?",
+"suggestedAnswer": "Giúp sinh vật thích nghi, tìm điều kiện thuận lợi và tránh nguy hiểm."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy nêu 3 ví dụ cảm ứng ở động vật.",
+"hint": "Nghĩ đến tiếng động, thức ăn, ánh sáng, nguy hiểm.",
+"suggestedAnswer": "Chó chạy đến khi nghe gọi, chim bay đi khi có tiếng động lớn, mèo đuổi theo con mồi."
+},
+{
+"question": "Phân tích ví dụ: rễ cây mọc về phía có nước. Kích thích là gì, phản ứng là gì?",
+"hint": "Tìm yếu tố môi trường và hướng mọc của rễ.",
+"suggestedAnswer": "Kích thích là nước hoặc độ ẩm. Phản ứng là rễ mọc hướng về phía có nước."
+}
+],
+"mediaHints": [
+{
+"type": "video",
+"description": "Video tua nhanh cây non mọc hướng về phía ánh sáng hoặc lá trinh nữ cụp lại khi chạm.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài tách kích thích và phản ứng trong các tình huống sinh vật.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_033",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu môi trường sống là nơi sinh vật sinh sống và có các điều kiện ảnh hưởng đến sinh vật.",
+"Nhận biết một số loại môi trường sống: nước, đất, trên cạn, sinh vật khác.",
+"Phân biệt nhân tố sinh thái vô sinh và hữu sinh.",
+"Nêu được ví dụ sinh vật thích nghi với môi trường sống.",
+"Giải thích được mối quan hệ giữa sinh vật và môi trường ở mức cơ bản."
+],
+"easyExplanation": "Môi trường sống là nơi sinh vật sống, tìm thức ăn, sinh trưởng, sinh sản và chịu tác động của các điều kiện xung quanh. Cá sống trong nước, giun đất sống trong đất ẩm, chim sống trên cạn và trên cây, một số kí sinh sống trên hoặc trong cơ thể sinh vật khác. Nhân tố sinh thái là những yếu tố môi trường ảnh hưởng đến sinh vật. Nhân tố vô sinh gồm ánh sáng, nhiệt độ, nước, đất, không khí. Nhân tố hữu sinh gồm cây, động vật, vi sinh vật và con người. Sinh vật có đặc điểm thích nghi với môi trường của mình.",
+"workedExamples": [
+{
+"title": "Phân biệt nhân tố vô sinh và hữu sinh",
+"problem": "Trong rừng có ánh sáng, nhiệt độ, cây, chim, nước suối. Hãy phân loại nhân tố vô sinh và hữu sinh.",
+"steps": [
+"Nhân tố vô sinh là yếu tố không sống.",
+"Ánh sáng, nhiệt độ, nước suối là vô sinh.",
+"Nhân tố hữu sinh là sinh vật hoặc tác động của sinh vật.",
+"Cây và chim là hữu sinh."
+],
+"answer": "Vô sinh: ánh sáng, nhiệt độ, nước suối. Hữu sinh: cây, chim.",
+"explanation": "Vô sinh là không sống; hữu sinh liên quan đến sinh vật."
+},
+{
+"title": "Thích nghi với môi trường",
+"problem": "Vì sao cá có vây và thân thuôn dài phù hợp với đời sống dưới nước?",
+"steps": [
+"Cá sống trong môi trường nước.",
+"Vây giúp cá bơi và giữ thăng bằng.",
+"Thân thuôn dài giúp giảm cản trở khi di chuyển trong nước.",
+"Đó là đặc điểm thích nghi."
+],
+"answer": "Vì vây giúp cá bơi, thân thuôn dài giúp cá di chuyển dễ hơn trong nước.",
+"explanation": "Đặc điểm cơ thể phù hợp môi trường sống được xem là thích nghi."
+}
+],
+"steps": [
+"Xác định sinh vật đang sống ở đâu.",
+"Liệt kê điều kiện môi trường xung quanh sinh vật.",
+"Tách các yếu tố không sống thành nhân tố vô sinh.",
+"Tách sinh vật và tác động của sinh vật thành nhân tố hữu sinh.",
+"Tìm đặc điểm giúp sinh vật sống tốt trong môi trường đó."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ coi môi trường sống là địa điểm, quên các điều kiện ảnh hưởng.",
+"fix": "Môi trường sống gồm nơi ở và các yếu tố như ánh sáng, nước, nhiệt độ, sinh vật khác."
+},
+{
+"mistake": "Nhầm cây là nhân tố vô sinh vì đứng yên.",
+"fix": "Cây là sinh vật nên thuộc nhân tố hữu sinh."
+},
+{
+"mistake": "Nghĩ thích nghi là sinh vật tự chọn ngay lập tức.",
+"fix": "Thích nghi là đặc điểm giúp sinh vật phù hợp với môi trường sống."
+}
+],
+"quickMemory": "Môi trường sống là nơi sinh vật sống. Vô sinh: ánh sáng, nước, đất. Hữu sinh: sinh vật khác và con người.",
+"warmupQuestions": [
+{
+"question": "Ánh sáng là nhân tố vô sinh hay hữu sinh?",
+"suggestedAnswer": "Vô sinh."
+},
+{
+"question": "Cây trong rừng là nhân tố vô sinh hay hữu sinh?",
+"suggestedAnswer": "Hữu sinh."
+},
+{
+"question": "Kể một môi trường sống của sinh vật.",
+"suggestedAnswer": "Môi trường nước, đất, trên cạn hoặc trên cơ thể sinh vật khác."
+}
+],
+"applicationQuestions": [
+{
+"question": "Chọn một sinh vật quen thuộc và nêu 2 nhân tố vô sinh, 2 nhân tố hữu sinh ảnh hưởng đến nó.",
+"hint": "Ví dụ cây lúa, cá, chim, mèo.",
+"suggestedAnswer": "Với cây lúa: vô sinh gồm nước, ánh sáng; hữu sinh gồm sâu ăn lá, con người chăm sóc."
+},
+{
+"question": "Vì sao xương rồng có lá biến thành gai phù hợp với môi trường khô hạn?",
+"hint": "Gai giúp giảm mất nước.",
+"suggestedAnswer": "Lá biến thành gai giúp giảm thoát hơi nước, phù hợp với môi trường khô hạn."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ môi trường sống với nhân tố vô sinh và hữu sinh quanh một sinh vật.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo các yếu tố môi trường vào cột vô sinh hoặc hữu sinh.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_034",
+"subjectKey": "science",
+"learningObjectives": [
+"Nhận biết hệ sinh thái gồm quần xã sinh vật và môi trường sống của chúng.",
+"Nêu được các thành phần cơ bản của hệ sinh thái: sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân giải và môi trường vô sinh.",
+"Hiểu chuỗi thức ăn thể hiện quan hệ dinh dưỡng giữa các sinh vật.",
+"Nêu được ý nghĩa của đa dạng sinh học và bảo vệ thiên nhiên.",
+"Vẽ được chuỗi thức ăn đơn giản từ các ví dụ quen thuộc."
+],
+"easyExplanation": "Hệ sinh thái là một mạng sống gồm các sinh vật và môi trường xung quanh chúng. Trong hệ sinh thái, cây xanh thường là sinh vật sản xuất vì tạo chất hữu cơ nhờ quang hợp. Động vật ăn cây hoặc ăn động vật khác là sinh vật tiêu thụ. Vi khuẩn, nấm và một số sinh vật nhỏ phân hủy xác sinh vật, trả chất về môi trường, gọi là sinh vật phân giải. Chuỗi thức ăn cho thấy sinh vật này là thức ăn của sinh vật kia, ví dụ: cỏ → châu chấu → ếch → rắn. Bảo vệ thiên nhiên giúp giữ cân bằng hệ sinh thái và đa dạng sinh học.",
+"workedExamples": [
+{
+"title": "Vẽ chuỗi thức ăn",
+"problem": "Từ các sinh vật cỏ, rắn, châu chấu, ếch, hãy sắp xếp thành chuỗi thức ăn.",
+"steps": [
+"Cỏ là sinh vật sản xuất.",
+"Châu chấu ăn cỏ.",
+"Ếch ăn châu chấu.",
+"Rắn ăn ếch.",
+"Sắp xếp theo chiều thức ăn truyền đi."
+],
+"answer": "Cỏ → châu chấu → ếch → rắn.",
+"explanation": "Mũi tên trong chuỗi thức ăn thường chỉ chiều truyền thức ăn/năng lượng."
+},
+{
+"title": "Thành phần hệ sinh thái",
+"problem": "Trong ao có rong, cá, vi khuẩn phân hủy và nước. Hãy phân loại các thành phần.",
+"steps": [
+"Rong quang hợp nên là sinh vật sản xuất.",
+"Cá ăn sinh vật khác nên là sinh vật tiêu thụ.",
+"Vi khuẩn phân hủy là sinh vật phân giải.",
+"Nước là yếu tố vô sinh của môi trường."
+],
+"answer": "Rong: sản xuất; cá: tiêu thụ; vi khuẩn: phân giải; nước: môi trường vô sinh.",
+"explanation": "Hệ sinh thái gồm cả sinh vật và yếu tố không sống."
+}
+],
+"steps": [
+"Xác định môi trường và các sinh vật trong hệ sinh thái.",
+"Tìm sinh vật sản xuất, thường là cây xanh hoặc tảo.",
+"Tìm sinh vật tiêu thụ, thường là động vật.",
+"Tìm sinh vật phân giải như nấm, vi khuẩn.",
+"Lập chuỗi thức ăn theo quan hệ ai ăn ai.",
+"Liên hệ tác động của con người đến cân bằng hệ sinh thái."
+],
+"commonMistakes": [
+{
+"mistake": "Vẽ mũi tên chuỗi thức ăn ngược chiều.",
+"fix": "Mũi tên thường chỉ chiều truyền thức ăn/năng lượng: cỏ → châu chấu."
+},
+{
+"mistake": "Quên sinh vật phân giải trong hệ sinh thái.",
+"fix": "Sinh vật phân giải rất quan trọng vì phân hủy xác và chất thải."
+},
+{
+"mistake": "Nghĩ hệ sinh thái chỉ gồm động vật và thực vật.",
+"fix": "Hệ sinh thái còn gồm nấm, vi khuẩn và yếu tố vô sinh như nước, ánh sáng, đất."
+}
+],
+"quickMemory": "Hệ sinh thái = sinh vật + môi trường. Chuỗi thức ăn: sinh vật sản xuất → tiêu thụ → tiêu thụ cao hơn, cuối cùng có phân giải.",
+"warmupQuestions": [
+{
+"question": "Cây xanh thường giữ vai trò gì trong chuỗi thức ăn?",
+"suggestedAnswer": "Sinh vật sản xuất."
+},
+{
+"question": "Mũi tên trong chuỗi thức ăn thường chỉ điều gì?",
+"suggestedAnswer": "Chiều truyền thức ăn hoặc năng lượng."
+},
+{
+"question": "Vì sao sinh vật phân giải quan trọng?",
+"suggestedAnswer": "Vì chúng phân hủy xác sinh vật và trả chất về môi trường."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy lập một chuỗi thức ăn ở ruộng lúa.",
+"hint": "Có thể dùng lúa, sâu, chim, rắn.",
+"suggestedAnswer": "Lúa → sâu ăn lá → chim sâu → rắn."
+},
+{
+"question": "Vì sao phá rừng có thể làm mất cân bằng hệ sinh thái?",
+"hint": "Rừng là nơi sống và nguồn thức ăn của nhiều loài.",
+"suggestedAnswer": "Phá rừng làm mất nơi sống, giảm nguồn thức ăn, khiến nhiều loài suy giảm và các quan hệ trong hệ sinh thái bị rối loạn."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ hệ sinh thái gồm sinh vật sản xuất, tiêu thụ, phân giải và yếu tố vô sinh.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp sinh vật thành chuỗi thức ăn đúng chiều mũi tên.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_035",
+"subjectKey": "science",
+"learningObjectives": [
+"Hệ thống hóa các quá trình sống đã học: trao đổi chất, chuyển hóa năng lượng, sinh trưởng, phát triển, sinh sản, cảm ứng.",
+"Nối được các quá trình sống với ví dụ thực tế.",
+"Hiểu sinh vật là một hệ thống sống có nhiều quá trình liên hệ với nhau.",
+"Vẽ được sơ đồ khái niệm tổng hợp phần sinh học KHTN 7.",
+"Tự đánh giá được phần kiến thức còn yếu qua câu hỏi tổng hợp."
+],
+"easyExplanation": "Bài này là bản đồ tổng hợp phần vật sống trong KHTN 7. Một sinh vật không chỉ 'sống' theo một cách duy nhất, mà sống nhờ nhiều quá trình phối hợp: trao đổi chất để lấy và thải chất, chuyển hóa năng lượng để có năng lượng, sinh trưởng để lớn lên, phát triển để hoàn thiện, sinh sản để duy trì nòi giống, cảm ứng để phản ứng với môi trường. Sinh vật cũng sống trong môi trường và có quan hệ với các sinh vật khác. Khi vẽ sơ đồ, em sẽ thấy phần sinh học giống một khu vườn có nhiều lối đi nối nhau.",
+"workedExamples": [
+{
+"title": "Nối quá trình sống với ví dụ",
+"problem": "Nối các ví dụ sau với quá trình sống: cây hướng về ánh sáng, cây ra hoa, người thở nhanh khi chạy, mèo sinh con.",
+"steps": [
+"Cây hướng về ánh sáng là phản ứng với kích thích.",
+"Cây ra hoa là phát triển.",
+"Người thở nhanh khi chạy liên quan trao đổi khí và hô hấp tế bào.",
+"Mèo sinh con là sinh sản."
+],
+"answer": "Cây hướng sáng: cảm ứng. Cây ra hoa: phát triển. Người thở nhanh khi chạy: trao đổi khí/hô hấp tế bào. Mèo sinh con: sinh sản.",
+"explanation": "Một ví dụ có thể liên hệ với nhiều quá trình, nhưng cần chọn quá trình nổi bật nhất."
+},
+{
+"title": "Lập sơ đồ khái niệm vật sống",
+"problem": "Hãy nêu các nhánh chính nên có trong sơ đồ hóa vật sống KHTN 7.",
+"steps": [
+"Liệt kê các quá trình sống đã học.",
+"Thêm nhánh môi trường sống và hệ sinh thái.",
+"Thêm ví dụ dưới từng nhánh.",
+"Dùng mũi tên để thể hiện liên hệ."
+],
+"answer": "Các nhánh chính: trao đổi chất, chuyển hóa năng lượng, sinh trưởng và phát triển, sinh sản, cảm ứng, môi trường sống và hệ sinh thái.",
+"explanation": "Sơ đồ tốt không chỉ có từ khóa mà còn có ví dụ minh họa."
+}
+],
+"steps": [
+"Viết trung tâm sơ đồ là 'Vật sống'.",
+"Tỏa nhánh ra các quá trình sống chính.",
+"Dưới mỗi nhánh, ghi 1 đến 2 ví dụ.",
+"Nối quá trình sống với môi trường và hệ sinh thái.",
+"Tự đặt câu hỏi kiểm tra từng nhánh."
+],
+"commonMistakes": [
+{
+"mistake": "Học từng bài riêng lẻ, không thấy chúng liên quan.",
+"fix": "Dùng sơ đồ để nối trao đổi chất, năng lượng, sinh trưởng, sinh sản, cảm ứng và môi trường."
+},
+{
+"mistake": "Ghi sơ đồ quá dài như chép lại cả bài.",
+"fix": "Chỉ ghi từ khóa ngắn, ví dụ rõ và mũi tên logic."
+},
+{
+"mistake": "Quên môi trường sống khi nói về vật sống.",
+"fix": "Sinh vật luôn sống trong môi trường và chịu tác động của nhân tố sinh thái."
+}
+],
+"quickMemory": "Vật sống có các dấu hiệu lớn: trao đổi chất, năng lượng, sinh trưởng, phát triển, sinh sản, cảm ứng và quan hệ với môi trường.",
+"warmupQuestions": [
+{
+"question": "Cây mọc hướng về ánh sáng là quá trình sống nào?",
+"suggestedAnswer": "Cảm ứng."
+},
+{
+"question": "Sinh sản có ý nghĩa gì?",
+"suggestedAnswer": "Tạo cá thể mới và duy trì nòi giống."
+},
+{
+"question": "Hô hấp tế bào thuộc nhóm chuyển hóa gì?",
+"suggestedAnswer": "Chuyển hóa năng lượng."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy vẽ sơ đồ tư duy phần vật sống với ít nhất 6 nhánh chính.",
+"hint": "Dùng các nhánh: trao đổi chất, năng lượng, sinh trưởng, phát triển, sinh sản, cảm ứng, môi trường.",
+"suggestedAnswer": "Sơ đồ có trung tâm 'Vật sống', các nhánh: trao đổi chất, chuyển hóa năng lượng, sinh trưởng và phát triển, sinh sản, cảm ứng, môi trường sống, hệ sinh thái."
+},
+{
+"question": "Chọn một sinh vật quen thuộc và phân tích 4 quá trình sống của nó.",
+"hint": "Ví dụ cây lúa, mèo, cá.",
+"suggestedAnswer": "Cây lúa quang hợp để tạo chất hữu cơ, hút nước và muối khoáng để trao đổi chất, lớn lên qua sinh trưởng, ra hoa kết hạt để sinh sản và phản ứng với ánh sáng bằng hướng sáng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ tư duy tổng hợp vật sống KHTN 7 với các nhánh quá trình sống và môi trường.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Ghép ví dụ đời sống với quá trình sống tương ứng để ôn tập toàn chương Sinh học.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

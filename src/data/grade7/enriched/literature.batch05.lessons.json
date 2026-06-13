@@ -1,0 +1,536 @@
+[
+{
+"lessonId": "g7_lit_021",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận diện được một số biện pháp tu từ thường gặp như so sánh, nhân hóa, ẩn dụ, hoán dụ, điệp ngữ.",
+"Phân biệt được dấu hiệu hình thức và bản chất biểu đạt của từng biện pháp tu từ.",
+"Phân tích được tác dụng của biện pháp tu từ trong câu văn, câu thơ cụ thể.",
+"Tránh lỗi chỉ gọi tên biện pháp mà không nêu tác dụng.",
+"Viết được câu hoặc đoạn ngắn có sử dụng biện pháp tu từ phù hợp."
+],
+"easyExplanation": "Biện pháp tu từ làm cho lời văn, lời thơ giàu hình ảnh, cảm xúc và sức gợi hơn. So sánh thường đặt hai sự vật cạnh nhau để làm nổi bật điểm giống nhau, ví dụ 'tiếng chim mỏng như sợi nắng'. Nhân hóa gán đặc điểm con người cho sự vật, ví dụ 'dòng sông biết buồn'. Ẩn dụ gọi tên sự vật này bằng tên sự vật khác dựa trên nét tương đồng. Hoán dụ lấy một phần, dấu hiệu hoặc vật gần gũi để gợi toàn thể, như 'bàn tay mẹ' gợi người mẹ và tình yêu thương. Khi phân tích, không dừng ở việc gọi tên, mà phải nói biện pháp ấy giúp câu văn/câu thơ hay hơn ở đâu.",
+"workedExamples": [
+{
+"title": "Phân tích tác dụng của so sánh",
+"problem": "Câu 'tiếng chim mỏng như sợi nắng' sử dụng biện pháp gì và có tác dụng gì?",
+"steps": [
+"Tìm dấu hiệu so sánh: từ 'như'.",
+"Xác định hai hình ảnh được so sánh: tiếng chim và sợi nắng.",
+"Nhận ra tác dụng: tiếng chim được gợi tả nhẹ, mảnh, trong và sáng.",
+"Viết thành câu phân tích hoàn chỉnh."
+],
+"answer": "Câu thơ sử dụng biện pháp so sánh. Việc so sánh tiếng chim với sợi nắng làm âm thanh trở nên nhẹ, trong, mong manh và giàu chất thơ.",
+"explanation": "Phân tích tu từ cần đi từ dấu hiệu đến hiệu quả gợi hình, gợi cảm."
+},
+{
+"title": "Phân biệt nhân hóa và so sánh",
+"problem": "Câu 'dòng sông biết buồn khi bị rác phủ' là so sánh hay nhân hóa?",
+"steps": [
+"Xác định sự vật được nói đến: dòng sông.",
+"Tìm đặc điểm con người được gán cho sự vật: biết buồn.",
+"Không có đối tượng được đem ra so sánh bằng 'như', 'là', 'tựa'.",
+"Kết luận là nhân hóa."
+],
+"answer": "Đây là biện pháp nhân hóa.",
+"explanation": "Dòng sông được gán cảm xúc của con người nên câu văn dùng nhân hóa."
+}
+],
+"steps": [
+"Đọc kĩ câu văn/câu thơ trong ngữ cảnh.",
+"Tìm dấu hiệu ngôn ngữ: như, là, điệp từ, từ chỉ hoạt động/cảm xúc con người.",
+"Gọi đúng tên biện pháp tu từ.",
+"Giải thích hình ảnh hoặc từ ngữ đó gợi ra điều gì.",
+"Nêu tác dụng với nội dung, cảm xúc, hình ảnh hoặc giọng điệu.",
+"Viết câu phân tích theo mẫu: Biện pháp..., làm nổi bật..., gợi..."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ nêu tên biện pháp tu từ rồi dừng lại.",
+"fix": "Cần phân tích tác dụng: gợi hình ảnh gì, cảm xúc gì, nhấn mạnh điều gì."
+},
+{
+"mistake": "Thấy câu nào đẹp cũng gọi là ẩn dụ.",
+"fix": "Cần dựa vào dấu hiệu và quan hệ nghĩa để gọi đúng biện pháp."
+},
+{
+"mistake": "Nhầm nhân hóa với so sánh.",
+"fix": "Nhân hóa gán đặc điểm người cho vật; so sánh đặt hai đối tượng cạnh nhau qua nét giống."
+}
+],
+"quickMemory": "Phân tích tu từ không chỉ gọi tên. Công thức nhỏ: gọi biện pháp → chỉ từ ngữ → nêu tác dụng.",
+"warmupQuestions": [
+{
+"question": "Biện pháp nhân hóa là gì?",
+"suggestedAnswer": "Là gán đặc điểm, hành động, cảm xúc của con người cho sự vật, con vật hoặc hiện tượng."
+},
+{
+"question": "Từ 'như' thường là dấu hiệu của biện pháp nào?",
+"suggestedAnswer": "So sánh."
+},
+{
+"question": "Vì sao cần phân tích tác dụng của biện pháp tu từ?",
+"suggestedAnswer": "Vì gọi tên biện pháp chưa đủ để thấy cái hay, cái đẹp và ý nghĩa biểu đạt của câu văn/câu thơ."
+}
+],
+"applicationQuestions": [
+{
+"question": "Phân tích biện pháp tu từ trong câu: 'Hàng cây đứng im nghe gió kể chuyện'.",
+"hint": "Hàng cây được gán hoạt động của con người.",
+"suggestedAnswer": "Câu văn sử dụng biện pháp nhân hóa qua hình ảnh 'hàng cây đứng im nghe gió kể chuyện'. Biện pháp này làm hàng cây và gió trở nên có hồn, gần gũi như con người, đồng thời gợi không gian yên bình, giàu chất thơ."
+},
+{
+"question": "Viết 3 câu có sử dụng 3 biện pháp tu từ khác nhau.",
+"hint": "Một câu so sánh, một câu nhân hóa, một câu điệp ngữ.",
+"suggestedAnswer": "Mặt hồ trong như tấm gương xanh. Những bông hoa nghiêng đầu chào nắng mới. Em yêu con đường làng, yêu hàng tre, yêu cả tiếng gà buổi sớm."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bảng phân biệt so sánh, nhân hóa, ẩn dụ, hoán dụ, điệp ngữ với dấu hiệu và tác dụng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn tên biện pháp tu từ và viết tác dụng biểu đạt cho từng câu.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_022",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được thành phần cơ bản của câu và vai trò của trạng ngữ.",
+"Hiểu tác dụng của dấu câu trong việc ngắt ý, biểu thị cảm xúc và làm rõ quan hệ giữa các vế.",
+"Biết mở rộng câu bằng trạng ngữ, cụm từ hoặc thành phần giải thích phù hợp.",
+"Sửa được lỗi câu thiếu thành phần, câu quá dài, dùng dấu câu sai.",
+"Viết được câu rõ nghĩa, đúng dấu câu và phù hợp ngữ cảnh."
+],
+"easyExplanation": "Câu là đơn vị diễn đạt một ý tương đối trọn vẹn. Một câu thường có chủ ngữ và vị ngữ, có thể thêm trạng ngữ để nói rõ thời gian, nơi chốn, nguyên nhân, mục đích hoặc cách thức. Dấu câu giống biển báo giao thông của câu chữ: dấu chấm kết thúc ý, dấu phẩy tách bộ phận phụ hoặc các ý nhỏ, dấu chấm hỏi dùng cho câu hỏi, dấu chấm than thể hiện cảm xúc mạnh. Mở rộng câu không phải là kéo câu thật dài, mà là thêm thông tin cần thiết để câu rõ hơn, sinh động hơn nhưng vẫn dễ hiểu.",
+"workedExamples": [
+{
+"title": "Thêm trạng ngữ để mở rộng câu",
+"problem": "Mở rộng câu 'Chúng em trồng cây' bằng một trạng ngữ chỉ thời gian và nơi chốn.",
+"steps": [
+"Xác định câu gốc: Chúng em trồng cây.",
+"Thêm thời gian: Sáng thứ bảy.",
+"Thêm nơi chốn: ở sân trường.",
+"Kiểm tra câu mới có rõ nghĩa và đúng dấu phẩy không."
+],
+"answer": "Sáng thứ bảy, chúng em trồng cây ở sân trường.",
+"explanation": "Trạng ngữ 'Sáng thứ bảy' làm rõ thời gian, cụm 'ở sân trường' làm rõ nơi chốn."
+},
+{
+"title": "Sửa dấu câu",
+"problem": "Sửa câu: 'Em thích đọc sách vì sách giúp em hiểu thêm cuộc sống em đọc mỗi ngày'.",
+"steps": [
+"Nhận ra câu quá dài và thiếu chỗ ngắt.",
+"Tách ý nguyên nhân và thói quen.",
+"Dùng dấu chấm để kết thúc ý trọn vẹn.",
+"Có thể dùng dấu phẩy nếu cần ngắt nhẹ."
+],
+"answer": "Em thích đọc sách vì sách giúp em hiểu thêm cuộc sống. Em đọc mỗi ngày.",
+"explanation": "Dấu chấm giúp tách hai ý rõ ràng, tránh câu bị dồn và khó hiểu."
+}
+],
+"steps": [
+"Đọc câu và xác định ý chính.",
+"Tìm chủ ngữ: ai, cái gì, con gì.",
+"Tìm vị ngữ: làm gì, thế nào, là gì.",
+"Xem có cần thêm trạng ngữ để rõ thời gian, nơi chốn, nguyên nhân không.",
+"Kiểm tra dấu câu: chấm, phẩy, hỏi, than.",
+"Đọc lại thành tiếng để phát hiện câu quá dài hoặc đứt ý."
+],
+"commonMistakes": [
+{
+"mistake": "Viết câu thiếu chủ ngữ hoặc vị ngữ.",
+"fix": "Kiểm tra câu có trả lời được ai/cái gì và làm gì/thế nào không."
+},
+{
+"mistake": "Dùng dấu phẩy thay cho dấu chấm khiến câu kéo dài lê thê.",
+"fix": "Khi ý đã trọn, dùng dấu chấm để kết thúc."
+},
+{
+"mistake": "Mở rộng câu bằng cách thêm quá nhiều ý không cần thiết.",
+"fix": "Chỉ thêm thông tin giúp câu rõ hơn hoặc giàu hình ảnh hơn."
+}
+],
+"quickMemory": "Câu rõ cần đủ ý. Dấu câu là nhịp thở của câu. Mở rộng câu phải làm câu sáng hơn, không làm rối hơn.",
+"warmupQuestions": [
+{
+"question": "Trạng ngữ thường bổ sung thông tin gì cho câu?",
+"suggestedAnswer": "Thời gian, nơi chốn, nguyên nhân, mục đích, cách thức hoặc điều kiện."
+},
+{
+"question": "Dấu chấm dùng khi nào?",
+"suggestedAnswer": "Dùng để kết thúc một câu trần thuật hoặc một ý đã trọn vẹn."
+},
+{
+"question": "Câu 'Ngoài sân trường, những hàng cây rung nhẹ trong gió' có trạng ngữ nào?",
+"suggestedAnswer": "Ngoài sân trường."
+}
+],
+"applicationQuestions": [
+{
+"question": "Mở rộng câu 'Bạn Lan đọc sách' bằng trạng ngữ chỉ thời gian, nơi chốn và mục đích.",
+"hint": "Thêm khi nào, ở đâu, để làm gì.",
+"suggestedAnswer": "Chiều nay, ở thư viện trường, bạn Lan đọc sách để chuẩn bị cho bài thuyết trình."
+},
+{
+"question": "Sửa câu sau cho rõ nghĩa: 'Trời mưa to chúng em vẫn đến lớp vì hôm nay có bài kiểm tra quan trọng'.",
+"hint": "Thêm dấu phẩy hoặc tách câu.",
+"suggestedAnswer": "Trời mưa to, chúng em vẫn đến lớp vì hôm nay có bài kiểm tra quan trọng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ thành phần câu: trạng ngữ, chủ ngữ, vị ngữ và ví dụ mở rộng câu.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả dấu câu và thành phần câu vào đúng vị trí để sửa câu.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_023",
+"subjectKey": "literature",
+"learningObjectives": [
+"Hiểu liên kết giúp các câu trong đoạn văn gắn bó với nhau.",
+"Nhận biết một số phép liên kết như phép lặp, phép thế, phép nối, liên tưởng.",
+"Hiểu mạch lạc là sự sắp xếp ý theo trật tự hợp lí, cùng hướng vào chủ đề.",
+"Sửa được đoạn văn rời rạc, lặp từ vụng hoặc thiếu từ nối.",
+"Viết được đoạn văn có chủ đề rõ, câu văn liên kết và trình tự ý hợp lí."
+],
+"easyExplanation": "Một đoạn văn tốt không phải là vài câu đứng cạnh nhau như những hòn đá rời. Các câu cần nối với nhau bằng chủ đề, từ ngữ và trật tự ý. Phép lặp nhắc lại từ khóa để giữ chủ đề. Phép thế dùng từ khác thay cho từ đã nói trước, như 'Lan' thành 'bạn ấy'. Phép nối dùng từ như vì vậy, tuy nhiên, hơn nữa, trước hết, cuối cùng để chỉ quan hệ giữa các ý. Mạch lạc nghĩa là ý đi theo đường rõ ràng, không nhảy cóc. Đoạn văn có liên kết và mạch lạc sẽ dễ đọc như đi trên con đường có biển chỉ dẫn.",
+"workedExamples": [
+{
+"title": "Dùng phép thế để tránh lặp",
+"problem": "Sửa đoạn: 'Lan rất thích đọc sách. Lan thường đọc ở thư viện. Lan ghi lại câu hay vào sổ tay.'",
+"steps": [
+"Nhận ra từ 'Lan' bị lặp nhiều lần.",
+"Giữ lần đầu để xác định nhân vật.",
+"Thay các lần sau bằng 'bạn ấy' hoặc lược bớt nếu câu vẫn rõ.",
+"Đọc lại để đoạn tự nhiên hơn."
+],
+"answer": "Lan rất thích đọc sách. Bạn ấy thường đọc ở thư viện và ghi lại câu hay vào sổ tay.",
+"explanation": "Phép thế giúp đoạn văn bớt lặp từ mà vẫn giữ liên kết."
+},
+{
+"title": "Thêm từ nối",
+"problem": "Nối hai câu: 'Trời mưa rất to. Chúng em vẫn đến trường đúng giờ.'",
+"steps": [
+"Xác định quan hệ giữa hai câu: tương phản.",
+"Chọn từ nối phù hợp: tuy nhiên, dù vậy.",
+"Viết lại câu rõ quan hệ."
+],
+"answer": "Trời mưa rất to. Tuy nhiên, chúng em vẫn đến trường đúng giờ.",
+"explanation": "Từ nối 'Tuy nhiên' làm rõ quan hệ trái ngược giữa hai ý."
+}
+],
+"steps": [
+"Xác định chủ đề chính của đoạn văn.",
+"Gạch chân từ khóa được lặp lại hoặc thay thế.",
+"Kiểm tra các câu có cùng hướng vào chủ đề không.",
+"Thêm từ nối để làm rõ quan hệ nguyên nhân, kết quả, bổ sung, tương phản.",
+"Sắp xếp lại câu theo trình tự thời gian, không gian hoặc lập luận.",
+"Đọc lại đoạn để xem có câu nào lạc ý không."
+],
+"commonMistakes": [
+{
+"mistake": "Lặp một từ quá nhiều lần làm đoạn văn nặng nề.",
+"fix": "Dùng phép thế hoặc lược bớt từ nếu nghĩa vẫn rõ."
+},
+{
+"mistake": "Dùng từ nối không đúng quan hệ.",
+"fix": "Nguyên nhân dùng vì, do; kết quả dùng vì vậy; tương phản dùng tuy nhiên."
+},
+{
+"mistake": "Các câu trong đoạn nói nhiều chuyện khác nhau.",
+"fix": "Mỗi đoạn nên tập trung vào một chủ đề chính."
+}
+],
+"quickMemory": "Liên kết là dây nối câu. Mạch lạc là đường đi của ý. Đoạn văn tốt cần cả dây nối và đường đi rõ.",
+"warmupQuestions": [
+{
+"question": "Phép lặp là gì?",
+"suggestedAnswer": "Là nhắc lại từ ngữ quan trọng để giữ liên kết chủ đề."
+},
+{
+"question": "Từ 'tuy nhiên' thường chỉ quan hệ gì?",
+"suggestedAnswer": "Quan hệ tương phản."
+},
+{
+"question": "Mạch lạc trong đoạn văn nghĩa là gì?",
+"suggestedAnswer": "Các ý được sắp xếp hợp lí, cùng hướng vào chủ đề."
+}
+],
+"applicationQuestions": [
+{
+"question": "Sửa đoạn sau để bớt lặp từ: 'Cây phượng rất đẹp. Cây phượng nở hoa đỏ. Cây phượng làm sân trường rực rỡ.'",
+"hint": "Dùng phép thế hoặc gộp câu.",
+"suggestedAnswer": "Cây phượng rất đẹp. Khi nở hoa đỏ, nó làm sân trường trở nên rực rỡ."
+},
+{
+"question": "Viết đoạn 5 câu về việc đọc sách, có dùng ít nhất 2 từ nối.",
+"hint": "Có thể dùng trước hết, hơn nữa, vì vậy.",
+"suggestedAnswer": "Em thích đọc sách vào buổi tối. Trước hết, sách giúp em biết thêm nhiều câu chuyện và kiến thức mới. Hơn nữa, việc đọc giúp em tập trung tốt hơn sau một ngày học. Mỗi khi gặp câu hay, em ghi lại vào sổ tay. Vì vậy, em muốn duy trì thói quen đọc sách mỗi ngày."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ các phép liên kết: lặp, thế, nối, liên tưởng kèm ví dụ.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sửa đoạn văn rời rạc bằng cách thêm từ nối, phép thế và sắp xếp lại câu.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_024",
+"subjectKey": "literature",
+"learningObjectives": [
+"Hiểu mục đích của tóm tắt, diễn đạt lại và trích dẫn trong học tập.",
+"Biết tóm tắt văn bản bằng cách giữ ý chính, bỏ chi tiết phụ.",
+"Biết diễn đạt lại bằng lời của mình mà không làm sai ý gốc.",
+"Biết dùng trích dẫn ngắn khi cần giữ nguyên câu chữ quan trọng.",
+"Có ý thức tránh sao chép nguyên văn quá nhiều khi làm bài."
+],
+"easyExplanation": "Khi học Ngữ văn, em thường cần tóm tắt, diễn đạt lại hoặc trích dẫn. Tóm tắt là rút văn bản dài thành bản ngắn hơn, giữ ý chính. Diễn đạt lại là nói lại ý của người khác bằng lời của mình, không bê nguyên câu chữ. Trích dẫn là dùng nguyên văn một cụm từ hoặc câu ngắn khi câu chữ ấy quan trọng, sau đó cần phân tích hoặc giới thiệu rõ. Tránh sao chép không có nghĩa là không được học từ văn bản, mà là phải biết chọn lọc, hiểu ý và viết lại trung thực bằng lời của mình.",
+"workedExamples": [
+{
+"title": "Tóm tắt ý chính",
+"problem": "Một đoạn văn nói: học sinh nên đọc mỗi ngày vì đọc tăng vốn từ, rèn tập trung và mở rộng hiểu biết. Hãy tóm tắt một câu.",
+"steps": [
+"Xác định chủ đề: đọc mỗi ngày.",
+"Giữ ba lợi ích chính.",
+"Bỏ ví dụ phụ nếu có.",
+"Viết một câu ngắn gọn."
+],
+"answer": "Đoạn văn khuyên học sinh đọc mỗi ngày vì thói quen này giúp tăng vốn từ, rèn tập trung và mở rộng hiểu biết.",
+"explanation": "Tóm tắt cần giữ ý chính, không thêm ý mới."
+},
+{
+"title": "Diễn đạt lại",
+"problem": "Diễn đạt lại câu: 'Sách mở ra trước mắt ta những chân trời mới.'",
+"steps": [
+"Hiểu ý gốc: sách giúp con người biết thêm nhiều điều.",
+"Không chép nguyên hình ảnh 'chân trời mới'.",
+"Viết lại bằng lời khác nhưng giữ ý.",
+"Kiểm tra câu mới không làm sai nghĩa."
+],
+"answer": "Đọc sách giúp chúng ta mở rộng hiểu biết và khám phá nhiều điều mới mẻ.",
+"explanation": "Diễn đạt lại cần trung thành với ý gốc nhưng dùng cách nói của mình."
+}
+],
+"steps": [
+"Đọc kĩ văn bản để hiểu ý chính.",
+"Gạch chân từ khóa và câu chủ đề.",
+"Khi tóm tắt, giữ ý chính và bỏ chi tiết phụ.",
+"Khi diễn đạt lại, dùng từ ngữ và cấu trúc câu của mình.",
+"Khi trích dẫn, chỉ trích ngắn và đặt trong dấu ngoặc kép nếu cần.",
+"Sau trích dẫn, giải thích hoặc phân tích, không để trích dẫn đứng trơ trọi."
+],
+"commonMistakes": [
+{
+"mistake": "Tóm tắt nhưng chép gần nguyên văn cả đoạn.",
+"fix": "Cần rút gọn và viết bằng lời của mình."
+},
+{
+"mistake": "Diễn đạt lại làm sai ý gốc.",
+"fix": "Trước khi viết lại, phải hiểu đúng ý gốc."
+},
+{
+"mistake": "Trích dẫn quá dài hoặc không phân tích.",
+"fix": "Chỉ trích dẫn phần thật cần thiết và giải thích tác dụng."
+}
+],
+"quickMemory": "Tóm tắt là rút gọn. Diễn đạt lại là nói bằng lời mình. Trích dẫn là giữ nguyên câu chữ cần thiết, dùng ngắn và có phân tích.",
+"warmupQuestions": [
+{
+"question": "Tóm tắt khác chép lại ở điểm nào?",
+"suggestedAnswer": "Tóm tắt rút gọn ý chính bằng lời của mình, còn chép lại giữ nguyên nhiều câu chữ."
+},
+{
+"question": "Khi nào nên trích dẫn nguyên văn?",
+"suggestedAnswer": "Khi câu chữ ngắn, quan trọng, giàu ý nghĩa hoặc cần làm dẫn chứng chính xác."
+},
+{
+"question": "Diễn đạt lại cần giữ điều gì?",
+"suggestedAnswer": "Giữ đúng ý gốc nhưng dùng cách nói mới của mình."
+}
+],
+"applicationQuestions": [
+{
+"question": "Diễn đạt lại câu: 'Việc đọc đều đặn giúp học sinh tích lũy vốn từ từng ngày.'",
+"hint": "Giữ ý đọc thường xuyên giúp tăng vốn từ.",
+"suggestedAnswer": "Nếu đọc sách thường xuyên, học sinh sẽ dần có thêm nhiều từ ngữ để sử dụng."
+},
+{
+"question": "Tóm tắt 3 ý chính của một bài viết về giảm rác trong lớp.",
+"hint": "Giữ bình nước, hộp đựng đồ ăn, phân loại rác.",
+"suggestedAnswer": "Bài viết hướng dẫn học sinh giảm rác bằng cách mang bình nước cá nhân, dùng hộp đựng đồ ăn và phân loại giấy, nhựa đúng nơi."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bảng phân biệt tóm tắt, diễn đạt lại, trích dẫn: mục đích, cách làm, lỗi cần tránh.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn bản diễn đạt lại đúng, bản tóm tắt tốt và trích dẫn phù hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_025",
+"subjectKey": "literature",
+"learningObjectives": [
+"Hiểu đoạn văn cảm nhận sau đọc là đoạn trình bày cảm xúc, suy nghĩ về văn bản dựa trên chi tiết cụ thể.",
+"Biết chọn chi tiết, hình ảnh hoặc nhân vật làm điểm tựa cho cảm nhận.",
+"Viết được câu chủ đề nêu cảm nhận chính.",
+"Dùng được dẫn chứng ngắn để làm rõ cảm nhận.",
+"Kết đoạn bằng suy nghĩ, liên hệ hoặc đánh giá phù hợp."
+],
+"easyExplanation": "Đoạn văn cảm nhận sau đọc không phải là kể lại toàn bộ văn bản. Em cần chọn một chi tiết, hình ảnh, nhân vật hoặc thông điệp làm điểm tựa rồi nói em cảm nhận gì, vì sao cảm nhận như vậy. Một đoạn cơ bản có thể đi theo 4 bước: câu chủ đề nêu cảm nhận chính, dẫn chứng ngắn từ văn bản, phân tích cảm xúc/ý nghĩa, câu kết mở rộng suy nghĩ. Ví dụ khi cảm nhận hình ảnh bàn tay mẹ, em không kể cả bài thơ, mà tập trung vào các hành động vá áo, xếp sách, chạm nhẹ lên trán con để thấy tình mẹ âm thầm.",
+"workedExamples": [
+{
+"title": "Lập khung đoạn cảm nhận",
+"problem": "Muốn viết đoạn cảm nhận về chi tiết bát chè bà để phần, cần những ý nào?",
+"steps": [
+"Câu chủ đề: chi tiết bát chè gợi tình thương âm thầm của bà.",
+"Dẫn chứng: bà lặng lẽ để phần bát chè nhỏ cho cháu.",
+"Phân tích: hành động nhỏ thể hiện sự quan tâm, yêu thương.",
+"Câu kết: tình thân đôi khi nằm trong những điều giản dị."
+],
+"answer": "Khung đoạn gồm: cảm nhận chính, dẫn chứng bát chè, phân tích tình thương của bà, câu kết về vẻ đẹp của tình thân.",
+"explanation": "Có khung trước, viết đoạn sẽ không bị kể lan man."
+},
+{
+"title": "Viết câu chủ đề",
+"problem": "Viết một câu chủ đề cho đoạn cảm nhận hình ảnh dòng sông trong bài thơ sống xanh.",
+"steps": [
+"Xác định đối tượng cảm nhận: dòng sông.",
+"Xác định cảm nhận chính: dòng sông được nhân hóa, gợi thương yêu và ý thức bảo vệ môi trường.",
+"Viết một câu rõ ý.",
+"Tránh câu quá chung chung."
+],
+"answer": "Hình ảnh dòng sông được nhân hóa trong bài thơ đã gợi cho em niềm thương cảm với thiên nhiên và ý thức giữ gìn môi trường sống.",
+"explanation": "Câu chủ đề cần cho người đọc biết đoạn văn sẽ cảm nhận điều gì."
+}
+],
+"steps": [
+"Chọn một chi tiết, hình ảnh, nhân vật hoặc thông điệp em muốn cảm nhận.",
+"Viết câu chủ đề nêu cảm nhận chính.",
+"Đưa dẫn chứng ngắn, không chép quá dài.",
+"Phân tích dẫn chứng: chi tiết ấy gợi điều gì, hay ở đâu, làm em nghĩ gì.",
+"Kết đoạn bằng suy nghĩ hoặc liên hệ nhẹ.",
+"Đọc lại để kiểm tra đoạn có bị kể lại quá nhiều không."
+],
+"commonMistakes": [
+{
+"mistake": "Kể lại cả văn bản thay vì nêu cảm nhận.",
+"fix": "Chỉ chọn chi tiết tiêu biểu và tập trung phân tích cảm xúc, ý nghĩa."
+},
+{
+"mistake": "Cảm nhận chung chung, thiếu dẫn chứng.",
+"fix": "Cần có chi tiết cụ thể từ văn bản làm điểm tựa."
+},
+{
+"mistake": "Dẫn chứng quá dài làm đoạn nặng nề.",
+"fix": "Chọn dẫn chứng ngắn, sau đó dùng lời mình để phân tích."
+}
+],
+"quickMemory": "Đoạn cảm nhận sau đọc: cảm nhận chính → dẫn chứng → phân tích → suy nghĩ kết.",
+"warmupQuestions": [
+{
+"question": "Đoạn văn cảm nhận sau đọc có cần dẫn chứng không?",
+"suggestedAnswer": "Có. Dẫn chứng giúp cảm nhận có căn cứ."
+},
+{
+"question": "Câu chủ đề nên nêu điều gì?",
+"suggestedAnswer": "Nêu cảm nhận chính hoặc nhận xét chính của đoạn văn."
+},
+{
+"question": "Vì sao không nên kể lại toàn bộ văn bản trong đoạn cảm nhận?",
+"suggestedAnswer": "Vì mục đích chính là trình bày suy nghĩ, cảm xúc dựa trên chi tiết tiêu biểu."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 6 đến 8 câu cảm nhận hình ảnh bàn tay mẹ trong bài thơ.",
+"hint": "Có câu chủ đề, dẫn chứng ngắn, phân tích và câu kết.",
+"suggestedAnswer": "Hình ảnh bàn tay mẹ trong bài thơ để lại trong em nhiều xúc động. Bàn tay ấy vá áo, xếp sách và chạm nhẹ lên trán con trong đêm. Những hành động nhỏ bé cho thấy tình yêu thương âm thầm mà mẹ dành cho con. Bàn tay không chỉ là một hình ảnh cụ thể mà còn gợi cả sự hi sinh, chăm sóc và chở che. Qua hình ảnh ấy, em cảm nhận được tình mẹ dịu dàng nhưng bền bỉ. Bài thơ nhắc em biết quan tâm và biết ơn mẹ nhiều hơn."
+},
+{
+"question": "Lập dàn ý 4 bước cho đoạn cảm nhận chi tiết chiếc đèn trong truyện gia đình.",
+"hint": "Cảm nhận chính, dẫn chứng, phân tích, câu kết.",
+"suggestedAnswer": "Câu chủ đề: chiếc đèn là biểu tượng của chờ đợi và yêu thương. Dẫn chứng: chiếc đèn được thắp trong những đêm chờ người thân. Phân tích: ánh đèn gợi hơi ấm, niềm tin và sự quan tâm âm thầm. Câu kết: chi tiết nhỏ làm tình thân trong truyện trở nên sâu sắc."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Khung đoạn văn cảm nhận sau đọc gồm câu chủ đề, dẫn chứng, phân tích, câu kết.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp các câu thành đoạn cảm nhận đúng cấu trúc và sửa lỗi kể lan man.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

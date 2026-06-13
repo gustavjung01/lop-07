@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_info_011",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu bảng tính là công cụ dùng để nhập, sắp xếp, tính toán và trình bày dữ liệu dạng bảng.",
+"Nhận biết được ô, hàng, cột, địa chỉ ô và vùng dữ liệu.",
+"Biết nhập dữ liệu, chỉnh sửa dữ liệu và định dạng bảng tính cơ bản.",
+"Biết sử dụng một số phép tính đơn giản trong bảng tính.",
+"Biết đọc bảng dữ liệu để rút ra nhận xét phục vụ học tập."
+],
+"easyExplanation": "Bảng tính giống một cuốn sổ ô vuông thông minh. Mỗi ô có địa chỉ riêng, ví dụ A1 là ô ở cột A, hàng 1. Em có thể dùng bảng tính để ghi điểm, lập danh sách, tính tổng, tính trung bình, so sánh số liệu hoặc tạo biểu đồ. Điều quan trọng là nhập dữ liệu đúng ô, đặt tiêu đề rõ, định dạng bảng dễ đọc và kiểm tra công thức trước khi dùng kết quả.",
+"workedExamples": [
+{
+"title": "Xác định địa chỉ ô",
+"problem": "Ô nằm ở cột C, hàng 5 có địa chỉ là gì?",
+"steps": [
+"Địa chỉ ô được viết bằng tên cột trước.",
+"Sau đó viết số hàng.",
+"Cột là C, hàng là 5.",
+"Ghép lại thành C5."
+],
+"answer": "Địa chỉ ô là C5.",
+"explanation": "Địa chỉ ô giúp xác định chính xác vị trí dữ liệu trong bảng tính."
+},
+{
+"title": "Tính điểm trung bình",
+"problem": "Ba điểm Toán là 7, 8, 9. Điểm trung bình là bao nhiêu?",
+"steps": [
+"Cộng các điểm: 7 + 8 + 9 = 24.",
+"Có 3 điểm.",
+"Lấy 24 chia 3.",
+"Kết quả là 8."
+],
+"answer": "Điểm trung bình là 8.",
+"explanation": "Bảng tính có thể giúp tính toán nhanh nếu nhập đúng dữ liệu và công thức."
+}
+],
+"steps": [
+"Mở phần mềm bảng tính.",
+"Tạo tiêu đề cho các cột và hàng.",
+"Nhập dữ liệu đúng ô.",
+"Định dạng bảng cho dễ đọc: in đậm tiêu đề, căn lề, điều chỉnh độ rộng cột.",
+"Dùng công thức đơn giản để tính tổng hoặc trung bình.",
+"Kiểm tra lại dữ liệu và kết quả trước khi lưu."
+],
+"commonMistakes": [
+{
+"mistake": "Nhập dữ liệu lẫn lộn, không có tiêu đề cột.",
+"fix": "Luôn tạo tiêu đề rõ cho từng cột trước khi nhập dữ liệu."
+},
+{
+"mistake": "Nhầm địa chỉ ô khi viết công thức.",
+"fix": "Kiểm tra cột và hàng của ô trước khi dùng trong công thức."
+},
+{
+"mistake": "Chỉ trang trí bảng mà không kiểm tra số liệu.",
+"fix": "Bảng đẹp chưa đủ, dữ liệu và công thức phải đúng."
+}
+],
+"quickMemory": "Bảng tính = ô, hàng, cột, dữ liệu, công thức. Nhập đúng ô thì máy tính mới tính đúng.",
+"warmupQuestions": [
+{
+"question": "Ô A1 là ô ở vị trí nào?",
+"suggestedAnswer": "Cột A, hàng 1."
+},
+{
+"question": "Bảng tính dùng để làm gì?",
+"suggestedAnswer": "Dùng để nhập, sắp xếp, tính toán và trình bày dữ liệu dạng bảng."
+},
+{
+"question": "Vì sao cần đặt tiêu đề cột?",
+"suggestedAnswer": "Để biết mỗi cột chứa loại dữ liệu gì và tránh nhập nhầm."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập bảng theo dõi điểm 3 môn Toán, Văn, Tin học của 5 bạn trong lớp.",
+"hint": "Các cột nên có STT, Họ tên, Toán, Văn, Tin học, Trung bình.",
+"suggestedAnswer": "Tạo các cột: STT, Họ tên, Toán, Văn, Tin học, Trung bình. Nhập điểm từng bạn vào từng hàng, sau đó tính trung bình cho mỗi bạn."
+},
+{
+"question": "Nêu 4 thao tác cơ bản khi làm việc với bảng tính.",
+"hint": "Nhập dữ liệu, chỉnh sửa, định dạng, tính toán.",
+"suggestedAnswer": "Nhập dữ liệu, chỉnh sửa dữ liệu, định dạng bảng, dùng công thức để tính toán."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Minh họa bảng tính với ô, hàng, cột, địa chỉ ô và vùng dữ liệu.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn địa chỉ ô đúng, nhập dữ liệu vào bảng và tính tổng/trung bình đơn giản.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_012",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu mục đích của bài trình chiếu là hỗ trợ trình bày ý tưởng rõ ràng.",
+"Biết tạo trang chiếu có tiêu đề, nội dung chính và hình minh họa phù hợp.",
+"Biết dùng bố cục, màu sắc, cỡ chữ và hiệu ứng ở mức vừa phải.",
+"Tránh được lỗi nhồi quá nhiều chữ vào một trang chiếu.",
+"Biết chuẩn bị bài nói đi kèm với trình chiếu."
+],
+"easyExplanation": "Trình chiếu hiệu quả không phải là làm thật nhiều màu và hiệu ứng. Một bài trình chiếu tốt giúp người nghe hiểu nhanh ý chính. Mỗi trang chiếu nên có một ý chính, chữ đủ lớn, màu dễ nhìn, hình ảnh liên quan và bố cục gọn. Nội dung chiếu chỉ là phần hỗ trợ, còn người trình bày cần nói thêm bằng lời của mình. Nếu trang chiếu đầy chữ, người nghe sẽ đọc mệt và không còn chú ý đến người nói.",
+"workedExamples": [
+{
+"title": "Chọn nội dung cho một trang chiếu",
+"problem": "Trang chiếu về 'Lợi ích của Internet trong học tập' nên ghi những gì?",
+"steps": [
+"Xác định một ý chính cho trang chiếu.",
+"Chọn 3 đến 4 gạch đầu dòng ngắn.",
+"Thêm hình minh họa phù hợp nếu cần.",
+"Không chép nguyên đoạn văn dài."
+],
+"answer": "Có thể ghi: tìm tài liệu, học trực tuyến, trao đổi với thầy cô, lưu trữ bài học. Mỗi ý nên viết ngắn gọn.",
+"explanation": "Trang chiếu nên là bản đồ ý chính, không phải bài văn thu nhỏ."
+},
+{
+"title": "Dùng hiệu ứng hợp lí",
+"problem": "Có nên dùng nhiều hiệu ứng bay, xoay, nhấp nháy trên mỗi trang chiếu không?",
+"steps": [
+"Hiệu ứng giúp nhấn mạnh nếu dùng vừa phải.",
+"Quá nhiều hiệu ứng làm người xem mất tập trung.",
+"Bài học cần rõ ràng và dễ theo dõi.",
+"Chọn hiệu ứng đơn giản hoặc không dùng nếu không cần."
+],
+"answer": "Không nên. Chỉ dùng hiệu ứng đơn giản, vừa đủ và phục vụ nội dung.",
+"explanation": "Hiệu ứng là gia vị, không phải món chính."
+}
+],
+"steps": [
+"Xác định chủ đề và người nghe.",
+"Lập dàn ý trước khi tạo slide.",
+"Mỗi trang chiếu chỉ nên có một ý chính.",
+"Dùng chữ lớn, màu tương phản, hình ảnh phù hợp.",
+"Hạn chế hiệu ứng phức tạp.",
+"Tập nói theo slide, không đọc nguyên văn toàn bộ chữ trên màn hình."
+],
+"commonMistakes": [
+{
+"mistake": "Nhồi quá nhiều chữ vào một trang chiếu.",
+"fix": "Chỉ giữ từ khóa và ý chính, phần giải thích nói bằng lời."
+},
+{
+"mistake": "Dùng màu nền và màu chữ khó đọc.",
+"fix": "Chọn màu tương phản rõ, tránh nền quá rối."
+},
+{
+"mistake": "Đọc nguyên văn slide khi thuyết trình.",
+"fix": "Slide chỉ hỗ trợ, người nói cần giải thích bằng lời của mình."
+}
+],
+"quickMemory": "Slide tốt: ít chữ, ý rõ, hình đúng, màu dễ nhìn, hiệu ứng vừa đủ, người nói mới là trung tâm.",
+"warmupQuestions": [
+{
+"question": "Một trang chiếu nên có bao nhiêu ý chính?",
+"suggestedAnswer": "Nên có một ý chính để người xem dễ theo dõi."
+},
+{
+"question": "Vì sao không nên cho quá nhiều chữ lên slide?",
+"suggestedAnswer": "Vì người xem khó đọc, dễ mất tập trung và bài trình bày nặng nề."
+},
+{
+"question": "Hiệu ứng trong slide nên dùng thế nào?",
+"suggestedAnswer": "Dùng vừa phải, đơn giản và phục vụ nội dung."
+}
+],
+"applicationQuestions": [
+{
+"question": "Thiết kế bố cục 4 slide cho chủ đề 'An toàn trên Internet'.",
+"hint": "Có mở đầu, nguy cơ, quy tắc an toàn, kết luận.",
+"suggestedAnswer": "Slide 1: Tiêu đề và tên nhóm. Slide 2: Các nguy cơ như lừa đảo, tin giả, lộ dữ liệu. Slide 3: Quy tắc an toàn: mật khẩu mạnh, không bấm link lạ, kiểm tra nguồn. Slide 4: Kết luận và lời nhắc."
+},
+{
+"question": "Nêu 5 tiêu chí của một bài trình chiếu tốt.",
+"hint": "Ý rõ, chữ dễ đọc, hình phù hợp, màu hài hòa, không lạm dụng hiệu ứng.",
+"suggestedAnswer": "Nội dung rõ, chữ đủ lớn, bố cục gọn, hình ảnh phù hợp, màu dễ nhìn và hiệu ứng vừa phải."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "So sánh một slide rối và một slide tốt: ít chữ, bố cục rõ, hình ảnh phù hợp.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sửa trang chiếu nhiều chữ thành trang chiếu gọn, chọn màu và bố cục dễ đọc.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_013",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu lợi ích của làm việc nhóm trên tài liệu số.",
+"Biết chia sẻ tài liệu với quyền xem, nhận xét hoặc chỉnh sửa phù hợp.",
+"Biết đặt tên tệp, phân công nhiệm vụ và theo dõi thay đổi khi làm nhóm.",
+"Nhận biết được quy tắc ứng xử khi chỉnh sửa tài liệu chung.",
+"Biết tránh làm mất dữ liệu hoặc xóa nhầm nội dung của bạn."
+],
+"easyExplanation": "Làm việc nhóm trên tài liệu số giúp nhiều người cùng viết, sửa, góp ý và hoàn thiện sản phẩm mà không cần gửi qua gửi lại nhiều phiên bản rối rắm. Ví dụ, cả nhóm có thể cùng làm một báo cáo trong Google Docs hoặc một bài trình chiếu chung. Tuy nhiên, làm chung cần có kỉ luật: phân công rõ ai làm phần nào, đặt tên tệp rõ, không xóa phần của bạn khi chưa trao đổi, dùng bình luận để góp ý và cấp quyền phù hợp. Tài liệu chung giống một bàn học lớn, ai cũng được đặt vở lên, nhưng không ai được làm đổ mực vào vở người khác.",
+"workedExamples": [
+{
+"title": "Chọn quyền chia sẻ",
+"problem": "Nếu muốn bạn chỉ đọc tài liệu mà không sửa, nên cấp quyền gì?",
+"steps": [
+"Xác định mục đích: bạn chỉ đọc.",
+"Không cần quyền chỉnh sửa.",
+"Chọn quyền xem.",
+"Kiểm tra lại trước khi gửi liên kết."
+],
+"answer": "Nên cấp quyền xem.",
+"explanation": "Cấp quyền đúng giúp bảo vệ nội dung tài liệu."
+},
+{
+"title": "Góp ý văn minh",
+"problem": "Em thấy phần của bạn còn sai. Nên xóa luôn hay dùng nhận xét?",
+"steps": [
+"Tài liệu là sản phẩm chung.",
+"Xóa nội dung của bạn có thể gây mất dữ liệu và mất lịch sự.",
+"Nên dùng bình luận hoặc trao đổi trong nhóm.",
+"Chỉ sửa trực tiếp khi nhóm đã thống nhất."
+],
+"answer": "Nên dùng nhận xét hoặc trao đổi với bạn trước khi sửa/xóa.",
+"explanation": "Cộng tác số cần tôn trọng công sức của người khác."
+}
+],
+"steps": [
+"Tạo tài liệu chung và đặt tên rõ.",
+"Phân công nhiệm vụ cho từng thành viên.",
+"Chia sẻ tài liệu với quyền phù hợp.",
+"Dùng bình luận để góp ý thay vì xóa vội nội dung của bạn.",
+"Theo dõi thay đổi và kiểm tra phiên bản nếu có lỗi.",
+"Thống nhất người rà soát cuối trước khi nộp."
+],
+"commonMistakes": [
+{
+"mistake": "Gửi quyền chỉnh sửa cho mọi người dù chỉ cần xem.",
+"fix": "Cấp quyền theo nhu cầu: xem, nhận xét hoặc chỉnh sửa."
+},
+{
+"mistake": "Nhiều bạn sửa cùng một phần gây trùng lặp.",
+"fix": "Phân công rõ phần việc trước khi làm."
+},
+{
+"mistake": "Xóa nội dung của bạn mà không hỏi.",
+"fix": "Dùng bình luận hoặc trao đổi trước khi thay đổi lớn."
+}
+],
+"quickMemory": "Làm nhóm trên tài liệu số: phân công rõ, quyền chia sẻ đúng, góp ý lịch sự, kiểm tra phiên bản, nộp bản cuối.",
+"warmupQuestions": [
+{
+"question": "Ba quyền chia sẻ tài liệu thường gặp là gì?",
+"suggestedAnswer": "Xem, nhận xét, chỉnh sửa."
+},
+{
+"question": "Vì sao cần phân công nhiệm vụ khi làm tài liệu nhóm?",
+"suggestedAnswer": "Để tránh trùng việc, bỏ sót việc và dễ kiểm tra trách nhiệm."
+},
+{
+"question": "Khi muốn góp ý phần của bạn, nên dùng công cụ gì?",
+"suggestedAnswer": "Dùng bình luận/nhận xét hoặc trao đổi trong nhóm."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập kế hoạch nhóm 4 người làm bài trình chiếu về thiết bị số.",
+"hint": "Phân công nội dung, hình ảnh, thiết kế, kiểm tra cuối.",
+"suggestedAnswer": "Bạn 1 tìm nội dung về thiết bị vào/ra. Bạn 2 tìm nội dung về lưu trữ dữ liệu. Bạn 3 chuẩn bị hình ảnh và bố cục slide. Bạn 4 rà soát chính tả, nguồn ảnh và trình bày thử."
+},
+{
+"question": "Nêu 5 quy tắc khi làm việc nhóm trên tài liệu số.",
+"hint": "Không xóa bừa, đặt tên rõ, phân công, quyền chia sẻ, bình luận lịch sự.",
+"suggestedAnswer": "Đặt tên tệp rõ ràng. Phân công phần việc. Cấp quyền chia sẻ phù hợp. Không xóa phần của bạn khi chưa trao đổi. Góp ý lịch sự bằng bình luận."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ quy trình làm việc nhóm trên tài liệu số: tạo tệp, phân quyền, phân công, góp ý, rà soát, nộp.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn quyền chia sẻ phù hợp và xử lí tình huống cộng tác trên tài liệu chung.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_014",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu thuật toán là dãy các bước rõ ràng để giải quyết một bài toán hoặc thực hiện một việc.",
+"Biết mô tả thuật toán bằng lời, bảng hoặc sơ đồ khối đơn giản.",
+"Nhận biết được đầu vào, đầu ra và các bước xử lí trong thuật toán.",
+"Phân biệt được thuật toán rõ ràng và hướng dẫn mơ hồ.",
+"Biết kiểm tra thuật toán bằng một ví dụ cụ thể."
+],
+"easyExplanation": "Thuật toán là một kế hoạch gồm các bước rõ ràng, có thứ tự, để giải quyết một việc. Ví dụ pha một cốc nước chanh cũng có thuật toán: chuẩn bị cốc, cho nước, cho đường, khuấy, thêm chanh, nếm và điều chỉnh. Trong Tin học, thuật toán giúp máy tính hoặc con người thực hiện công việc chính xác. Một thuật toán tốt cần có đầu vào, đầu ra, các bước không mơ hồ và có thể thực hiện được. Nếu hướng dẫn kiểu 'làm cho đẹp' hoặc 'sắp xếp cho hợp lí' mà không nói rõ làm thế nào, đó chưa phải mô tả thuật toán tốt.",
+"workedExamples": [
+{
+"title": "Nhận biết thuật toán",
+"problem": "Hướng dẫn 'Hãy làm bài tập thật tốt' có phải thuật toán không?",
+"steps": [
+"Thuật toán cần các bước cụ thể.",
+"Câu này chỉ nêu mục tiêu chung.",
+"Không nói rõ làm bước nào trước, bước nào sau.",
+"Kết luận chưa phải thuật toán."
+],
+"answer": "Không. Đây chỉ là lời khuyên, chưa phải thuật toán vì không có các bước rõ ràng.",
+"explanation": "Thuật toán phải đủ rõ để người khác làm theo được."
+},
+{
+"title": "Đầu vào và đầu ra",
+"problem": "Với bài toán tính trung bình cộng của hai số a và b, đầu vào và đầu ra là gì?",
+"steps": [
+"Đầu vào là dữ liệu cần có trước khi xử lí.",
+"Ở đây cần hai số a và b.",
+"Đầu ra là kết quả cần tìm.",
+"Kết quả là trung bình cộng của a và b."
+],
+"answer": "Đầu vào là hai số a và b. Đầu ra là trung bình cộng của hai số đó.",
+"explanation": "Xác định đầu vào và đầu ra giúp thuật toán không đi lạc."
+}
+],
+"steps": [
+"Xác định bài toán hoặc công việc cần giải quyết.",
+"Xác định đầu vào.",
+"Xác định đầu ra.",
+"Liệt kê các bước xử lí theo thứ tự.",
+"Kiểm tra xem mỗi bước có rõ ràng, thực hiện được không.",
+"Thử thuật toán với một ví dụ cụ thể."
+],
+"commonMistakes": [
+{
+"mistake": "Viết thuật toán bằng câu quá chung chung.",
+"fix": "Mỗi bước cần nói rõ hành động cụ thể."
+},
+{
+"mistake": "Quên xác định đầu vào và đầu ra.",
+"fix": "Trước khi viết bước xử lí, luôn hỏi: có gì ban đầu và cần kết quả gì?"
+},
+{
+"mistake": "Các bước không đúng thứ tự.",
+"fix": "Đọc lại từng bước từ đầu đến cuối và thử bằng ví dụ."
+}
+],
+"quickMemory": "Thuật toán = đầu vào + các bước rõ ràng + đầu ra. Không rõ bước thì máy tính cũng sẽ lạc đường.",
+"warmupQuestions": [
+{
+"question": "Thuật toán là gì?",
+"suggestedAnswer": "Là dãy các bước rõ ràng, có thứ tự để giải quyết một bài toán hoặc thực hiện một việc."
+},
+{
+"question": "Đầu vào là gì?",
+"suggestedAnswer": "Là dữ liệu ban đầu cần có để thực hiện thuật toán."
+},
+{
+"question": "Đầu ra là gì?",
+"suggestedAnswer": "Là kết quả cần nhận được sau khi thực hiện thuật toán."
+}
+],
+"applicationQuestions": [
+{
+"question": "Mô tả thuật toán tính chu vi hình chữ nhật khi biết chiều dài và chiều rộng.",
+"hint": "Đầu vào là chiều dài, chiều rộng. Đầu ra là chu vi.",
+"suggestedAnswer": "Bước 1: Nhập chiều dài a và chiều rộng b. Bước 2: Tính P = (a + b) x 2. Bước 3: Thông báo P là chu vi hình chữ nhật."
+},
+{
+"question": "Nêu đầu vào, xử lí, đầu ra của việc tìm kiếm thông tin trên Internet.",
+"hint": "Đầu vào là câu hỏi hoặc từ khóa.",
+"suggestedAnswer": "Đầu vào: câu hỏi hoặc từ khóa. Xử lí: nhập từ khóa, xem kết quả, chọn nguồn đáng tin. Đầu ra: thông tin phù hợp với nhu cầu tìm kiếm."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ thuật toán gồm đầu vào, xử lí, đầu ra và ví dụ tính chu vi hình chữ nhật.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp các bước thuật toán và xác định đầu vào, đầu ra cho tình huống đơn giản.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_015",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu cấu trúc tuần tự là cách thực hiện các bước theo đúng thứ tự từ trên xuống dưới.",
+"Biết nhận diện thuật toán có cấu trúc tuần tự trong đời sống và học tập.",
+"Biết viết thuật toán tuần tự bằng lời hoặc sơ đồ đơn giản.",
+"Hiểu nếu đổi sai thứ tự bước, kết quả có thể sai hoặc không thực hiện được.",
+"Thực hành kiểm tra thuật toán tuần tự bằng ví dụ cụ thể."
+],
+"easyExplanation": "Cấu trúc tuần tự là dạng thuật toán đơn giản nhất: bước 1 xong rồi đến bước 2, bước 2 xong rồi đến bước 3, cứ thế đến kết quả. Ví dụ đánh răng có trình tự: lấy bàn chải, cho kem, chải răng, súc miệng, rửa bàn chải. Nếu súc miệng trước rồi mới cho kem đánh răng thì trình tự bị sai. Trong máy tính, nhiều thao tác cũng cần tuần tự: nhập dữ liệu, tính toán, hiển thị kết quả. Cấu trúc tuần tự giúp công việc rõ ràng và ít nhầm lẫn.",
+"workedExamples": [
+{
+"title": "Thuật toán tuần tự tính diện tích hình chữ nhật",
+"problem": "Mô tả thuật toán tính diện tích hình chữ nhật với chiều dài a và chiều rộng b.",
+"steps": [
+"Bước đầu tiên cần nhập a và b.",
+"Sau đó tính diện tích S = a x b.",
+"Cuối cùng thông báo kết quả S.",
+"Các bước thực hiện theo đúng thứ tự."
+],
+"answer": "Bước 1: Nhập a, b. Bước 2: Tính S = a x b. Bước 3: Thông báo S.",
+"explanation": "Đây là thuật toán tuần tự vì các bước chạy lần lượt từ trên xuống dưới."
+},
+{
+"title": "Vì sao thứ tự quan trọng?",
+"problem": "Trong thuật toán pha nước chanh, có nên uống trước khi khuấy đường và chanh không?",
+"steps": [
+"Mục tiêu là có cốc nước chanh hoàn chỉnh.",
+"Cần cho nguyên liệu và khuấy trước.",
+"Nếu uống trước, sản phẩm chưa hoàn thành.",
+"Thứ tự bước bị sai."
+],
+"answer": "Không nên. Cần làm theo đúng thứ tự thì mới có kết quả mong muốn.",
+"explanation": "Thuật toán tuần tự phụ thuộc rất nhiều vào thứ tự hành động."
+}
+],
+"steps": [
+"Xác định việc cần làm.",
+"Liệt kê các bước theo thứ tự tự nhiên.",
+"Kiểm tra bước nào phải làm trước, bước nào làm sau.",
+"Viết thuật toán bằng câu ngắn, mỗi câu một hành động.",
+"Thử đổi thứ tự để xem có gây lỗi không.",
+"Chạy thử bằng ví dụ cụ thể."
+],
+"commonMistakes": [
+{
+"mistake": "Bỏ sót bước nhập dữ liệu ban đầu.",
+"fix": "Hầu hết bài toán tính toán cần nhập hoặc có dữ liệu trước khi xử lí."
+},
+{
+"mistake": "Đặt bước hiển thị kết quả trước bước tính toán.",
+"fix": "Phải tính ra kết quả trước rồi mới hiển thị."
+},
+{
+"mistake": "Viết nhiều hành động trong một bước quá dài.",
+"fix": "Tách thành các bước ngắn, rõ, dễ kiểm tra."
+}
+],
+"quickMemory": "Tuần tự nghĩa là làm lần lượt. Bước trước đúng thì bước sau mới có đất diễn.",
+"warmupQuestions": [
+{
+"question": "Cấu trúc tuần tự là gì?",
+"suggestedAnswer": "Là cấu trúc thực hiện các bước lần lượt theo thứ tự đã viết."
+},
+{
+"question": "Vì sao thứ tự bước trong thuật toán quan trọng?",
+"suggestedAnswer": "Vì đổi sai thứ tự có thể làm kết quả sai hoặc công việc không thực hiện được."
+},
+{
+"question": "Thuật toán tính tổng hai số có những bước cơ bản nào?",
+"suggestedAnswer": "Nhập hai số, tính tổng, thông báo kết quả."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết thuật toán tuần tự tính tổng hai số a và b.",
+"hint": "Nhập, tính, thông báo.",
+"suggestedAnswer": "Bước 1: Nhập hai số a và b. Bước 2: Tính T = a + b. Bước 3: Thông báo T."
+},
+{
+"question": "Sắp xếp các bước sau cho đúng: thông báo điểm trung bình, nhập điểm Toán và Văn, tính trung bình.",
+"hint": "Phải có dữ liệu trước khi tính.",
+"suggestedAnswer": "Nhập điểm Toán và Văn → tính trung bình → thông báo điểm trung bình."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ cấu trúc tuần tự với ví dụ nhập dữ liệu, tính toán, xuất kết quả.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo thả các bước thuật toán tuần tự vào đúng thứ tự.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

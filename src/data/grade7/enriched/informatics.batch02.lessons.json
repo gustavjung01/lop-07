@@ -1,0 +1,537 @@
+[
+{
+"lessonId": "g7_info_006",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu thư điện tử là công cụ giao tiếp trực tuyến phổ biến.",
+"Biết cấu trúc cơ bản của một email: người nhận, tiêu đề, nội dung, tệp đính kèm.",
+"Biết viết email học tập lịch sự, rõ ràng, đúng mục đích.",
+"Nhận biết một số quy tắc giao tiếp trực tuyến văn minh.",
+"Tránh được các lỗi phổ biến khi gửi email hoặc nhắn tin trực tuyến."
+],
+"easyExplanation": "Thư điện tử, hay email, giúp gửi thông tin qua Internet nhanh chóng. Một email thường có địa chỉ người nhận, tiêu đề, nội dung, lời chào, lời kết và có thể có tệp đính kèm. Khi gửi email cho thầy cô hoặc bạn bè để học tập, em cần viết rõ chủ đề, dùng lời lẽ lịch sự, không viết toàn chữ in hoa, không gửi tệp lạ và kiểm tra người nhận trước khi bấm gửi. Giao tiếp trực tuyến cũng cần tôn trọng người khác như giao tiếp ngoài đời.",
+"workedExamples": [
+{
+"title": "Viết tiêu đề email rõ ràng",
+"problem": "Tiêu đề nào tốt hơn: 'Cô ơi' hay 'Nộp bài thuyết trình Tin học nhóm 2'?",
+"steps": [
+"Tiêu đề 'Cô ơi' quá chung, không nói rõ việc gì.",
+"Tiêu đề thứ hai nêu rõ nội dung email.",
+"Người nhận dễ nhận biết và xử lí hơn.",
+"Chọn tiêu đề cụ thể."
+],
+"answer": "Tiêu đề 'Nộp bài thuyết trình Tin học nhóm 2' tốt hơn.",
+"explanation": "Tiêu đề email giống nhãn trên phong bì, càng rõ càng dễ xử lí."
+},
+{
+"title": "Kiểm tra trước khi gửi",
+"problem": "Trước khi gửi email có tệp bài tập, em cần kiểm tra những gì?",
+"steps": [
+"Kiểm tra đúng địa chỉ người nhận.",
+"Kiểm tra tiêu đề rõ ràng.",
+"Kiểm tra nội dung có lời chào, nội dung chính và lời kết.",
+"Kiểm tra đã đính kèm đúng tệp chưa."
+],
+"answer": "Cần kiểm tra người nhận, tiêu đề, nội dung email và tệp đính kèm.",
+"explanation": "Nhiều lỗi email xảy ra vì gửi nhầm người hoặc quên tệp đính kèm."
+}
+],
+"steps": [
+"Xác định mục đích gửi email.",
+"Điền đúng địa chỉ người nhận.",
+"Viết tiêu đề ngắn và rõ nội dung.",
+"Mở đầu bằng lời chào phù hợp.",
+"Viết nội dung chính ngắn gọn, lịch sự.",
+"Đính kèm đúng tệp nếu cần và kiểm tra lại trước khi gửi."
+],
+"commonMistakes": [
+{
+"mistake": "Không viết tiêu đề hoặc tiêu đề quá chung chung.",
+"fix": "Tiêu đề nên nêu rõ việc cần làm, ví dụ: 'Xin phép nộp lại bài Tin học'."
+},
+{
+"mistake": "Quên đính kèm tệp bài tập.",
+"fix": "Trước khi gửi, kiểm tra dòng tệp đính kèm."
+},
+{
+"mistake": "Dùng lời lẽ thiếu lịch sự trong giao tiếp trực tuyến.",
+"fix": "Viết như khi nói chuyện trực tiếp với sự tôn trọng, rõ ràng và có trách nhiệm."
+}
+],
+"quickMemory": "Email học tập tốt: đúng người nhận, tiêu đề rõ, nội dung lịch sự, tệp đính kèm đúng, kiểm tra rồi mới gửi.",
+"warmupQuestions": [
+{
+"question": "Email dùng để làm gì?",
+"suggestedAnswer": "Dùng để gửi và nhận thông tin qua Internet."
+},
+{
+"question": "Vì sao cần tiêu đề email rõ ràng?",
+"suggestedAnswer": "Để người nhận biết nội dung chính và xử lí email dễ hơn."
+},
+{
+"question": "Một email lịch sự nên có những phần nào?",
+"suggestedAnswer": "Lời chào, nội dung chính, lời cảm ơn hoặc lời kết."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết một email ngắn gửi cô giáo để nộp bài thuyết trình Tin học.",
+"hint": "Có tiêu đề, lời chào, nội dung, lời cảm ơn.",
+"suggestedAnswer": "Tiêu đề: Nộp bài thuyết trình Tin học nhóm 2. Nội dung: Em chào cô ạ. Em gửi cô bài thuyết trình Tin học của nhóm 2. Cô xem giúp nhóm em ạ. Em cảm ơn cô."
+},
+{
+"question": "Nêu 4 quy tắc giao tiếp trực tuyến văn minh.",
+"hint": "Lịch sự, không xúc phạm, không spam, kiểm tra trước khi gửi.",
+"suggestedAnswer": "Dùng lời lẽ lịch sự. Không xúc phạm hoặc chế giễu người khác. Không gửi tin nhắn rác. Kiểm tra nội dung và người nhận trước khi gửi."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu email học tập có người nhận, tiêu đề, lời chào, nội dung, tệp đính kèm, lời kết.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sửa email thiếu tiêu đề, thiếu lời chào, quên tệp đính kèm và chọn cách giao tiếp trực tuyến đúng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_007",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu vai trò của mật khẩu trong bảo vệ tài khoản.",
+"Biết đặc điểm của mật khẩu mạnh và mật khẩu yếu.",
+"Biết một số cách bảo vệ tài khoản: không chia sẻ mật khẩu, bật xác thực hai bước nếu có, đăng xuất khi dùng máy chung.",
+"Nhận biết được nguy cơ mất tài khoản khi dùng mật khẩu yếu hoặc nhập mật khẩu ở trang giả mạo.",
+"Hình thành thói quen quản lí tài khoản an toàn."
+],
+"easyExplanation": "Mật khẩu giống chiếc chìa khóa vào tài khoản số của em. Nếu mật khẩu quá dễ đoán như '123456', ngày sinh, tên mình hoặc tên lớp, người khác có thể đoán được. Mật khẩu mạnh nên đủ dài, có chữ hoa, chữ thường, số, kí hiệu và không dùng thông tin cá nhân dễ đoán. Không nên dùng chung một mật khẩu cho mọi tài khoản. Tuyệt đối không gửi mật khẩu qua tin nhắn, không nhập mật khẩu vào trang web lạ và nên đăng xuất khi dùng máy tính công cộng.",
+"workedExamples": [
+{
+"title": "Nhận biết mật khẩu yếu",
+"problem": "Mật khẩu 'minh2009' có yếu không? Vì sao?",
+"steps": [
+"Mật khẩu có tên riêng và năm sinh hoặc số dễ đoán.",
+"Không có kí hiệu đặc biệt.",
+"Nếu người khác biết thông tin cá nhân, họ có thể đoán được.",
+"Kết luận đây là mật khẩu yếu."
+],
+"answer": "Đây là mật khẩu yếu vì có thông tin cá nhân dễ đoán và cấu trúc đơn giản.",
+"explanation": "Mật khẩu càng gắn với thông tin cá nhân càng dễ bị đoán."
+},
+{
+"title": "Bảo vệ tài khoản trên máy dùng chung",
+"problem": "Sau khi đăng nhập email ở máy tính thư viện, em cần làm gì?",
+"steps": [
+"Không lưu mật khẩu trên trình duyệt.",
+"Đăng xuất tài khoản sau khi dùng.",
+"Đóng trình duyệt nếu cần.",
+"Không để tệp cá nhân lại trên máy chung."
+],
+"answer": "Cần đăng xuất tài khoản, không lưu mật khẩu và kiểm tra không để dữ liệu cá nhân trên máy.",
+"explanation": "Máy dùng chung là nơi dễ bị lộ tài khoản nếu bất cẩn."
+}
+],
+"steps": [
+"Tạo mật khẩu đủ dài và khó đoán.",
+"Không dùng tên, ngày sinh, số điện thoại hoặc tên lớp làm mật khẩu.",
+"Không dùng lại một mật khẩu cho nhiều tài khoản quan trọng.",
+"Không chia sẻ mật khẩu với người khác.",
+"Kiểm tra địa chỉ trang web trước khi nhập mật khẩu.",
+"Đăng xuất khi dùng thiết bị chung."
+],
+"commonMistakes": [
+{
+"mistake": "Dùng mật khẩu rất dễ đoán như 123456 hoặc ngày sinh.",
+"fix": "Tạo mật khẩu dài, có nhiều loại kí tự và không gắn với thông tin cá nhân."
+},
+{
+"mistake": "Gửi mật khẩu cho bạn để nhờ đăng nhập hộ.",
+"fix": "Không chia sẻ mật khẩu, kể cả với bạn thân."
+},
+{
+"mistake": "Quên đăng xuất khi dùng máy tính chung.",
+"fix": "Luôn đăng xuất và không lưu mật khẩu trên thiết bị lạ."
+}
+],
+"quickMemory": "Mật khẩu là chìa khóa tài khoản. Mạnh, riêng, kín, không nhập ở trang lạ, luôn đăng xuất máy chung.",
+"warmupQuestions": [
+{
+"question": "Mật khẩu mạnh nên có đặc điểm gì?",
+"suggestedAnswer": "Đủ dài, khó đoán, có chữ hoa, chữ thường, số, kí hiệu và không dùng thông tin cá nhân."
+},
+{
+"question": "Có nên dùng ngày sinh làm mật khẩu không?",
+"suggestedAnswer": "Không nên vì rất dễ bị đoán."
+},
+{
+"question": "Khi dùng máy tính công cộng, sau khi đăng nhập cần làm gì?",
+"suggestedAnswer": "Đăng xuất tài khoản và không lưu mật khẩu."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nêu 5 quy tắc bảo vệ tài khoản.",
+"hint": "Mật khẩu mạnh, không chia sẻ, không trang lạ, đăng xuất, xác thực hai bước.",
+"suggestedAnswer": "Dùng mật khẩu mạnh. Không chia sẻ mật khẩu. Không nhập mật khẩu ở trang đáng ngờ. Đăng xuất khi dùng máy chung. Bật xác thực hai bước nếu tài khoản hỗ trợ."
+},
+{
+"question": "So sánh hai mật khẩu: '12345678' và 'HoaNang!72x'. Mật khẩu nào an toàn hơn?",
+"hint": "Xem độ dài, loại kí tự, độ dễ đoán.",
+"suggestedAnswer": "'HoaNang!72x' an toàn hơn vì có chữ hoa, chữ thường, số, kí hiệu và khó đoán hơn '12345678'."
+}
+],
+"mediaHints": [
+{
+"type": "interactive",
+"description": "Chọn mật khẩu mạnh/yếu và sửa mật khẩu yếu thành mật khẩu mạnh hơn.",
+"priority": "high"
+},
+{
+"type": "diagram",
+"description": "Checklist bảo vệ tài khoản: mật khẩu mạnh, không chia sẻ, xác thực hai bước, đăng xuất máy chung.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_008",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Nhận biết được một số dấu hiệu của lừa đảo trực tuyến.",
+"Hiểu tin giả là thông tin sai lệch hoặc gây hiểu nhầm được lan truyền trên mạng.",
+"Biết kiểm tra nguồn, nội dung, thời gian và mục đích của thông tin.",
+"Tránh bấm liên kết lạ, tải tệp không rõ nguồn hoặc cung cấp mã xác nhận cho người khác.",
+"Biết cách xử lí khi nghi ngờ gặp lừa đảo hoặc tin giả."
+],
+"easyExplanation": "Lừa đảo trực tuyến thường giả làm người quen, ngân hàng, trường học, trò chơi, quà tặng hoặc trang đăng nhập để lấy thông tin cá nhân, mật khẩu, mã xác nhận hoặc tiền. Tin giả là thông tin sai, chưa kiểm chứng hoặc bị bóp méo nhưng được chia sẻ như thật. Dấu hiệu cần cảnh giác gồm: yêu cầu gấp, hứa quà quá hấp dẫn, liên kết lạ, lỗi chính tả nhiều, yêu cầu nhập mật khẩu/mã OTP, tài khoản gửi tin có dấu hiệu bất thường. Khi nghi ngờ, đừng bấm vội, hãy dừng lại, kiểm tra nguồn và hỏi người lớn.",
+"workedExamples": [
+{
+"title": "Nhận biết lừa đảo",
+"problem": "Một tin nhắn báo em trúng điện thoại và yêu cầu nhập mật khẩu email để nhận quà. Em nên làm gì?",
+"steps": [
+"Quà tặng quá hấp dẫn là dấu hiệu đáng ngờ.",
+"Yêu cầu mật khẩu email là nguy hiểm.",
+"Không bấm liên kết hoặc nhập thông tin.",
+"Báo cho người lớn hoặc thầy cô."
+],
+"answer": "Không nhập mật khẩu, không bấm liên kết và báo cho người lớn hoặc thầy cô.",
+"explanation": "Không có món quà nào đáng để đổi lấy mật khẩu của mình."
+},
+{
+"title": "Kiểm tra tin giả",
+"problem": "Một bài đăng gây sốc nhưng không ghi nguồn, em có nên chia sẻ ngay không?",
+"steps": [
+"Thông tin gây sốc dễ khiến người đọc chia sẻ vội.",
+"Không có nguồn rõ ràng là dấu hiệu thiếu tin cậy.",
+"Cần kiểm tra ở nguồn chính thống hoặc nhiều nguồn khác.",
+"Không chia sẻ khi chưa chắc đúng."
+],
+"answer": "Không nên chia sẻ ngay. Cần kiểm tra nguồn và đối chiếu thông tin trước.",
+"explanation": "Chia sẻ tin chưa kiểm chứng có thể vô tình làm tin giả lan xa."
+}
+],
+"steps": [
+"Dừng lại khi thấy tin nhắn gấp, quà tặng lạ hoặc yêu cầu thông tin cá nhân.",
+"Kiểm tra người gửi và địa chỉ liên kết.",
+"Không nhập mật khẩu, mã xác nhận hoặc thông tin cá nhân vào trang lạ.",
+"Kiểm tra tin tức ở nguồn đáng tin.",
+"Không chia sẻ thông tin chưa kiểm chứng.",
+"Báo người lớn, thầy cô hoặc quản trị viên khi gặp dấu hiệu lừa đảo."
+],
+"commonMistakes": [
+{
+"mistake": "Tin vào quà tặng miễn phí quá hấp dẫn.",
+"fix": "Hãy nghi ngờ các lời hứa trúng thưởng, nhận quà hoặc kiếm tiền quá dễ."
+},
+{
+"mistake": "Chia sẻ tin gây sốc mà chưa kiểm tra.",
+"fix": "Kiểm tra nguồn, ngày đăng và đối chiếu với nguồn đáng tin trước khi chia sẻ."
+},
+{
+"mistake": "Gửi mã xác nhận cho người khác.",
+"fix": "Không cung cấp mã OTP/mã xác nhận cho bất kì ai."
+}
+],
+"quickMemory": "Gặp tin lạ: dừng lại, kiểm tra nguồn, không bấm vội, không nhập mật khẩu, không chia sẻ khi chưa chắc.",
+"warmupQuestions": [
+{
+"question": "Nêu một dấu hiệu của lừa đảo trực tuyến.",
+"suggestedAnswer": "Yêu cầu nhập mật khẩu, mã xác nhận, bấm liên kết lạ hoặc hứa quà quá hấp dẫn."
+},
+{
+"question": "Tin giả là gì?",
+"suggestedAnswer": "Là thông tin sai lệch, chưa kiểm chứng hoặc gây hiểu nhầm được lan truyền như thật."
+},
+{
+"question": "Khi nghi ngờ bị lừa đảo, em nên làm gì?",
+"suggestedAnswer": "Không bấm liên kết, không cung cấp thông tin và báo cho người lớn hoặc thầy cô."
+}
+],
+"applicationQuestions": [
+{
+"question": "Phân tích tình huống: Bạn nhận link 'nhận skin game miễn phí' và yêu cầu đăng nhập tài khoản. Nêu 3 điều cần làm.",
+"hint": "Không bấm, kiểm tra nguồn, báo người lớn.",
+"suggestedAnswer": "Không đăng nhập vào link lạ. Kiểm tra thông tin từ trang chính thức của trò chơi. Báo cho người lớn hoặc thầy cô nếu nghi ngờ lừa đảo."
+},
+{
+"question": "Nêu 4 tiêu chí kiểm tra một tin tức trước khi chia sẻ.",
+"hint": "Nguồn, tác giả, ngày, đối chiếu.",
+"suggestedAnswer": "Xem nguồn đăng có đáng tin không, tác giả/tổ chức có rõ không, ngày đăng có phù hợp không, và kiểm tra với nguồn khác trước khi chia sẻ."
+}
+],
+"mediaHints": [
+{
+"type": "interactive",
+"description": "Nhận diện tin nhắn lừa đảo, link giả, tin giả và chọn cách xử lí an toàn.",
+"priority": "high"
+},
+{
+"type": "diagram",
+"description": "Sơ đồ 5 bước chống lừa đảo/tin giả: dừng lại, kiểm tra, đối chiếu, không chia sẻ, báo người lớn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_009",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Hiểu dữ liệu cá nhân là những thông tin có thể dùng để nhận biết hoặc liên hệ với một người.",
+"Nhận biết được một số loại dữ liệu cá nhân cần bảo vệ.",
+"Hiểu quyền riêng tư là quyền kiểm soát thông tin cá nhân ở mức phù hợp.",
+"Biết một số cách bảo vệ dữ liệu cá nhân khi dùng Internet.",
+"Hình thành thói quen cân nhắc trước khi đăng, gửi hoặc chia sẻ thông tin."
+],
+"easyExplanation": "Dữ liệu cá nhân gồm họ tên, ngày sinh, địa chỉ, số điện thoại, ảnh cá nhân, trường lớp, tài khoản, mật khẩu, vị trí, lịch sinh hoạt, thông tin gia đình. Quyền riêng tư nghĩa là em có quyền giữ an toàn và kiểm soát việc chia sẻ thông tin của mình. Không phải điều gì có thể đăng lên mạng cũng nên đăng. Một bức ảnh đồng phục có bảng tên, một ảnh chụp trước nhà hoặc một bài viết nói đang đi vắng lâu ngày đều có thể tiết lộ thông tin. Trước khi chia sẻ, hãy tự hỏi: ai sẽ thấy, có cần thiết không, có thể gây rủi ro không?",
+"workedExamples": [
+{
+"title": "Nhận diện dữ liệu cá nhân",
+"problem": "Ảnh chụp thẻ học sinh có phải dữ liệu cá nhân không?",
+"steps": [
+"Thẻ học sinh có họ tên, ảnh, trường, lớp hoặc mã số.",
+"Những thông tin này có thể nhận biết một người.",
+"Nếu chia sẻ công khai có thể gây rủi ro.",
+"Kết luận đây là dữ liệu cá nhân."
+],
+"answer": "Có. Ảnh thẻ học sinh chứa dữ liệu cá nhân và không nên đăng công khai.",
+"explanation": "Thông tin tưởng nhỏ nhưng có thể ghép lại để nhận diện một người."
+},
+{
+"title": "Cân nhắc trước khi đăng",
+"problem": "Em định đăng ảnh vé xe có tên, số điện thoại và điểm đến. Có nên không?",
+"steps": [
+"Vé xe chứa tên, số điện thoại, hành trình.",
+"Đăng công khai có thể làm lộ vị trí và thông tin liên hệ.",
+"Nếu muốn chia sẻ, cần che thông tin cá nhân.",
+"Tốt nhất không đăng công khai."
+],
+"answer": "Không nên đăng công khai. Nếu thật cần chia sẻ, phải che tên, số điện thoại và thông tin hành trình.",
+"explanation": "Bảo vệ dữ liệu cá nhân bắt đầu từ việc che những chi tiết nhỏ."
+}
+],
+"steps": [
+"Liệt kê thông tin cá nhân cần bảo vệ.",
+"Kiểm tra quyền riêng tư của tài khoản mạng xã hội hoặc ứng dụng.",
+"Không đăng công khai ảnh giấy tờ, thẻ học sinh, vé xe, địa chỉ nhà.",
+"Không gửi thông tin cá nhân cho người lạ.",
+"Che thông tin nhạy cảm trước khi chia sẻ ảnh.",
+"Hỏi người lớn khi không chắc thông tin có an toàn để chia sẻ không."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ chỉ mật khẩu mới là dữ liệu cần bảo vệ.",
+"fix": "Họ tên, ảnh, số điện thoại, địa chỉ, trường lớp, vị trí cũng là dữ liệu cá nhân."
+},
+{
+"mistake": "Đăng ảnh giấy tờ hoặc vé có thông tin cá nhân.",
+"fix": "Không đăng công khai, hoặc phải che thông tin nhạy cảm."
+},
+{
+"mistake": "Chia sẻ vị trí hiện tại cho người lạ.",
+"fix": "Chỉ chia sẻ vị trí khi thật cần và với người đáng tin."
+}
+],
+"quickMemory": "Trước khi chia sẻ dữ liệu cá nhân, hỏi 3 câu: ai thấy, có cần không, có rủi ro không?",
+"warmupQuestions": [
+{
+"question": "Kể tên ba loại dữ liệu cá nhân.",
+"suggestedAnswer": "Họ tên, số điện thoại, địa chỉ, ảnh cá nhân, ngày sinh, trường lớp, mật khẩu."
+},
+{
+"question": "Vì sao không nên đăng ảnh thẻ học sinh công khai?",
+"suggestedAnswer": "Vì ảnh thẻ có thông tin nhận diện cá nhân như tên, ảnh, trường, lớp."
+},
+{
+"question": "Quyền riêng tư liên quan đến điều gì?",
+"suggestedAnswer": "Liên quan đến việc kiểm soát và bảo vệ thông tin cá nhân của mình."
+}
+],
+"applicationQuestions": [
+{
+"question": "Đánh dấu thông tin nên che trước khi đăng ảnh giấy khen: họ tên, lớp, trường, thành tích, mã học sinh.",
+"hint": "Thông tin nhận diện cụ thể nên che nếu đăng công khai.",
+"suggestedAnswer": "Nên che họ tên đầy đủ, lớp, trường và mã học sinh nếu đăng công khai. Có thể giữ thành tích nếu không làm lộ danh tính quá rõ."
+},
+{
+"question": "Viết 5 quy tắc bảo vệ dữ liệu cá nhân.",
+"hint": "Không gửi cho người lạ, không đăng giấy tờ, kiểm tra quyền riêng tư.",
+"suggestedAnswer": "Không gửi thông tin cá nhân cho người lạ. Không đăng ảnh giấy tờ hoặc thẻ học sinh công khai. Che thông tin nhạy cảm trước khi chia sẻ ảnh. Kiểm tra quyền riêng tư tài khoản. Hỏi người lớn khi không chắc một thông tin có nên chia sẻ không."
+}
+],
+"mediaHints": [
+{
+"type": "interactive",
+"description": "Chọn thông tin nào là dữ liệu cá nhân và che thông tin nhạy cảm trên ảnh giả lập.",
+"priority": "high"
+},
+{
+"type": "diagram",
+"description": "Vòng kiểm tra trước khi chia sẻ: ai thấy, có cần không, có rủi ro không, đã che thông tin chưa.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_info_010",
+"subjectKey": "informatics",
+"learningObjectives": [
+"Biết tạo một văn bản học tập có tiêu đề, đoạn văn và bố cục rõ ràng.",
+"Sử dụng được một số thao tác định dạng cơ bản: phông chữ, cỡ chữ, căn lề, in đậm, gạch đầu dòng.",
+"Biết chèn bảng hoặc hình ảnh đơn giản khi cần minh họa nội dung.",
+"Biết lưu tệp văn bản với tên rõ ràng và đúng thư mục.",
+"Hình thành thói quen kiểm tra chính tả, bố cục và nguồn hình ảnh trước khi nộp bài."
+],
+"easyExplanation": "Soạn thảo văn bản học tập là kĩ năng dùng phần mềm như Word, Google Docs hoặc ứng dụng tương tự để tạo bài viết, báo cáo, phiếu học tập. Một văn bản tốt không chỉ có chữ đúng, mà còn cần bố cục rõ: tiêu đề nổi bật, đoạn văn dễ đọc, gạch đầu dòng khi liệt kê, bảng khi cần so sánh, hình ảnh khi cần minh họa. Không nên lạm dụng quá nhiều màu, phông chữ hoặc hiệu ứng. Khi hoàn thành, cần kiểm tra lỗi chính tả, căn lề, tên tệp và thư mục lưu.",
+"workedExamples": [
+{
+"title": "Định dạng tiêu đề",
+"problem": "Vì sao tiêu đề văn bản nên được định dạng khác phần nội dung?",
+"steps": [
+"Tiêu đề cho biết chủ đề chính của văn bản.",
+"Định dạng khác giúp người đọc nhận ra nhanh.",
+"Có thể dùng cỡ chữ lớn hơn, in đậm, căn giữa.",
+"Không cần dùng quá nhiều màu."
+],
+"answer": "Vì tiêu đề giúp người đọc biết chủ đề chính và cần được làm nổi bật bằng định dạng vừa đủ.",
+"explanation": "Định dạng tốt giúp văn bản rõ ràng, không phải để trang trí quá đà."
+},
+{
+"title": "Lưu tệp đúng cách",
+"problem": "Tên tệp nào phù hợp hơn: 'vanban1.docx' hay 'Tin7_bao_cao_thiet_bi_so_Nhom3.docx'?",
+"steps": [
+"Tên 'vanban1.docx' quá chung.",
+"Tên thứ hai có môn học, nội dung và nhóm.",
+"Tên rõ giúp tìm lại dễ hơn.",
+"Chọn tên tệp cụ thể."
+],
+"answer": "Tên 'Tin7_bao_cao_thiet_bi_so_Nhom3.docx' phù hợp hơn.",
+"explanation": "Tên tệp là nhãn của sản phẩm học tập, nên rõ nội dung."
+}
+],
+"steps": [
+"Xác định mục đích văn bản: báo cáo, bài tập, giới thiệu, tóm tắt.",
+"Viết tiêu đề rõ ràng.",
+"Chia nội dung thành đoạn hoặc mục nhỏ.",
+"Dùng định dạng vừa đủ: in đậm tiêu đề, căn lề, gạch đầu dòng.",
+"Chèn bảng/hình ảnh nếu giúp nội dung dễ hiểu hơn.",
+"Kiểm tra chính tả, bố cục, nguồn hình ảnh và lưu tệp với tên rõ."
+],
+"commonMistakes": [
+{
+"mistake": "Dùng quá nhiều phông chữ, màu sắc làm văn bản rối.",
+"fix": "Chỉ dùng một vài kiểu định dạng thống nhất và dễ đọc."
+},
+{
+"mistake": "Không chia đoạn, khiến văn bản thành một khối dài.",
+"fix": "Chia đoạn theo ý, dùng tiêu đề phụ hoặc gạch đầu dòng khi cần."
+},
+{
+"mistake": "Lưu tệp với tên mơ hồ.",
+"fix": "Tên tệp nên có môn học, nội dung, người làm hoặc nhóm."
+}
+],
+"quickMemory": "Văn bản học tập tốt: tiêu đề rõ, bố cục gọn, định dạng vừa đủ, kiểm tra lỗi, lưu đúng tên.",
+"warmupQuestions": [
+{
+"question": "Vì sao cần chia đoạn trong văn bản?",
+"suggestedAnswer": "Để nội dung dễ đọc, mỗi đoạn thể hiện một ý hoặc nhóm ý."
+},
+{
+"question": "Khi nào nên dùng bảng trong văn bản?",
+"suggestedAnswer": "Khi cần so sánh hoặc trình bày thông tin theo hàng và cột."
+},
+{
+"question": "Trước khi nộp văn bản, cần kiểm tra gì?",
+"suggestedAnswer": "Chính tả, bố cục, định dạng, tệp đính kèm, tên tệp và nơi lưu."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nêu 5 tiêu chí của một văn bản học tập tốt.",
+"hint": "Tiêu đề, bố cục, định dạng, chính tả, tên tệp.",
+"suggestedAnswer": "Có tiêu đề rõ, bố cục mạch lạc, định dạng dễ đọc, ít lỗi chính tả, được lưu với tên tệp rõ ràng."
+},
+{
+"question": "Đề xuất bố cục cho báo cáo ngắn về thiết bị số quanh em.",
+"hint": "Có tiêu đề, giới thiệu, bảng thiết bị, kết luận.",
+"suggestedAnswer": "Tiêu đề: Thiết bị số quanh em. Mục 1: Giới thiệu. Mục 2: Bảng các thiết bị và vai trò. Mục 3: Cách sử dụng an toàn. Kết luận: Lợi ích và trách nhiệm khi dùng thiết bị số."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu văn bản học tập có tiêu đề, đoạn văn, bảng, hình minh họa và phần kết luận.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chỉnh sửa văn bản rối thành văn bản có bố cục, định dạng và tên tệp rõ.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

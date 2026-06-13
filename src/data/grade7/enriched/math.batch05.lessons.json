@@ -1,0 +1,543 @@
+[
+{
+"lessonId": "g7_math_021",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được góc kề bù, góc đối đỉnh và tia phân giác của một góc.",
+"Tính được số đo góc dựa vào quan hệ góc kề bù và góc đối đỉnh.",
+"Vận dụng được tính chất tia phân giác để chia một góc thành hai góc bằng nhau.",
+"Đọc và suy luận được từ hình vẽ có nhiều góc."
+],
+"easyExplanation": "Góc kề bù là hai góc vừa kề nhau vừa có tổng bằng 180°. Góc đối đỉnh là hai góc nằm đối diện nhau khi hai đường thẳng cắt nhau, và hai góc đối đỉnh thì bằng nhau. Tia phân giác là tia nằm giữa hai cạnh của một góc và chia góc đó thành hai góc bằng nhau. Khi gặp bài hình có nhiều góc, em nên đánh dấu góc đã biết, tìm góc kề bù trước, rồi dùng góc đối đỉnh hoặc tia phân giác để tính tiếp.",
+"workedExamples": [
+{
+"title": "Tính góc kề bù",
+"problem": "Hai góc xOy và yOz là góc kề bù. Biết góc xOy bằng 65°. Tính góc yOz.",
+"steps": [
+"Góc kề bù có tổng bằng 180°.",
+"Ta có góc xOy + góc yOz = 180°.",
+"Góc yOz = 180° - 65° = 115°."
+],
+"answer": "Góc yOz bằng 115°.",
+"explanation": "Chìa khóa là tổng hai góc kề bù bằng 180°."
+},
+{
+"title": "Dùng góc đối đỉnh",
+"problem": "Hai đường thẳng cắt nhau tạo góc A bằng 48°. Góc đối đỉnh với góc A bằng bao nhiêu?",
+"steps": [
+"Hai góc đối đỉnh thì bằng nhau.",
+"Góc đối đỉnh với góc A có cùng số đo với góc A.",
+"Vậy góc cần tìm bằng 48°."
+],
+"answer": "48°.",
+"explanation": "Không cần cộng trừ nếu xác định đúng cặp góc đối đỉnh."
+},
+{
+"title": "Tia phân giác",
+"problem": "Tia Ot là tia phân giác của góc xOy. Biết góc xOy bằng 80°. Tính góc xOt.",
+"steps": [
+"Tia phân giác chia góc thành hai góc bằng nhau.",
+"Góc xOt = góc tOy.",
+"Mỗi góc bằng 80° : 2 = 40°."
+],
+"answer": "Góc xOt bằng 40°.",
+"explanation": "Tia phân giác chia đôi số đo góc."
+}
+],
+"steps": [
+"Bước 1: Nhìn hình và xác định các góc đã biết.",
+"Bước 2: Tìm các cặp góc kề bù nếu có đường thẳng.",
+"Bước 3: Tìm các cặp góc đối đỉnh nếu có hai đường thẳng cắt nhau.",
+"Bước 4: Nếu có tia phân giác, chia góc thành hai phần bằng nhau.",
+"Bước 5: Viết phép tính rõ ràng và kết luận bằng đơn vị độ."
+],
+"commonMistakes": [
+{
+"mistake": "Thấy hai góc cạnh nhau thì nghĩ ngay là kề bù.",
+"fix": "Góc kề bù phải có tổng 180° và hai cạnh ngoài là hai tia đối nhau."
+},
+{
+"mistake": "Nhầm góc đối đỉnh với góc kề nhau.",
+"fix": "Góc đối đỉnh nằm đối diện qua giao điểm, không có cạnh chung."
+},
+{
+"mistake": "Dùng tia phân giác nhưng quên chia đôi góc lớn.",
+"fix": "Nếu Ot là phân giác của góc xOy thì góc xOt = góc tOy = một nửa góc xOy."
+}
+],
+"quickMemory": "Kề bù tổng 180°. Đối đỉnh thì bằng nhau. Phân giác chia đôi góc.",
+"warmupQuestions": [
+{
+"question": "Một góc kề bù với góc 70° có số đo bao nhiêu?",
+"suggestedAnswer": "110°."
+},
+{
+"question": "Hai góc đối đỉnh có tính chất gì?",
+"suggestedAnswer": "Hai góc đối đỉnh bằng nhau."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một góc được tia phân giác chia thành hai góc, mỗi góc 35°. Góc ban đầu bằng bao nhiêu?",
+"hint": "Cộng hai góc bằng nhau.",
+"suggestedAnswer": "35° + 35° = 70°."
+},
+{
+"question": "Hai đường thẳng cắt nhau. Một góc bằng 120°. Góc kề bù với nó bằng bao nhiêu?",
+"hint": "Hai góc kề bù có tổng 180°.",
+"suggestedAnswer": "60°."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Hình hai đường thẳng cắt nhau, tô màu cặp góc đối đỉnh và cặp góc kề bù.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bấm chọn cặp góc kề bù, đối đỉnh, phân giác trên hình vẽ.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_022",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được các cặp góc so le trong, đồng vị và trong cùng phía.",
+"Dùng được dấu hiệu nhận biết hai đường thẳng song song.",
+"Tính được số đo góc khi có một đường thẳng cắt hai đường thẳng song song.",
+"Trình bày được suy luận hình học cơ bản về đường thẳng song song."
+],
+"easyExplanation": "Khi một đường thẳng cắt hai đường thẳng khác, nó tạo ra nhiều cặp góc đặc biệt. Nếu có một cặp góc so le trong bằng nhau hoặc một cặp góc đồng vị bằng nhau, ta có thể kết luận hai đường thẳng song song. Ngược lại, nếu hai đường thẳng đã song song thì các cặp góc so le trong bằng nhau, đồng vị bằng nhau, còn hai góc trong cùng phía bù nhau. Đây là bộ tín hiệu giao thông của hình học đường thẳng.",
+"workedExamples": [
+{
+"title": "Dấu hiệu so le trong",
+"problem": "Đường thẳng c cắt hai đường thẳng a và b. Một cặp góc so le trong bằng nhau. Có kết luận gì về a và b?",
+"steps": [
+"Nhận ra đây là cặp góc so le trong.",
+"Dấu hiệu nhận biết: nếu một cặp góc so le trong bằng nhau thì hai đường thẳng song song.",
+"Kết luận a song song với b."
+],
+"answer": "a // b.",
+"explanation": "Góc so le trong bằng nhau là một dấu hiệu nhận biết song song."
+},
+{
+"title": "Dùng góc đồng vị",
+"problem": "Một cặp góc đồng vị do đường c cắt a và b cùng bằng 75°. Hỏi a và b có song song không?",
+"steps": [
+"Hai góc được cho là đồng vị.",
+"Hai góc đồng vị bằng nhau.",
+"Theo dấu hiệu nhận biết, a và b song song."
+],
+"answer": "Có, a // b.",
+"explanation": "Đồng vị bằng nhau cũng là dấu hiệu nhận biết hai đường thẳng song song."
+},
+{
+"title": "Góc trong cùng phía",
+"problem": "Hai góc trong cùng phía có số đo 110° và 70°. Hai đường thẳng có song song không?",
+"steps": [
+"Cộng hai góc: 110° + 70° = 180°.",
+"Hai góc trong cùng phía bù nhau.",
+"Theo dấu hiệu nhận biết, hai đường thẳng song song."
+],
+"answer": "Có, hai đường thẳng song song.",
+"explanation": "Trong cùng phía bù nhau là dấu hiệu song song."
+}
+],
+"steps": [
+"Bước 1: Xác định đường thẳng cắt hai đường thẳng còn lại.",
+"Bước 2: Gọi tên cặp góc: so le trong, đồng vị hay trong cùng phía.",
+"Bước 3: Nếu so le trong hoặc đồng vị bằng nhau, kết luận song song.",
+"Bước 4: Nếu trong cùng phía có tổng 180°, kết luận song song.",
+"Bước 5: Khi đã có song song, dùng tính chất ngược lại để tính góc."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm góc so le trong với góc đồng vị.",
+"fix": "So le trong nằm giữa hai đường thẳng và ở hai phía của đường cắt. Đồng vị nằm cùng vị trí tương ứng."
+},
+{
+"mistake": "Thấy hai góc bằng nhau bất kỳ rồi kết luận song song.",
+"fix": "Phải đúng loại cặp góc đặc biệt mới được dùng dấu hiệu."
+},
+{
+"mistake": "Với góc trong cùng phía, lại bắt chúng bằng nhau.",
+"fix": "Góc trong cùng phía của hai đường thẳng song song có tổng 180°, không nhất thiết bằng nhau."
+}
+],
+"quickMemory": "So le trong bằng nhau, đồng vị bằng nhau, trong cùng phía bù nhau thì có song song.",
+"warmupQuestions": [
+{
+"question": "Hai góc trong cùng phía của hai đường thẳng song song có tổng bao nhiêu độ?",
+"suggestedAnswer": "180°."
+},
+{
+"question": "Một cặp góc đồng vị bằng nhau có thể dùng để kết luận gì?",
+"suggestedAnswer": "Hai đường thẳng song song."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một cặp góc so le trong có số đo 65° và 65°. Hai đường thẳng có song song không?",
+"hint": "So le trong bằng nhau là dấu hiệu song song.",
+"suggestedAnswer": "Có, hai đường thẳng song song."
+},
+{
+"question": "Hai góc trong cùng phía là 120° và x°. Nếu hai đường thẳng song song thì x bằng bao nhiêu?",
+"hint": "Tổng hai góc trong cùng phía là 180°.",
+"suggestedAnswer": "x = 60°."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Hình một đường thẳng cắt hai đường thẳng, tô màu cặp góc so le trong, đồng vị, trong cùng phía.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Cho học sinh chọn đúng loại cặp góc để kết luận hai đường thẳng song song.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_023",
+"subjectKey": "math",
+"learningObjectives": [
+"Hiểu nội dung cơ bản của tiên đề Euclid về đường thẳng song song.",
+"Vận dụng tính chất của hai đường thẳng song song để tính góc.",
+"Sử dụng được suy luận nếu một đường thẳng vuông góc với một trong hai đường thẳng song song.",
+"Trình bày được lập luận hình học ngắn gọn, có căn cứ."
+],
+"easyExplanation": "Tiên đề Euclid thường được hiểu đơn giản: qua một điểm nằm ngoài một đường thẳng, chỉ có một đường thẳng song song với đường thẳng đã cho. Từ đó, ta có nhiều tính chất quan trọng của hai đường thẳng song song. Khi hai đường thẳng song song bị một đường thẳng cắt, các cặp góc so le trong bằng nhau, đồng vị bằng nhau và trong cùng phía bù nhau. Bài này không chỉ tính góc, mà còn tập cho em nói lý do vì sao mình tính như vậy.",
+"workedExamples": [
+{
+"title": "Dùng tính chất đồng vị",
+"problem": "Cho a // b, đường thẳng c cắt a và b. Một góc đồng vị với góc 68° là bao nhiêu?",
+"steps": [
+"Vì a song song b.",
+"Hai góc đồng vị tạo bởi một đường cắt hai đường thẳng song song thì bằng nhau.",
+"Góc cần tìm bằng 68°."
+],
+"answer": "68°.",
+"explanation": "Khi đã biết song song, ta dùng tính chất của các cặp góc."
+},
+{
+"title": "Dùng góc trong cùng phía",
+"problem": "Cho a // b. Một góc trong cùng phía với góc 125° là x°. Tìm x.",
+"steps": [
+"Hai góc trong cùng phía của hai đường thẳng song song có tổng 180°.",
+"Ta có x + 125° = 180°.",
+"x = 55°."
+],
+"answer": "x = 55°.",
+"explanation": "Trong cùng phía không bằng nhau mà bù nhau."
+},
+{
+"title": "Vuông góc và song song",
+"problem": "Nếu a // b và c vuông góc với a, thì c có quan hệ gì với b?",
+"steps": [
+"a và b song song.",
+"Một đường thẳng vuông góc với một trong hai đường thẳng song song thì cũng vuông góc với đường còn lại.",
+"Kết luận c vuông góc với b."
+],
+"answer": "c vuông góc với b.",
+"explanation": "Tính chất này thường dùng để suy ra góc vuông."
+}
+],
+"steps": [
+"Bước 1: Xác định đề bài đã cho hai đường thẳng song song hay cần chứng minh song song.",
+"Bước 2: Nếu đã có song song, chọn cặp góc phù hợp: đồng vị, so le trong, trong cùng phía.",
+"Bước 3: Dùng tính chất tương ứng để lập phép tính.",
+"Bước 4: Nếu có vuông góc, kiểm tra quan hệ với hai đường song song.",
+"Bước 5: Viết lý do cho từng bước, không chỉ ghi đáp số."
+],
+"commonMistakes": [
+{
+"mistake": "Dùng dấu hiệu nhận biết song song khi đề đã cho sẵn song song.",
+"fix": "Nếu đã có a // b, dùng tính chất góc để tính. Nếu chưa có, mới dùng dấu hiệu để chứng minh song song."
+},
+{
+"mistake": "Không nêu lý do khi tính góc.",
+"fix": "Mỗi kết luận nên kèm lý do: vì đồng vị, vì so le trong, vì trong cùng phía."
+},
+{
+"mistake": "Nhầm tiên đề Euclid thành có nhiều đường song song qua một điểm.",
+"fix": "Qua một điểm ngoài một đường thẳng, chỉ có một đường thẳng song song với đường thẳng đó."
+}
+],
+"quickMemory": "Qua một điểm ngoài một đường thẳng chỉ có một đường song song với nó. Có song song thì dùng tính chất góc để tính.",
+"warmupQuestions": [
+{
+"question": "Nếu a // b, hai góc so le trong có quan hệ gì?",
+"suggestedAnswer": "Bằng nhau."
+},
+{
+"question": "Nếu a // b, hai góc trong cùng phía có tổng bao nhiêu?",
+"suggestedAnswer": "180°."
+}
+],
+"applicationQuestions": [
+{
+"question": "Cho m // n. Một góc đồng vị với góc x bằng 72°. Tính x.",
+"hint": "Đồng vị của hai đường thẳng song song thì bằng nhau.",
+"suggestedAnswer": "x = 72°."
+},
+{
+"question": "Cho p // q và r vuông góc với p. Hỏi r có vuông góc với q không?",
+"hint": "Một đường vuông góc với một trong hai đường song song thì vuông góc với đường còn lại.",
+"suggestedAnswer": "Có, r vuông góc với q."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Minh họa tiên đề Euclid: một điểm ngoài đường thẳng và chỉ một đường song song đi qua điểm đó.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Bài điền lý do cho từng bước tính góc khi có hai đường thẳng song song.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_024",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được định lí gồm phần giả thiết và kết luận.",
+"Viết được giả thiết, kết luận của một phát biểu hình học đơn giản.",
+"Hiểu chứng minh là quá trình dùng lập luận hợp lý để đi từ giả thiết đến kết luận.",
+"Trình bày được chứng minh ngắn gọn theo từng bước."
+],
+"easyExplanation": "Một định lí giống như một câu cam kết trong toán học: nếu điều kiện đúng thì kết quả phải đúng. Phần điều kiện gọi là giả thiết, phần cần suy ra gọi là kết luận. Chứng minh là quá trình giải thích vì sao từ giả thiết có thể đi đến kết luận, dựa trên định nghĩa, tính chất hoặc định lí đã biết. Khi làm chứng minh, đừng viết một cục chữ dài. Hãy đi từng bước như đặt từng viên gạch.",
+"workedExamples": [
+{
+"title": "Tách giả thiết và kết luận",
+"problem": "Phát biểu: Nếu hai góc đối đỉnh thì chúng bằng nhau. Hãy nêu giả thiết và kết luận.",
+"steps": [
+"Phần sau chữ nếu là điều kiện.",
+"Giả thiết: hai góc là hai góc đối đỉnh.",
+"Phần sau chữ thì là điều cần suy ra.",
+"Kết luận: hai góc đó bằng nhau."
+],
+"answer": "Giả thiết: hai góc đối đỉnh. Kết luận: hai góc bằng nhau.",
+"explanation": "Cấu trúc nếu... thì... giúp nhận ra giả thiết và kết luận."
+},
+{
+"title": "Nhận biết chứng minh",
+"problem": "Muốn chứng minh hai góc bằng nhau khi biết chúng đối đỉnh, cần dùng kiến thức nào?",
+"steps": [
+"Xác định giả thiết: hai góc đối đỉnh.",
+"Nhớ tính chất đã học: hai góc đối đỉnh thì bằng nhau.",
+"Áp dụng tính chất để kết luận."
+],
+"answer": "Dùng tính chất hai góc đối đỉnh thì bằng nhau.",
+"explanation": "Chứng minh cần căn cứ, không chỉ nhìn hình rồi đoán."
+}
+],
+"steps": [
+"Bước 1: Đọc phát biểu và tìm phần điều kiện.",
+"Bước 2: Viết phần điều kiện vào giả thiết.",
+"Bước 3: Tìm phần cần chứng minh và viết vào kết luận.",
+"Bước 4: Liệt kê các kiến thức có thể dùng: định nghĩa, tính chất, định lí.",
+"Bước 5: Trình bày chứng minh theo từng câu ngắn, mỗi câu có lý do."
+],
+"commonMistakes": [
+{
+"mistake": "Lẫn giả thiết với kết luận.",
+"fix": "Giả thiết là cái đề bài cho hoặc điều kiện sau chữ nếu. Kết luận là cái cần suy ra sau chữ thì."
+},
+{
+"mistake": "Chứng minh bằng cách đo hình vẽ.",
+"fix": "Hình vẽ chỉ để hỗ trợ. Chứng minh phải dựa trên lập luận toán học."
+},
+{
+"mistake": "Viết kết luận trước rồi mới tìm lý do.",
+"fix": "Nên đi từ giả thiết qua các tính chất đã biết đến kết luận."
+}
+],
+"quickMemory": "Định lí có giả thiết và kết luận. Chứng minh là con đường có lý do từ giả thiết đến kết luận.",
+"warmupQuestions": [
+{
+"question": "Trong câu 'Nếu a // b thì hai góc so le trong bằng nhau', giả thiết là gì?",
+"suggestedAnswer": "a // b."
+},
+{
+"question": "Chứng minh có được dựa vào đo hình bằng thước đo góc không?",
+"suggestedAnswer": "Không, chứng minh phải dựa vào lập luận."
+}
+],
+"applicationQuestions": [
+{
+"question": "Phát biểu: Nếu một tia là phân giác của một góc thì nó chia góc đó thành hai góc bằng nhau. Hãy nêu kết luận.",
+"hint": "Kết luận là phần sau chữ thì.",
+"suggestedAnswer": "Tia đó chia góc thành hai góc bằng nhau."
+},
+{
+"question": "Vì sao trong chứng minh hình học cần ghi lý do cho từng bước?",
+"hint": "Chứng minh cần thuyết phục người đọc.",
+"suggestedAnswer": "Để người đọc biết mỗi kết luận dựa trên định nghĩa, tính chất hoặc định lí nào."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu bảng hai cột: giả thiết, kết luận, sau đó là các bước chứng minh.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo các mảnh câu vào đúng ô giả thiết hoặc kết luận.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_025",
+"subjectKey": "math",
+"learningObjectives": [
+"Nắm được tổng ba góc trong một tam giác bằng 180°.",
+"Tính được số đo góc còn lại của tam giác khi biết hai góc.",
+"Hiểu và vận dụng được tính chất góc ngoài của tam giác.",
+"Giải được bài toán tính góc dựa vào hình vẽ tam giác."
+],
+"easyExplanation": "Trong mọi tam giác, tổng ba góc luôn bằng 180°. Vì vậy nếu biết hai góc, em lấy 180° trừ đi tổng hai góc đó để tìm góc còn lại. Góc ngoài của tam giác là góc kề bù với một góc trong của tam giác. Một tính chất rất hay: góc ngoài bằng tổng hai góc trong không kề với nó. Đây là chiếc la bàn khi bài có cả góc trong lẫn góc ngoài.",
+"workedExamples": [
+{
+"title": "Tính góc còn lại",
+"problem": "Tam giác ABC có góc A = 50°, góc B = 60°. Tính góc C.",
+"steps": [
+"Tổng ba góc của tam giác bằng 180°.",
+"Góc C = 180° - 50° - 60°.",
+"Góc C = 70°."
+],
+"answer": "Góc C bằng 70°.",
+"explanation": "Biết hai góc thì tìm góc còn lại bằng cách trừ khỏi 180°."
+},
+{
+"title": "Dùng góc ngoài",
+"problem": "Góc ngoài tại C của tam giác ABC bằng 120°. Biết góc A = 45°. Tính góc B.",
+"steps": [
+"Góc ngoài tại C bằng tổng hai góc trong không kề với nó.",
+"Vậy góc A + góc B = 120°.",
+"45° + góc B = 120°.",
+"Góc B = 75°."
+],
+"answer": "Góc B bằng 75°.",
+"explanation": "Góc ngoài tại C không kề với góc A và góc B."
+},
+{
+"title": "Góc ngoài và góc trong kề bù",
+"problem": "Góc ngoài tại A bằng 130°. Tính góc trong tại A.",
+"steps": [
+"Góc ngoài và góc trong tại A là hai góc kề bù.",
+"Tổng của chúng bằng 180°.",
+"Góc trong tại A = 180° - 130° = 50°."
+],
+"answer": "50°.",
+"explanation": "Góc ngoài tại một đỉnh kề bù với góc trong tại đỉnh đó."
+}
+],
+"steps": [
+"Bước 1: Xác định các góc trong tam giác đã biết.",
+"Bước 2: Nếu cần góc còn lại, dùng tổng ba góc bằng 180°.",
+"Bước 3: Nếu có góc ngoài, xác định nó kề bù với góc trong nào.",
+"Bước 4: Dùng tính chất góc ngoài bằng tổng hai góc trong không kề.",
+"Bước 5: Ghi kết quả bằng độ và kiểm tra tổng góc hợp lý."
+],
+"commonMistakes": [
+{
+"mistake": "Quên tổng ba góc tam giác là 180°.",
+"fix": "Với mọi tam giác phẳng, ba góc trong luôn có tổng 180°."
+},
+{
+"mistake": "Lấy góc ngoài bằng tổng hai góc trong bất kỳ.",
+"fix": "Góc ngoài bằng tổng hai góc trong không kề với nó."
+},
+{
+"mistake": "Nhầm góc ngoài với góc trong tại cùng đỉnh.",
+"fix": "Góc ngoài kề bù với góc trong tại đỉnh đó, nên tổng hai góc là 180°."
+}
+],
+"quickMemory": "Tam giác có tổng góc 180°. Góc ngoài bằng tổng hai góc trong không kề.",
+"warmupQuestions": [
+{
+"question": "Tam giác có hai góc 40° và 80°. Góc còn lại bằng bao nhiêu?",
+"suggestedAnswer": "60°."
+},
+{
+"question": "Góc ngoài 110° kề bù với góc trong bao nhiêu độ?",
+"suggestedAnswer": "70°."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một mái nhà dạng tam giác có hai góc ở đáy bằng 35° và 35°. Góc đỉnh bằng bao nhiêu?",
+"hint": "Tổng ba góc tam giác bằng 180°.",
+"suggestedAnswer": "180° - 35° - 35° = 110°."
+},
+{
+"question": "Trong tam giác ABC, góc ngoài tại A bằng 100°, góc B bằng 40°. Tính góc C.",
+"hint": "Góc ngoài tại A bằng tổng hai góc trong không kề là góc B và góc C.",
+"suggestedAnswer": "Góc C = 100° - 40° = 60°."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Tam giác có ba góc tô màu và mũi tên tổng 180°, kèm một góc ngoài.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Cho học sinh kéo giá trị hai góc tam giác, app tự tính góc còn lại và kiểm tra tổng 180°.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+}
+]

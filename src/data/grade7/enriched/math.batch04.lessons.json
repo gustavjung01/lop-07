@@ -1,0 +1,534 @@
+[
+{
+"lessonId": "g7_math_016",
+"subjectKey": "math",
+"learningObjectives": [
+"Vận dụng được tính chất phân phối để nhân đơn thức với đa thức.",
+"Nhân được hai đa thức một biến ở mức cơ bản.",
+"Chia được đa thức cho đơn thức hoặc chia trong trường hợp đơn giản.",
+"Rút gọn được kết quả sau khi nhân, chia đa thức."
+],
+"easyExplanation": "Nhân đa thức một biến dựa nhiều vào tính chất phân phối: mỗi hạng tử của đa thức này phải nhân với từng hạng tử của đa thức kia. Sau khi nhân xong, em nhóm các hạng tử đồng dạng để rút gọn. Với phép chia cơ bản, thường ta chia từng hạng tử cho đơn thức chung hoặc kiểm tra xem phép chia có thực hiện được gọn không. Bài này giống việc phát thư vào từng nhà: không được bỏ sót hạng tử nào.",
+"workedExamples": [
+{
+"title": "Nhân đơn thức với đa thức",
+"problem": "Tính 2x(3x + 4).",
+"steps": [
+"Dùng tính chất phân phối: 2x nhân với từng hạng tử trong ngoặc.",
+"2x × 3x = 6x².",
+"2x × 4 = 8x.",
+"Cộng các kết quả lại."
+],
+"answer": "6x² + 8x",
+"explanation": "Một đơn thức nhân với đa thức thì nhân đơn thức đó với từng hạng tử của đa thức."
+},
+{
+"title": "Nhân hai đa thức",
+"problem": "Tính (x + 2)(x + 3).",
+"steps": [
+"Lấy x nhân với x và 3: x² + 3x.",
+"Lấy 2 nhân với x và 3: 2x + 6.",
+"Cộng các hạng tử: x² + 3x + 2x + 6.",
+"Gộp hạng tử đồng dạng: 3x + 2x = 5x."
+],
+"answer": "x² + 5x + 6",
+"explanation": "Mỗi hạng tử của ngoặc thứ nhất phải nhân với mỗi hạng tử của ngoặc thứ hai."
+},
+{
+"title": "Chia đa thức cho đơn thức",
+"problem": "Tính (6x² + 9x) : 3x.",
+"steps": [
+"Chia từng hạng tử cho 3x.",
+"6x² : 3x = 2x.",
+"9x : 3x = 3.",
+"Ghép kết quả lại."
+],
+"answer": "2x + 3",
+"explanation": "Khi chia đa thức cho đơn thức, chia từng hạng tử nếu phép chia có nghĩa."
+}
+],
+"steps": [
+"Bước 1: Xác định đây là phép nhân hay phép chia đa thức.",
+"Bước 2: Với phép nhân, dùng phân phối để nhân từng hạng tử.",
+"Bước 3: Giữ đúng dấu âm/dương của từng hạng tử.",
+"Bước 4: Nhóm hạng tử đồng dạng sau khi nhân xong.",
+"Bước 5: Với phép chia, chia từng hạng tử cho đơn thức hoặc kiểm tra điều kiện chia được."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ nhân hạng tử đầu tiên rồi quên hạng tử còn lại.",
+"fix": "Mỗi hạng tử ngoài ngoặc phải nhân với tất cả hạng tử trong ngoặc."
+},
+{
+"mistake": "Sai dấu khi nhân với hạng tử âm.",
+"fix": "Ghi phép nhân từng dòng, đặc biệt với dấu trừ trước ngoặc."
+},
+{
+"mistake": "Nhân x với x nhưng viết thành 2x.",
+"fix": "x × x = x², còn x + x mới bằng 2x."
+}
+],
+"quickMemory": "Nhân đa thức: phân phối đủ từng hạng tử, rồi gom đồng dạng. Chia cho đơn thức: chia từng hạng tử.",
+"warmupQuestions": [
+{
+"question": "x × x bằng gì?",
+"suggestedAnswer": "x²."
+},
+{
+"question": "2x × 5 bằng gì?",
+"suggestedAnswer": "10x."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một hình chữ nhật có chiều dài x + 3 và chiều rộng x + 1. Viết biểu thức diện tích.",
+"hint": "Diện tích hình chữ nhật bằng dài nhân rộng.",
+"suggestedAnswer": "(x + 3)(x + 1) = x² + 4x + 3."
+},
+{
+"question": "Rút gọn 3x(x - 2) + 5x.",
+"hint": "Nhân 3x vào ngoặc trước rồi gom hạng tử đồng dạng.",
+"suggestedAnswer": "3x² - 6x + 5x = 3x² - x."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ mũi tên phân phối từ từng hạng tử của ngoặc thứ nhất sang ngoặc thứ hai.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo từng hạng tử để nhân chéo và tự gom hạng tử đồng dạng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_017",
+"subjectKey": "math",
+"learningObjectives": [
+"Hiểu nghiệm của đa thức một biến là giá trị làm cho đa thức bằng 0.",
+"Kiểm tra được một số có phải là nghiệm của đa thức hay không.",
+"Tìm được nghiệm đơn giản của đa thức bậc nhất hoặc đa thức dễ phân tích.",
+"Phân biệt được giá trị của đa thức tại một số và nghiệm của đa thức."
+],
+"easyExplanation": "Một số được gọi là nghiệm của đa thức P(x) nếu khi thay số đó vào x thì P(x) bằng 0. Ví dụ với P(x) = x - 3, nếu x = 3 thì P(3) = 0, nên 3 là nghiệm. Kiểm tra nghiệm không khó: chỉ cần thay số vào đa thức và tính cẩn thận. Nếu kết quả bằng 0 thì là nghiệm, khác 0 thì không phải nghiệm.",
+"workedExamples": [
+{
+"title": "Kiểm tra nghiệm",
+"problem": "Cho P(x) = x² - 4. Hỏi x = 2 có phải là nghiệm không?",
+"steps": [
+"Thay x = 2 vào đa thức.",
+"P(2) = 2² - 4.",
+"2² = 4 nên P(2) = 4 - 4 = 0.",
+"Vì kết quả bằng 0 nên x = 2 là nghiệm."
+],
+"answer": "x = 2 là nghiệm của P(x).",
+"explanation": "Nghiệm là giá trị làm đa thức bằng 0."
+},
+{
+"title": "Không phải nghiệm",
+"problem": "Cho Q(x) = 3x + 1. Hỏi x = 1 có phải là nghiệm không?",
+"steps": [
+"Thay x = 1 vào Q(x).",
+"Q(1) = 3 × 1 + 1 = 4.",
+"4 khác 0."
+],
+"answer": "x = 1 không phải là nghiệm.",
+"explanation": "Muốn là nghiệm thì giá trị đa thức phải bằng 0."
+},
+{
+"title": "Tìm nghiệm đơn giản",
+"problem": "Tìm nghiệm của P(x) = x - 5.",
+"steps": [
+"Nghiệm là giá trị x làm P(x) = 0.",
+"Ta cần x - 5 = 0.",
+"Suy ra x = 5."
+],
+"answer": "x = 5",
+"explanation": "Với đa thức bậc nhất đơn giản, đưa về phương trình cơ bản."
+}
+],
+"steps": [
+"Bước 1: Xác định đa thức P(x).",
+"Bước 2: Thay giá trị cần kiểm tra vào x.",
+"Bước 3: Tính giá trị đa thức theo đúng thứ tự phép tính.",
+"Bước 4: So sánh kết quả với 0.",
+"Bước 5: Nếu bằng 0 thì là nghiệm, nếu khác 0 thì không phải nghiệm."
+],
+"commonMistakes": [
+{
+"mistake": "Tưởng nghiệm là kết quả P(x) sau khi thay số.",
+"fix": "Nghiệm là giá trị của x, không phải giá trị của P(x)."
+},
+{
+"mistake": "Thay số âm vào lũy thừa nhưng quên ngoặc.",
+"fix": "Nếu x = -2 thì x² = (-2)² = 4, cần viết ngoặc để tránh sai."
+},
+{
+"mistake": "Kết quả khác 0 nhưng vẫn kết luận là nghiệm.",
+"fix": "Chỉ khi P(a) = 0 thì a mới là nghiệm."
+}
+],
+"quickMemory": "a là nghiệm của P(x) khi P(a) = 0.",
+"warmupQuestions": [
+{
+"question": "Với P(x) = x + 2, P(-2) bằng bao nhiêu?",
+"suggestedAnswer": "0."
+},
+{
+"question": "Nếu P(3) = 5 thì 3 có phải nghiệm không?",
+"suggestedAnswer": "Không, vì P(3) khác 0."
+}
+],
+"applicationQuestions": [
+{
+"question": "Cho P(x) = 2x - 8. Kiểm tra x = 4 có là nghiệm không.",
+"hint": "Thay x = 4 vào P(x).",
+"suggestedAnswer": "P(4) = 2 × 4 - 8 = 0, nên 4 là nghiệm."
+},
+{
+"question": "Cho A(x) = x² - 9. Hãy nêu hai nghiệm dễ thấy.",
+"hint": "Tìm hai số có bình phương bằng 9.",
+"suggestedAnswer": "x = 3 và x = -3."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bảng thay giá trị x vào P(x) và đánh dấu dòng có P(x) = 0.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Cho học sinh thử nhiều giá trị x và app báo có phải nghiệm hay không.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_018",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được hình hộp chữ nhật và hình lập phương trong thực tế.",
+"Xác định được đỉnh, cạnh, mặt của hình hộp chữ nhật và hình lập phương.",
+"Phân biệt được mặt đáy, mặt bên trong các hình quen thuộc.",
+"Liên hệ được hình khối với vật thật như hộp quà, viên xúc xắc, thùng carton."
+],
+"easyExplanation": "Hình hộp chữ nhật là khối có 6 mặt đều là hình chữ nhật. Hình lập phương là trường hợp đặc biệt của hình hộp chữ nhật, có 6 mặt đều là hình vuông và tất cả cạnh bằng nhau. Một hình hộp chữ nhật có 8 đỉnh, 12 cạnh và 6 mặt. Khi học hình không gian, em nên tưởng tượng như đang cầm một chiếc hộp thật, xoay nó để nhìn mặt trước, mặt sau, mặt trên, mặt dưới và các cạnh.",
+"workedExamples": [
+{
+"title": "Nhận biết hình lập phương",
+"problem": "Một viên xúc xắc có 6 mặt đều là hình vuông bằng nhau. Đó là hình gì?",
+"steps": [
+"Quan sát các mặt đều là hình vuông.",
+"Các cạnh của viên xúc xắc bằng nhau.",
+"Khối có dạng hộp đều mọi phía."
+],
+"answer": "Đó là hình lập phương.",
+"explanation": "Hình lập phương có 6 mặt là các hình vuông bằng nhau."
+},
+{
+"title": "Đếm yếu tố của hình hộp chữ nhật",
+"problem": "Một hình hộp chữ nhật có bao nhiêu đỉnh, cạnh và mặt?",
+"steps": [
+"Hình hộp chữ nhật có 6 mặt.",
+"Các mặt gặp nhau tạo thành 12 cạnh.",
+"Các cạnh gặp nhau tại 8 đỉnh."
+],
+"answer": "8 đỉnh, 12 cạnh, 6 mặt.",
+"explanation": "Đây là bộ số cần nhớ cho hình hộp chữ nhật và hình lập phương."
+}
+],
+"steps": [
+"Bước 1: Quan sát hình có phải khối hộp không.",
+"Bước 2: Kiểm tra các mặt là hình chữ nhật hay hình vuông.",
+"Bước 3: Nếu tất cả mặt là hình vuông bằng nhau, đó là hình lập phương.",
+"Bước 4: Đếm đỉnh, cạnh, mặt theo cấu trúc 8 đỉnh, 12 cạnh, 6 mặt.",
+"Bước 5: Liên hệ với vật thật để tránh nhìn hình phẳng rồi nhầm hình không gian."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm hình vuông vẽ trên giấy với hình lập phương.",
+"fix": "Hình vuông là hình phẳng, hình lập phương là khối không gian có 6 mặt."
+},
+{
+"mistake": "Cho rằng mọi hình hộp chữ nhật đều là hình lập phương.",
+"fix": "Hình lập phương là hình hộp chữ nhật đặc biệt có mọi cạnh bằng nhau."
+},
+{
+"mistake": "Đếm thiếu cạnh khuất trong hình vẽ phối cảnh.",
+"fix": "Dù hình vẽ có nét khuất, hình hộp vẫn có đủ 12 cạnh."
+}
+],
+"quickMemory": "Hộp chữ nhật và lập phương đều có 8 đỉnh, 12 cạnh, 6 mặt. Lập phương có mọi cạnh bằng nhau.",
+"warmupQuestions": [
+{
+"question": "Hình lập phương có mấy mặt?",
+"suggestedAnswer": "6 mặt."
+},
+{
+"question": "Thùng carton thường gợi đến hình gì?",
+"suggestedAnswer": "Hình hộp chữ nhật."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một bể cá dạng hình hộp chữ nhật có mặt trước, mặt sau, mặt trái, mặt phải, mặt đáy và mặt trên. Tổng cộng có mấy mặt?",
+"hint": "Liệt kê đủ các mặt của khối hộp.",
+"suggestedAnswer": "6 mặt."
+},
+{
+"question": "Một khối rubik 3x3 có dạng hình gì nếu chỉ xét hình dạng bên ngoài?",
+"hint": "Các cạnh bên ngoài bằng nhau.",
+"suggestedAnswer": "Hình lập phương."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Hình hộp chữ nhật có tô màu đỉnh, cạnh, mặt bằng ba màu khác nhau.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Xoay mô hình 3D hình hộp để học sinh bấm chọn đỉnh, cạnh, mặt.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_019",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được lăng trụ đứng tam giác và lăng trụ đứng tứ giác.",
+"Xác định được đáy, mặt bên, cạnh bên và chiều cao của lăng trụ đứng.",
+"Hiểu lưới hình của lăng trụ đứng và liên hệ với hình khối sau khi gấp lại.",
+"Phân biệt được lăng trụ đứng với hình hộp chữ nhật trong các tình huống cơ bản."
+],
+"easyExplanation": "Lăng trụ đứng là khối có hai mặt đáy song song và bằng nhau, các mặt bên là hình chữ nhật. Nếu đáy là tam giác thì gọi là lăng trụ đứng tam giác. Nếu đáy là tứ giác thì gọi là lăng trụ đứng tứ giác. Chiều cao của lăng trụ đứng chính là độ dài cạnh bên vuông góc với hai mặt đáy. Khi trải khối ra giấy, ta được lưới hình gồm hai đáy và các mặt bên.",
+"workedExamples": [
+{
+"title": "Nhận biết lăng trụ đứng tam giác",
+"problem": "Một khối có hai mặt đáy là hai tam giác bằng nhau, các mặt bên là hình chữ nhật. Đó là hình gì?",
+"steps": [
+"Hai mặt đáy là hai tam giác bằng nhau.",
+"Các mặt bên là hình chữ nhật.",
+"Các cạnh bên song song và bằng nhau."
+],
+"answer": "Đó là lăng trụ đứng tam giác.",
+"explanation": "Tên lăng trụ phụ thuộc vào hình dạng của mặt đáy."
+},
+{
+"title": "Xác định mặt bên",
+"problem": "Lăng trụ đứng tam giác có đáy là tam giác ABC. Nếu cạnh bên là AA', BB', CC', các mặt bên thường là hình gì?",
+"steps": [
+"Trong lăng trụ đứng, mặt bên được tạo bởi một cạnh đáy và hai cạnh bên.",
+"Vì là lăng trụ đứng nên các mặt bên là hình chữ nhật.",
+"Có ba cạnh của tam giác đáy nên có ba mặt bên."
+],
+"answer": "Các mặt bên là các hình chữ nhật.",
+"explanation": "Lăng trụ đứng có mặt bên vuông góc với đáy và là hình chữ nhật."
+}
+],
+"steps": [
+"Bước 1: Tìm hai mặt đáy song song và bằng nhau.",
+"Bước 2: Xem đáy là tam giác hay tứ giác để gọi tên lăng trụ.",
+"Bước 3: Kiểm tra các mặt bên có dạng hình chữ nhật không.",
+"Bước 4: Xác định cạnh bên và chiều cao.",
+"Bước 5: Nếu nhìn lưới hình, kiểm tra có đủ hai đáy và các mặt bên tương ứng không."
+],
+"commonMistakes": [
+{
+"mistake": "Gọi tên lăng trụ theo mặt bên thay vì mặt đáy.",
+"fix": "Tên lăng trụ đứng dựa vào hình dạng mặt đáy."
+},
+{
+"mistake": "Nhầm chiều cao với cạnh bất kỳ trên đáy.",
+"fix": "Chiều cao lăng trụ đứng là cạnh bên vuông góc với mặt đáy."
+},
+{
+"mistake": "Nhìn lưới hình thiếu một đáy nhưng vẫn cho là đúng.",
+"fix": "Lưới lăng trụ phải có đủ hai mặt đáy và các mặt bên."
+}
+],
+"quickMemory": "Lăng trụ đứng có hai đáy song song bằng nhau, mặt bên là hình chữ nhật. Tên gọi theo mặt đáy.",
+"warmupQuestions": [
+{
+"question": "Nếu đáy là tam giác thì khối đó là lăng trụ đứng gì?",
+"suggestedAnswer": "Lăng trụ đứng tam giác."
+},
+{
+"question": "Mặt bên của lăng trụ đứng thường là hình gì?",
+"suggestedAnswer": "Hình chữ nhật."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một hộp bánh có hai mặt đầu là tam giác bằng nhau và ba mặt xung quanh là hình chữ nhật. Hộp có dạng hình gì?",
+"hint": "Tên gọi dựa vào mặt đáy.",
+"suggestedAnswer": "Lăng trụ đứng tam giác."
+},
+{
+"question": "Một lăng trụ đứng tứ giác có đáy là hình chữ nhật. Khối đó có thể liên hệ với hình gì quen thuộc?",
+"hint": "Hình hộp chữ nhật cũng là một dạng lăng trụ đứng.",
+"suggestedAnswer": "Có thể liên hệ với hình hộp chữ nhật."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Hình lăng trụ đứng tam giác có tô màu hai đáy và các mặt bên.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài gấp lưới hình thành lăng trụ đứng để nhận biết đáy và mặt bên.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_020",
+"subjectKey": "math",
+"learningObjectives": [
+"Tính được diện tích xung quanh của lăng trụ đứng trong trường hợp cơ bản.",
+"Tính được diện tích toàn phần khi biết diện tích đáy.",
+"Tính được thể tích lăng trụ đứng bằng diện tích đáy nhân chiều cao.",
+"Biết đổi đơn vị đo diện tích và thể tích trong bài toán thực tế."
+],
+"easyExplanation": "Với lăng trụ đứng, diện tích xung quanh là tổng diện tích các mặt bên. Nếu biết chu vi đáy và chiều cao, ta thường dùng công thức diện tích xung quanh bằng chu vi đáy nhân chiều cao. Diện tích toàn phần bằng diện tích xung quanh cộng diện tích hai đáy. Thể tích lăng trụ đứng bằng diện tích đáy nhân chiều cao. Ba công thức này giống bộ chìa khóa mở hộp hình không gian.",
+"workedExamples": [
+{
+"title": "Tính thể tích hình hộp chữ nhật",
+"problem": "Một hình hộp chữ nhật có chiều dài 5 cm, chiều rộng 3 cm, chiều cao 4 cm. Tính thể tích.",
+"steps": [
+"Diện tích đáy là 5 × 3 = 15 cm².",
+"Thể tích bằng diện tích đáy nhân chiều cao.",
+"V = 15 × 4 = 60 cm³."
+],
+"answer": "60 cm³",
+"explanation": "Hình hộp chữ nhật là một dạng lăng trụ đứng, nên V = Sđáy × h."
+},
+{
+"title": "Tính diện tích xung quanh",
+"problem": "Một lăng trụ đứng có chu vi đáy 18 cm và chiều cao 7 cm. Tính diện tích xung quanh.",
+"steps": [
+"Dùng công thức Sxq = chu vi đáy × chiều cao.",
+"Thay số: Sxq = 18 × 7.",
+"Tính được 126 cm²."
+],
+"answer": "126 cm²",
+"explanation": "Diện tích xung quanh là tổng diện tích các mặt bên."
+},
+{
+"title": "Tính diện tích toàn phần",
+"problem": "Một lăng trụ đứng có diện tích xung quanh 126 cm², diện tích một đáy là 20 cm². Tính diện tích toàn phần.",
+"steps": [
+"Diện tích toàn phần bằng diện tích xung quanh cộng diện tích hai đáy.",
+"Hai đáy có tổng diện tích là 2 × 20 = 40 cm².",
+"Stp = 126 + 40 = 166 cm²."
+],
+"answer": "166 cm²",
+"explanation": "Đừng quên lăng trụ có hai mặt đáy."
+}
+],
+"steps": [
+"Bước 1: Xác định dạng hình và các dữ kiện đã cho.",
+"Bước 2: Tính chu vi đáy nếu cần diện tích xung quanh.",
+"Bước 3: Tính diện tích đáy nếu cần thể tích hoặc diện tích toàn phần.",
+"Bước 4: Áp dụng công thức Sxq = chu vi đáy × chiều cao, Stp = Sxq + 2Sđáy, V = Sđáy × chiều cao.",
+"Bước 5: Kiểm tra đơn vị: diện tích dùng đơn vị vuông, thể tích dùng đơn vị khối."
+],
+"commonMistakes": [
+{
+"mistake": "Tính thể tích nhưng quên nhân với chiều cao.",
+"fix": "Thể tích lăng trụ đứng luôn là diện tích đáy nhân chiều cao."
+},
+{
+"mistake": "Diện tích toàn phần chỉ cộng một đáy.",
+"fix": "Lăng trụ có hai đáy, nên Stp = Sxq + 2Sđáy."
+},
+{
+"mistake": "Ghi sai đơn vị cm² và cm³.",
+"fix": "Diện tích là đơn vị vuông như cm², thể tích là đơn vị khối như cm³."
+}
+],
+"quickMemory": "Lăng trụ đứng: Sxq = chu vi đáy × h, Stp = Sxq + 2Sđáy, V = Sđáy × h.",
+"warmupQuestions": [
+{
+"question": "Diện tích dùng đơn vị cm² hay cm³?",
+"suggestedAnswer": "cm²."
+},
+{
+"question": "Thể tích dùng đơn vị cm² hay cm³?",
+"suggestedAnswer": "cm³."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một hộp sữa dạng hình hộp chữ nhật có đáy 6 cm × 4 cm, chiều cao 10 cm. Thể tích hộp là bao nhiêu?",
+"hint": "Tính diện tích đáy trước.",
+"suggestedAnswer": "Sđáy = 6 × 4 = 24 cm². V = 24 × 10 = 240 cm³."
+},
+{
+"question": "Một lăng trụ đứng có chu vi đáy 30 cm, chiều cao 5 cm. Diện tích xung quanh là bao nhiêu?",
+"hint": "Sxq = chu vi đáy × chiều cao.",
+"suggestedAnswer": "Sxq = 30 × 5 = 150 cm²."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Lăng trụ đứng mở lưới để thấy diện tích xung quanh là dải các mặt bên.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Nhập chu vi đáy, diện tích đáy, chiều cao rồi app tự tính Sxq, Stp, V.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+}
+]

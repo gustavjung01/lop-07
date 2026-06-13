@@ -1,0 +1,529 @@
+[
+{
+"lessonId": "g7_science_011",
+"subjectKey": "science",
+"learningObjectives": [
+"Nhận biết một vật đang chuyển động hay đứng yên so với vật mốc.",
+"Hiểu quãng đường là độ dài đường đi của vật.",
+"Biết thời gian chuyển động là khoảng thời gian vật đi từ vị trí này đến vị trí khác.",
+"Mô tả được chuyển động đơn giản bằng lời, bảng hoặc số liệu.",
+"Phân biệt vị trí, quãng đường và thời gian trong tình huống thực tế."
+],
+"easyExplanation": "Một vật được coi là chuyển động khi vị trí của nó thay đổi so với vật mốc theo thời gian. Vật mốc là vật ta chọn để so sánh, ví dụ cây bên đường, bến xe, cột điện hoặc mặt đất. Cùng một vật có thể chuyển động so với vật này nhưng đứng yên so với vật khác. Ví dụ em ngồi trên xe buýt: em đứng yên so với ghế xe, nhưng chuyển động so với cây bên đường. Quãng đường là độ dài đường đi, còn thời gian cho biết vật đi trong bao lâu.",
+"workedExamples": [
+{
+"title": "Chọn vật mốc để xét chuyển động",
+"problem": "Một học sinh ngồi yên trên xe buýt đang chạy. Học sinh đó chuyển động hay đứng yên?",
+"steps": [
+"Xác định cần so với vật mốc nào.",
+"So với ghế xe buýt, học sinh không đổi vị trí nên đứng yên.",
+"So với cây bên đường, học sinh thay đổi vị trí nên chuyển động.",
+"Kết luận phải nêu rõ vật mốc."
+],
+"answer": "Học sinh đứng yên so với ghế xe buýt, nhưng chuyển động so với cây bên đường.",
+"explanation": "Chuyển động hay đứng yên phụ thuộc vào vật mốc được chọn."
+},
+{
+"title": "Nhận biết quãng đường và thời gian",
+"problem": "Một bạn đi bộ từ nhà đến trường dài 800 m trong 10 phút. Hãy xác định quãng đường và thời gian.",
+"steps": [
+"Số 800 m mô tả độ dài đường đi.",
+"10 phút mô tả khoảng thời gian đi.",
+"Ghi rõ đơn vị của từng đại lượng."
+],
+"answer": "Quãng đường là 800 m, thời gian là 10 phút.",
+"explanation": "Quãng đường có đơn vị độ dài, thời gian có đơn vị thời gian."
+}
+],
+"steps": [
+"Chọn vật mốc trước khi xét vật chuyển động hay đứng yên.",
+"Quan sát vị trí của vật có thay đổi theo thời gian không.",
+"Ghi quãng đường vật đi được bằng đơn vị độ dài.",
+"Ghi thời gian chuyển động bằng giây, phút hoặc giờ.",
+"Mô tả chuyển động bằng câu đủ ý: vật nào, so với vật mốc nào, đi được bao xa, trong bao lâu."
+],
+"commonMistakes": [
+{
+"mistake": "Nói vật chuyển động hay đứng yên mà không nêu vật mốc.",
+"fix": "Luôn nói rõ so với vật nào, ví dụ so với mặt đất hoặc so với xe."
+},
+{
+"mistake": "Nhầm quãng đường với vị trí.",
+"fix": "Vị trí là nơi vật ở, quãng đường là độ dài đường vật đã đi."
+},
+{
+"mistake": "Ghi số liệu nhưng quên đơn vị.",
+"fix": "Ghi đủ: 800 m, 10 phút, 2 km."
+}
+],
+"quickMemory": "Chuyển động phụ thuộc vật mốc. Quãng đường là đường đi được. Thời gian là đi trong bao lâu.",
+"warmupQuestions": [
+{
+"question": "Vật mốc là gì?",
+"suggestedAnswer": "Là vật được chọn để so sánh vị trí của vật đang xét."
+},
+{
+"question": "Một người ngồi trên tàu đang chạy đứng yên so với vật nào?",
+"suggestedAnswer": "Đứng yên so với ghế hoặc toa tàu."
+},
+{
+"question": "Quãng đường thường có đơn vị gì?",
+"suggestedAnswer": "m, km, cm tùy tình huống."
+}
+],
+"applicationQuestions": [
+{
+"question": "Em đi xe máy cùng bố. Hãy nêu một vật mốc để em đứng yên và một vật mốc để em chuyển động.",
+"hint": "So với xe và so với mặt đường.",
+"suggestedAnswer": "Em đứng yên so với yên xe, nhưng chuyển động so với cây bên đường."
+},
+{
+"question": "Một xe đạp đi từ A đến B dài 3 km trong 15 phút. Hãy xác định quãng đường và thời gian.",
+"hint": "Quãng đường là độ dài đường đi.",
+"suggestedAnswer": "Quãng đường là 3 km, thời gian là 15 phút."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Hình xe buýt, học sinh, cây bên đường để minh họa vật mốc.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn vật mốc rồi quyết định vật chuyển động hay đứng yên.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_012",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu tốc độ cho biết mức độ nhanh hay chậm của chuyển động.",
+"Biết công thức tính tốc độ: tốc độ bằng quãng đường chia thời gian.",
+"Tính được tốc độ khi biết quãng đường và thời gian.",
+"Biết đổi một số đơn vị đơn giản như km/h, m/s ở mức cơ bản.",
+"So sánh được vật chuyển động nhanh hay chậm dựa vào tốc độ."
+],
+"easyExplanation": "Tốc độ cho biết vật đi nhanh hay chậm. Nếu trong cùng một thời gian, vật nào đi được quãng đường dài hơn thì vật đó nhanh hơn. Nếu cùng một quãng đường, vật nào đi hết ít thời gian hơn thì nhanh hơn. Công thức cơ bản là v = s / t, trong đó v là tốc độ, s là quãng đường, t là thời gian. Khi tính, điều cực quan trọng là đơn vị phải khớp. Ví dụ s tính bằng km, t tính bằng giờ thì v có đơn vị km/h.",
+"workedExamples": [
+{
+"title": "Tính tốc độ theo km/h",
+"problem": "Một xe đi được 60 km trong 2 giờ. Tính tốc độ của xe.",
+"steps": [
+"Xác định quãng đường: s = 60 km.",
+"Xác định thời gian: t = 2 giờ.",
+"Áp dụng công thức v = s / t.",
+"Tính 60 / 2 = 30.",
+"Ghi đơn vị km/h."
+],
+"answer": "Tốc độ của xe là 30 km/h.",
+"explanation": "Vì quãng đường tính bằng km và thời gian tính bằng giờ nên tốc độ là km/h."
+},
+{
+"title": "So sánh nhanh chậm",
+"problem": "Bạn A chạy 100 m trong 20 s, bạn B chạy 100 m trong 25 s. Ai nhanh hơn?",
+"steps": [
+"Hai bạn đi cùng quãng đường 100 m.",
+"Bạn nào mất ít thời gian hơn thì nhanh hơn.",
+"20 s nhỏ hơn 25 s."
+],
+"answer": "Bạn A nhanh hơn.",
+"explanation": "Cùng quãng đường, thời gian ít hơn nghĩa là tốc độ lớn hơn."
+}
+],
+"steps": [
+"Đọc đề và gạch chân quãng đường, thời gian.",
+"Đổi đơn vị nếu cần để quãng đường và thời gian phù hợp.",
+"Dùng công thức v = s / t.",
+"Tính toán cẩn thận và ghi đơn vị tốc độ.",
+"So sánh tốc độ nếu đề hỏi nhanh hay chậm."
+],
+"commonMistakes": [
+{
+"mistake": "Lấy thời gian chia quãng đường.",
+"fix": "Tốc độ = quãng đường chia thời gian: v = s / t."
+},
+{
+"mistake": "Quên đơn vị tốc độ.",
+"fix": "Ghi đủ km/h, m/s tùy đơn vị của quãng đường và thời gian."
+},
+{
+"mistake": "Trộn km với phút rồi ghi km/h mà không đổi phút ra giờ.",
+"fix": "Muốn dùng km/h thì thời gian phải tính bằng giờ."
+}
+],
+"quickMemory": "Tốc độ là nhanh hay chậm. Công thức: v = s / t. Đơn vị đi theo quãng đường và thời gian.",
+"warmupQuestions": [
+{
+"question": "Tốc độ cho biết điều gì?",
+"suggestedAnswer": "Cho biết vật chuyển động nhanh hay chậm."
+},
+{
+"question": "Công thức tính tốc độ là gì?",
+"suggestedAnswer": "v = s / t."
+},
+{
+"question": "Nếu s tính bằng m, t tính bằng s thì tốc độ có đơn vị gì?",
+"suggestedAnswer": "m/s."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một người đi xe đạp được 12 km trong 1 giờ. Tốc độ là bao nhiêu?",
+"hint": "Dùng v = s / t.",
+"suggestedAnswer": "v = 12 / 1 = 12 km/h."
+},
+{
+"question": "Một vật đi 50 m trong 10 s. Tính tốc độ theo m/s.",
+"hint": "Quãng đường tính bằng m, thời gian tính bằng s.",
+"suggestedAnswer": "v = 50 / 10 = 5 m/s."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Tam giác công thức v, s, t để học sinh nhớ mối quan hệ tốc độ, quãng đường, thời gian.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Bài nhập quãng đường và thời gian để app tự kiểm tra tốc độ, đơn vị.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_013",
+"subjectKey": "science",
+"learningObjectives": [
+"Biết thiết kế phép đo tốc độ đơn giản trong thực tế.",
+"Chọn được dụng cụ đo quãng đường và thời gian phù hợp.",
+"Tính được tốc độ trung bình từ quãng đường và thời gian đo được.",
+"Nhận biết sai số có thể xuất hiện khi đo.",
+"Biết cách làm phép đo nhiều lần để kết quả đáng tin cậy hơn."
+],
+"easyExplanation": "Để đo tốc độ trong thực tế, ta cần đo hai thứ: quãng đường vật đi được và thời gian vật đi hết quãng đường đó. Ví dụ muốn đo tốc độ một bạn chạy, ta có thể đo đoạn đường 20 m bằng thước dây, dùng đồng hồ bấm giây để đo thời gian chạy, rồi tính v = s / t. Kết quả đo có thể sai lệch vì bấm đồng hồ chậm, đọc sai vạch, hoặc đường chạy không thẳng. Vì vậy nên đo vài lần rồi lấy giá trị trung bình.",
+"workedExamples": [
+{
+"title": "Thiết kế phép đo tốc độ chạy",
+"problem": "Hãy nêu cách đo tốc độ trung bình của một bạn chạy trên đoạn đường 30 m.",
+"steps": [
+"Dùng thước dây đo đoạn đường 30 m.",
+"Đánh dấu điểm xuất phát và điểm kết thúc.",
+"Dùng đồng hồ bấm giây đo thời gian chạy.",
+"Tính tốc độ theo v = s / t.",
+"Có thể đo 3 lần rồi lấy trung bình."
+],
+"answer": "Đo đoạn đường 30 m, bấm thời gian bạn chạy hết đoạn đó, tính v = 30 / t. Nên đo nhiều lần để kết quả tin cậy hơn.",
+"explanation": "Đo tốc độ cần đủ quãng đường và thời gian."
+},
+{
+"title": "Tính tốc độ từ số liệu đo",
+"problem": "Một xe đồ chơi đi 2 m trong 4 s. Tốc độ trung bình là bao nhiêu?",
+"steps": [
+"Quãng đường s = 2 m.",
+"Thời gian t = 4 s.",
+"Dùng v = s / t.",
+"Tính 2 / 4 = 0,5."
+],
+"answer": "Tốc độ trung bình là 0,5 m/s.",
+"explanation": "Vì dữ liệu đo theo m và s nên đơn vị tốc độ là m/s."
+}
+],
+"steps": [
+"Chọn vật cần đo tốc độ.",
+"Chọn đoạn đường có độ dài rõ ràng.",
+"Đo quãng đường bằng thước hoặc thước dây.",
+"Đo thời gian bằng đồng hồ bấm giây.",
+"Tính tốc độ trung bình và ghi đơn vị.",
+"Lặp lại phép đo để giảm sai số."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ đo thời gian mà không biết quãng đường.",
+"fix": "Muốn tính tốc độ phải có cả quãng đường và thời gian."
+},
+{
+"mistake": "Chỉ đo một lần rồi tin tuyệt đối vào kết quả.",
+"fix": "Nên đo nhiều lần và lấy giá trị trung bình."
+},
+{
+"mistake": "Không nêu nguồn sai số khi làm thí nghiệm.",
+"fix": "Có thể nêu sai số do bấm giờ chậm, đo quãng đường chưa chính xác, vật chuyển động không đều."
+}
+],
+"quickMemory": "Đo tốc độ thực tế cần 2 phép đo: quãng đường và thời gian. Đo nhiều lần giúp kết quả đỡ lệch.",
+"warmupQuestions": [
+{
+"question": "Muốn đo tốc độ cần biết hai đại lượng nào?",
+"suggestedAnswer": "Quãng đường và thời gian."
+},
+{
+"question": "Dụng cụ nào dùng để đo thời gian chạy?",
+"suggestedAnswer": "Đồng hồ bấm giây hoặc đồng hồ có chức năng đo thời gian."
+},
+{
+"question": "Vì sao nên đo nhiều lần?",
+"suggestedAnswer": "Để giảm ảnh hưởng của sai số và có kết quả đáng tin cậy hơn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy thiết kế cách đo tốc độ của xe đồ chơi trên bàn.",
+"hint": "Đo quãng đường trên bàn, bấm thời gian xe đi hết đoạn đó.",
+"suggestedAnswer": "Đánh dấu đoạn đường 1 m trên bàn, thả xe từ điểm đầu, bấm giờ đến khi xe tới điểm cuối, tính v = 1 / t. Lặp lại 3 lần."
+},
+{
+"question": "Một bạn đo 3 lần thời gian xe đi 2 m: 4 s, 5 s, 5 s. Có thể lấy thời gian trung bình bao nhiêu?",
+"hint": "Cộng 3 thời gian rồi chia 3.",
+"suggestedAnswer": "Thời gian trung bình = (4 + 5 + 5) / 3 ≈ 4,67 s."
+}
+],
+"mediaHints": [
+{
+"type": "video",
+"description": "Video ngắn mô phỏng đo tốc độ xe đồ chơi bằng thước và đồng hồ bấm giây.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Bảng nhập 3 lần đo thời gian, tự tính thời gian trung bình và tốc độ trung bình.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_014",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu đồ thị quãng đường-thời gian biểu diễn mối quan hệ giữa quãng đường và thời gian.",
+"Biết trục ngang thường biểu diễn thời gian, trục dọc biểu diễn quãng đường.",
+"Đọc được quãng đường tại một thời điểm từ đồ thị đơn giản.",
+"Nhận biết chuyển động nhanh hơn qua độ dốc lớn hơn của đường biểu diễn.",
+"Vẽ được đồ thị đơn giản từ bảng số liệu quãng đường-thời gian."
+],
+"easyExplanation": "Đồ thị quãng đường-thời gian giúp ta nhìn chuyển động bằng hình. Thường trục ngang là thời gian, trục dọc là quãng đường. Mỗi điểm trên đồ thị cho biết tại một thời điểm, vật đã đi được bao xa. Nếu đường biểu diễn càng dốc, vật chuyển động càng nhanh. Nếu đường nằm ngang, quãng đường không tăng, nghĩa là vật đang đứng yên trong khoảng thời gian đó. Đồ thị giống một bản nhạc của chuyển động, nhìn độ dốc là nghe được nhịp nhanh chậm.",
+"workedExamples": [
+{
+"title": "Đọc điểm trên đồ thị",
+"problem": "Trên đồ thị quãng đường-thời gian, tại t = 5 s vật đi được s = 20 m. Hãy diễn đạt bằng lời.",
+"steps": [
+"Xác định trục thời gian: t = 5 s.",
+"Xác định giá trị quãng đường tương ứng: s = 20 m.",
+"Nói thành câu có đủ thời gian và quãng đường."
+],
+"answer": "Sau 5 giây, vật đi được 20 m.",
+"explanation": "Một điểm trên đồ thị cho biết một cặp giá trị thời gian và quãng đường."
+},
+{
+"title": "Nhận biết chuyển động nhanh hơn",
+"problem": "Hai đường trên đồ thị: đường A dốc hơn đường B. Vật nào chuyển động nhanh hơn?",
+"steps": [
+"Trong đồ thị quãng đường-thời gian, độ dốc liên quan đến tốc độ.",
+"Đường dốc hơn nghĩa là trong cùng thời gian đi được quãng đường lớn hơn.",
+"Vật có đường dốc hơn nhanh hơn."
+],
+"answer": "Vật A chuyển động nhanh hơn.",
+"explanation": "Độ dốc lớn hơn cho thấy tốc độ lớn hơn."
+}
+],
+"steps": [
+"Xác định trục ngang là thời gian và trục dọc là quãng đường.",
+"Đọc từng điểm dữ liệu theo dạng sau t giây, vật đi được s mét.",
+"Khi vẽ, chấm điểm từ bảng số liệu trước.",
+"Nối các điểm theo thứ tự thời gian.",
+"Quan sát độ dốc để nhận xét nhanh hay chậm."
+],
+"commonMistakes": [
+{
+"mistake": "Đổi nhầm trục thời gian và quãng đường.",
+"fix": "Thường trục ngang là thời gian, trục dọc là quãng đường."
+},
+{
+"mistake": "Thấy đường cao hơn liền kết luận nhanh hơn mà không xét độ dốc.",
+"fix": "Nhanh hay chậm phụ thuộc độ dốc, không chỉ vị trí cao thấp."
+},
+{
+"mistake": "Vẽ điểm không theo đúng tỉ lệ trục.",
+"fix": "Chọn tỉ lệ đều và chấm điểm cẩn thận theo số liệu."
+}
+],
+"quickMemory": "Đồ thị s-t: ngang là thời gian, dọc là quãng đường. Đường càng dốc, chuyển động càng nhanh.",
+"warmupQuestions": [
+{
+"question": "Trong đồ thị quãng đường-thời gian, trục ngang thường biểu diễn gì?",
+"suggestedAnswer": "Thời gian."
+},
+{
+"question": "Đường nằm ngang trên đồ thị s-t nói lên điều gì?",
+"suggestedAnswer": "Vật đứng yên trong khoảng thời gian đó."
+},
+{
+"question": "Đường dốc hơn cho biết vật chuyển động thế nào?",
+"suggestedAnswer": "Vật chuyển động nhanh hơn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một vật đi được 0 m sau 0 s, 10 m sau 2 s, 20 m sau 4 s. Hãy mô tả chuyển động.",
+"hint": "Quãng đường tăng đều theo thời gian.",
+"suggestedAnswer": "Vật chuyển động đều, cứ 2 giây đi thêm 10 m."
+},
+{
+"question": "Từ bảng số liệu t: 0, 1, 2, 3 s và s: 0, 2, 4, 6 m, hãy nhận xét tốc độ.",
+"hint": "Mỗi giây quãng đường tăng bao nhiêu?",
+"suggestedAnswer": "Mỗi giây vật đi thêm 2 m, nên tốc độ không đổi là 2 m/s."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Đồ thị quãng đường-thời gian đơn giản có đường dốc, đường nằm ngang và các điểm dữ liệu.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Cho bảng số liệu, học sinh kéo điểm lên hệ trục để tạo đồ thị.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_015",
+"subjectKey": "science",
+"learningObjectives": [
+"Nhận biết nguồn âm là vật phát ra âm.",
+"Hiểu âm phát ra khi vật dao động.",
+"Nêu được ví dụ về nguồn âm trong đời sống.",
+"Quan sát được dao động của một số nguồn âm đơn giản.",
+"Giải thích được một số hiện tượng âm thanh ở mức cơ bản."
+],
+"easyExplanation": "Nguồn âm là vật phát ra âm, ví dụ dây đàn, màng trống, loa, chuông, giọng nói của người. Điểm quan trọng của bài này: âm phát ra do vật dao động. Dao động là chuyển động qua lại quanh một vị trí cân bằng. Khi gảy dây đàn, dây rung lên và phát ra âm. Khi gõ trống, mặt trống dao động. Khi ta nói, dây thanh trong cổ họng dao động. Có khi dao động rất nhanh hoặc rất nhỏ nên mắt khó nhìn thấy, nhưng vẫn có thể cảm nhận hoặc kiểm tra bằng thí nghiệm.",
+"workedExamples": [
+{
+"title": "Xác định nguồn âm",
+"problem": "Khi gõ trống, bộ phận nào là nguồn âm chính?",
+"steps": [
+"Nguồn âm là vật trực tiếp dao động và phát ra âm.",
+"Khi gõ trống, mặt trống rung lên.",
+"Mặt trống là nguồn âm chính."
+],
+"answer": "Mặt trống là nguồn âm chính.",
+"explanation": "Âm phát ra do mặt trống dao động."
+},
+{
+"title": "Giải thích tiếng đàn",
+"problem": "Vì sao dây đàn phát ra âm khi bị gảy?",
+"steps": [
+"Khi gảy, dây đàn bị lệch khỏi vị trí ban đầu.",
+"Dây đàn dao động qua lại.",
+"Dao động của dây đàn tạo ra âm."
+],
+"answer": "Vì dây đàn dao động khi bị gảy, nên phát ra âm.",
+"explanation": "Vật dao động là nguồn gốc tạo ra âm."
+}
+],
+"steps": [
+"Tìm vật đang phát ra âm trong tình huống.",
+"Quan sát hoặc cảm nhận xem vật đó có rung/dao động không.",
+"Nêu tên nguồn âm.",
+"Giải thích bằng mẫu: vật phát ra âm vì nó dao động.",
+"Liên hệ với ví dụ đời sống như loa, trống, đàn, chuông, giọng nói."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ âm tự xuất hiện mà không do vật nào phát ra.",
+"fix": "Âm luôn có nguồn âm, thường là vật đang dao động."
+},
+{
+"mistake": "Không nhìn thấy dao động nên kết luận không có dao động.",
+"fix": "Có dao động rất nhanh hoặc rất nhỏ, mắt thường khó thấy."
+},
+{
+"mistake": "Nhầm người nghe với nguồn âm.",
+"fix": "Nguồn âm là vật phát ra âm, không phải tai người nghe."
+}
+],
+"quickMemory": "Nguồn âm là vật phát ra âm. Âm sinh ra do dao động. Gảy đàn, gõ trống, nói chuyện đều có vật dao động.",
+"warmupQuestions": [
+{
+"question": "Nguồn âm là gì?",
+"suggestedAnswer": "Là vật phát ra âm."
+},
+{
+"question": "Âm phát ra do vật như thế nào?",
+"suggestedAnswer": "Do vật dao động."
+},
+{
+"question": "Khi gảy đàn, bộ phận nào dao động?",
+"suggestedAnswer": "Dây đàn dao động."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy nêu 5 nguồn âm trong lớp học hoặc trong nhà.",
+"hint": "Nghĩ đến loa, chuông, giọng nói, bàn ghế khi gõ.",
+"suggestedAnswer": "Loa, chuông, giọng nói, thước gõ vào bàn, dây đàn."
+},
+{
+"question": "Vì sao khi đặt tay nhẹ lên loa đang phát nhạc, ta thấy loa rung?",
+"hint": "Liên hệ dao động và nguồn âm.",
+"suggestedAnswer": "Vì màng loa dao động để phát ra âm, nên tay có thể cảm nhận sự rung."
+}
+],
+"mediaHints": [
+{
+"type": "video",
+"description": "Video quay chậm dây đàn hoặc mặt trống dao động khi phát ra âm.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn nguồn âm trong các tình huống và nối với vật dao động.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

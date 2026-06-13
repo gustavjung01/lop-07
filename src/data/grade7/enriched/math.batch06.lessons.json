@@ -1,0 +1,558 @@
+[
+{
+"lessonId": "g7_math_026",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được ba trường hợp bằng nhau cơ bản của tam giác: c.c.c, c.g.c, g.c.g.",
+"Xác định được các cạnh và góc tương ứng của hai tam giác.",
+"Vận dụng được trường hợp bằng nhau phù hợp để chứng minh hai tam giác bằng nhau.",
+"Suy ra được các cạnh hoặc góc tương ứng bằng nhau sau khi chứng minh hai tam giác bằng nhau."
+],
+"easyExplanation": "Hai tam giác bằng nhau khi chúng có hình dạng và kích thước giống hệt nhau, chỉ có thể xoay, lật hoặc dời vị trí. Lớp 7 thường dùng ba trường hợp cơ bản: cạnh-cạnh-cạnh, cạnh-góc-cạnh và góc-cạnh-góc. Điều quan trọng nhất là phải ghép đúng đỉnh tương ứng. Khi đã chứng minh được hai tam giác bằng nhau, ta được quyền kết luận các cạnh tương ứng và góc tương ứng bằng nhau.",
+"workedExamples": [
+{
+"title": "Trường hợp cạnh-cạnh-cạnh",
+"problem": "Cho tam giác ABC và tam giác DEF có AB = DE, BC = EF, AC = DF. Chứng minh hai tam giác bằng nhau.",
+"steps": [
+"Xác định ba cặp cạnh tương ứng bằng nhau.",
+"AB tương ứng với DE.",
+"BC tương ứng với EF.",
+"AC tương ứng với DF.",
+"Ba cặp cạnh tương ứng bằng nhau nên dùng trường hợp c.c.c."
+],
+"answer": "Tam giác ABC bằng tam giác DEF theo trường hợp c.c.c.",
+"explanation": "Có đủ ba cặp cạnh tương ứng bằng nhau."
+},
+{
+"title": "Trường hợp cạnh-góc-cạnh",
+"problem": "Cho AB = MN, góc B = góc N, BC = NP. Chứng minh tam giác ABC và tam giác MNP bằng nhau.",
+"steps": [
+"Có hai cặp cạnh tương ứng bằng nhau: AB = MN và BC = NP.",
+"Góc B nằm xen giữa AB và BC.",
+"Góc N nằm xen giữa MN và NP.",
+"Hai cạnh và góc xen giữa tương ứng bằng nhau."
+],
+"answer": "Tam giác ABC bằng tam giác MNP theo trường hợp c.g.c.",
+"explanation": "Với c.g.c, góc bằng nhau phải là góc xen giữa hai cạnh đã biết."
+},
+{
+"title": "Suy ra cạnh tương ứng",
+"problem": "Biết tam giác ABC bằng tam giác A'B'C'. Hỏi cạnh AC tương ứng với cạnh nào?",
+"steps": [
+"Theo thứ tự tên tam giác, A tương ứng A', B tương ứng B', C tương ứng C'.",
+"Cạnh AC nối hai đỉnh A và C.",
+"Cạnh tương ứng nối hai đỉnh A' và C'."
+],
+"answer": "AC tương ứng với A'C'.",
+"explanation": "Thứ tự viết tên tam giác giúp xác định phần tương ứng."
+}
+],
+"steps": [
+"Bước 1: Đánh dấu các cạnh và góc đã biết trên hình.",
+"Bước 2: Xác định đúng các đỉnh tương ứng giữa hai tam giác.",
+"Bước 3: Kiểm tra dữ kiện phù hợp với c.c.c, c.g.c hay g.c.g.",
+"Bước 4: Viết kết luận hai tam giác bằng nhau kèm trường hợp sử dụng.",
+"Bước 5: Sau đó mới suy ra cạnh hoặc góc tương ứng bằng nhau."
+],
+"commonMistakes": [
+{
+"mistake": "Dùng c.g.c nhưng góc không nằm xen giữa hai cạnh.",
+"fix": "Trường hợp c.g.c bắt buộc góc đã biết phải là góc xen giữa hai cạnh đã biết."
+},
+{
+"mistake": "Ghép sai thứ tự đỉnh tương ứng.",
+"fix": "Viết tên hai tam giác theo đúng thứ tự tương ứng rồi mới suy ra cạnh/góc."
+},
+{
+"mistake": "Chưa chứng minh tam giác bằng nhau đã kết luận cạnh tương ứng bằng nhau.",
+"fix": "Phải có bước chứng minh hai tam giác bằng nhau trước."
+}
+],
+"quickMemory": "Ba chìa khóa bằng nhau: c.c.c, c.g.c, g.c.g. Sau khi bằng nhau mới suy ra phần tương ứng.",
+"warmupQuestions": [
+{
+"question": "c.c.c nghĩa là gì?",
+"suggestedAnswer": "Ba cạnh tương ứng bằng nhau."
+},
+{
+"question": "Trong c.g.c, góc phải nằm ở đâu?",
+"suggestedAnswer": "Góc phải nằm xen giữa hai cạnh đã biết."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hai tam giác có hai cạnh và góc xen giữa tương ứng bằng nhau. Dùng trường hợp nào?",
+"hint": "Nhìn thứ tự cạnh, góc, cạnh.",
+"suggestedAnswer": "Dùng trường hợp c.g.c."
+},
+{
+"question": "Tam giác ABC bằng tam giác DEF. Cạnh BC tương ứng với cạnh nào?",
+"hint": "Theo thứ tự A ↔ D, B ↔ E, C ↔ F.",
+"suggestedAnswer": "BC tương ứng với EF."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Hai tam giác có đánh dấu cạnh/góc bằng nhau theo ba trường hợp c.c.c, c.g.c, g.c.g.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Cho học sinh chọn trường hợp bằng nhau phù hợp dựa trên dữ kiện được tô màu.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_027",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được tam giác cân và tam giác đều.",
+"Vận dụng tính chất hai góc ở đáy của tam giác cân bằng nhau.",
+"Vận dụng tính chất mỗi góc của tam giác đều bằng 60°.",
+"Dùng dấu hiệu nhận biết để chứng minh một tam giác là tam giác cân hoặc tam giác đều."
+],
+"easyExplanation": "Tam giác cân là tam giác có hai cạnh bằng nhau. Hai cạnh bằng nhau gọi là cạnh bên, cạnh còn lại gọi là đáy. Trong tam giác cân, hai góc ở đáy bằng nhau. Tam giác đều là tam giác có ba cạnh bằng nhau, vì vậy ba góc cũng bằng nhau và mỗi góc bằng 60°. Khi gặp bài tam giác cân, hãy tìm cạnh bằng nhau hoặc góc bằng nhau. Khi gặp tam giác đều, hãy nhớ bộ ba: ba cạnh bằng nhau, ba góc bằng nhau, mỗi góc 60°.",
+"workedExamples": [
+{
+"title": "Tính góc tam giác cân",
+"problem": "Tam giác ABC cân tại A, biết góc A bằng 40°. Tính góc B và góc C.",
+"steps": [
+"Tam giác cân tại A nên AB = AC.",
+"Hai góc ở đáy là góc B và góc C bằng nhau.",
+"Tổng ba góc tam giác bằng 180°.",
+"Góc B + góc C = 180° - 40° = 140°.",
+"Mỗi góc bằng 140° : 2 = 70°."
+],
+"answer": "Góc B = góc C = 70°.",
+"explanation": "Trong tam giác cân, hai góc ở đáy bằng nhau."
+},
+{
+"title": "Góc của tam giác đều",
+"problem": "Tam giác MNP đều. Tính góc M.",
+"steps": [
+"Tam giác đều có ba góc bằng nhau.",
+"Tổng ba góc là 180°.",
+"Mỗi góc bằng 180° : 3 = 60°."
+],
+"answer": "Góc M = 60°.",
+"explanation": "Mọi góc của tam giác đều đều bằng 60°."
+},
+{
+"title": "Dấu hiệu tam giác cân",
+"problem": "Tam giác ABC có góc B = góc C. Có kết luận gì?",
+"steps": [
+"Hai góc ở B và C bằng nhau.",
+"Nếu một tam giác có hai góc bằng nhau thì hai cạnh đối diện bằng nhau.",
+"Cạnh đối diện góc B là AC, cạnh đối diện góc C là AB."
+],
+"answer": "AB = AC, nên tam giác ABC cân tại A.",
+"explanation": "Hai góc bằng nhau là dấu hiệu nhận biết tam giác cân."
+}
+],
+"steps": [
+"Bước 1: Xem đề cho cạnh bằng nhau hay góc bằng nhau.",
+"Bước 2: Nếu có hai cạnh bằng nhau, xác định đỉnh cân và đáy.",
+"Bước 3: Dùng tính chất hai góc ở đáy bằng nhau để tính góc.",
+"Bước 4: Nếu tam giác đều, dùng mỗi góc bằng 60°.",
+"Bước 5: Kiểm tra kết luận: cân tại đỉnh nào hoặc đều."
+],
+"commonMistakes": [
+{
+"mistake": "Tam giác cân tại A nhưng lại cho góc A bằng góc B.",
+"fix": "Cân tại A nghĩa là hai cạnh AB và AC bằng nhau, nên hai góc ở đáy B và C bằng nhau."
+},
+{
+"mistake": "Nghĩ tam giác có một góc 60° là tam giác đều.",
+"fix": "Một góc 60° chưa đủ. Tam giác đều cần ba cạnh bằng nhau hoặc đủ điều kiện tương đương."
+},
+{
+"mistake": "Quên tổng ba góc tam giác bằng 180° khi tính góc còn lại.",
+"fix": "Luôn bắt đầu bài tính góc tam giác bằng tổng 180°."
+}
+],
+"quickMemory": "Tam giác cân có hai cạnh bằng nhau và hai góc đáy bằng nhau. Tam giác đều có ba góc 60°.",
+"warmupQuestions": [
+{
+"question": "Tam giác đều có mỗi góc bằng bao nhiêu độ?",
+"suggestedAnswer": "60°."
+},
+{
+"question": "Tam giác ABC cân tại A thì hai góc nào bằng nhau?",
+"suggestedAnswer": "Góc B và góc C."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một biển báo giao thông dạng tam giác đều. Mỗi góc của biển là bao nhiêu độ?",
+"hint": "Tam giác đều có ba góc bằng nhau.",
+"suggestedAnswer": "60°."
+},
+{
+"question": "Tam giác cân có góc ở đỉnh bằng 100°. Mỗi góc ở đáy bằng bao nhiêu?",
+"hint": "Hai góc ở đáy bằng nhau và tổng ba góc là 180°.",
+"suggestedAnswer": "Mỗi góc ở đáy bằng (180° - 100°) : 2 = 40°."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Tam giác cân có hai cạnh bên tô cùng màu, hai góc đáy đánh dấu bằng nhau.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo đỉnh tam giác cân để thấy hai góc ở đáy luôn bằng nhau.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_028",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được tam giác vuông và các yếu tố trong tam giác vuông.",
+"Tính được góc nhọn còn lại trong tam giác vuông.",
+"Hiểu hai góc nhọn trong tam giác vuông phụ nhau.",
+"Vận dụng được suy luận cơ bản và trường hợp bằng nhau phù hợp trong tam giác vuông."
+],
+"easyExplanation": "Tam giác vuông là tam giác có một góc bằng 90°. Cạnh đối diện góc vuông gọi là cạnh huyền, hai cạnh còn lại là hai cạnh góc vuông. Vì tổng ba góc tam giác là 180° và một góc đã là 90°, nên hai góc nhọn còn lại có tổng 90°. Ta nói hai góc nhọn trong tam giác vuông phụ nhau. Khi làm bài, hãy xác định góc vuông trước, rồi tìm cạnh huyền và các góc nhọn.",
+"workedExamples": [
+{
+"title": "Tính góc nhọn còn lại",
+"problem": "Tam giác ABC vuông tại A, biết góc B = 35°. Tính góc C.",
+"steps": [
+"Tam giác vuông tại A nên góc A = 90°.",
+"Tổng ba góc tam giác bằng 180°.",
+"Góc B + góc C = 90°.",
+"Góc C = 90° - 35° = 55°."
+],
+"answer": "Góc C = 55°.",
+"explanation": "Hai góc nhọn trong tam giác vuông phụ nhau."
+},
+{
+"title": "Xác định cạnh huyền",
+"problem": "Tam giác MNP vuông tại N. Cạnh nào là cạnh huyền?",
+"steps": [
+"Cạnh huyền là cạnh đối diện góc vuông.",
+"Góc vuông ở N.",
+"Cạnh đối diện N là MP."
+],
+"answer": "MP là cạnh huyền.",
+"explanation": "Cạnh huyền luôn là cạnh đối diện góc vuông và thường là cạnh dài nhất."
+},
+{
+"title": "Nhận biết tam giác vuông",
+"problem": "Một tam giác có hai góc là 90° và 40°. Góc còn lại bằng bao nhiêu?",
+"steps": [
+"Tổng ba góc là 180°.",
+"Góc còn lại = 180° - 90° - 40°.",
+"Tính được 50°."
+],
+"answer": "Góc còn lại bằng 50°.",
+"explanation": "Có một góc 90° nên đó là tam giác vuông."
+}
+],
+"steps": [
+"Bước 1: Tìm góc 90° để xác định tam giác vuông.",
+"Bước 2: Xác định cạnh huyền là cạnh đối diện góc vuông.",
+"Bước 3: Dùng tổng hai góc nhọn bằng 90° để tính góc.",
+"Bước 4: Khi chứng minh, chọn dữ kiện cạnh/góc tương ứng phù hợp.",
+"Bước 5: Kiểm tra xem kết quả góc nhọn có nhỏ hơn 90° không."
+],
+"commonMistakes": [
+{
+"mistake": "Gọi cạnh kề góc vuông là cạnh huyền.",
+"fix": "Cạnh huyền phải đối diện góc vuông."
+},
+{
+"mistake": "Tính hai góc nhọn có tổng 180°.",
+"fix": "Trong tam giác vuông, hai góc nhọn có tổng 90°."
+},
+{
+"mistake": "Không xác định rõ tam giác vuông tại đỉnh nào.",
+"fix": "Câu 'vuông tại A' nghĩa là góc A bằng 90°."
+}
+],
+"quickMemory": "Tam giác vuông có một góc 90°. Hai góc nhọn phụ nhau. Cạnh huyền đối diện góc vuông.",
+"warmupQuestions": [
+{
+"question": "Tam giác ABC vuông tại B thì góc nào bằng 90°?",
+"suggestedAnswer": "Góc B."
+},
+{
+"question": "Hai góc nhọn trong tam giác vuông có tổng bao nhiêu độ?",
+"suggestedAnswer": "90°."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một ê-ke có một góc vuông và một góc nhọn 30°. Góc nhọn còn lại là bao nhiêu?",
+"hint": "Hai góc nhọn trong tam giác vuông phụ nhau.",
+"suggestedAnswer": "60°."
+},
+{
+"question": "Tam giác DEF vuông tại E. Cạnh DF có vai trò gì?",
+"hint": "Cạnh đối diện góc vuông là cạnh huyền.",
+"suggestedAnswer": "DF là cạnh huyền."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Tam giác vuông có ký hiệu ô vuông tại góc vuông, tô màu cạnh huyền.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài chọn cạnh huyền và tính góc nhọn còn lại trong nhiều tam giác vuông.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_029",
+"subjectKey": "math",
+"learningObjectives": [
+"Hiểu quan hệ giữa cạnh và góc đối diện trong tam giác.",
+"So sánh được các cạnh hoặc các góc của tam giác dựa vào quan hệ đối diện.",
+"Vận dụng được bất đẳng thức tam giác để kiểm tra ba đoạn thẳng có lập thành tam giác không.",
+"Giải được bài toán cơ bản về điều kiện tồn tại tam giác."
+],
+"easyExplanation": "Trong một tam giác, cạnh lớn hơn thì đối diện với góc lớn hơn, và góc lớn hơn thì đối diện với cạnh lớn hơn. Đây là cách so sánh rất nhanh khi chưa biết số đo đầy đủ. Bất đẳng thức tam giác nói rằng trong một tam giác, tổng độ dài hai cạnh bất kỳ luôn lớn hơn cạnh còn lại. Vì vậy ba đoạn thẳng muốn lập thành tam giác thì phải qua được ba lần kiểm tra tổng hai cạnh lớn hơn cạnh thứ ba.",
+"workedExamples": [
+{
+"title": "So sánh cạnh theo góc",
+"problem": "Tam giác ABC có góc A = 80°, góc B = 60°, góc C = 40°. Cạnh nào lớn nhất?",
+"steps": [
+"Góc lớn nhất là góc A = 80°.",
+"Cạnh đối diện góc A là BC.",
+"Cạnh đối diện góc lớn nhất là cạnh lớn nhất."
+],
+"answer": "BC là cạnh lớn nhất.",
+"explanation": "Cạnh lớn hơn đối diện góc lớn hơn."
+},
+{
+"title": "Kiểm tra bất đẳng thức tam giác",
+"problem": "Ba đoạn thẳng 3 cm, 4 cm, 8 cm có lập thành tam giác không?",
+"steps": [
+"Kiểm tra tổng hai cạnh nhỏ hơn: 3 + 4 = 7.",
+"So sánh với cạnh lớn nhất 8.",
+"Vì 7 không lớn hơn 8 nên không lập thành tam giác."
+],
+"answer": "Không lập thành tam giác.",
+"explanation": "Chỉ cần tổng hai cạnh nhỏ nhất không lớn hơn cạnh lớn nhất là loại."
+},
+{
+"title": "Tìm khoảng cho cạnh còn lại",
+"problem": "Tam giác có hai cạnh 5 cm và 7 cm. Cạnh thứ ba x phải thỏa điều kiện gì?",
+"steps": [
+"Theo bất đẳng thức tam giác: x < 5 + 7.",
+"Cũng cần x > 7 - 5.",
+"Suy ra 2 < x < 12."
+],
+"answer": "2 < x < 12.",
+"explanation": "Cạnh thứ ba lớn hơn hiệu và nhỏ hơn tổng hai cạnh đã biết."
+}
+],
+"steps": [
+"Bước 1: Khi so sánh, xác định cạnh đối diện với góc nào.",
+"Bước 2: Góc lớn hơn đối diện cạnh lớn hơn, cạnh lớn hơn đối diện góc lớn hơn.",
+"Bước 3: Khi kiểm tra tam giác, sắp xếp ba cạnh từ nhỏ đến lớn.",
+"Bước 4: Kiểm tra tổng hai cạnh nhỏ hơn có lớn hơn cạnh lớn nhất không.",
+"Bước 5: Với cạnh chưa biết x, dùng hiệu nhỏ hơn x và x nhỏ hơn tổng."
+],
+"commonMistakes": [
+{
+"mistake": "So sánh cạnh nhưng nhìn nhầm góc đối diện.",
+"fix": "Cạnh AB đối diện góc C, cạnh AC đối diện góc B, cạnh BC đối diện góc A."
+},
+{
+"mistake": "Dùng điều kiện tổng hai cạnh lớn hơn hoặc bằng cạnh còn lại.",
+"fix": "Phải là lớn hơn, không được bằng."
+},
+{
+"mistake": "Chỉ kiểm tra một cặp cạnh bất kỳ.",
+"fix": "Cách nhanh là kiểm tra tổng hai cạnh nhỏ nhất có lớn hơn cạnh lớn nhất không."
+}
+],
+"quickMemory": "Trong tam giác: góc lớn đối diện cạnh lớn. Ba cạnh lập tam giác khi tổng hai cạnh nhỏ hơn lớn hơn cạnh lớn nhất.",
+"warmupQuestions": [
+{
+"question": "Trong tam giác ABC, cạnh BC đối diện góc nào?",
+"suggestedAnswer": "Góc A."
+},
+{
+"question": "Ba đoạn 2, 3, 5 có lập thành tam giác không?",
+"suggestedAnswer": "Không, vì 2 + 3 = 5, không lớn hơn 5."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một tam giác có các góc 30°, 70°, 80°. Cạnh đối diện góc nào là cạnh lớn nhất?",
+"hint": "Cạnh lớn nhất đối diện góc lớn nhất.",
+"suggestedAnswer": "Cạnh đối diện góc 80°."
+},
+{
+"question": "Ba que dài 6 cm, 8 cm, 10 cm có ghép thành tam giác được không?",
+"hint": "Kiểm tra 6 + 8 với 10.",
+"suggestedAnswer": "Có, vì 6 + 8 = 14 > 10."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Tam giác có góc lớn tô màu và cạnh đối diện được tô cùng màu.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Nhập ba độ dài que, app kiểm tra có lập thành tam giác không.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_030",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được đường vuông góc, đường xiên và hình chiếu của đường xiên.",
+"Hiểu khoảng cách từ một điểm đến một đường thẳng là độ dài đoạn vuông góc.",
+"So sánh được đường vuông góc và đường xiên trong trường hợp cơ bản.",
+"Vận dụng được quan hệ đường xiên, hình chiếu để suy luận hình học đơn giản."
+],
+"easyExplanation": "Từ một điểm nằm ngoài một đường thẳng, đoạn vuông góc hạ xuống đường thẳng là đoạn ngắn nhất. Độ dài đoạn vuông góc đó chính là khoảng cách từ điểm đến đường thẳng. Các đoạn nối từ điểm đó đến những điểm khác trên đường thẳng gọi là đường xiên. Hình chiếu của đường xiên là đoạn nằm trên đường thẳng, nối từ chân đường vuông góc đến chân đường xiên. Đường xiên nào có hình chiếu lớn hơn thì thường dài hơn.",
+"workedExamples": [
+{
+"title": "Nhận biết khoảng cách",
+"problem": "Từ điểm A ngoài đường thẳng d, AH vuông góc với d tại H. Đoạn nào biểu diễn khoảng cách từ A đến d?",
+"steps": [
+"Khoảng cách từ điểm đến đường thẳng là đoạn vuông góc.",
+"AH vuông góc với d.",
+"Vậy AH là khoảng cách từ A đến d."
+],
+"answer": "Đoạn AH.",
+"explanation": "Đường vuông góc là đoạn ngắn nhất từ điểm đến đường thẳng."
+},
+{
+"title": "So sánh đường xiên và đường vuông góc",
+"problem": "Từ A đến đường thẳng d có AH vuông góc d, AB là đường xiên. So sánh AH và AB.",
+"steps": [
+"AH là đoạn vuông góc từ A đến d.",
+"AB là đường xiên từ A đến d.",
+"Đường vuông góc ngắn hơn mọi đường xiên."
+],
+"answer": "AH < AB.",
+"explanation": "Khoảng cách ngắn nhất là đoạn vuông góc."
+},
+{
+"title": "Hình chiếu của đường xiên",
+"problem": "Cho AH vuông góc d, B nằm trên d. Đường xiên AB có hình chiếu trên d là đoạn nào?",
+"steps": [
+"Chân đường vuông góc là H.",
+"Chân đường xiên AB trên d là B.",
+"Hình chiếu của AB trên d là đoạn HB."
+],
+"answer": "HB.",
+"explanation": "Hình chiếu nằm trên đường thẳng d."
+}
+],
+"steps": [
+"Bước 1: Xác định điểm nằm ngoài đường thẳng và đường thẳng được xét.",
+"Bước 2: Tìm đoạn vuông góc từ điểm đến đường thẳng.",
+"Bước 3: Gọi đoạn vuông góc là khoảng cách từ điểm đến đường thẳng.",
+"Bước 4: Nhận biết các đường xiên nối điểm ngoài với các điểm khác trên đường thẳng.",
+"Bước 5: Xác định hình chiếu bằng đoạn từ chân vuông góc đến chân đường xiên."
+],
+"commonMistakes": [
+{
+"mistake": "Lấy một đường xiên bất kỳ làm khoảng cách từ điểm đến đường thẳng.",
+"fix": "Khoảng cách phải là đoạn vuông góc."
+},
+{
+"mistake": "Nhầm đường xiên với hình chiếu của nó.",
+"fix": "Đường xiên nối điểm ngoài với điểm trên đường thẳng. Hình chiếu nằm trên đường thẳng."
+},
+{
+"mistake": "Cho rằng đường xiên ngắn hơn đường vuông góc.",
+"fix": "Đường vuông góc luôn là đoạn ngắn nhất."
+}
+],
+"quickMemory": "Từ điểm đến đường thẳng, đoạn vuông góc là ngắn nhất. Hình chiếu nằm trên đường thẳng.",
+"warmupQuestions": [
+{
+"question": "Khoảng cách từ điểm A đến đường thẳng d là đoạn nào?",
+"suggestedAnswer": "Đoạn vuông góc từ A đến d."
+},
+{
+"question": "Đường xiên có nhất thiết vuông góc với đường thẳng không?",
+"suggestedAnswer": "Không."
+}
+],
+"applicationQuestions": [
+{
+"question": "Muốn đo khoảng cách ngắn nhất từ một nhà đến con đường thẳng trước nhà, nên đo theo hướng nào?",
+"hint": "Khoảng cách ngắn nhất là đoạn vuông góc.",
+"suggestedAnswer": "Đo theo đoạn vuông góc từ nhà đến con đường."
+},
+{
+"question": "Từ điểm A ngoài d, AH vuông góc d và AB là đường xiên. Nếu AH = 4 cm, AB có thể bằng 3 cm không?",
+"hint": "Đường xiên dài hơn đoạn vuông góc.",
+"suggestedAnswer": "Không, vì AB phải lớn hơn AH."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Điểm A ngoài đường thẳng d, đoạn AH vuông góc, các đường xiên AB, AC và hình chiếu HB, HC.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo điểm B trên đường thẳng để thấy đường xiên và hình chiếu thay đổi.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+}
+]

@@ -1,0 +1,442 @@
+[
+{
+"lessonId": "g7_eng_u01",
+"subjectKey": "english",
+"learningObjectives": [
+"Learn common vocabulary about hobbies and free time activities.",
+"Use simple present tense to talk about habits and interests.",
+"Ask and answer questions about likes, dislikes and frequency.",
+"Write a short paragraph about a favourite hobby."
+],
+"easyExplanation": "Unit này giúp học sinh nói về sở thích và thời gian rảnh bằng tiếng Anh. Trọng tâm là các từ như reading, cycling, cooking, gardening, playing chess, collecting stamps. Khi nói thói quen, ta thường dùng thì hiện tại đơn: I play football after school. She reads books at weekends. Với he, she, it, động từ thường thêm s hoặc es. Câu hỏi hay gặp: What do you like doing? How often do you...? Why do you like it?",
+"workedExamples": [
+{
+"title": "Talk about a hobby",
+"problem": "Make a sentence with the hobby 'cycling'.",
+"steps": [
+"Choose a subject: I.",
+"Use simple present tense.",
+"Add time or reason if needed."
+],
+"answer": "I like cycling in my free time.",
+"explanation": "Sau like có thể dùng V-ing: like cycling, like reading, like cooking."
+},
+{
+"title": "Simple present with he/she",
+"problem": "Complete: She ___ books every evening. (read)",
+"steps": [
+"The subject is She.",
+"In simple present, with she, add s to the verb.",
+"read becomes reads."
+],
+"answer": "She reads books every evening.",
+"explanation": "Với he/she/it, động từ thường thêm s hoặc es trong câu khẳng định."
+},
+{
+"title": "Ask about frequency",
+"problem": "Ask your friend how often they play badminton.",
+"steps": [
+"Start with How often.",
+"Use do because the subject is you.",
+"Use the base verb play."
+],
+"answer": "How often do you play badminton?",
+"explanation": "How often dùng để hỏi mức độ thường xuyên."
+}
+],
+"steps": [
+"Bước 1: Học nhóm từ vựng về sở thích.",
+"Bước 2: Luyện mẫu câu I like + V-ing.",
+"Bước 3: Ôn hiện tại đơn với I/you/we/they và he/she/it.",
+"Bước 4: Luyện hỏi đáp bằng What, Why, How often.",
+"Bước 5: Viết đoạn ngắn 4-5 câu về sở thích cá nhân."
+],
+"commonMistakes": [
+{
+"mistake": "Viết She read books every day.",
+"fix": "Với She ở hiện tại đơn, viết She reads books every day."
+},
+{
+"mistake": "Dùng like + verb nguyên thể không thống nhất.",
+"fix": "Mẫu dễ nhớ cho lớp 7: like + V-ing, ví dụ like swimming."
+},
+{
+"mistake": "Trả lời How often bằng tên hoạt động.",
+"fix": "How often hỏi tần suất, nên trả lời: every day, twice a week, sometimes."
+}
+],
+"quickMemory": "Hobbies: like + V-ing. Simple present: he/she/it thêm s hoặc es. How often hỏi tần suất.",
+"warmupQuestions": [
+{
+"question": "Complete: I like ___ football. (play)",
+"suggestedAnswer": "I like playing football."
+},
+{
+"question": "Choose the correct sentence: She read books every night / She reads books every night.",
+"suggestedAnswer": "She reads books every night."
+}
+],
+"applicationQuestions": [
+{
+"question": "Write 3 sentences about your hobby using: like, often, because.",
+"hint": "Example: I like drawing. I often draw at weekends. I like it because it is relaxing.",
+"suggestedAnswer": "I like drawing. I often draw at weekends. I like it because it is relaxing."
+},
+{
+"question": "Ask a classmate about their hobby and frequency.",
+"hint": "Use What and How often.",
+"suggestedAnswer": "What do you like doing? How often do you do it?"
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Vocabulary mind map: sports, indoor hobbies, creative hobbies, collecting hobbies.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Match hobby pictures with English words, then build sentences using like + V-ing.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_eng_u02",
+"subjectKey": "english",
+"learningObjectives": [
+"Learn vocabulary about health, habits and healthy living.",
+"Use should and shouldn't to give health advice.",
+"Talk about routines that are good or bad for health.",
+"Write simple advice for common health problems."
+],
+"easyExplanation": "Unit này xoay quanh sức khỏe và lối sống lành mạnh. Từ vựng hay gặp: exercise, sleep, vegetables, junk food, toothache, headache, sore throat, keep fit. Khi đưa lời khuyên, ta dùng should hoặc shouldn't. Ví dụ: You should drink more water. You shouldn't eat too much fast food. Sau should/shouldn't, động từ luôn ở dạng nguyên thể, không thêm s.",
+"workedExamples": [
+{
+"title": "Give advice with should",
+"problem": "Your friend has a headache. Give one piece of advice.",
+"steps": [
+"Choose should for good advice.",
+"Use a base verb after should.",
+"Make the advice clear and short."
+],
+"answer": "You should take a rest.",
+"explanation": "Should dùng để khuyên nên làm gì."
+},
+{
+"title": "Use shouldn't",
+"problem": "Complete: You ___ stay up late. It is bad for your health.",
+"steps": [
+"The sentence says the habit is bad.",
+"Use shouldn't to advise not doing it.",
+"After shouldn't, use the base verb stay."
+],
+"answer": "You shouldn't stay up late.",
+"explanation": "Shouldn't dùng để khuyên không nên làm gì."
+},
+{
+"title": "Healthy habit sentence",
+"problem": "Make a sentence with 'exercise'.",
+"steps": [
+"Choose a subject.",
+"Use simple present for a routine.",
+"Add frequency if possible."
+],
+"answer": "I exercise every morning.",
+"explanation": "Các thói quen sức khỏe thường dùng thì hiện tại đơn."
+}
+],
+"steps": [
+"Bước 1: Học từ vựng về cơ thể, bệnh nhẹ và thói quen sức khỏe.",
+"Bước 2: Luyện mẫu You should + verb.",
+"Bước 3: Luyện mẫu You shouldn't + verb.",
+"Bước 4: Ghép vấn đề sức khỏe với lời khuyên phù hợp.",
+"Bước 5: Viết 4-5 câu về cách giữ sức khỏe."
+],
+"commonMistakes": [
+{
+"mistake": "Viết You should drinks water.",
+"fix": "Sau should dùng động từ nguyên thể: You should drink water."
+},
+{
+"mistake": "Dùng should cho thói quen xấu.",
+"fix": "Với điều không nên làm, dùng shouldn't."
+},
+{
+"mistake": "Nhầm advice với habit.",
+"fix": "Habit là thói quen. Advice là lời khuyên."
+}
+],
+"quickMemory": "Health advice: should + verb, shouldn't + verb. Không thêm s sau should.",
+"warmupQuestions": [
+{
+"question": "Complete: You should ___ more vegetables. (eat)",
+"suggestedAnswer": "You should eat more vegetables."
+},
+{
+"question": "Complete: You shouldn't ___ too much TV. (watch)",
+"suggestedAnswer": "You shouldn't watch too much TV."
+}
+],
+"applicationQuestions": [
+{
+"question": "Give two pieces of advice for a student who often feels tired.",
+"hint": "Use should and shouldn't.",
+"suggestedAnswer": "You should sleep earlier. You shouldn't play games late at night."
+},
+{
+"question": "Write three healthy habits using simple present tense.",
+"hint": "Use verbs like eat, drink, exercise, sleep.",
+"suggestedAnswer": "I eat vegetables every day. I drink enough water. I exercise after school."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Two-column poster: healthy habits and unhealthy habits with icons.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Drag health problems to matching advice sentences using should/shouldn't.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_eng_u03",
+"subjectKey": "english",
+"learningObjectives": [
+"Learn vocabulary about community service and volunteering.",
+"Use past simple tense to talk about completed volunteer activities.",
+"Use phrases to describe helping people and improving the community.",
+"Write a short report about a community service activity."
+],
+"easyExplanation": "Unit này nói về hoạt động vì cộng đồng như donate books, clean the park, help old people, plant trees, collect rubbish, tutor children. Khi kể lại việc đã làm, ta thường dùng quá khứ đơn: We cleaned the school yard. They donated clothes. Với động từ thường, nhiều từ thêm ed, nhưng cũng có động từ bất quy tắc như give → gave, go → went, make → made.",
+"workedExamples": [
+{
+"title": "Past simple regular verb",
+"problem": "Complete: We ___ the park yesterday. (clean)",
+"steps": [
+"The time word yesterday shows past time.",
+"Clean is a regular verb.",
+"Add ed to make cleaned."
+],
+"answer": "We cleaned the park yesterday.",
+"explanation": "Quá khứ đơn với động từ thường có thể thêm ed."
+},
+{
+"title": "Community service sentence",
+"problem": "Make a sentence with 'donate books'.",
+"steps": [
+"Choose a subject.",
+"Use past simple if the activity finished.",
+"Add place or receiver if useful."
+],
+"answer": "Our class donated books to children in the village.",
+"explanation": "Donate something to someone/place là cấu trúc thường gặp."
+},
+{
+"title": "Irregular verb",
+"problem": "Complete: Last Sunday, we ___ to a nursing home. (go)",
+"steps": [
+"Last Sunday shows past time.",
+"Go is irregular.",
+"The past form of go is went."
+],
+"answer": "Last Sunday, we went to a nursing home.",
+"explanation": "Một số động từ không thêm ed mà đổi dạng."
+}
+],
+"steps": [
+"Bước 1: Học từ vựng về hoạt động tình nguyện.",
+"Bước 2: Phân biệt hoạt động đang làm và hoạt động đã hoàn thành.",
+"Bước 3: Dùng quá khứ đơn để kể hoạt động đã làm.",
+"Bước 4: Ghi nhớ vài động từ bất quy tắc thông dụng.",
+"Bước 5: Viết báo cáo ngắn: when, where, what you did, how you felt."
+],
+"commonMistakes": [
+{
+"mistake": "Viết We clean the park yesterday.",
+"fix": "Có yesterday nên dùng quá khứ: We cleaned the park yesterday."
+},
+{
+"mistake": "Thêm ed vào mọi động từ bất quy tắc.",
+"fix": "Một số từ đổi dạng: go → went, give → gave, make → made."
+},
+{
+"mistake": "Chỉ liệt kê hoạt động mà không nói kết quả hoặc cảm xúc.",
+"fix": "Bài viết nên có thêm kết quả: It made the park cleaner, hoặc cảm xúc: We felt happy."
+}
+],
+"quickMemory": "Community service: help, clean, donate, collect, plant. Kể việc đã làm thì dùng past simple.",
+"warmupQuestions": [
+{
+"question": "Complete: They ___ trees last week. (plant)",
+"suggestedAnswer": "They planted trees last week."
+},
+{
+"question": "What is the past form of go?",
+"suggestedAnswer": "went."
+}
+],
+"applicationQuestions": [
+{
+"question": "Write three sentences about a volunteer activity your class did.",
+"hint": "Use past simple and words like cleaned, donated, helped.",
+"suggestedAnswer": "We cleaned the school yard. We collected rubbish. We felt happy."
+},
+{
+"question": "Make one sentence with 'help old people'.",
+"hint": "Use past simple.",
+"suggestedAnswer": "We helped old people in our neighbourhood."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Community service word map: people, places, actions, results.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sort verbs into regular past and irregular past, then build volunteer report sentences.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_eng_u04",
+"subjectKey": "english",
+"learningObjectives": [
+"Learn vocabulary about music, arts, artists and performances.",
+"Use comparison words to compare people, songs, paintings or performances.",
+"Express opinions using phrases like I think, I like, I prefer.",
+"Write a short description of a favourite song, painting or performance."
+],
+"easyExplanation": "Unit này giúp học sinh nói về âm nhạc và nghệ thuật: song, singer, band, painting, artist, musical instrument, concert, performance. Khi nêu ý kiến, dùng I think, In my opinion, I like, I prefer. Khi so sánh, có thể dùng as...as hoặc comparative adjectives. Ví dụ: This song is more exciting than that one. Her painting is as beautiful as mine. Với tính từ ngắn thường thêm er, với tính từ dài thường dùng more.",
+"workedExamples": [
+{
+"title": "Express an opinion",
+"problem": "Say your opinion about a song.",
+"steps": [
+"Start with I think or In my opinion.",
+"Use an adjective to describe the song.",
+"Add a reason if possible."
+],
+"answer": "I think this song is relaxing because the melody is soft.",
+"explanation": "Opinion sentence becomes better when it has a reason."
+},
+{
+"title": "Comparative adjective",
+"problem": "Complete: This painting is ___ than that painting. (colourful)",
+"steps": [
+"Colourful is a long adjective.",
+"Use more before long adjectives.",
+"The comparative form is more colourful."
+],
+"answer": "This painting is more colourful than that painting.",
+"explanation": "Tính từ dài thường dùng more + adjective + than."
+},
+{
+"title": "As...as comparison",
+"problem": "Make a sentence using 'as beautiful as'.",
+"steps": [
+"Choose two things to compare.",
+"Use as + adjective + as.",
+"Keep the adjective in its base form."
+],
+"answer": "This picture is as beautiful as that one.",
+"explanation": "As...as dùng để nói hai thứ ngang bằng nhau về một đặc điểm."
+}
+],
+"steps": [
+"Bước 1: Học từ vựng về âm nhạc, tranh ảnh, biểu diễn và nhạc cụ.",
+"Bước 2: Luyện câu nêu ý kiến bằng I think, I like, I prefer.",
+"Bước 3: Luyện so sánh hơn với short adjective + er hoặc more + long adjective.",
+"Bước 4: Luyện so sánh ngang bằng bằng as + adjective + as.",
+"Bước 5: Viết đoạn ngắn mô tả tác phẩm yêu thích và lý do."
+],
+"commonMistakes": [
+{
+"mistake": "Viết more beautifuler.",
+"fix": "Không dùng cả more và er cùng lúc. Viết more beautiful."
+},
+{
+"mistake": "Dùng as more beautiful as.",
+"fix": "Cấu trúc đúng là as beautiful as, tính từ ở dạng gốc."
+},
+{
+"mistake": "Nêu ý kiến nhưng thiếu lý do.",
+"fix": "Thêm because để câu tự nhiên hơn: I like it because..."
+}
+],
+"quickMemory": "Opinion: I think..., I prefer... Comparison: more + long adjective + than, as + adjective + as.",
+"warmupQuestions": [
+{
+"question": "Complete: This song is ___ exciting than that song.",
+"suggestedAnswer": "more."
+},
+{
+"question": "Complete: This picture is as ___ as that one. (nice)",
+"suggestedAnswer": "nice."
+}
+],
+"applicationQuestions": [
+{
+"question": "Write two sentences about your favourite song.",
+"hint": "Use I like and because.",
+"suggestedAnswer": "I like this song. I like it because the melody is cheerful."
+},
+{
+"question": "Compare two paintings using more colourful than.",
+"hint": "Use: Painting A is more colourful than Painting B.",
+"suggestedAnswer": "Painting A is more colourful than Painting B."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Vocabulary board with music, painting, performance and instruments.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Choose an adjective, then build opinion and comparison sentences about songs or artworks.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+}
+]

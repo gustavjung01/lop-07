@@ -1,0 +1,538 @@
+[
+{
+"lessonId": "g7_tech_006",
+"subjectKey": "technology",
+"learningObjectives": [
+"Nhận biết được một số vật liệu thông dụng như giấy, gỗ, nhựa, kim loại, vải, thủy tinh.",
+"Nêu được đặc điểm cơ bản của từng vật liệu: nhẹ, bền, cứng, dẻo, trong suốt, thấm nước hoặc cách điện.",
+"Biết lựa chọn vật liệu phù hợp với mục đích sử dụng.",
+"Hiểu cần sử dụng vật liệu tiết kiệm và hạn chế rác thải.",
+"Hình thành ý thức ưu tiên vật liệu an toàn, tái sử dụng hoặc dễ tái chế khi phù hợp."
+],
+"easyExplanation": "Vật liệu là thứ dùng để tạo nên sản phẩm. Giấy dễ cắt, nhẹ, phù hợp làm mô hình học tập nhưng dễ thấm nước. Gỗ khá chắc, đẹp, dùng làm bàn ghế hoặc đồ thủ công. Nhựa nhẹ, dẻo, nhiều loại bền nhưng có thể gây ô nhiễm nếu dùng lãng phí. Kim loại cứng, bền, dẫn điện và dẫn nhiệt tốt. Vải mềm, dễ may, dùng làm quần áo, túi, đồ trang trí. Thủy tinh trong suốt, cứng nhưng dễ vỡ. Chọn vật liệu tốt là chọn đúng tính chất cho đúng mục đích.",
+"workedExamples": [
+{
+"title": "Chọn vật liệu làm hộp bút",
+"problem": "Nếu làm hộp bút thủ công trong lớp, nên chọn giấy mỏng hay bìa cứng? Vì sao?",
+"steps": [
+"Hộp bút cần giữ được hình dạng.",
+"Giấy mỏng dễ gập, dễ rách.",
+"Bìa cứng chắc hơn và dễ tạo khung.",
+"Chọn vật liệu phù hợp công dụng."
+],
+"answer": "Nên chọn bìa cứng vì hộp bút cần chắc, giữ được hình dạng và chịu được trọng lượng của bút.",
+"explanation": "Vật liệu phải phù hợp với yêu cầu sử dụng, không chỉ dựa vào đẹp hay dễ kiếm."
+},
+{
+"title": "Nhận xét vật liệu nhựa",
+"problem": "Nhựa có ưu điểm và hạn chế gì trong đời sống?",
+"steps": [
+"Xác định ưu điểm: nhẹ, dễ tạo hình, nhiều loại bền.",
+"Xác định hạn chế: khó phân hủy, có thể gây ô nhiễm.",
+"Nêu cách dùng hợp lí.",
+"Kết luận cân bằng."
+],
+"answer": "Nhựa nhẹ, dễ tạo hình, tiện dụng nhưng nếu dùng lãng phí hoặc vứt bừa bãi sẽ gây ô nhiễm. Cần dùng tiết kiệm và tái sử dụng khi có thể.",
+"explanation": "Đánh giá vật liệu nên nhìn cả công dụng và tác động môi trường."
+}
+],
+"steps": [
+"Liệt kê các vật liệu thường gặp quanh em.",
+"Quan sát tính chất của từng vật liệu.",
+"Xác định sản phẩm cần làm và yêu cầu của sản phẩm.",
+"Chọn vật liệu phù hợp với yêu cầu an toàn, độ bền, chi phí và thẩm mĩ.",
+"Tận dụng vật liệu tái sử dụng nếu phù hợp.",
+"Thu gom phần vật liệu thừa đúng cách sau khi thực hành."
+],
+"commonMistakes": [
+{
+"mistake": "Chọn vật liệu chỉ vì đẹp.",
+"fix": "Cần xét công dụng, độ bền, an toàn, chi phí và môi trường."
+},
+{
+"mistake": "Dùng vật liệu dễ vỡ hoặc sắc cạnh cho sản phẩm học tập.",
+"fix": "Ưu tiên vật liệu an toàn, dễ thao tác như giấy, bìa, vải, que gỗ đã xử lí."
+},
+{
+"mistake": "Vứt bỏ vật liệu thừa bừa bãi.",
+"fix": "Phân loại, tái dùng hoặc bỏ rác đúng nơi."
+}
+],
+"quickMemory": "Vật liệu nào cũng có tính cách riêng. Chọn đúng tính chất thì sản phẩm mới bền, an toàn và ít lãng phí.",
+"warmupQuestions": [
+{
+"question": "Kể tên năm vật liệu thông dụng.",
+"suggestedAnswer": "Giấy, gỗ, nhựa, kim loại, vải, thủy tinh."
+},
+{
+"question": "Vì sao thủy tinh cần dùng cẩn thận?",
+"suggestedAnswer": "Vì thủy tinh cứng, trong suốt nhưng dễ vỡ và có thể gây nguy hiểm."
+},
+{
+"question": "Khi chọn vật liệu, cần xét những tiêu chí nào?",
+"suggestedAnswer": "Công dụng, độ bền, an toàn, chi phí, thẩm mĩ và tác động môi trường."
+}
+],
+"applicationQuestions": [
+{
+"question": "Chọn vật liệu phù hợp để làm kệ giấy mini trên bàn học và giải thích.",
+"hint": "Cần vật liệu chắc, dễ cắt, an toàn.",
+"suggestedAnswer": "Có thể dùng bìa carton cứng vì dễ cắt, nhẹ, rẻ, có thể tái sử dụng và đủ chắc nếu gia cố tốt."
+},
+{
+"question": "So sánh giấy và nhựa theo 3 tiêu chí: dễ tạo hình, độ bền, môi trường.",
+"hint": "Giấy dễ cắt, nhựa bền hơn nhưng khó phân hủy hơn.",
+"suggestedAnswer": "Giấy dễ cắt, dễ gấp nhưng kém bền khi gặp nước và dễ tái chế hơn. Nhựa bền, nhẹ, dễ tạo hình nhưng nhiều loại khó phân hủy và cần dùng tiết kiệm."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bảng so sánh vật liệu giấy, gỗ, nhựa, kim loại, vải, thủy tinh theo tính chất và ứng dụng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn vật liệu phù hợp cho từng sản phẩm học tập và giải thích tiêu chí lựa chọn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_007",
+"subjectKey": "technology",
+"learningObjectives": [
+"Nhận biết được một số dụng cụ thủ công, học tập thường dùng.",
+"Nêu được công dụng của kéo, dao rọc giấy, thước, compa, súng bắn keo học sinh, băng dính, kẹp giấy.",
+"Biết sử dụng dụng cụ đúng cách, đúng tư thế và an toàn.",
+"Biết bảo quản dụng cụ sau khi sử dụng.",
+"Hình thành thói quen chuẩn bị khu vực thực hành gọn, tránh tai nạn."
+],
+"easyExplanation": "Dụng cụ thủ công giúp cắt, đo, gắn, vẽ, tạo hình sản phẩm. Kéo dùng để cắt giấy, vải mỏng. Dao rọc giấy cắt đường thẳng nhưng cần dùng rất cẩn thận và có sự hướng dẫn. Thước giúp đo và kẻ. Compa vẽ đường tròn nhưng đầu nhọn cần chú ý. Keo, băng dính, kẹp giúp ghép các bộ phận. Dụng cụ tốt nhưng dùng sai cách có thể gây đứt tay, bỏng nhẹ, hỏng sản phẩm hoặc làm bừa bộn khu vực học tập.",
+"workedExamples": [
+{
+"title": "Dùng kéo an toàn",
+"problem": "Khi đưa kéo cho bạn, nên cầm và đưa như thế nào?",
+"steps": [
+"Kéo có lưỡi sắc.",
+"Không chĩa mũi kéo về phía bạn.",
+"Nên khép kéo lại.",
+"Cầm phía lưỡi hoặc phần an toàn để đưa tay cầm cho bạn."
+],
+"answer": "Nên khép kéo lại và đưa phần tay cầm về phía bạn, không chĩa mũi kéo vào người khác.",
+"explanation": "An toàn trong thực hành bắt đầu từ những thao tác rất nhỏ."
+},
+{
+"title": "Bảo quản dụng cụ",
+"problem": "Sau khi làm xong sản phẩm thủ công, cần làm gì với dụng cụ?",
+"steps": [
+"Thu gom kéo, thước, keo, vật liệu thừa.",
+"Lau sạch keo hoặc bụi nếu cần.",
+"Cất dụng cụ đúng nơi.",
+"Dọn mặt bàn để tránh thất lạc hoặc tai nạn."
+],
+"answer": "Cần vệ sinh, thu gom và cất dụng cụ đúng nơi, đồng thời dọn sạch khu vực thực hành.",
+"explanation": "Bảo quản tốt giúp dụng cụ dùng được lâu và lớp học an toàn hơn."
+}
+],
+"steps": [
+"Chuẩn bị dụng cụ phù hợp với nhiệm vụ.",
+"Đọc hoặc nghe hướng dẫn trước khi dùng dụng cụ sắc, nóng hoặc có điện.",
+"Sắp xếp bàn làm việc gọn, không để dây và dụng cụ sắc lộn xộn.",
+"Cắt, dán, đo theo đúng thao tác an toàn.",
+"Không đùa nghịch khi cầm dụng cụ.",
+"Sau khi dùng, vệ sinh và cất dụng cụ đúng vị trí."
+],
+"commonMistakes": [
+{
+"mistake": "Cầm kéo hoặc dao chạy trong lớp.",
+"fix": "Không di chuyển nhanh khi cầm dụng cụ sắc. Nếu cần đi, cầm dụng cụ đúng cách."
+},
+{
+"mistake": "Không thu lưỡi dao rọc giấy sau khi dùng.",
+"fix": "Thu lưỡi dao, đậy nắp hoặc cất vào nơi an toàn."
+},
+{
+"mistake": "Dùng sai dụng cụ, ví dụ dùng kéo nhỏ để cắt vật quá cứng.",
+"fix": "Chọn dụng cụ phù hợp với vật liệu và hỏi giáo viên khi không chắc."
+}
+],
+"quickMemory": "Dụng cụ thủ công là bạn làm việc, nhưng bạn ấy có cạnh sắc. Dùng đúng, cất đúng, không đùa nghịch.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba dụng cụ thủ công thường dùng.",
+"suggestedAnswer": "Kéo, thước, compa, keo, băng dính, dao rọc giấy."
+},
+{
+"question": "Vì sao không nên đùa nghịch khi cầm kéo?",
+"suggestedAnswer": "Vì kéo có lưỡi sắc, có thể gây thương tích cho mình hoặc người khác."
+},
+{
+"question": "Sau khi thực hành xong, cần làm gì?",
+"suggestedAnswer": "Vệ sinh, thu gom vật liệu thừa và cất dụng cụ đúng nơi."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập 5 quy tắc an toàn khi dùng dụng cụ thủ công trong lớp.",
+"hint": "Kéo, dao, keo, bàn thực hành, dọn dẹp.",
+"suggestedAnswer": "Không đùa nghịch khi cầm dụng cụ sắc. Khép kéo khi không dùng. Thu lưỡi dao sau khi cắt. Dùng keo đúng hướng dẫn. Dọn sạch bàn và cất dụng cụ sau khi thực hành."
+},
+{
+"question": "Nếu thấy bạn chĩa kéo về phía người khác, em nên làm gì?",
+"hint": "Nhắc bạn dừng lại và dùng đúng cách.",
+"suggestedAnswer": "Em nên nhắc bạn dừng lại, khép kéo và cầm kéo đúng cách. Nếu bạn vẫn không chú ý, cần báo giáo viên để đảm bảo an toàn."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Poster an toàn dụng cụ thủ công: kéo, dao rọc giấy, compa, keo, bàn thực hành.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn hành vi an toàn hoặc nguy hiểm khi dùng dụng cụ thủ công.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_008",
+"subjectKey": "technology",
+"learningObjectives": [
+"Hiểu bản vẽ hoặc sơ đồ quy trình giúp mô tả sản phẩm và thứ tự thao tác.",
+"Nhận biết được kí hiệu, chú thích, kích thước và mũi tên chỉ trình tự trong sơ đồ đơn giản.",
+"Biết đọc các bước thao tác theo đúng thứ tự.",
+"Biết sử dụng checklist để kiểm tra sản phẩm sau khi làm.",
+"Tránh được lỗi làm sai trình tự hoặc bỏ sót bước."
+],
+"easyExplanation": "Bản vẽ và sơ đồ quy trình giống bản đồ đường đi của một sản phẩm. Bản vẽ cho biết hình dạng, bộ phận, kích thước, vị trí. Sơ đồ quy trình cho biết bước nào làm trước, bước nào làm sau, cần dụng cụ/vật liệu gì. Khi đọc, cần xem tiêu đề, chú thích, kí hiệu, mũi tên và thứ tự bước. Nếu bỏ qua sơ đồ, em có thể cắt sai kích thước, dán ngược bộ phận hoặc thiếu bước kiểm tra cuối.",
+"workedExamples": [
+{
+"title": "Đọc mũi tên quy trình",
+"problem": "Sơ đồ ghi: đo kích thước → cắt bìa → gấp mép → dán keo → kiểm tra. Có được dán keo trước khi gấp mép không?",
+"steps": [
+"Mũi tên cho biết thứ tự thao tác.",
+"Gấp mép đứng trước dán keo.",
+"Nếu dán trước, mép có thể không đúng vị trí.",
+"Cần làm theo thứ tự trong sơ đồ."
+],
+"answer": "Không. Cần gấp mép trước rồi mới dán keo.",
+"explanation": "Trong quy trình, thứ tự thao tác rất quan trọng."
+},
+{
+"title": "Dùng checklist",
+"problem": "Checklist sản phẩm hộp bút gồm: chắc, không cạnh sắc, để vừa bút, đứng vững. Checklist dùng để làm gì?",
+"steps": [
+"Checklist là danh sách tiêu chí cần kiểm tra.",
+"Sau khi làm xong, đối chiếu sản phẩm với từng tiêu chí.",
+"Nếu tiêu chí chưa đạt, cần chỉnh sửa.",
+"Checklist giúp không bỏ sót yêu cầu."
+],
+"answer": "Checklist dùng để kiểm tra sản phẩm có đạt các tiêu chí đã đặt ra hay không.",
+"explanation": "Checklist là người gác cổng nhỏ bé nhưng rất nghiêm túc."
+}
+],
+"steps": [
+"Đọc tên bản vẽ hoặc sơ đồ.",
+"Xem chú thích, kí hiệu, kích thước và mũi tên.",
+"Xác định vật liệu và dụng cụ cần chuẩn bị.",
+"Đọc toàn bộ quy trình trước khi làm.",
+"Thực hiện từng bước theo đúng thứ tự.",
+"Dùng checklist để kiểm tra sản phẩm cuối."
+],
+"commonMistakes": [
+{
+"mistake": "Làm ngay mà chưa đọc hết quy trình.",
+"fix": "Đọc toàn bộ sơ đồ trước, sau đó mới bắt đầu thao tác."
+},
+{
+"mistake": "Bỏ qua kích thước trên bản vẽ.",
+"fix": "Cần đo và cắt đúng kích thước, tránh làm sản phẩm lệch hoặc không lắp được."
+},
+{
+"mistake": "Không kiểm tra sản phẩm sau khi hoàn thành.",
+"fix": "Dùng checklist để kiểm tra an toàn, công dụng, độ chắc và thẩm mĩ."
+}
+],
+"quickMemory": "Bản vẽ cho biết hình dạng. Sơ đồ quy trình cho biết thứ tự. Checklist giúp biết sản phẩm đạt chưa.",
+"warmupQuestions": [
+{
+"question": "Mũi tên trong sơ đồ quy trình thường dùng để làm gì?",
+"suggestedAnswer": "Dùng để chỉ thứ tự các bước thao tác."
+},
+{
+"question": "Checklist sản phẩm dùng để làm gì?",
+"suggestedAnswer": "Dùng để kiểm tra sản phẩm theo các tiêu chí đã đặt ra."
+},
+{
+"question": "Vì sao cần đọc toàn bộ quy trình trước khi làm?",
+"suggestedAnswer": "Để hiểu thứ tự, chuẩn bị đủ vật liệu/dụng cụ và tránh bỏ sót bước."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nêu 5 thông tin cần đọc trên một sơ đồ quy trình làm sản phẩm thủ công.",
+"hint": "Tên sản phẩm, vật liệu, dụng cụ, bước, mũi tên/chú thích.",
+"suggestedAnswer": "Tên sản phẩm, vật liệu cần dùng, dụng cụ cần dùng, thứ tự các bước, chú thích/kích thước và tiêu chí kiểm tra."
+},
+{
+"question": "Lập checklist cho sản phẩm kệ giấy mini.",
+"hint": "Chắc, không cạnh sắc, để vừa giấy, gọn, đẹp.",
+"suggestedAnswer": "Kệ đứng vững, không có cạnh sắc, để vừa giấy hoặc vở nhỏ, kích thước gọn với bàn học, hình thức sạch đẹp và ít tốn vật liệu."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Mẫu sơ đồ quy trình có mũi tên, kí hiệu vật liệu, kích thước và checklist kiểm tra.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp lại các bước quy trình theo mũi tên và chọn checklist phù hợp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_009",
+"subjectKey": "technology",
+"learningObjectives": [
+"Biết chuẩn bị vật liệu và dụng cụ an toàn để làm sản phẩm thủ công học tập.",
+"Thực hiện được sản phẩm đơn giản bằng giấy, bìa, que gỗ, dây, keo học sinh hoặc vật liệu phù hợp.",
+"Tuân thủ được quy trình thao tác và quy tắc an toàn.",
+"Biết kiểm tra sản phẩm theo tiêu chí công dụng, độ chắc, thẩm mĩ và an toàn.",
+"Biết dọn dẹp, thu gom rác và bảo quản dụng cụ sau khi thực hành."
+],
+"easyExplanation": "Làm sản phẩm thủ công học tập là lúc ý tưởng biến thành vật thật. Có thể làm hộp bút, kệ giấy mini, thẻ học tập, mô hình đơn giản hoặc giá đỡ sách nhỏ bằng vật liệu an toàn như giấy, bìa, que gỗ, dây, keo học sinh. Trước khi làm, cần chuẩn bị đủ vật liệu và đọc quy trình. Khi làm, cần đo, cắt, gấp, dán cẩn thận, không vội vàng. Sau khi làm, cần kiểm tra sản phẩm có dùng được không, có chắc không, có cạnh sắc không và có gọn đẹp không.",
+"workedExamples": [
+{
+"title": "Quy trình làm hộp bút giấy",
+"problem": "Nêu quy trình khái quát để làm hộp bút bằng bìa cứng.",
+"steps": [
+"Chuẩn bị bìa cứng, thước, bút, kéo, keo.",
+"Vẽ kích thước và các đường gấp.",
+"Cắt theo đường đã vẽ.",
+"Gấp, dán, giữ cho keo khô.",
+"Kiểm tra độ chắc và cạnh sắc."
+],
+"answer": "Chuẩn bị vật liệu, vẽ kích thước, cắt bìa, gấp và dán, sau đó kiểm tra sản phẩm.",
+"explanation": "Quy trình rõ giúp sản phẩm ít lỗi và an toàn hơn."
+},
+{
+"title": "Kiểm tra an toàn sản phẩm",
+"problem": "Sau khi làm kệ giấy mini, cần kiểm tra những điểm nào để bảo đảm an toàn?",
+"steps": [
+"Kiểm tra kệ có đứng vững không.",
+"Kiểm tra mép cắt có sắc hoặc dễ làm xước tay không.",
+"Kiểm tra keo đã khô và không bong.",
+"Kiểm tra sản phẩm có chịu được giấy/vở dự kiến không."
+],
+"answer": "Cần kiểm tra độ vững, cạnh sắc, mối dán và khả năng chịu giấy/vở.",
+"explanation": "Sản phẩm học tập phải dùng được và không gây nguy hiểm."
+}
+],
+"steps": [
+"Chọn sản phẩm phù hợp thời gian và vật liệu.",
+"Chuẩn bị vật liệu, dụng cụ, mặt bàn làm việc.",
+"Đọc quy trình và phân công nếu làm nhóm.",
+"Đo, vẽ, cắt, gấp, dán theo thứ tự.",
+"Kiểm tra sản phẩm bằng checklist.",
+"Dọn dẹp khu vực thực hành, cất dụng cụ và thu gom rác đúng nơi."
+],
+"commonMistakes": [
+{
+"mistake": "Không đo trước khi cắt.",
+"fix": "Luôn đo và đánh dấu rõ trước khi cắt vật liệu."
+},
+{
+"mistake": "Dùng quá nhiều keo làm sản phẩm bẩn và lâu khô.",
+"fix": "Dùng lượng keo vừa đủ, giữ cố định đến khi keo bám chắc."
+},
+{
+"mistake": "Không kiểm tra cạnh sắc hoặc mối dán.",
+"fix": "Sau khi hoàn thành, kiểm tra an toàn trước khi sử dụng."
+}
+],
+"quickMemory": "Làm sản phẩm thủ công: chuẩn bị, làm theo quy trình, an toàn từng bước, kiểm tra, dọn sạch.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba vật liệu an toàn có thể dùng làm sản phẩm thủ công học tập.",
+"suggestedAnswer": "Giấy, bìa cứng, que gỗ đã xử lí, dây, keo học sinh, vải."
+},
+{
+"question": "Vì sao cần đo trước khi cắt?",
+"suggestedAnswer": "Để cắt đúng kích thước, tránh sai và lãng phí vật liệu."
+},
+{
+"question": "Sau khi thực hành xong cần làm gì?",
+"suggestedAnswer": "Kiểm tra sản phẩm, dọn rác, vệ sinh bàn và cất dụng cụ đúng nơi."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập kế hoạch làm thẻ học tập từ bìa cứng.",
+"hint": "Vật liệu, dụng cụ, bước làm, kiểm tra.",
+"suggestedAnswer": "Chuẩn bị bìa cứng, thước, bút, kéo, bút màu. Đo và cắt bìa thành các thẻ bằng nhau. Viết câu hỏi một mặt và đáp án mặt còn lại. Trang trí vừa đủ. Kiểm tra thẻ có dễ đọc, đều kích thước và không có mép sắc."
+},
+{
+"question": "Nêu 5 tiêu chí kiểm tra sản phẩm thủ công học tập.",
+"hint": "Dùng được, chắc, an toàn, đẹp, tiết kiệm vật liệu.",
+"suggestedAnswer": "Sản phẩm dùng được đúng mục đích, chắc, không có cạnh sắc, hình thức gọn đẹp, dùng vật liệu tiết kiệm và phù hợp."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Quy trình làm sản phẩm thủ công học tập an toàn từ chuẩn bị đến kiểm tra và dọn dẹp.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn bước đúng trong quy trình làm sản phẩm và phát hiện lỗi an toàn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_010",
+"subjectKey": "technology",
+"learningObjectives": [
+"Hiểu vai trò của trồng trọt đối với đời sống con người.",
+"Nêu được các sản phẩm chính của trồng trọt: lương thực, thực phẩm, nguyên liệu, cây cảnh quan.",
+"Nhận biết được trồng trọt góp phần tạo việc làm, bảo vệ môi trường và làm đẹp cảnh quan.",
+"Hiểu cần phát triển trồng trọt an toàn, tiết kiệm tài nguyên và thân thiện môi trường.",
+"Liên hệ được vai trò của trồng trọt trong gia đình, địa phương hoặc trường học."
+],
+"easyExplanation": "Trồng trọt là hoạt động gieo trồng, chăm sóc và thu hoạch cây để phục vụ đời sống. Cây trồng cung cấp lương thực như lúa, ngô, khoai; thực phẩm như rau, quả; nguyên liệu cho công nghiệp như bông, mía, cao su; cây cảnh và cây xanh giúp làm đẹp môi trường. Trồng trọt còn tạo việc làm và góp phần bảo vệ đất, nước, không khí nếu làm đúng cách. Tuy nhiên, trồng trọt cũng cần an toàn, không lạm dụng hóa chất, tiết kiệm nước và bảo vệ hệ sinh thái.",
+"workedExamples": [
+{
+"title": "Vai trò lương thực, thực phẩm",
+"problem": "Vì sao trồng trọt rất quan trọng đối với bữa ăn hằng ngày?",
+"steps": [
+"Bữa ăn cần lương thực như cơm, ngô, khoai.",
+"Bữa ăn cũng cần rau, củ, quả.",
+"Những sản phẩm này đến từ trồng trọt.",
+"Vì vậy trồng trọt liên quan trực tiếp đến dinh dưỡng."
+],
+"answer": "Vì trồng trọt cung cấp lương thực, rau củ, quả và nhiều thực phẩm thiết yếu cho con người.",
+"explanation": "Mỗi bữa cơm là một lời nhắc nhỏ về vai trò của trồng trọt."
+},
+{
+"title": "Trồng cây và môi trường",
+"problem": "Trồng cây xanh ở trường học có lợi ích gì?",
+"steps": [
+"Cây xanh tạo bóng mát.",
+"Cây giúp làm đẹp cảnh quan.",
+"Cây góp phần cải thiện không khí.",
+"Hoạt động chăm cây giúp học sinh có ý thức bảo vệ môi trường."
+],
+"answer": "Trồng cây xanh giúp tạo bóng mát, làm đẹp trường học, cải thiện không khí và nâng cao ý thức bảo vệ môi trường.",
+"explanation": "Trồng trọt không chỉ để thu hoạch, đôi khi còn để nuôi dưỡng không gian sống."
+}
+],
+"steps": [
+"Kể tên các cây trồng quen thuộc trong gia đình hoặc địa phương.",
+"Phân loại sản phẩm trồng trọt: lương thực, thực phẩm, nguyên liệu, cảnh quan.",
+"Nêu vai trò đối với đời sống, kinh tế và môi trường.",
+"Tìm ví dụ về trồng trọt an toàn, tiết kiệm nước, ít hóa chất.",
+"Liên hệ hoạt động trồng cây ở trường hoặc gia đình.",
+"Tóm tắt bằng sơ đồ vai trò của trồng trọt."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ trồng trọt chỉ để tạo ra gạo.",
+"fix": "Trồng trọt còn cung cấp rau, quả, nguyên liệu, cây cảnh, cây xanh và môi trường sống."
+},
+{
+"mistake": "Chỉ nhìn vai trò kinh tế mà quên môi trường.",
+"fix": "Cây trồng còn giúp tạo cảnh quan, bóng mát, cải thiện môi trường nếu được chăm sóc đúng."
+},
+{
+"mistake": "Nghĩ càng dùng nhiều phân thuốc càng tốt.",
+"fix": "Cần dùng đúng liều lượng, ưu tiên an toàn và bảo vệ môi trường."
+}
+],
+"quickMemory": "Trồng trọt nuôi bữa ăn, cung cấp nguyên liệu, tạo cảnh quan, việc làm và góp phần bảo vệ môi trường.",
+"warmupQuestions": [
+{
+"question": "Kể tên ba sản phẩm từ trồng trọt.",
+"suggestedAnswer": "Gạo, rau, quả, ngô, khoai, mía, bông, hoa, cây cảnh."
+},
+{
+"question": "Trồng trọt có vai trò gì với môi trường?",
+"suggestedAnswer": "Cây xanh tạo bóng mát, làm đẹp cảnh quan, góp phần cải thiện không khí và bảo vệ đất nếu trồng đúng cách."
+},
+{
+"question": "Vì sao cần trồng trọt an toàn?",
+"suggestedAnswer": "Để bảo vệ sức khỏe con người, đất, nước và hệ sinh thái."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập sơ đồ 4 nhánh về vai trò của trồng trọt.",
+"hint": "Lương thực, thực phẩm, nguyên liệu, môi trường/cảnh quan.",
+"suggestedAnswer": "Trồng trọt cung cấp lương thực như lúa, ngô; thực phẩm như rau, quả; nguyên liệu như bông, mía, cao su; đồng thời tạo cây xanh, cảnh quan và góp phần bảo vệ môi trường."
+},
+{
+"question": "Đề xuất một hoạt động trồng cây nhỏ ở lớp hoặc nhà.",
+"hint": "Chọn cây dễ chăm, nơi đặt, cách tưới, phân công.",
+"suggestedAnswer": "Có thể trồng cây rau mầm hoặc cây cảnh nhỏ trong chậu. Chọn nơi có ánh sáng vừa đủ, tưới nước theo lịch, phân công từng bạn theo dõi chiều cao và tình trạng cây mỗi tuần."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ vai trò của trồng trọt trong lương thực, thực phẩm, nguyên liệu, cảnh quan, môi trường.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Phân loại sản phẩm cây trồng vào nhóm lương thực, thực phẩm, nguyên liệu, cảnh quan.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

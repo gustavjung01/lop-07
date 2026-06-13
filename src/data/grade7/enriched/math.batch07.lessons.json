@@ -1,0 +1,554 @@
+[
+{
+"lessonId": "g7_math_031",
+"subjectKey": "math",
+"learningObjectives": [
+"Nhận biết được trung tuyến, đường cao, phân giác và trung trực trong tam giác.",
+"Vẽ được các đường đặc biệt trong tam giác ở mức cơ bản.",
+"Phân biệt được vai trò của từng loại đường đặc biệt.",
+"Vận dụng được tính chất đơn giản của các đường đặc biệt để giải bài hình."
+],
+"easyExplanation": "Trong tam giác có nhiều đường đặc biệt, mỗi đường có một nhiệm vụ riêng. Trung tuyến đi từ một đỉnh đến trung điểm cạnh đối diện. Đường cao đi từ một đỉnh và vuông góc với cạnh đối diện hoặc đường thẳng chứa cạnh đó. Phân giác chia một góc thành hai góc bằng nhau. Trung trực của một cạnh là đường thẳng vuông góc với cạnh đó tại trung điểm. Muốn không nhầm, hãy hỏi: đường này xuất phát từ đâu, đi đến đâu, tạo quan hệ gì?",
+"workedExamples": [
+{
+"title": "Nhận biết trung tuyến",
+"problem": "Trong tam giác ABC, M là trung điểm của BC. Đoạn AM là đường gì?",
+"steps": [
+"M nằm trên cạnh BC.",
+"M là trung điểm của BC nên MB = MC.",
+"Đoạn AM nối đỉnh A với trung điểm cạnh đối diện."
+],
+"answer": "AM là trung tuyến của tam giác ABC.",
+"explanation": "Trung tuyến đi từ đỉnh đến trung điểm của cạnh đối diện."
+},
+{
+"title": "Nhận biết đường cao",
+"problem": "Trong tam giác ABC, AH vuông góc với BC tại H. Đoạn AH là đường gì?",
+"steps": [
+"AH đi từ đỉnh A đến cạnh BC.",
+"AH vuông góc với BC.",
+"Đó là đặc điểm của đường cao."
+],
+"answer": "AH là đường cao của tam giác ABC.",
+"explanation": "Đường cao phải tạo góc vuông với cạnh đối diện hoặc đường thẳng chứa cạnh đối diện."
+},
+{
+"title": "Nhận biết phân giác",
+"problem": "Tia AD nằm trong góc A và chia góc A thành hai góc bằng nhau. AD là đường gì của tam giác ABC?",
+"steps": [
+"AD xuất phát từ đỉnh A.",
+"AD chia góc A thành hai góc bằng nhau.",
+"Đó là tính chất của đường phân giác."
+],
+"answer": "AD là đường phân giác xuất phát từ đỉnh A.",
+"explanation": "Phân giác trong tam giác là đoạn hoặc tia chia một góc của tam giác thành hai phần bằng nhau."
+}
+],
+"steps": [
+"Bước 1: Xác định đường đang xét đi từ đỉnh hay nằm trên cạnh.",
+"Bước 2: Nếu đi từ đỉnh đến trung điểm cạnh đối diện, đó là trung tuyến.",
+"Bước 3: Nếu đi từ đỉnh và vuông góc với cạnh đối diện, đó là đường cao.",
+"Bước 4: Nếu chia một góc thành hai góc bằng nhau, đó là phân giác.",
+"Bước 5: Nếu vuông góc tại trung điểm của một cạnh, đó là trung trực."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm trung tuyến với trung trực vì đều có chữ trung.",
+"fix": "Trung tuyến nối đỉnh với trung điểm cạnh đối diện. Trung trực vuông góc với cạnh tại trung điểm và không nhất thiết đi qua đỉnh."
+},
+{
+"mistake": "Cho rằng đường cao luôn nằm trong tam giác.",
+"fix": "Trong tam giác tù, đường cao có thể nằm ngoài tam giác nếu kéo dài cạnh."
+},
+{
+"mistake": "Thấy một đường chia cạnh làm đôi thì gọi ngay là phân giác.",
+"fix": "Phân giác chia góc làm đôi, không phải chia cạnh làm đôi."
+}
+],
+"quickMemory": "Trung tuyến chia cạnh. Phân giác chia góc. Đường cao vuông góc. Trung trực vuông góc tại trung điểm.",
+"warmupQuestions": [
+{
+"question": "Đường từ đỉnh đến trung điểm cạnh đối diện gọi là gì?",
+"suggestedAnswer": "Trung tuyến."
+},
+{
+"question": "Đường chia một góc thành hai góc bằng nhau gọi là gì?",
+"suggestedAnswer": "Phân giác."
+}
+],
+"applicationQuestions": [
+{
+"question": "Trong tam giác ABC, D là trung điểm của AC. Đoạn BD là đường gì?",
+"hint": "BD nối đỉnh B với trung điểm cạnh đối diện AC.",
+"suggestedAnswer": "BD là trung tuyến."
+},
+{
+"question": "Một đường thẳng vuông góc với cạnh AB tại trung điểm của AB. Đó là đường gì của cạnh AB?",
+"hint": "Vuông góc tại trung điểm.",
+"suggestedAnswer": "Đó là đường trung trực của AB."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Một tam giác có bốn hình nhỏ, mỗi hình tô riêng trung tuyến, đường cao, phân giác, trung trực.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Cho học sinh kéo nhãn trung tuyến, đường cao, phân giác, trung trực vào đúng hình.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_032",
+"subjectKey": "math",
+"learningObjectives": [
+"Làm quen với hiện tượng đồng quy của các đường đặc biệt trong tam giác.",
+"Nhận biết được trọng tâm là giao điểm của ba đường trung tuyến.",
+"Nhận biết được trực tâm, tâm đường tròn nội tiếp và tâm đường tròn ngoại tiếp ở mức cơ bản.",
+"Sử dụng được hình vẽ để suy luận vị trí giao điểm của các đường đặc biệt."
+],
+"easyExplanation": "Đồng quy nghĩa là nhiều đường cùng đi qua một điểm. Trong tam giác, ba đường trung tuyến đồng quy tại trọng tâm. Ba đường cao đồng quy tại trực tâm. Ba đường phân giác đồng quy tại tâm đường tròn nội tiếp. Ba đường trung trực đồng quy tại tâm đường tròn ngoại tiếp. Ở lớp 7, em không cần biến các tên này thành mê cung. Hãy nhớ: mỗi nhóm ba đường cùng loại sẽ gặp nhau tại một điểm đặc biệt.",
+"workedExamples": [
+{
+"title": "Trọng tâm",
+"problem": "Ba đường trung tuyến của một tam giác cắt nhau tại G. G gọi là gì?",
+"steps": [
+"Ba đường đang xét là ba đường trung tuyến.",
+"Ba đường trung tuyến của tam giác đồng quy.",
+"Giao điểm của ba trung tuyến gọi là trọng tâm."
+],
+"answer": "G là trọng tâm của tam giác.",
+"explanation": "Trọng tâm là điểm đồng quy của ba đường trung tuyến."
+},
+{
+"title": "Trực tâm",
+"problem": "Ba đường cao của tam giác cắt nhau tại H. H gọi là gì?",
+"steps": [
+"Ba đường đang xét là đường cao.",
+"Ba đường cao trong tam giác đồng quy.",
+"Giao điểm đó gọi là trực tâm."
+],
+"answer": "H là trực tâm.",
+"explanation": "Trực tâm là điểm đồng quy của ba đường cao."
+},
+{
+"title": "Tâm nội tiếp",
+"problem": "Ba đường phân giác của tam giác cắt nhau tại I. I liên quan đến đường tròn nào?",
+"steps": [
+"Ba đường phân giác đồng quy tại một điểm.",
+"Điểm này cách đều ba cạnh của tam giác.",
+"Điểm đó là tâm đường tròn nội tiếp tam giác."
+],
+"answer": "I là tâm đường tròn nội tiếp tam giác.",
+"explanation": "Tâm nội tiếp nằm trên ba đường phân giác."
+}
+],
+"steps": [
+"Bước 1: Xác định loại đường đặc biệt trong hình: trung tuyến, đường cao, phân giác hay trung trực.",
+"Bước 2: Nếu là ba trung tuyến, giao điểm là trọng tâm.",
+"Bước 3: Nếu là ba đường cao, giao điểm là trực tâm.",
+"Bước 4: Nếu là ba phân giác, giao điểm là tâm nội tiếp.",
+"Bước 5: Nếu là ba trung trực, giao điểm là tâm ngoại tiếp."
+],
+"commonMistakes": [
+{
+"mistake": "Gọi giao điểm của ba trung tuyến là trực tâm.",
+"fix": "Ba trung tuyến gặp nhau tại trọng tâm, còn ba đường cao gặp nhau tại trực tâm."
+},
+{
+"mistake": "Nhầm tâm nội tiếp với tâm ngoại tiếp.",
+"fix": "Tâm nội tiếp nằm trên phân giác. Tâm ngoại tiếp nằm trên trung trực."
+},
+{
+"mistake": "Nghĩ điểm đồng quy luôn nằm trong tam giác.",
+"fix": "Một số điểm như trực tâm có thể nằm ngoài tam giác tù."
+}
+],
+"quickMemory": "Trung tuyến gặp ở trọng tâm. Đường cao gặp ở trực tâm. Phân giác gặp ở tâm nội tiếp. Trung trực gặp ở tâm ngoại tiếp.",
+"warmupQuestions": [
+{
+"question": "Ba đường trung tuyến đồng quy tại điểm nào?",
+"suggestedAnswer": "Trọng tâm."
+},
+{
+"question": "Ba đường cao đồng quy tại điểm nào?",
+"suggestedAnswer": "Trực tâm."
+}
+],
+"applicationQuestions": [
+{
+"question": "Muốn tìm trọng tâm của một tam giác, cần vẽ những đường nào?",
+"hint": "Trọng tâm là giao điểm của ba đường cùng loại.",
+"suggestedAnswer": "Vẽ các đường trung tuyến."
+},
+{
+"question": "Một điểm nằm trên ba đường trung trực của tam giác. Điểm đó là tâm gì?",
+"hint": "Trung trực liên quan đến đường tròn đi qua ba đỉnh.",
+"suggestedAnswer": "Tâm đường tròn ngoại tiếp."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bốn tam giác minh họa trọng tâm, trực tâm, tâm nội tiếp, tâm ngoại tiếp bằng bốn màu riêng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bấm chọn loại đường đặc biệt, app hiện điểm đồng quy tương ứng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_033",
+"subjectKey": "math",
+"learningObjectives": [
+"Biết xác định mục tiêu thu thập dữ liệu.",
+"Phân biệt được dữ liệu định tính và dữ liệu định lượng ở mức cơ bản.",
+"Tổ chức được dữ liệu bằng bảng đơn giản hoặc bảng tần số.",
+"Chuẩn bị được dữ liệu phù hợp để biểu diễn bằng biểu đồ."
+],
+"easyExplanation": "Dữ liệu là thông tin được thu thập để trả lời một câu hỏi. Ví dụ muốn biết lớp thích môn thể thao nào nhất, ta thu thập lựa chọn của từng bạn. Dữ liệu định tính thường là tên gọi, loại, nhóm như bóng đá, cầu lông, bơi. Dữ liệu định lượng là số đo hoặc số đếm như chiều cao, số sách đọc, điểm kiểm tra. Sau khi thu thập, ta cần phân loại và lập bảng để nhìn dữ liệu rõ hơn trước khi vẽ biểu đồ.",
+"workedExamples": [
+{
+"title": "Phân loại dữ liệu",
+"problem": "Dữ liệu 'môn thể thao yêu thích của học sinh' là định tính hay định lượng?",
+"steps": [
+"Các giá trị có thể là bóng đá, bóng rổ, cầu lông.",
+"Đây là tên loại, không phải số đo.",
+"Vì vậy đó là dữ liệu định tính."
+],
+"answer": "Dữ liệu định tính.",
+"explanation": "Dữ liệu định tính mô tả loại hoặc nhóm."
+},
+{
+"title": "Lập bảng tần số",
+"problem": "Kết quả chọn màu yêu thích: đỏ, xanh, đỏ, vàng, xanh, đỏ. Lập bảng tần số.",
+"steps": [
+"Đếm màu đỏ xuất hiện 3 lần.",
+"Đếm màu xanh xuất hiện 2 lần.",
+"Đếm màu vàng xuất hiện 1 lần."
+],
+"answer": "Đỏ: 3, xanh: 2, vàng: 1.",
+"explanation": "Tần số là số lần một giá trị xuất hiện."
+},
+{
+"title": "Chọn biểu đồ phù hợp",
+"problem": "Muốn biểu diễn số học sinh thích từng loại trái cây, nên chuẩn bị dữ liệu dạng nào?",
+"steps": [
+"Cần biết từng loại trái cây.",
+"Cần đếm số học sinh chọn mỗi loại.",
+"Lập bảng gồm cột loại trái cây và cột số học sinh."
+],
+"answer": "Bảng tần số theo từng loại trái cây.",
+"explanation": "Bảng tần số giúp chuyển dữ liệu thô thành dữ liệu dễ vẽ biểu đồ."
+}
+],
+"steps": [
+"Bước 1: Xác định câu hỏi cần trả lời bằng dữ liệu.",
+"Bước 2: Chọn cách thu thập như khảo sát, quan sát hoặc đo đạc.",
+"Bước 3: Phân loại dữ liệu là định tính hoặc định lượng.",
+"Bước 4: Lập bảng dữ liệu hoặc bảng tần số.",
+"Bước 5: Kiểm tra dữ liệu có đủ, rõ và không bị trùng sai không."
+],
+"commonMistakes": [
+{
+"mistake": "Thu thập dữ liệu nhưng không biết để trả lời câu hỏi nào.",
+"fix": "Luôn viết mục tiêu khảo sát trước khi thu thập."
+},
+{
+"mistake": "Nhầm số thứ tự với dữ liệu định lượng có ý nghĩa đo lường.",
+"fix": "Số dùng để đánh mã hoặc xếp thứ tự chưa chắc là số đo có thể tính toán."
+},
+{
+"mistake": "Đếm thiếu tần số vì dữ liệu lặp lại nhiều lần.",
+"fix": "Dùng gạch kiểm đếm hoặc bảng tần số để tránh bỏ sót."
+}
+],
+"quickMemory": "Thu thập dữ liệu để trả lời câu hỏi. Phân loại trước, lập bảng sau, rồi mới vẽ biểu đồ.",
+"warmupQuestions": [
+{
+"question": "Chiều cao của học sinh là dữ liệu định tính hay định lượng?",
+"suggestedAnswer": "Định lượng."
+},
+{
+"question": "Màu áo yêu thích là dữ liệu định tính hay định lượng?",
+"suggestedAnswer": "Định tính."
+}
+],
+"applicationQuestions": [
+{
+"question": "Muốn biết loại đồ uống lớp thích nhất, em cần thu thập dữ liệu gì?",
+"hint": "Cần câu trả lời của từng bạn.",
+"suggestedAnswer": "Thu thập lựa chọn đồ uống yêu thích của từng học sinh, rồi đếm số bạn chọn mỗi loại."
+},
+{
+"question": "Trong dữ liệu điểm kiểm tra 7, 8, 9, 8, 10, 8, điểm 8 có tần số bao nhiêu?",
+"hint": "Đếm số lần 8 xuất hiện.",
+"suggestedAnswer": "Điểm 8 có tần số 3."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Quy trình dữ liệu: câu hỏi, thu thập, phân loại, lập bảng, biểu đồ.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo dữ liệu vào hai nhóm định tính và định lượng, sau đó lập bảng tần số.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_034",
+"subjectKey": "math",
+"learningObjectives": [
+"Đọc được thông tin từ biểu đồ đoạn thẳng.",
+"Vẽ được biểu đồ đoạn thẳng từ bảng số liệu đơn giản.",
+"Nhận xét được xu hướng tăng, giảm hoặc ổn định trên biểu đồ.",
+"Phân tích được dữ liệu theo thời gian hoặc theo thứ tự liên tiếp."
+],
+"easyExplanation": "Biểu đồ đoạn thẳng thường dùng để biểu diễn sự thay đổi của một đại lượng theo thời gian hoặc theo thứ tự. Mỗi điểm trên biểu đồ biểu diễn một cặp giá trị. Các điểm được nối lại bằng đoạn thẳng để ta nhìn thấy xu hướng. Nếu đường đi lên, dữ liệu tăng. Nếu đường đi xuống, dữ liệu giảm. Nếu đường gần ngang, dữ liệu khá ổn định. Khi đọc biểu đồ, hãy nhìn tên biểu đồ, trục ngang, trục dọc và đơn vị trước khi nhận xét.",
+"workedExamples": [
+{
+"title": "Đọc giá trị trên biểu đồ",
+"problem": "Biểu đồ đoạn thẳng cho biết số sách đọc được theo tháng. Tại tháng 3, điểm trên biểu đồ ứng với 12 quyển. Tháng 3 đọc được bao nhiêu quyển?",
+"steps": [
+"Xác định tháng 3 trên trục ngang.",
+"Nhìn điểm tương ứng trên biểu đồ.",
+"Đọc giá trị trên trục dọc là 12."
+],
+"answer": "12 quyển.",
+"explanation": "Mỗi điểm biểu diễn một giá trị tại một mốc."
+},
+{
+"title": "Nhận xét xu hướng",
+"problem": "Số cây trồng được qua ba tháng là 10, 15, 20. Xu hướng là gì?",
+"steps": [
+"So sánh các giá trị theo thứ tự thời gian.",
+"10 tăng lên 15.",
+"15 tăng lên 20.",
+"Dữ liệu tăng đều."
+],
+"answer": "Số cây trồng được có xu hướng tăng.",
+"explanation": "Biểu đồ đoạn thẳng giúp nhìn xu hướng rất nhanh."
+},
+{
+"title": "Vẽ biểu đồ từ bảng",
+"problem": "Bảng có tháng 1: 5, tháng 2: 8, tháng 3: 6. Nêu cách vẽ biểu đồ đoạn thẳng.",
+"steps": [
+"Vẽ trục ngang là tháng.",
+"Vẽ trục dọc là số lượng.",
+"Đánh dấu ba điểm tương ứng: (1,5), (2,8), (3,6).",
+"Nối các điểm liên tiếp bằng đoạn thẳng."
+],
+"answer": "Vẽ ba điểm và nối lại thành biểu đồ đoạn thẳng.",
+"explanation": "Điểm biểu đồ cần đúng mốc và đúng giá trị."
+}
+],
+"steps": [
+"Bước 1: Đọc tên biểu đồ để biết biểu diễn dữ liệu gì.",
+"Bước 2: Xem trục ngang, trục dọc và đơn vị.",
+"Bước 3: Đọc từng điểm dữ liệu theo mốc tương ứng.",
+"Bước 4: Nếu vẽ biểu đồ, đặt điểm đúng vị trí rồi nối các điểm theo thứ tự.",
+"Bước 5: Nhận xét xu hướng tăng, giảm, ổn định hoặc biến động."
+],
+"commonMistakes": [
+{
+"mistake": "Nhìn đường đi lên rồi kết luận tăng mà không đọc đơn vị.",
+"fix": "Luôn đọc trục và đơn vị trước khi kết luận."
+},
+{
+"mistake": "Nối các điểm không theo thứ tự thời gian.",
+"fix": "Biểu đồ đoạn thẳng cần nối các điểm theo thứ tự trên trục ngang."
+},
+{
+"mistake": "Đọc nhầm giá trị vì khoảng chia trục dọc không đều.",
+"fix": "Kiểm tra khoảng cách giữa các vạch chia trước khi đọc số."
+}
+],
+"quickMemory": "Biểu đồ đoạn thẳng dùng để nhìn sự thay đổi và xu hướng qua các mốc liên tiếp.",
+"warmupQuestions": [
+{
+"question": "Biểu đồ đoạn thẳng thường phù hợp với dữ liệu thay đổi theo gì?",
+"suggestedAnswer": "Theo thời gian hoặc theo thứ tự liên tiếp."
+},
+{
+"question": "Đường biểu đồ đi xuống thường cho thấy xu hướng gì?",
+"suggestedAnswer": "Xu hướng giảm."
+}
+],
+"applicationQuestions": [
+{
+"question": "Nhiệt độ từ thứ Hai đến thứ Tư là 28°C, 30°C, 29°C. Nhiệt độ tăng liên tục không?",
+"hint": "So sánh từng ngày liên tiếp.",
+"suggestedAnswer": "Không. Nhiệt độ tăng từ 28 lên 30 rồi giảm xuống 29."
+},
+{
+"question": "Doanh thu theo tháng là 10, 12, 15, 18 triệu đồng. Nêu xu hướng.",
+"hint": "Giá trị sau lớn hơn giá trị trước.",
+"suggestedAnswer": "Doanh thu có xu hướng tăng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Biểu đồ đoạn thẳng mẫu có chú thích trục ngang, trục dọc, điểm dữ liệu và xu hướng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Nhập bảng số liệu, app tự vẽ biểu đồ đoạn thẳng và hỏi học sinh nhận xét xu hướng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_math_035",
+"subjectKey": "math",
+"learningObjectives": [
+"Đọc được thông tin từ biểu đồ hình quạt tròn.",
+"Hiểu mỗi quạt tròn biểu diễn một phần trong toàn bộ dữ liệu.",
+"Tính được tỉ lệ phần trăm hoặc số lượng từ biểu đồ quạt tròn đơn giản.",
+"Nhận xét được nhóm chiếm tỉ lệ lớn nhất, nhỏ nhất trong dữ liệu."
+],
+"easyExplanation": "Biểu đồ hình quạt tròn dùng để biểu diễn các phần của một tổng thể. Toàn bộ hình tròn là 100%. Mỗi miếng quạt biểu diễn một nhóm dữ liệu. Miếng càng lớn thì nhóm đó chiếm tỉ lệ càng cao. Khi đọc biểu đồ quạt tròn, em cần xem chú giải màu, tên từng nhóm và phần trăm tương ứng. Nếu biết tổng số lượng, ta có thể lấy phần trăm nhân với tổng để tìm số lượng của từng nhóm.",
+"workedExamples": [
+{
+"title": "Đọc tỉ lệ lớn nhất",
+"problem": "Một biểu đồ quạt tròn cho biết bóng đá 40%, cầu lông 25%, bơi 20%, bóng rổ 15%. Môn nào được chọn nhiều nhất?",
+"steps": [
+"So sánh các tỉ lệ phần trăm.",
+"40% là tỉ lệ lớn nhất.",
+"Nhóm ứng với 40% là bóng đá."
+],
+"answer": "Bóng đá được chọn nhiều nhất.",
+"explanation": "Trên biểu đồ quạt tròn, phần trăm lớn hơn thường có miếng quạt lớn hơn."
+},
+{
+"title": "Tính số lượng từ phần trăm",
+"problem": "Một lớp có 40 học sinh. Biểu đồ cho biết 25% học sinh thích cầu lông. Có bao nhiêu học sinh thích cầu lông?",
+"steps": [
+"Đổi 25% thành 1/4.",
+"Tính 1/4 của 40.",
+"40 : 4 = 10."
+],
+"answer": "10 học sinh.",
+"explanation": "Số lượng bằng tỉ lệ phần trăm nhân với tổng số."
+},
+{
+"title": "Kiểm tra tổng phần trăm",
+"problem": "Một biểu đồ có ba nhóm 30%, 45%, 25%. Tổng có hợp lý không?",
+"steps": [
+"Cộng các phần trăm: 30% + 45% + 25%.",
+"Tổng bằng 100%.",
+"Vậy biểu đồ hợp lý về tổng tỉ lệ."
+],
+"answer": "Hợp lý.",
+"explanation": "Các phần của biểu đồ quạt tròn phải cộng lại thành 100%."
+}
+],
+"steps": [
+"Bước 1: Đọc tên biểu đồ để biết tổng thể đang xét.",
+"Bước 2: Xem chú giải để biết mỗi màu hoặc mỗi quạt là nhóm nào.",
+"Bước 3: Đọc phần trăm của từng nhóm.",
+"Bước 4: So sánh phần trăm để tìm nhóm lớn nhất hoặc nhỏ nhất.",
+"Bước 5: Nếu biết tổng số lượng, tính số lượng bằng phần trăm nhân với tổng."
+],
+"commonMistakes": [
+{
+"mistake": "Cộng các phần trăm không ra 100% nhưng vẫn dùng kết quả.",
+"fix": "Biểu đồ quạt tròn biểu diễn toàn bộ, nên tổng các phần thường phải là 100%."
+},
+{
+"mistake": "Nhìn miếng quạt lớn nhưng đọc nhầm chú giải màu.",
+"fix": "Luôn đối chiếu màu hoặc ký hiệu với chú giải."
+},
+{
+"mistake": "Tính 25% của 40 thành 25 học sinh.",
+"fix": "25% nghĩa là 25 phần của 100, tức 1/4. 25% của 40 là 10."
+}
+],
+"quickMemory": "Biểu đồ quạt tròn: cả hình tròn là 100%, mỗi miếng là một phần của tổng thể.",
+"warmupQuestions": [
+{
+"question": "Toàn bộ biểu đồ hình quạt tròn tương ứng bao nhiêu phần trăm?",
+"suggestedAnswer": "100%."
+},
+{
+"question": "50% của 40 bằng bao nhiêu?",
+"suggestedAnswer": "20."
+}
+],
+"applicationQuestions": [
+{
+"question": "Một lớp có 50 học sinh, 20% chọn đọc sách là hoạt động yêu thích. Có bao nhiêu học sinh chọn đọc sách?",
+"hint": "20% = 1/5.",
+"suggestedAnswer": "50 × 20% = 10 học sinh."
+},
+{
+"question": "Biểu đồ quạt tròn có nhóm A 35%, nhóm B 40%, nhóm C 25%. Nhóm nào lớn nhất?",
+"hint": "So sánh các phần trăm.",
+"suggestedAnswer": "Nhóm B lớn nhất vì 40% là tỉ lệ cao nhất."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Biểu đồ quạt tròn mẫu có chú giải màu, phần trăm từng nhóm và tổng 100%.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Cho học sinh chỉnh phần trăm từng nhóm và thấy kích thước miếng quạt thay đổi.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Chưa map theo bộ sách cụ thể."
+},
+"updatedAt": "2026-06-09"
+}
+]

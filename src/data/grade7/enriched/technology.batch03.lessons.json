@@ -1,0 +1,538 @@
+[
+{
+"lessonId": "g7_tech_011",
+"subjectKey": "technology",
+"learningObjectives": [
+"Nhận biết được vai trò của đất trồng, giá thể, nước, ánh sáng và dinh dưỡng đối với cây trồng.",
+"Phân biệt được đất trồng và giá thể ở mức cơ bản.",
+"Nêu được một số điều kiện cần cho cây sinh trưởng tốt.",
+"Biết quan sát cây để phát hiện dấu hiệu thiếu nước, thiếu sáng hoặc thiếu dinh dưỡng.",
+"Hình thành thói quen chăm sóc cây đúng cách, tiết kiệm nước và bảo vệ đất."
+],
+"easyExplanation": "Cây trồng muốn lớn tốt cần một 'ngôi nhà' phù hợp cho rễ, đó có thể là đất trồng hoặc giá thể. Đất trồng cung cấp nơi bám rễ, nước, không khí và chất dinh dưỡng. Giá thể là vật liệu thay thế hoặc phối hợp với đất, ví dụ xơ dừa, trấu hun, mùn, cát sạch, viên đất nung. Ngoài đất và giá thể, cây còn cần nước, ánh sáng, không khí và dinh dưỡng. Nếu thiếu nước, cây héo; thiếu sáng, cây yếu và vươn dài; thiếu dinh dưỡng, lá có thể vàng hoặc cây chậm lớn.",
+"workedExamples": [
+{
+"title": "Phân biệt đất trồng và giá thể",
+"problem": "Xơ dừa dùng để trồng rau mầm có phải đất trồng không?",
+"steps": [
+"Đất trồng là lớp vật chất tự nhiên có khoáng, mùn, nước, không khí và sinh vật.",
+"Xơ dừa là vật liệu được dùng làm môi trường cho rễ bám.",
+"Xơ dừa không phải đất tự nhiên.",
+"Vì vậy xơ dừa là giá thể."
+],
+"answer": "Xơ dừa là giá thể, không phải đất trồng tự nhiên.",
+"explanation": "Giá thể giúp cây bám rễ và giữ ẩm, nhưng cần được chọn và xử lí phù hợp."
+},
+{
+"title": "Nhận biết cây thiếu nước",
+"problem": "Một cây rau trong chậu bị héo vào buổi chiều, đất khô. Em nên làm gì?",
+"steps": [
+"Quan sát lá bị héo và đất khô.",
+"Dấu hiệu này cho thấy cây có thể thiếu nước.",
+"Tưới lượng nước vừa đủ vào gốc.",
+"Theo dõi cây sau khi tưới và điều chỉnh lịch tưới."
+],
+"answer": "Nên tưới nước vừa đủ vào gốc và theo dõi lại tình trạng cây.",
+"explanation": "Chăm cây cần quan sát trước, không tưới hoặc bón phân theo cảm tính."
+}
+],
+"steps": [
+"Quan sát cây trồng và môi trường trồng.",
+"Kiểm tra đất hoặc giá thể có tơi xốp, thoát nước, giữ ẩm phù hợp không.",
+"Theo dõi lượng nước và ánh sáng cây nhận được.",
+"Quan sát màu lá, chiều cao, độ cứng của thân để nhận biết tình trạng cây.",
+"Bổ sung nước hoặc dinh dưỡng đúng cách khi cần.",
+"Không lạm dụng phân bón hoặc tưới quá nhiều nước."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ cây chỉ cần đất là đủ.",
+"fix": "Cây còn cần nước, ánh sáng, không khí và dinh dưỡng phù hợp."
+},
+{
+"mistake": "Tưới càng nhiều nước càng tốt.",
+"fix": "Tưới quá nhiều có thể làm úng rễ. Cần tưới vừa đủ theo loại cây và điều kiện thời tiết."
+},
+{
+"mistake": "Dùng giá thể không xử lí hoặc không phù hợp.",
+"fix": "Cần chọn giá thể sạch, thoát nước, giữ ẩm phù hợp với loại cây."
+}
+],
+"quickMemory": "Cây khỏe cần đủ nhà cho rễ, nước, ánh sáng, không khí và dinh dưỡng. Thiếu hay thừa đều làm cây mệt.",
+"warmupQuestions": [
+{
+"question": "Cây trồng cần những điều kiện nào để sinh trưởng?",
+"suggestedAnswer": "Cần đất hoặc giá thể phù hợp, nước, ánh sáng, không khí và dinh dưỡng."
+},
+{
+"question": "Giá thể là gì?",
+"suggestedAnswer": "Là vật liệu dùng làm môi trường cho rễ cây bám, giữ nước và hỗ trợ cây sinh trưởng."
+},
+{
+"question": "Một dấu hiệu cây thiếu nước là gì?",
+"suggestedAnswer": "Lá héo, đất khô, cây rũ xuống."
+}
+],
+"applicationQuestions": [
+{
+"question": "Thiết kế một chậu rau nhỏ ở nhà. Em cần chuẩn bị những gì?",
+"hint": "Chậu, đất/giá thể, hạt giống, nước, ánh sáng, lịch chăm sóc.",
+"suggestedAnswer": "Cần chuẩn bị chậu có lỗ thoát nước, đất hoặc giá thể sạch, hạt giống phù hợp, nước tưới, vị trí có ánh sáng và lịch theo dõi hằng ngày."
+},
+{
+"question": "Vì sao đất trồng cần tơi xốp?",
+"hint": "Liên hệ rễ, nước, không khí.",
+"suggestedAnswer": "Đất tơi xốp giúp rễ phát triển, giữ nước vừa phải, thoát nước tốt và có không khí cho rễ hô hấp."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ điều kiện sinh trưởng của cây: đất/giá thể, nước, ánh sáng, không khí, dinh dưỡng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Quan sát hình cây và chọn nguyên nhân có thể: thiếu nước, thiếu sáng, úng nước, thiếu dinh dưỡng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_012",
+"subjectKey": "technology",
+"learningObjectives": [
+"Trình bày được quy trình cơ bản khi gieo trồng và chăm sóc cây.",
+"Biết lựa chọn hạt giống hoặc cây con phù hợp.",
+"Nêu được các thao tác chăm sóc như tưới nước, làm cỏ, tỉa cây, theo dõi sinh trưởng.",
+"Hiểu cần chăm sóc cây theo từng giai đoạn phát triển.",
+"Biết ghi nhật kí quan sát cây trồng đơn giản."
+],
+"easyExplanation": "Gieo trồng và chăm sóc cây là một quy trình có thứ tự. Trước tiên cần chọn giống tốt, chuẩn bị đất hoặc giá thể, gieo hạt đúng độ sâu hoặc trồng cây con đúng cách. Sau đó cần tưới nước, giữ ẩm, đặt cây nơi có ánh sáng phù hợp, làm cỏ, tỉa cây, theo dõi sâu bệnh và ghi lại sự phát triển. Cây trồng không lớn lên bằng một cú bấm nút, mà bằng những chăm sóc nhỏ đều đặn mỗi ngày.",
+"workedExamples": [
+{
+"title": "Quy trình gieo hạt rau",
+"problem": "Nêu quy trình khái quát để gieo hạt rau trong chậu.",
+"steps": [
+"Chuẩn bị chậu có lỗ thoát nước và đất/giá thể sạch.",
+"Làm ẩm đất vừa đủ.",
+"Gieo hạt theo khoảng cách phù hợp.",
+"Phủ lớp đất mỏng nếu cần.",
+"Tưới nhẹ và đặt ở nơi có ánh sáng phù hợp."
+],
+"answer": "Chuẩn bị chậu và đất, làm ẩm, gieo hạt, phủ đất mỏng, tưới nhẹ và theo dõi cây nảy mầm.",
+"explanation": "Gieo hạt cần nhẹ tay, đúng độ sâu và đủ ẩm."
+},
+{
+"title": "Theo dõi sinh trưởng",
+"problem": "Vì sao nên ghi nhật kí quan sát cây?",
+"steps": [
+"Cây thay đổi từng ngày.",
+"Ghi chiều cao, số lá, màu lá giúp theo dõi sinh trưởng.",
+"Nếu cây chậm lớn hoặc vàng lá, có thể phát hiện sớm.",
+"Nhật kí giúp điều chỉnh chăm sóc."
+],
+"answer": "Vì nhật kí giúp theo dõi sự phát triển của cây và phát hiện sớm vấn đề để chăm sóc phù hợp.",
+"explanation": "Quan sát có ghi chép biến việc chăm cây thành một thí nghiệm nhỏ đáng yêu."
+}
+],
+"steps": [
+"Chọn giống cây phù hợp thời tiết, không gian và mục đích.",
+"Chuẩn bị đất hoặc giá thể, chậu, nước và dụng cụ.",
+"Gieo hạt hoặc trồng cây con đúng cách.",
+"Tưới nước vừa đủ và đặt cây ở nơi có ánh sáng phù hợp.",
+"Làm cỏ, tỉa cây, bổ sung dinh dưỡng khi cần.",
+"Ghi nhật kí quan sát cây theo ngày hoặc tuần."
+],
+"commonMistakes": [
+{
+"mistake": "Gieo hạt quá dày khiến cây chen nhau.",
+"fix": "Gieo hạt với khoảng cách phù hợp hoặc tỉa bớt cây yếu sau khi mọc."
+},
+{
+"mistake": "Tưới mạnh làm trôi hạt hoặc gãy cây con.",
+"fix": "Tưới nhẹ bằng bình phun hoặc vòi nhỏ."
+},
+{
+"mistake": "Không theo dõi cây sau khi gieo.",
+"fix": "Cần quan sát độ ẩm, ánh sáng, lá và thân để điều chỉnh chăm sóc."
+}
+],
+"quickMemory": "Gieo trồng: chọn giống, chuẩn bị đất, gieo đúng, tưới vừa, chăm đều, quan sát kĩ.",
+"warmupQuestions": [
+{
+"question": "Trước khi gieo hạt cần chuẩn bị gì?",
+"suggestedAnswer": "Hạt giống, đất hoặc giá thể, chậu có thoát nước, nước tưới và dụng cụ phù hợp."
+},
+{
+"question": "Vì sao cần tỉa cây?",
+"suggestedAnswer": "Để cây có đủ không gian, ánh sáng và dinh dưỡng phát triển."
+},
+{
+"question": "Nhật kí quan sát cây có thể ghi những gì?",
+"suggestedAnswer": "Ngày quan sát, chiều cao cây, số lá, màu lá, lượng nước tưới và tình trạng sâu bệnh."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập kế hoạch chăm sóc cây rau mầm trong 7 ngày.",
+"hint": "Ghi ngày, tưới nước, ánh sáng, quan sát.",
+"suggestedAnswer": "Mỗi ngày kiểm tra độ ẩm, tưới nhẹ khi giá thể khô, đặt nơi có ánh sáng vừa phải, ghi chiều cao và màu lá. Ngày cuối nhận xét cây phát triển tốt hay cần điều chỉnh."
+},
+{
+"question": "Nếu cây con mọc quá dày, em nên làm gì?",
+"hint": "Tỉa bớt cây yếu, giữ cây khỏe.",
+"suggestedAnswer": "Nên tỉa bớt cây yếu hoặc cây mọc quá sát nhau để cây còn lại có đủ không gian, ánh sáng và dinh dưỡng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Quy trình gieo trồng và chăm sóc cây từ chọn giống đến nhật kí quan sát.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp đúng thứ tự các bước gieo hạt và chọn cách chăm sóc phù hợp với tình trạng cây.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_013",
+"subjectKey": "technology",
+"learningObjectives": [
+"Nhận biết được một số dấu hiệu sâu bệnh phổ biến trên cây trồng.",
+"Hiểu nguyên tắc phòng trừ sâu bệnh an toàn và sinh thái.",
+"Biết ưu tiên vệ sinh vườn, quan sát thường xuyên và biện pháp sinh học khi phù hợp.",
+"Nêu được tác hại của việc lạm dụng thuốc hóa học.",
+"Hình thành ý thức bảo vệ sức khỏe, môi trường và sinh vật có ích."
+],
+"easyExplanation": "Sâu bệnh có thể làm cây bị thủng lá, vàng lá, héo, thối rễ, chậm lớn hoặc giảm năng suất. Phòng trừ an toàn không có nghĩa là cứ thấy sâu là phun thuốc thật mạnh. Trước hết cần vệ sinh khu vực trồng, chọn giống khỏe, tưới nước hợp lí, quan sát thường xuyên, bắt sâu thủ công nếu ít, dùng bẫy hoặc biện pháp sinh học khi phù hợp. Thuốc hóa học nếu dùng sai có thể hại sức khỏe, đất, nước và sinh vật có ích. Cách tốt nhất là phòng là chính, xử lí sớm và an toàn.",
+"workedExamples": [
+{
+"title": "Nhận biết dấu hiệu sâu hại",
+"problem": "Lá rau có nhiều lỗ nhỏ và thấy sâu xanh. Đây có thể là vấn đề gì?",
+"steps": [
+"Quan sát lá bị thủng.",
+"Tìm thấy sâu xanh trên cây.",
+"Sâu ăn lá có thể là nguyên nhân.",
+"Cần xử lí sớm bằng cách an toàn."
+],
+"answer": "Cây có thể bị sâu ăn lá. Nên bắt sâu thủ công nếu ít, vệ sinh chậu/vườn và tiếp tục quan sát.",
+"explanation": "Quan sát trực tiếp giúp chọn biện pháp phù hợp, tránh dùng thuốc bừa bãi."
+},
+{
+"title": "Vì sao không lạm dụng thuốc hóa học?",
+"problem": "Dùng nhiều thuốc hóa học để diệt sâu có thể gây hại gì?",
+"steps": [
+"Thuốc có thể ảnh hưởng sức khỏe người dùng.",
+"Dư lượng thuốc có thể còn trên nông sản.",
+"Thuốc có thể làm ô nhiễm đất, nước.",
+"Thuốc cũng có thể hại sinh vật có ích."
+],
+"answer": "Lạm dụng thuốc hóa học có thể hại sức khỏe, gây dư lượng trên nông sản, ô nhiễm môi trường và tiêu diệt sinh vật có ích.",
+"explanation": "An toàn sinh thái nghĩa là bảo vệ cả cây, người và môi trường."
+}
+],
+"steps": [
+"Quan sát cây thường xuyên để phát hiện dấu hiệu bất thường.",
+"Giữ khu vực trồng sạch, thoáng, không để lá hỏng mục lâu ngày.",
+"Tưới nước và bón dinh dưỡng hợp lí để cây khỏe.",
+"Khi thấy sâu ít, có thể bắt thủ công hoặc dùng biện pháp sinh học phù hợp.",
+"Chỉ dùng thuốc khi thật cần, đúng hướng dẫn và có người lớn hỗ trợ.",
+"Ghi lại tình trạng cây và biện pháp đã dùng."
+],
+"commonMistakes": [
+{
+"mistake": "Cứ thấy sâu bệnh là dùng thuốc hóa học ngay.",
+"fix": "Ưu tiên quan sát, vệ sinh vườn, bắt sâu thủ công, biện pháp sinh học và dùng thuốc đúng hướng dẫn khi cần."
+},
+{
+"mistake": "Không phòng bệnh, chỉ đợi cây bị nặng mới xử lí.",
+"fix": "Phòng là chính: cây khỏe, vườn sạch, quan sát đều."
+},
+{
+"mistake": "Không bảo vệ bản thân khi xử lí sâu bệnh.",
+"fix": "Dùng găng tay khi cần, rửa tay sau khi chăm cây và hỏi người lớn khi dùng chế phẩm lạ."
+}
+],
+"quickMemory": "Phòng sâu bệnh an toàn: cây khỏe, vườn sạch, quan sát sớm, xử lí nhẹ trước, không lạm dụng hóa chất.",
+"warmupQuestions": [
+{
+"question": "Một dấu hiệu cây bị sâu ăn lá là gì?",
+"suggestedAnswer": "Lá có lỗ thủng, mép lá bị cắn hoặc thấy sâu trên cây."
+},
+{
+"question": "Vì sao nên phòng sâu bệnh hơn là chỉ chữa khi cây bị nặng?",
+"suggestedAnswer": "Vì phòng sớm giúp cây khỏe, giảm thiệt hại và giảm nhu cầu dùng thuốc."
+},
+{
+"question": "Lạm dụng thuốc hóa học có thể gây hại gì?",
+"suggestedAnswer": "Gây hại sức khỏe, ô nhiễm môi trường, dư lượng trên nông sản và hại sinh vật có ích."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập kế hoạch phòng sâu bệnh cho chậu rau ở nhà.",
+"hint": "Vệ sinh, quan sát, tưới hợp lí, bắt sâu, ghi chép.",
+"suggestedAnswer": "Mỗi ngày quan sát lá và thân cây, loại bỏ lá hỏng, tưới nước vừa đủ, giữ chậu thoáng. Nếu thấy sâu ít thì bắt thủ công. Ghi lại ngày phát hiện và cách xử lí."
+},
+{
+"question": "Nếu cây vàng lá, em cần quan sát thêm những gì trước khi kết luận bị bệnh?",
+"hint": "Nước, ánh sáng, dinh dưỡng, rễ, sâu.",
+"suggestedAnswer": "Cần xem đất có quá khô hoặc quá ướt không, cây có đủ ánh sáng không, có dấu sâu hại không, lá vàng toàn cây hay từng lá, rễ có bị thối không."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ phòng trừ sâu bệnh an toàn: phòng ngừa, quan sát, biện pháp thủ công, sinh học, hóa học đúng hướng dẫn.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Nhận diện dấu hiệu sâu bệnh qua hình cây và chọn biện pháp xử lí an toàn.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_014",
+"subjectKey": "technology",
+"learningObjectives": [
+"Hiểu thời điểm thu hoạch ảnh hưởng đến chất lượng nông sản.",
+"Biết một số thao tác sau thu hoạch: phân loại, làm sạch, bảo quản, đóng gói, chế biến.",
+"Nêu được mục đích của bảo quản nông sản là giảm hao hụt và giữ chất lượng.",
+"Nhận biết được một số phương pháp bảo quản đơn giản, an toàn.",
+"Hình thành ý thức giảm lãng phí thực phẩm và bảo đảm vệ sinh an toàn."
+],
+"easyExplanation": "Thu hoạch không chỉ là hái hoặc cắt sản phẩm. Cần thu hoạch đúng thời điểm để nông sản có chất lượng tốt: rau không quá già, quả không quá non hoặc quá chín, hạt đủ độ khô. Sau thu hoạch cần phân loại, làm sạch, loại bỏ phần hỏng, bảo quản ở nơi phù hợp, đóng gói và có thể chế biến để kéo dài thời gian sử dụng. Nếu làm không đúng, nông sản dễ dập, mốc, thối, mất dinh dưỡng và gây lãng phí.",
+"workedExamples": [
+{
+"title": "Thu hoạch đúng thời điểm",
+"problem": "Vì sao không nên thu hoạch quả quá xanh hoặc quá chín nếu cần vận chuyển xa?",
+"steps": [
+"Quả quá xanh có thể chưa đạt chất lượng ăn.",
+"Quả quá chín dễ dập, hỏng khi vận chuyển.",
+"Vận chuyển xa cần chọn độ chín phù hợp.",
+"Thu hoạch đúng thời điểm giúp giữ chất lượng."
+],
+"answer": "Vì quả quá xanh chưa ngon, còn quả quá chín dễ dập hỏng khi vận chuyển. Cần thu hoạch ở độ chín phù hợp.",
+"explanation": "Thời điểm thu hoạch là cửa đầu tiên quyết định chất lượng sau thu hoạch."
+},
+{
+"title": "Bảo quản rau",
+"problem": "Muốn rau tươi lâu hơn sau khi mua về, nên làm gì?",
+"steps": [
+"Loại bỏ lá hỏng hoặc úa.",
+"Không để rau bị dập nát.",
+"Bảo quản nơi mát hoặc ngăn mát tủ lạnh nếu phù hợp.",
+"Dùng túi/hộp sạch, thoáng hoặc theo loại rau."
+],
+"answer": "Nên loại lá hỏng, tránh làm dập, bảo quản trong điều kiện mát và dùng bao/hộp sạch phù hợp.",
+"explanation": "Bảo quản tốt giúp giảm hao hụt và lãng phí thực phẩm."
+}
+],
+"steps": [
+"Xác định nông sản đã đến thời điểm thu hoạch chưa.",
+"Thu hoạch nhẹ tay, tránh dập nát.",
+"Phân loại theo chất lượng, kích thước hoặc độ chín.",
+"Làm sạch và loại bỏ phần hỏng.",
+"Chọn cách bảo quản phù hợp: nơi mát, khô, lạnh, phơi/sấy hoặc chế biến.",
+"Đóng gói, ghi nhãn và sử dụng theo thời hạn hợp lí."
+],
+"commonMistakes": [
+{
+"mistake": "Thu hoạch không đúng độ chín.",
+"fix": "Cần xem đặc điểm từng loại cây, mục đích sử dụng và thời gian vận chuyển."
+},
+{
+"mistake": "Để lẫn nông sản hỏng với nông sản tốt.",
+"fix": "Cần phân loại và loại bỏ phần hỏng để tránh lây hỏng."
+},
+{
+"mistake": "Bảo quản mọi nông sản giống nhau.",
+"fix": "Mỗi loại có cách bảo quản khác nhau: khô, mát, lạnh, thoáng hoặc chế biến."
+}
+],
+"quickMemory": "Sau thu hoạch: đúng lúc, nhẹ tay, phân loại, làm sạch, bảo quản đúng, giảm hao hụt.",
+"warmupQuestions": [
+{
+"question": "Vì sao cần thu hoạch đúng thời điểm?",
+"suggestedAnswer": "Để nông sản đạt chất lượng tốt, ít hao hụt và dễ bảo quản."
+},
+{
+"question": "Sau thu hoạch thường cần làm những việc gì?",
+"suggestedAnswer": "Phân loại, làm sạch, loại bỏ phần hỏng, bảo quản, đóng gói hoặc chế biến."
+},
+{
+"question": "Mục đích của bảo quản nông sản là gì?",
+"suggestedAnswer": "Giữ chất lượng, kéo dài thời gian sử dụng và giảm hao hụt."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập quy trình bảo quản quả sau khi thu hoạch.",
+"hint": "Thu hoạch, phân loại, làm sạch, đóng gói, bảo quản.",
+"suggestedAnswer": "Thu hoạch nhẹ tay ở độ chín phù hợp. Phân loại quả tốt và quả dập. Lau hoặc làm sạch theo yêu cầu. Đóng gói trong vật liệu sạch, thoáng. Bảo quản ở nơi mát hoặc lạnh tùy loại quả."
+},
+{
+"question": "Nêu 3 cách giảm lãng phí nông sản trong gia đình.",
+"hint": "Mua vừa đủ, bảo quản đúng, chế biến kịp.",
+"suggestedAnswer": "Mua lượng vừa đủ, bảo quản đúng cách, dùng nông sản gần hỏng trước hoặc chế biến thành món phù hợp để tránh bỏ phí."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Quy trình sau thu hoạch: thu hoạch, phân loại, làm sạch, bảo quản, đóng gói, chế biến, giảm hao hụt.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn cách bảo quản phù hợp cho rau, quả, hạt và phát hiện lỗi gây hao hụt.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_tech_015",
+"subjectKey": "technology",
+"learningObjectives": [
+"Hiểu vai trò của chăn nuôi trong đời sống và sản xuất.",
+"Nêu được các sản phẩm, lợi ích của chăn nuôi: thực phẩm, sức kéo, phân bón, thú cưng, cảnh quan.",
+"Nhận biết được một số vật nuôi phổ biến ở gia đình và địa phương.",
+"Hiểu cần chăn nuôi an toàn, vệ sinh và nhân đạo với vật nuôi.",
+"Liên hệ được vai trò của vật nuôi trong gia đình, địa phương hoặc nông nghiệp."
+],
+"easyExplanation": "Chăn nuôi là hoạt động nuôi và chăm sóc vật nuôi để phục vụ con người. Vật nuôi cung cấp thực phẩm như thịt, trứng, sữa; cung cấp sức kéo ở một số nơi; tạo phân bón cho trồng trọt; làm thú cưng, giữ nhà hoặc góp phần tạo cảnh quan. Một số vật nuôi phổ biến là gà, vịt, lợn, bò, trâu, dê, cá, chó, mèo. Chăn nuôi tốt không chỉ là cho vật nuôi ăn, mà còn cần chuồng trại sạch, nước uống, phòng bệnh, không đánh đập và không gây ô nhiễm môi trường.",
+"workedExamples": [
+{
+"title": "Vai trò thực phẩm",
+"problem": "Gà nuôi trong gia đình có thể cung cấp những sản phẩm gì?",
+"steps": [
+"Gà có thể cung cấp trứng.",
+"Gà cũng cung cấp thịt.",
+"Phân gà có thể dùng làm phân bón nếu xử lí đúng.",
+"Nêu vai trò chính."
+],
+"answer": "Gà cung cấp trứng, thịt và có thể cung cấp phân bón sau khi xử lí an toàn.",
+"explanation": "Một vật nuôi có thể có nhiều vai trò trong đời sống."
+},
+{
+"title": "Chăn nuôi vệ sinh",
+"problem": "Vì sao chuồng trại vật nuôi cần sạch và thoáng?",
+"steps": [
+"Chuồng bẩn dễ phát sinh mùi và mầm bệnh.",
+"Vật nuôi sống trong môi trường bẩn dễ bị bệnh.",
+"Môi trường xung quanh cũng có thể bị ô nhiễm.",
+"Chuồng sạch, thoáng giúp vật nuôi khỏe hơn."
+],
+"answer": "Vì chuồng sạch và thoáng giúp vật nuôi khỏe, giảm bệnh, giảm mùi hôi và bảo vệ môi trường.",
+"explanation": "Vệ sinh chuồng trại là nền móng của chăn nuôi an toàn."
+}
+],
+"steps": [
+"Kể tên vật nuôi phổ biến ở gia đình hoặc địa phương.",
+"Phân loại vai trò: thực phẩm, sức kéo, phân bón, thú cưng, cảnh quan.",
+"Quan sát nhu cầu cơ bản của vật nuôi: thức ăn, nước, nơi ở, vệ sinh, phòng bệnh.",
+"Tìm cách chăm sóc an toàn và nhân đạo.",
+"Liên hệ chăn nuôi với trồng trọt qua phân bón và vòng tuần hoàn nông nghiệp.",
+"Nêu cách giảm ô nhiễm trong chăn nuôi."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ chăn nuôi chỉ để lấy thịt.",
+"fix": "Chăn nuôi còn cung cấp trứng, sữa, sức kéo, phân bón, thú cưng và các giá trị khác."
+},
+{
+"mistake": "Bỏ qua vệ sinh chuồng trại.",
+"fix": "Chuồng trại sạch giúp vật nuôi khỏe, giảm bệnh và giảm ô nhiễm."
+},
+{
+"mistake": "Đối xử thô bạo với vật nuôi.",
+"fix": "Cần chăm sóc nhân đạo, không đánh đập, không bỏ đói và phòng bệnh đúng cách."
+}
+],
+"quickMemory": "Chăn nuôi cho thực phẩm, phân bón, sức kéo, thú cưng và giá trị đời sống. Nuôi tốt là sạch, an toàn, nhân đạo.",
+"warmupQuestions": [
+{
+"question": "Kể tên bốn vật nuôi phổ biến.",
+"suggestedAnswer": "Gà, vịt, lợn, bò, trâu, dê, cá, chó, mèo."
+},
+{
+"question": "Chăn nuôi cung cấp những sản phẩm nào?",
+"suggestedAnswer": "Thịt, trứng, sữa, phân bón và một số giá trị như sức kéo, thú cưng."
+},
+{
+"question": "Vì sao cần vệ sinh chuồng trại?",
+"suggestedAnswer": "Để giảm bệnh, mùi hôi, ô nhiễm và giúp vật nuôi khỏe."
+}
+],
+"applicationQuestions": [
+{
+"question": "Lập bảng vai trò của 3 vật nuôi: gà, bò, chó.",
+"hint": "Gà có thịt/trứng, bò có sữa/thịt/sức kéo, chó giữ nhà/thú cưng.",
+"suggestedAnswer": "Gà: thịt, trứng, phân bón. Bò: sữa, thịt, sức kéo ở một số nơi, phân bón. Chó: giữ nhà, làm thú cưng, hỗ trợ con người trong một số nhiệm vụ."
+},
+{
+"question": "Nêu 4 nguyên tắc chăm sóc vật nuôi an toàn và nhân đạo.",
+"hint": "Thức ăn, nước, nơi ở, phòng bệnh, không đánh đập.",
+"suggestedAnswer": "Cho ăn uống đủ và phù hợp. Giữ nơi ở sạch, thoáng. Theo dõi sức khỏe và phòng bệnh. Không đánh đập, bỏ đói hoặc nhốt vật nuôi trong điều kiện quá chật."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ vai trò của chăn nuôi: thực phẩm, sức kéo, phân bón, thú cưng, cảnh quan, môi trường.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Ghép vật nuôi với vai trò và chọn hành vi chăm sóc an toàn, nhân đạo.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

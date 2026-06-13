@@ -1,0 +1,537 @@
+[
+  {
+    "lessonId": "g7_civic_011",
+    "subjectKey": "civic",
+    "learningObjectives": [
+      "Nhận biết được một số quyền cơ bản của trẻ em.",
+      "Hiểu trẻ em có quyền được bảo vệ, chăm sóc, học tập, vui chơi, bày tỏ ý kiến phù hợp.",
+      "Hiểu quyền luôn đi cùng trách nhiệm tôn trọng quyền của bản thân và người khác.",
+      "Biết xử lí một số tình huống khi quyền trẻ em bị xâm phạm hoặc chưa được tôn trọng.",
+      "Hình thành ý thức tự bảo vệ, tìm sự hỗ trợ từ người lớn đáng tin khi cần."
+    ],
+    "easyExplanation": "Quyền trẻ em là những điều trẻ em được hưởng để phát triển an toàn, khỏe mạnh và hạnh phúc. Trẻ em có quyền được học tập, được chăm sóc sức khỏe, được bảo vệ khỏi bạo lực, được vui chơi, được bày tỏ ý kiến phù hợp với lứa tuổi, được sống trong môi trường an toàn. Nhưng có quyền không có nghĩa là muốn làm gì cũng được. Học sinh cũng có trách nhiệm học tập, tôn trọng cha mẹ, thầy cô, bạn bè, không xâm phạm quyền của người khác và biết tìm sự giúp đỡ khi gặp nguy hiểm.",
+    "workedExamples": [
+      {
+        "title": "Quyền được học tập",
+        "problem": "Một bạn muốn đi học nhưng thường xuyên bị ép nghỉ học để làm việc nhà quá sức. Quyền nào của bạn có thể bị ảnh hưởng?",
+        "steps": [
+          "Xác định nhu cầu của bạn là được đến trường.",
+          "Việc bị ép nghỉ học làm cản trở học tập.",
+          "Quyền liên quan là quyền được học tập và phát triển.",
+          "Bạn cần được người lớn đáng tin hỗ trợ."
+        ],
+        "answer": "Quyền được học tập và phát triển của bạn có thể bị ảnh hưởng.",
+        "explanation": "Quyền trẻ em giúp bảo vệ những điều cần thiết cho sự lớn lên an toàn và đúng nghĩa."
+      },
+      {
+        "title": "Quyền đi cùng trách nhiệm",
+        "problem": "Em có quyền bày tỏ ý kiến trong nhóm, vậy em có được ngắt lời và chê bai ý kiến của bạn không?",
+        "steps": [
+          "Em có quyền nêu ý kiến.",
+          "Bạn khác cũng có quyền được tôn trọng.",
+          "Ngắt lời, chê bai làm ảnh hưởng quyền của bạn.",
+          "Cần bày tỏ văn minh."
+        ],
+        "answer": "Không. Em nên bày tỏ ý kiến lịch sự và tôn trọng quyền được nói của bạn.",
+        "explanation": "Quyền của mình dừng lại ở nơi quyền của người khác bắt đầu bị tổn thương."
+      }
+    ],
+    "steps": [
+      "Kể tên các quyền cơ bản của trẻ em.",
+      "Nêu ví dụ quyền đó trong gia đình, nhà trường, cộng đồng.",
+      "Xác định trách nhiệm tương ứng của học sinh.",
+      "Nhận biết tình huống quyền bị xâm phạm hoặc chưa được tôn trọng.",
+      "Tìm người lớn đáng tin để chia sẻ khi gặp nguy hiểm.",
+      "Tôn trọng quyền của bạn bè và người xung quanh."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Nghĩ có quyền nghĩa là muốn làm gì cũng được.",
+        "fix": "Quyền luôn đi cùng trách nhiệm và không được xâm phạm quyền của người khác."
+      },
+      {
+        "mistake": "Im lặng khi bản thân hoặc bạn bè bị xâm phạm quyền.",
+        "fix": "Cần tìm sự hỗ trợ từ cha mẹ, thầy cô hoặc người lớn đáng tin."
+      },
+      {
+        "mistake": "Chỉ nhớ quyền mà quên trách nhiệm của học sinh.",
+        "fix": "Cần học tập, tôn trọng người khác, bảo vệ bản thân và tuân thủ quy định phù hợp."
+      }
+    ],
+    "quickMemory": "Quyền trẻ em để được an toàn, học tập, phát triển. Có quyền thì cũng cần tôn trọng quyền của người khác.",
+    "warmupQuestions": [
+      {
+        "question": "Kể tên ba quyền cơ bản của trẻ em.",
+        "suggestedAnswer": "Quyền được học tập, được bảo vệ, được chăm sóc sức khỏe, được vui chơi, được bày tỏ ý kiến."
+      },
+      {
+        "question": "Vì sao quyền cần đi cùng trách nhiệm?",
+        "suggestedAnswer": "Vì khi thực hiện quyền của mình, ta vẫn phải tôn trọng quyền và lợi ích của người khác."
+      },
+      {
+        "question": "Khi cảm thấy quyền của mình bị xâm phạm, em nên làm gì?",
+        "suggestedAnswer": "Nên nói với cha mẹ, thầy cô hoặc người lớn đáng tin để được hỗ trợ."
+      }
+    ],
+    "applicationQuestions": [
+      {
+        "question": "Nêu 4 trách nhiệm của học sinh khi thực hiện quyền trẻ em.",
+        "hint": "Học tập, tôn trọng, bảo vệ bản thân, không xâm phạm quyền người khác.",
+        "suggestedAnswer": "Chăm chỉ học tập, tôn trọng cha mẹ thầy cô bạn bè, bảo vệ bản thân trước nguy cơ, không xúc phạm hoặc xâm phạm quyền của người khác."
+      },
+      {
+        "question": "Bạn bị bạn khác đăng ảnh xấu lên mạng để trêu. Quyền nào bị ảnh hưởng và nên làm gì?",
+        "hint": "Liên hệ quyền được bảo vệ, quyền riêng tư, báo người lớn.",
+        "suggestedAnswer": "Quyền được bảo vệ danh dự, quyền riêng tư và an toàn của bạn bị ảnh hưởng. Bạn nên lưu bằng chứng, yêu cầu gỡ ảnh nếu an toàn và báo thầy cô hoặc cha mẹ."
+      }
+    ],
+    "mediaHints": [
+      {
+        "type": "diagram",
+        "description": "Sơ đồ quyền trẻ em và trách nhiệm học sinh: học tập, bảo vệ, chăm sóc, vui chơi, bày tỏ ý kiến.",
+        "priority": "high"
+      },
+      {
+        "type": "interactive",
+        "description": "Xử lí tình huống quyền trẻ em bị ảnh hưởng trong gia đình, lớp học và môi trường mạng.",
+        "priority": "high"
+      }
+    ],
+    "textbookMap": {
+      "status": "unmapped",
+      "bookSeries": null,
+      "bookLessonTitle": null,
+      "bookPage": null,
+      "note": "Raw lesson has textbookMap null. Enrichment is original support content."
+    },
+    "updatedAt": "2026-06-09"
+  },
+  {
+    "lessonId": "g7_civic_012",
+    "subjectKey": "civic",
+    "learningObjectives": [
+      "Hiểu mối quan hệ giữa quyền, nghĩa vụ và trách nhiệm trong gia đình, nhà trường, cộng đồng.",
+      "Nhận biết được một số quyền và nghĩa vụ của học sinh trong các môi trường gần gũi.",
+      "Biết lựa chọn hành vi phù hợp để thực hiện nghĩa vụ và trách nhiệm.",
+      "Phân biệt được đòi hỏi quyền lợi cá nhân với thực hiện quyền đúng mực.",
+      "Hình thành ý thức sống có trách nhiệm với bản thân và người xung quanh."
+    ],
+    "easyExplanation": "Trong gia đình, em có quyền được yêu thương, chăm sóc, lắng nghe, nhưng cũng có nghĩa vụ kính trọng, giúp đỡ người thân và tự chăm sóc bản thân phù hợp. Ở trường, em có quyền học tập, được tôn trọng, được tham gia hoạt động, nhưng cũng có nghĩa vụ học tập nghiêm túc, giữ gìn tài sản, tôn trọng thầy cô và bạn bè. Trong cộng đồng, em có quyền được sống trong môi trường an toàn, nhưng cũng cần tuân thủ quy định, giữ vệ sinh, bảo vệ của công và giúp đỡ khi có thể. Quyền và nghĩa vụ giống hai cánh của một cánh cửa, thiếu một bên thì mở không vững.",
+    "workedExamples": [
+      {
+        "title": "Quyền và nghĩa vụ ở trường",
+        "problem": "Em có quyền học tập ở trường. Vậy nghĩa vụ tương ứng là gì?",
+        "steps": [
+          "Xác định quyền: được học tập.",
+          "Quyền này cần môi trường học tập nghiêm túc.",
+          "Nghĩa vụ của học sinh là học bài, làm bài, tôn trọng thầy cô bạn bè.",
+          "Nêu câu trả lời rõ."
+        ],
+        "answer": "Nghĩa vụ tương ứng là học tập nghiêm túc, làm bài đầy đủ, tôn trọng thầy cô, bạn bè và nội quy trường lớp.",
+        "explanation": "Muốn được học trong môi trường tốt, mỗi người cần góp phần giữ môi trường ấy tốt."
+      },
+      {
+        "title": "Trách nhiệm trong gia đình",
+        "problem": "Ba mẹ chăm sóc em, vậy em có trách nhiệm gì trong gia đình?",
+        "steps": [
+          "Gia đình là nơi em được chăm sóc và yêu thương.",
+          "Em cũng cần kính trọng, quan tâm người thân.",
+          "Tùy tuổi, em có thể giúp việc nhà vừa sức.",
+          "Trách nhiệm cần thể hiện bằng việc làm cụ thể."
+        ],
+        "answer": "Em cần kính trọng, quan tâm người thân, tự giác học tập và giúp việc nhà phù hợp với khả năng.",
+        "explanation": "Trách nhiệm gia đình không phải điều lớn lao, đôi khi là rửa bát, gấp quần áo, hỏi thăm ông bà."
+      }
+    ],
+    "steps": [
+      "Xác định môi trường: gia đình, nhà trường hay cộng đồng.",
+      "Nêu quyền của học sinh trong môi trường đó.",
+      "Nêu nghĩa vụ/trách nhiệm tương ứng.",
+      "Phân tích tình huống xem hành vi đã phù hợp chưa.",
+      "Đề xuất cách hành động tôn trọng quyền của mình và người khác.",
+      "Tự đánh giá việc mình đã làm trong tuần."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Chỉ đòi quyền mà không thực hiện nghĩa vụ.",
+        "fix": "Quyền cần đi cùng trách nhiệm để bảo đảm công bằng và tôn trọng lẫn nhau."
+      },
+      {
+        "mistake": "Nghĩ việc nhà hoàn toàn không liên quan đến trách nhiệm học sinh.",
+        "fix": "Giúp việc nhà vừa sức cũng là trách nhiệm trong gia đình."
+      },
+      {
+        "mistake": "Tuân thủ nội quy chỉ vì sợ bị phạt.",
+        "fix": "Nên hiểu nội quy giúp bảo vệ quyền lợi và an toàn của mọi người."
+      }
+    ],
+    "quickMemory": "Quyền cho mình điều được hưởng. Nghĩa vụ nhắc mình điều cần làm. Trách nhiệm biến hiểu biết thành hành động.",
+    "warmupQuestions": [
+      {
+        "question": "Nêu một quyền của học sinh ở trường.",
+        "suggestedAnswer": "Quyền được học tập, được tôn trọng, được tham gia hoạt động phù hợp."
+      },
+      {
+        "question": "Nêu một nghĩa vụ của học sinh ở trường.",
+        "suggestedAnswer": "Học tập nghiêm túc, tôn trọng thầy cô bạn bè, thực hiện nội quy."
+      },
+      {
+        "question": "Trong cộng đồng, học sinh có thể thể hiện trách nhiệm bằng việc gì?",
+        "suggestedAnswer": "Giữ vệ sinh, tuân thủ quy định nơi công cộng, bảo vệ của công, giúp đỡ phù hợp."
+      }
+    ],
+    "applicationQuestions": [
+      {
+        "question": "Lập bảng quyền và nghĩa vụ của học sinh trong gia đình, nhà trường, cộng đồng.",
+        "hint": "Mỗi môi trường nêu 1 quyền và 1 nghĩa vụ.",
+        "suggestedAnswer": "Gia đình: quyền được yêu thương, nghĩa vụ kính trọng và giúp việc vừa sức. Nhà trường: quyền được học tập, nghĩa vụ học tập và thực hiện nội quy. Cộng đồng: quyền được sống an toàn, nghĩa vụ tuân thủ quy định và giữ vệ sinh."
+      },
+      {
+        "question": "Bạn nói: 'Mình có quyền vui chơi nên không cần làm bài tập'. Em sẽ góp ý thế nào?",
+        "hint": "Quyền vui chơi đi cùng nghĩa vụ học tập.",
+        "suggestedAnswer": "Mình có quyền vui chơi, nhưng cũng có nghĩa vụ học tập. Bạn nên hoàn thành phần bài cần làm rồi sắp xếp thời gian vui chơi hợp lí."
+      }
+    ],
+    "mediaHints": [
+      {
+        "type": "diagram",
+        "description": "Bảng quyền - nghĩa vụ - trách nhiệm trong gia đình, nhà trường và cộng đồng.",
+        "priority": "high"
+      },
+      {
+        "type": "interactive",
+        "description": "Ghép quyền với nghĩa vụ tương ứng trong các tình huống gần gũi của học sinh.",
+        "priority": "high"
+      }
+    ],
+    "textbookMap": {
+      "status": "unmapped",
+      "bookSeries": null,
+      "bookLessonTitle": null,
+      "bookPage": null,
+      "note": "Raw lesson has textbookMap null. Enrichment is original support content."
+    },
+    "updatedAt": "2026-06-09"
+  },
+  {
+    "lessonId": "g7_civic_013",
+    "subjectKey": "civic",
+    "learningObjectives": [
+      "Hiểu ý nghĩa của việc tuân thủ quy định chung nơi công cộng.",
+      "Nhận biết được một số quy định cơ bản ở nơi công cộng như xếp hàng, giữ vệ sinh, không gây ồn, an toàn giao thông.",
+      "Biết lựa chọn hành vi phù hợp trong công viên, thư viện, bệnh viện, xe buýt, đường phố.",
+      "Phân biệt được tự do cá nhân với hành vi ảnh hưởng đến quyền lợi người khác.",
+      "Hình thành thói quen văn minh, tôn trọng cộng đồng."
+    ],
+    "easyExplanation": "Nơi công cộng là không gian nhiều người cùng sử dụng như đường phố, công viên, thư viện, bệnh viện, nhà văn hóa, bến xe, xe buýt. Vì có nhiều người cùng dùng, mỗi người cần tuân thủ quy định chung để không làm phiền hoặc gây nguy hiểm cho người khác. Xếp hàng giúp công bằng, giữ vệ sinh giúp môi trường sạch, nói nhỏ trong thư viện giúp người khác tập trung, đi đúng luật giao thông giúp an toàn. Văn minh nơi công cộng là biết có người khác đang cùng sống trong không gian với mình.",
+    "workedExamples": [
+      {
+        "title": "Văn hóa xếp hàng",
+        "problem": "Khi mua vé ở khu vui chơi, một bạn chen lên trước vì đang vội. Hành vi đó đúng không?",
+        "steps": [
+          "Nơi mua vé có nhiều người chờ.",
+          "Xếp hàng giúp bảo đảm công bằng.",
+          "Chen hàng làm ảnh hưởng người đến trước.",
+          "Hành vi đó không phù hợp."
+        ],
+        "answer": "Không đúng. Bạn nên xếp hàng theo thứ tự để tôn trọng người khác.",
+        "explanation": "Xếp hàng là bài kiểm tra nhỏ của sự công bằng."
+      },
+      {
+        "title": "Giữ trật tự thư viện",
+        "problem": "Vì sao khi vào thư viện cần nói nhỏ?",
+        "steps": [
+          "Thư viện là nơi đọc sách và học tập.",
+          "Người khác cần sự yên tĩnh.",
+          "Nói to làm ảnh hưởng sự tập trung.",
+          "Nói nhỏ là tôn trọng quy định chung."
+        ],
+        "answer": "Vì thư viện cần yên tĩnh để mọi người đọc và học, nói to sẽ làm phiền người khác.",
+        "explanation": "Không gian chung cần sự dịu giọng của mỗi người."
+      }
+    ],
+    "steps": [
+      "Xác định nơi công cộng đang ở là đâu.",
+      "Quan sát biển báo, nội quy hoặc hướng dẫn.",
+      "Thực hiện hành vi phù hợp: xếp hàng, giữ vệ sinh, giữ trật tự, bảo đảm an toàn.",
+      "Không làm việc ảnh hưởng đến quyền lợi, sức khỏe, tài sản của người khác.",
+      "Nhắc nhở nhẹ nhàng nếu thấy bạn vi phạm nhỏ.",
+      "Tìm người có trách nhiệm hỗ trợ khi có tình huống nguy hiểm."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Nghĩ nơi công cộng là ai muốn làm gì cũng được.",
+        "fix": "Nơi công cộng là không gian chung nên cần quy định để bảo vệ mọi người."
+      },
+      {
+        "mistake": "Xả rác nhỏ vì nghĩ không đáng kể.",
+        "fix": "Rác nhỏ của nhiều người sẽ thành vấn đề lớn. Cần bỏ rác đúng nơi."
+      },
+      {
+        "mistake": "Đùa nghịch trên đường hoặc gần nơi nguy hiểm.",
+        "fix": "Cần chú ý an toàn giao thông và tôn trọng người xung quanh."
+      }
+    ],
+    "quickMemory": "Nơi công cộng là không gian chung. Xếp hàng, giữ sạch, giữ trật tự, an toàn và tôn trọng người khác.",
+    "warmupQuestions": [
+      {
+        "question": "Kể tên ba nơi công cộng.",
+        "suggestedAnswer": "Công viên, thư viện, bệnh viện, xe buýt, đường phố, bến xe, nhà văn hóa."
+      },
+      {
+        "question": "Vì sao cần tuân thủ quy định nơi công cộng?",
+        "suggestedAnswer": "Để bảo đảm trật tự, an toàn, vệ sinh và quyền lợi của mọi người."
+      },
+      {
+        "question": "Một hành vi văn minh trên xe buýt là gì?",
+        "suggestedAnswer": "Xếp hàng lên xe, nhường ghế cho người cần, không nói quá to, giữ vệ sinh."
+      }
+    ],
+    "applicationQuestions": [
+      {
+        "question": "Nêu 5 quy tắc khi đi tham quan cùng lớp.",
+        "hint": "Xếp hàng, không xả rác, nghe hướng dẫn, không tách đoàn, giữ trật tự.",
+        "suggestedAnswer": "Đi theo hàng và không tách đoàn, nghe hướng dẫn của giáo viên, không xả rác, không chạm vào hiện vật khi bị cấm, nói năng lịch sự và giữ trật tự."
+      },
+      {
+        "question": "Bạn xả rác ở công viên và nói 'có người dọn rồi'. Em sẽ nói gì?",
+        "hint": "Tôn trọng người lao động và không gian chung.",
+        "suggestedAnswer": "Mình nên bỏ rác đúng nơi. Công viên là không gian chung, người dọn vệ sinh rất vất vả và mỗi người đều cần giữ sạch."
+      }
+    ],
+    "mediaHints": [
+      {
+        "type": "diagram",
+        "description": "Poster quy định nơi công cộng: xếp hàng, vệ sinh, trật tự, giao thông, tôn trọng người khác.",
+        "priority": "high"
+      },
+      {
+        "type": "interactive",
+        "description": "Chọn hành vi đúng/sai ở công viên, thư viện, bệnh viện, xe buýt, đường phố.",
+        "priority": "high"
+      }
+    ],
+    "textbookMap": {
+      "status": "unmapped",
+      "bookSeries": null,
+      "bookLessonTitle": null,
+      "bookPage": null,
+      "note": "Raw lesson has textbookMap null. Enrichment is original support content."
+    },
+    "updatedAt": "2026-06-09"
+  },
+  {
+    "lessonId": "g7_civic_014",
+    "subjectKey": "civic",
+    "learningObjectives": [
+      "Hiểu ý nghĩa của việc tham gia hoạt động cộng đồng phù hợp lứa tuổi.",
+      "Nhận biết được một số hoạt động cộng đồng an toàn, có ích và phù hợp với học sinh lớp 7.",
+      "Biết lựa chọn hoạt động phù hợp với khả năng, thời gian và có người lớn hướng dẫn khi cần.",
+      "Phân biệt được tham gia tích cực với tham gia theo phong trào hoặc thiếu an toàn.",
+      "Hình thành tinh thần trách nhiệm, hợp tác và biết đóng góp cho cộng đồng."
+    ],
+    "easyExplanation": "Tham gia hoạt động cộng đồng là góp một phần nhỏ của mình để làm nơi sống, nơi học tập hoặc xã hội xung quanh tốt hơn. Với học sinh lớp 7, hoạt động phù hợp có thể là dọn vệ sinh lớp học, trồng cây, quyên góp sách vở, giúp đỡ bạn khó khăn, tham gia tuyên truyền an toàn giao thông, hỗ trợ hoạt động của trường hoặc khu phố dưới sự hướng dẫn của người lớn. Điều quan trọng là hoạt động phải an toàn, vừa sức, không ảnh hưởng xấu đến học tập và không làm theo chỉ để khoe.",
+    "workedExamples": [
+      {
+        "title": "Chọn hoạt động phù hợp",
+        "problem": "Lớp em muốn tham gia hoạt động cộng đồng. Hoạt động nào phù hợp hơn: dọn vệ sinh sân trường có giáo viên hướng dẫn hay tự ý đi xa phát quà không báo người lớn?",
+        "steps": [
+          "Xem hoạt động có an toàn không.",
+          "Xem có người lớn hướng dẫn không.",
+          "Xem có phù hợp lứa tuổi và khả năng không.",
+          "Chọn hoạt động an toàn, rõ mục đích."
+        ],
+        "answer": "Dọn vệ sinh sân trường có giáo viên hướng dẫn phù hợp hơn vì an toàn, vừa sức và có sự quản lí.",
+        "explanation": "Hoạt động cộng đồng tốt không chỉ có lòng tốt, mà còn cần an toàn và đúng cách."
+      },
+      {
+        "title": "Tham gia không theo phong trào",
+        "problem": "Bạn tham gia quyên góp sách nhưng chỉ để chụp ảnh đăng mạng, không quan tâm sách có còn dùng được không. Hành vi này có phù hợp không?",
+        "steps": [
+          "Mục đích chính của quyên góp là giúp người cần.",
+          "Sách cần còn dùng được, sạch, phù hợp.",
+          "Nếu chỉ làm để khoe, ý nghĩa hoạt động bị giảm.",
+          "Cần tham gia bằng sự chân thành và trách nhiệm."
+        ],
+        "answer": "Chưa phù hợp. Cần chọn sách còn tốt, phù hợp và tham gia với tinh thần giúp đỡ thật sự.",
+        "explanation": "Việc tốt không cần sân khấu quá lớn, chỉ cần trái tim làm đúng việc."
+      }
+    ],
+    "steps": [
+      "Tìm hiểu mục đích của hoạt động cộng đồng.",
+      "Xem hoạt động có phù hợp lứa tuổi, sức khỏe, thời gian và khả năng không.",
+      "Hỏi ý kiến cha mẹ, thầy cô hoặc người phụ trách khi cần.",
+      "Chuẩn bị dụng cụ, trang phục hoặc vật phẩm phù hợp.",
+      "Tham gia nghiêm túc, hợp tác và tuân thủ hướng dẫn an toàn.",
+      "Sau hoạt động, tự đánh giá điều đã làm được và điều cần cải thiện."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Tham gia hoạt động vượt quá khả năng hoặc thiếu người lớn hướng dẫn.",
+        "fix": "Cần chọn hoạt động an toàn, vừa sức và có người phụ trách rõ ràng."
+      },
+      {
+        "mistake": "Làm việc cộng đồng chỉ để được khen hoặc chụp ảnh.",
+        "fix": "Nên chú trọng ý nghĩa giúp đỡ và trách nhiệm thật sự."
+      },
+      {
+        "mistake": "Bỏ bê học tập hoặc sức khỏe vì tham gia quá nhiều hoạt động.",
+        "fix": "Cần cân bằng thời gian học tập, nghỉ ngơi và hoạt động cộng đồng."
+      }
+    ],
+    "quickMemory": "Hoạt động cộng đồng phù hợp: có ích, an toàn, vừa sức, có hướng dẫn, làm bằng trách nhiệm chứ không phải để khoe.",
+    "warmupQuestions": [
+      {
+        "question": "Kể tên ba hoạt động cộng đồng phù hợp với học sinh lớp 7.",
+        "suggestedAnswer": "Dọn vệ sinh trường lớp, trồng cây, quyên góp sách vở, giúp bạn khó khăn, tuyên truyền an toàn giao thông."
+      },
+      {
+        "question": "Vì sao hoạt động cộng đồng cần phù hợp lứa tuổi?",
+        "suggestedAnswer": "Để bảo đảm an toàn, vừa sức và không ảnh hưởng xấu đến học tập, sức khỏe."
+      },
+      {
+        "question": "Khi tham gia hoạt động ngoài trường, em cần lưu ý gì?",
+        "suggestedAnswer": "Cần có sự đồng ý hoặc hướng dẫn của cha mẹ, thầy cô hoặc người phụ trách đáng tin."
+      }
+    ],
+    "applicationQuestions": [
+      {
+        "question": "Lập kế hoạch hoạt động 'Góc sách sẻ chia' cho lớp.",
+        "hint": "Mục tiêu, người tham gia, cách thu sách, phân loại, trao tặng.",
+        "suggestedAnswer": "Mục tiêu là quyên góp sách còn tốt để tặng bạn cần. Lớp thông báo thời gian thu sách, phân công nhóm nhận và phân loại sách theo cấp học/môn học. Sách rách hoặc quá cũ sẽ không đưa vào tặng. Cuối cùng, lớp trao sách dưới sự hướng dẫn của giáo viên."
+      },
+      {
+        "question": "Nêu 4 tiêu chí để chọn một hoạt động cộng đồng phù hợp.",
+        "hint": "An toàn, vừa sức, có ích, có người hướng dẫn.",
+        "suggestedAnswer": "Hoạt động cần an toàn, vừa sức với học sinh, có ích cho cộng đồng, có người phụ trách/hướng dẫn và không ảnh hưởng xấu đến học tập."
+      }
+    ],
+    "mediaHints": [
+      {
+        "type": "diagram",
+        "description": "Sơ đồ chọn hoạt động cộng đồng phù hợp: mục đích, an toàn, lứa tuổi, người hướng dẫn, kết quả.",
+        "priority": "high"
+      },
+      {
+        "type": "interactive",
+        "description": "Chọn hoạt động cộng đồng phù hợp trong các tình huống: quyên góp, dọn vệ sinh, đi xa, hoạt động mạng.",
+        "priority": "high"
+      }
+    ],
+    "textbookMap": {
+      "status": "unmapped",
+      "bookSeries": null,
+      "bookLessonTitle": null,
+      "bookPage": null,
+      "note": "Raw lesson has textbookMap null. Enrichment is original support content."
+    },
+    "updatedAt": "2026-06-09"
+  },
+  {
+    "lessonId": "g7_civic_015",
+    "subjectKey": "civic",
+    "learningObjectives": [
+      "Hiểu ý nghĩa của việc sử dụng tiền hợp lí trong đời sống học sinh.",
+      "Biết phân biệt nhu cầu cần thiết và mong muốn nhất thời.",
+      "Biết lập kế hoạch chi tiêu nhỏ phù hợp với số tiền được giao.",
+      "Biết tiết kiệm, so sánh giá và tránh lãng phí.",
+      "Hình thành thói quen tiêu dùng có trách nhiệm, trung thực và biết chia sẻ."
+    ],
+    "easyExplanation": "Sử dụng tiền hợp lí là biết dùng tiền đúng mục đích, không tiêu theo cảm xúc, không đua đòi và không lãng phí. Học sinh có thể có tiền ăn sáng, tiền mua đồ dùng học tập, tiền tiết kiệm hoặc tiền được người lớn giao. Trước khi mua, hãy hỏi: đây là thứ mình cần hay chỉ muốn nhất thời? Có phù hợp số tiền không? Có lựa chọn tiết kiệm hơn không? Mình có đang mua vì bạn bè rủ không? Quản lý tiền nhỏ hôm nay là bài tập đầu tiên cho trách nhiệm lớn sau này.",
+    "workedExamples": [
+      {
+        "title": "Nhu cầu và mong muốn",
+        "problem": "Em cần mua bút để học nhưng cũng muốn mua thêm món đồ chơi đang thịnh hành. Nếu tiền chỉ đủ một thứ, nên ưu tiên gì?",
+        "steps": [
+          "Bút phục vụ học tập, là nhu cầu cần thiết.",
+          "Đồ chơi là mong muốn, có thể mua sau nếu có điều kiện.",
+          "Tiền chỉ đủ một thứ nên cần ưu tiên việc quan trọng.",
+          "Chọn mua bút trước."
+        ],
+        "answer": "Nên ưu tiên mua bút vì đó là nhu cầu cần thiết cho học tập.",
+        "explanation": "Tiền ít hay nhiều đều cần la bàn ưu tiên."
+      },
+      {
+        "title": "Lập kế hoạch chi tiêu",
+        "problem": "Em có 50.000 đồng cho một ngày học. Cần ăn sáng 25.000 đồng, gửi xe 5.000 đồng. Em còn lại bao nhiêu và nên làm gì?",
+        "steps": [
+          "Tổng tiền ban đầu là 50.000 đồng.",
+          "Chi cần thiết: 25.000 + 5.000 = 30.000 đồng.",
+          "Còn lại 20.000 đồng.",
+          "Có thể để dành hoặc dùng cho việc cần thiết khác."
+        ],
+        "answer": "Em còn 20.000 đồng. Nên giữ lại để tiết kiệm hoặc dùng cho việc cần thiết, không tiêu vội.",
+        "explanation": "Biết tính phần còn lại giúp ví tiền không bị gió cuốn mất."
+      }
+    ],
+    "steps": [
+      "Xác định số tiền mình có.",
+      "Liệt kê các khoản cần chi.",
+      "Phân biệt khoản cần thiết và khoản muốn mua.",
+      "Ưu tiên khoản cần thiết trước.",
+      "Dành một phần tiết kiệm nếu có thể.",
+      "Ghi lại chi tiêu để tự đánh giá."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Mua đồ theo bạn bè dù mình không thật sự cần.",
+        "fix": "Trước khi mua, hỏi lại: mình cần hay chỉ đang bị rủ rê?"
+      },
+      {
+        "mistake": "Tiêu hết tiền ngay khi có.",
+        "fix": "Nên chia tiền cho việc cần thiết, tiết kiệm và khoản nhỏ cho sở thích nếu phù hợp."
+      },
+      {
+        "mistake": "Không trung thực về tiền được giao.",
+        "fix": "Cần trung thực với cha mẹ/người lớn và dùng tiền đúng mục đích."
+      }
+    ],
+    "quickMemory": "Dùng tiền hợp lí: biết mình có bao nhiêu, cần gì trước, muốn gì sau, tiết kiệm một phần, ghi lại chi tiêu.",
+    "warmupQuestions": [
+      {
+        "question": "Nhu cầu cần thiết khác gì mong muốn?",
+        "suggestedAnswer": "Nhu cầu cần thiết là thứ thật sự cần cho học tập, sinh hoạt; mong muốn là thứ thích có nhưng có thể chưa cần."
+      },
+      {
+        "question": "Vì sao cần lập kế hoạch chi tiêu?",
+        "suggestedAnswer": "Để dùng tiền đúng mục đích, tránh lãng phí và biết tiết kiệm."
+      },
+      {
+        "question": "Một việc làm tiết kiệm của học sinh là gì?",
+        "suggestedAnswer": "Mua đồ dùng vừa đủ, giữ gìn đồ đã có, để dành một phần tiền, không mua theo phong trào."
+      }
+    ],
+    "applicationQuestions": [
+      {
+        "question": "Em có 100.000 đồng để mua đồ dùng học tập. Hãy lập kế hoạch chi.",
+        "hint": "Ưu tiên đồ cần thiết, để lại một phần dự phòng.",
+        "suggestedAnswer": "Mua vở 40.000 đồng, bút 20.000 đồng, thước/tẩy 15.000 đồng. Còn 25.000 đồng để dự phòng hoặc tiết kiệm."
+      },
+      {
+        "question": "Bạn rủ em góp tiền mua món đồ chơi đang nổi nhưng em đang cần mua sách bài tập. Em nên làm gì?",
+        "hint": "Ưu tiên nhu cầu học tập, từ chối lịch sự.",
+        "suggestedAnswer": "Em nên ưu tiên mua sách bài tập. Có thể nói với bạn: 'Mình đang cần mua sách trước, món đồ chơi để khi khác nếu còn tiền'."
+      }
+    ],
+    "mediaHints": [
+      {
+        "type": "diagram",
+        "description": "Sơ đồ quản lý tiền học sinh: số tiền có, khoản cần, khoản muốn, tiết kiệm, ghi chép chi tiêu.",
+        "priority": "high"
+      },
+      {
+        "type": "interactive",
+        "description": "Phân loại khoản chi thành cần thiết, mong muốn, tiết kiệm và lập kế hoạch chi tiêu nhỏ.",
+        "priority": "high"
+      }
+    ],
+    "textbookMap": {
+      "status": "unmapped",
+      "bookSeries": null,
+      "bookLessonTitle": null,
+      "bookPage": null,
+      "note": "Raw lesson has textbookMap null. Enrichment is original support content."
+    },
+    "updatedAt": "2026-06-09"
+  }
+]

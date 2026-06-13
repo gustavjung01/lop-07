@@ -1,0 +1,421 @@
+[
+{
+"lessonId": "g7_eng_u09",
+"subjectKey": "english",
+"learningObjectives": [
+"Nắm từ vựng về lễ hội và hoạt động kỷ niệm: festival, celebration, parade, fireworks, costume, lantern, traditional food.",
+"Nói được thời gian, địa điểm và hoạt động chính của một lễ hội.",
+"Dùng thì hiện tại đơn để mô tả thói quen, sự kiện lặp lại hằng năm.",
+"Dùng trạng từ chỉ tần suất và cụm thời gian: every year, usually, often, at Tet, in autumn.",
+"Viết được đoạn ngắn giới thiệu một lễ hội quen thuộc."
+],
+"easyExplanation": "Bài Festivals and Celebrations giúp em nói về các lễ hội như Tết, Trung thu, Giáng sinh, Halloween hoặc các ngày kỷ niệm ở địa phương. Khi giới thiệu lễ hội, em nên trả lời 4 câu hỏi: What is the festival? When is it? Where does it happen? What do people do? Với sự kiện diễn ra hằng năm, ta thường dùng thì hiện tại đơn: People make mooncakes. Children carry lanterns. Families visit relatives.",
+"workedExamples": [
+{
+"title": "Giới thiệu lễ hội bằng 4 ý chính",
+"problem": "Viết 4 câu giới thiệu Mid-Autumn Festival.",
+"steps": [
+"Nêu tên lễ hội.",
+"Nêu thời điểm diễn ra.",
+"Nêu hoạt động chính.",
+"Nêu cảm nhận cá nhân."
+],
+"answer": "Mid-Autumn Festival is a popular festival in Viet Nam. It is usually in autumn. Children carry lanterns and eat mooncakes. I like it because it is colourful and fun.",
+"explanation": "Đoạn ngắn có đủ tên lễ hội, thời gian, hoạt động và cảm nhận."
+},
+{
+"title": "Dùng hiện tại đơn cho lễ hội",
+"problem": "Hoàn thành câu: At Tet, people ___ relatives and ___ traditional food.",
+"steps": [
+"Sự việc diễn ra lặp lại mỗi năm nên dùng hiện tại đơn.",
+"Chủ ngữ people là số nhiều.",
+"Động từ giữ nguyên dạng cơ bản."
+],
+"answer": "At Tet, people visit relatives and eat traditional food.",
+"explanation": "Với people, dùng visit và eat, không thêm s."
+}
+],
+"steps": [
+"Học từ vựng lễ hội theo nhóm: food, clothes, activities, decorations.",
+"Luyện mẫu câu: It takes place in..., People usually...",
+"Tập mô tả một lễ hội bằng 4 câu hỏi: what, when, where, what activities.",
+"Dùng because để nêu lý do thích lễ hội.",
+"Viết đoạn 5 đến 6 câu về một lễ hội em biết."
+],
+"commonMistakes": [
+{
+"mistake": "Dùng sai thì khi mô tả lễ hội hằng năm.",
+"fix": "Dùng hiện tại đơn: People visit relatives. Children wear costumes."
+},
+{
+"mistake": "Chỉ kể tên lễ hội mà không nói hoạt động.",
+"fix": "Thêm hoạt động: People watch fireworks, eat special food, join parades."
+},
+{
+"mistake": "Nhầm holiday và festival.",
+"fix": "Holiday thường nhấn mạnh ngày nghỉ. Festival nhấn mạnh lễ hội, hoạt động, văn hóa."
+}
+],
+"quickMemory": "Giới thiệu lễ hội theo 4 mảnh: name, time, activities, feeling. Sự kiện hằng năm dùng hiện tại đơn.",
+"warmupQuestions": [
+{
+"question": "Name two festivals in Viet Nam.",
+"suggestedAnswer": "Tet and Mid-Autumn Festival."
+},
+{
+"question": "What do children often carry at Mid-Autumn Festival?",
+"suggestedAnswer": "They often carry lanterns."
+},
+{
+"question": "Complete: People usually ___ fireworks at New Year.",
+"suggestedAnswer": "watch"
+}
+],
+"applicationQuestions": [
+{
+"question": "Write 5 sentences about Tet.",
+"hint": "Use: It is..., People usually..., I like it because...",
+"suggestedAnswer": "Tet is the most important festival in Viet Nam. It is usually in January or February. People visit relatives and eat traditional food. Children often receive lucky money. I like Tet because my family is together."
+},
+{
+"question": "Compare two festivals you know.",
+"hint": "Mention time, food, clothes or activities.",
+"suggestedAnswer": "Tet is usually in winter or spring, but Mid-Autumn Festival is in autumn. At Tet, people visit relatives. At Mid-Autumn Festival, children carry lanterns and eat mooncakes."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Bộ tranh lễ hội: lanterns, fireworks, parade, costumes, traditional food.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Ghép tên lễ hội với hoạt động phù hợp.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_eng_u10",
+"subjectKey": "english",
+"learningObjectives": [
+"Nắm từ vựng về năng lượng và môi trường: energy, electricity, solar power, wind power, pollution, recycle, save, reduce.",
+"Phân biệt nguồn năng lượng tái tạo và không tái tạo ở mức đơn giản.",
+"Dùng should/shouldn't để đưa lời khuyên bảo vệ môi trường.",
+"Dùng will/won't để nói dự đoán đơn giản về tương lai.",
+"Viết được đoạn ngắn về cách tiết kiệm năng lượng ở nhà hoặc ở trường."
+],
+"easyExplanation": "Bài Energy and the Environment giúp em nói về năng lượng và các việc nhỏ để bảo vệ môi trường. Energy là năng lượng, electricity là điện. Solar power là năng lượng mặt trời, wind power là năng lượng gió. Khi muốn khuyên ai tiết kiệm năng lượng, dùng should: We should turn off the lights. Khi nói điều không nên làm, dùng shouldn't: We shouldn't waste water. Khi dự đoán tương lai, dùng will: People will use more clean energy.",
+"workedExamples": [
+{
+"title": "Viết lời khuyên bảo vệ môi trường",
+"problem": "Viết 3 câu dùng should/shouldn't để nói về tiết kiệm năng lượng.",
+"steps": [
+"Chọn hành động tốt: turn off lights, use less water.",
+"Chọn hành động xấu: waste electricity.",
+"Dùng should cho hành động nên làm, shouldn't cho hành động không nên làm."
+],
+"answer": "We should turn off the lights. We should use less water. We shouldn't waste electricity.",
+"explanation": "Should/shouldn't rất hợp để đưa lời khuyên."
+},
+{
+"title": "Dự đoán với will",
+"problem": "Hoàn thành câu: In the future, people ___ use more solar power.",
+"steps": [
+"Cụm In the future báo hiệu dự đoán tương lai.",
+"Dùng will + động từ nguyên mẫu.",
+"Use giữ nguyên sau will."
+],
+"answer": "In the future, people will use more solar power.",
+"explanation": "Will dùng cho dự đoán hoặc ý kiến về tương lai."
+}
+],
+"steps": [
+"Học từ vựng theo nhóm: energy sources, pollution, green actions.",
+"Phân loại hành động tốt và xấu cho môi trường.",
+"Luyện câu với should, shouldn't.",
+"Luyện câu dự đoán với will, won't.",
+"Viết đoạn 5 câu về việc tiết kiệm năng lượng."
+],
+"commonMistakes": [
+{
+"mistake": "Viết will to use.",
+"fix": "Sau will dùng động từ nguyên mẫu: will use."
+},
+{
+"mistake": "Nhầm electricity và energy.",
+"fix": "Electricity là điện. Energy là năng lượng nói chung."
+},
+{
+"mistake": "Chỉ viết khẩu hiệu mà không nêu hành động cụ thể.",
+"fix": "Viết hành động rõ: turn off lights, recycle paper, save water."
+}
+],
+"quickMemory": "Should là nên làm, shouldn't là không nên làm. Will + động từ nguyên mẫu dùng để dự đoán tương lai.",
+"warmupQuestions": [
+{
+"question": "Name two clean energy sources.",
+"suggestedAnswer": "Solar power and wind power."
+},
+{
+"question": "Complete: We should ___ the lights when we leave a room.",
+"suggestedAnswer": "turn off"
+},
+{
+"question": "What does recycle mean?",
+"suggestedAnswer": "It means using old things again to make new things."
+}
+],
+"applicationQuestions": [
+{
+"question": "Write 5 rules to save energy at school.",
+"hint": "Use should and shouldn't.",
+"suggestedAnswer": "Students should turn off lights. They should close windows when using air conditioners. They shouldn't waste water. They should recycle paper. They should use natural light when possible."
+},
+{
+"question": "Write 3 predictions about energy in the future.",
+"hint": "Use will or won't.",
+"suggestedAnswer": "People will use more solar power. Cars will use cleaner energy. People won't waste as much electricity."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ phân loại energy sources: solar, wind, water, coal, oil.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Chọn should/shouldn't/will/won't trong câu về môi trường.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_eng_u11",
+"subjectKey": "english",
+"learningObjectives": [
+"Nắm từ vựng về du lịch và phương tiện tương lai: travel, transport, vehicle, flying car, electric bus, bullet train, driverless car.",
+"Nói được ưu điểm, nhược điểm đơn giản của một phương tiện.",
+"Dùng will/won't để dự đoán phương tiện trong tương lai.",
+"Dùng comparative adjectives để so sánh: faster, cheaper, safer, more comfortable.",
+"Viết được đoạn ngắn mô tả phương tiện tương lai em tưởng tượng."
+],
+"easyExplanation": "Bài Travelling and Future Transport giúp em nói về việc đi lại và các phương tiện trong tương lai. Ngoài từ quen thuộc như bus, train, bike, plane, em còn gặp các ý tưởng như flying cars, driverless cars, electric buses. Khi dự đoán tương lai, dùng will hoặc won't. Khi so sánh phương tiện, dùng faster, cheaper, safer hoặc more comfortable. Ví dụ: Electric buses will be cleaner than normal buses.",
+"workedExamples": [
+{
+"title": "Dự đoán phương tiện tương lai",
+"problem": "Viết 2 câu dự đoán về driverless cars.",
+"steps": [
+"Driverless cars là xe không người lái.",
+"Dùng will để nói điều có thể xảy ra.",
+"Có thể thêm tính từ so sánh như safer, more popular."
+],
+"answer": "Driverless cars will be more popular in the future. They will be safer than many normal cars.",
+"explanation": "Will dùng cho dự đoán. More popular và safer dùng để so sánh."
+},
+{
+"title": "So sánh phương tiện",
+"problem": "Hoàn thành câu: A bullet train is ___ than a normal train. Chọn fast/faster.",
+"steps": [
+"Câu có than nên cần dạng so sánh hơn.",
+"Fast là tính từ ngắn.",
+"Thêm -er thành faster."
+],
+"answer": "A bullet train is faster than a normal train.",
+"explanation": "Khi có than, thường dùng tính từ so sánh hơn."
+}
+],
+"steps": [
+"Ôn từ vựng phương tiện hiện tại: bike, bus, train, plane.",
+"Học từ về phương tiện tương lai: flying car, driverless car, electric bus.",
+"Luyện will/won't để dự đoán.",
+"Luyện so sánh phương tiện bằng faster, cheaper, safer.",
+"Thiết kế một phương tiện tương lai và viết đoạn mô tả."
+],
+"commonMistakes": [
+{
+"mistake": "Viết will be more fast.",
+"fix": "Fast là tính từ ngắn, dùng faster."
+},
+{
+"mistake": "Viết will to travel.",
+"fix": "Sau will dùng động từ nguyên mẫu: will travel."
+},
+{
+"mistake": "Chỉ kể tên phương tiện mà không mô tả chức năng.",
+"fix": "Thêm công dụng: It can fly, it uses electricity, it is safer."
+}
+],
+"quickMemory": "Future transport thường đi với will. So sánh: fast → faster, cheap → cheaper, safe → safer, comfortable → more comfortable.",
+"warmupQuestions": [
+{
+"question": "Name three means of transport.",
+"suggestedAnswer": "Bus, train, plane."
+},
+{
+"question": "Complete: Cars in the future will ___ cleaner.",
+"suggestedAnswer": "be"
+},
+{
+"question": "Choose: faster or more fast?",
+"suggestedAnswer": "faster"
+}
+],
+"applicationQuestions": [
+{
+"question": "Design a future vehicle and write 5 sentences about it.",
+"hint": "Use will, can, faster, safer or cleaner.",
+"suggestedAnswer": "My future vehicle is a flying bus. It will use solar energy. It can fly over traffic jams. It will be cleaner than normal buses. I think it will be very useful."
+},
+{
+"question": "Compare a bike and an electric bus.",
+"hint": "Use cheaper, faster, cleaner, more comfortable.",
+"suggestedAnswer": "A bike is cheaper than an electric bus. An electric bus is faster and more comfortable. Both can be good for the environment."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Tranh phương tiện tương lai: flying car, driverless car, electric bus, bullet train.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Bài chọn dạng so sánh: faster, cheaper, safer, more comfortable.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_eng_u12",
+"subjectKey": "english",
+"learningObjectives": [
+"Nắm từ vựng về quốc gia nói tiếng Anh và văn hóa thế giới: country, capital, language, culture, landmark, custom, traditional food.",
+"Giới thiệu được một quốc gia nói tiếng Anh bằng thông tin đơn giản.",
+"Dùng câu hỏi Wh-questions để hỏi về country, capital, language, famous places.",
+"So sánh một vài nét văn hóa bằng câu đơn giản.",
+"Viết được đoạn giới thiệu ngắn về một đất nước hoặc nét văn hóa em thích."
+],
+"easyExplanation": "Bài English-speaking Countries and World Cultures giúp em mở rộng hiểu biết về các quốc gia dùng tiếng Anh như the UK, the USA, Australia, Canada, New Zealand, Singapore. Khi giới thiệu một đất nước, em có thể nói: tên nước, thủ đô, ngôn ngữ, địa danh nổi tiếng, món ăn hoặc phong tục. Bài này không cần học quá nhiều kiến thức địa lý khó; trọng tâm là dùng tiếng Anh để giới thiệu văn hóa rõ ràng và lịch sự.",
+"workedExamples": [
+{
+"title": "Giới thiệu một quốc gia",
+"problem": "Viết 5 câu giới thiệu Australia.",
+"steps": [
+"Nêu tên quốc gia.",
+"Nêu ngôn ngữ chính.",
+"Nêu địa danh hoặc biểu tượng nổi tiếng.",
+"Nêu một điểm thú vị.",
+"Nêu cảm nhận cá nhân."
+],
+"answer": "Australia is an English-speaking country. People speak English there. Sydney Opera House is a famous landmark. Australia has many beautiful beaches. I want to visit it one day.",
+"explanation": "Đoạn giới thiệu đủ thông tin cơ bản và có cảm nhận cá nhân."
+},
+{
+"title": "Đặt câu hỏi Wh-questions",
+"problem": "Đặt câu hỏi cho câu trả lời: The capital of the USA is Washington, D.C.",
+"steps": [
+"Câu trả lời nói về thủ đô.",
+"Dùng What để hỏi thông tin.",
+"Mẫu câu: What is the capital of...?"
+],
+"answer": "What is the capital of the USA?",
+"explanation": "What is the capital of...? là mẫu hỏi thủ đô của một quốc gia."
+}
+],
+"steps": [
+"Chọn 3 đến 5 quốc gia nói tiếng Anh để học tên và thông tin cơ bản.",
+"Học nhóm từ: country, capital, language, landmark, culture, food.",
+"Luyện Wh-questions: What, Where, Which, What language.",
+"Tập giới thiệu một quốc gia bằng 5 câu.",
+"So sánh nhẹ nhàng một nét văn hóa với Việt Nam."
+],
+"commonMistakes": [
+{
+"mistake": "Viết tên quốc gia không viết hoa.",
+"fix": "Tên quốc gia luôn viết hoa: Canada, Australia, Singapore."
+},
+{
+"mistake": "Nhầm country và capital.",
+"fix": "Country là quốc gia. Capital là thủ đô."
+},
+{
+"mistake": "Nói văn hóa nước khác bằng câu thiếu lịch sự.",
+"fix": "Dùng câu trung lập: People often..., A famous custom is..."
+}
+],
+"quickMemory": "Giới thiệu quốc gia theo 5 mảnh: country, capital, language, landmark, culture. Tên nước, ngôn ngữ, quốc tịch đều cần viết hoa.",
+"warmupQuestions": [
+{
+"question": "Name three English-speaking countries.",
+"suggestedAnswer": "The UK, the USA and Australia."
+},
+{
+"question": "What is a capital?",
+"suggestedAnswer": "It is the main city of a country."
+},
+{
+"question": "Complete: People speak ___ in Canada.",
+"suggestedAnswer": "English and French"
+}
+],
+"applicationQuestions": [
+{
+"question": "Write 5 sentences about an English-speaking country you like.",
+"hint": "Mention country, language, landmark and culture.",
+"suggestedAnswer": "The UK is an English-speaking country. Its capital is London. People speak English there. Big Ben is a famous landmark. I like the UK because it has many old buildings."
+},
+{
+"question": "Make 4 questions to ask about a country.",
+"hint": "Use What, Where, Which, What language.",
+"suggestedAnswer": "What is its capital? Where is it? What language do people speak? Which landmark is famous there?"
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Bản đồ nhỏ và hình landmark của the UK, the USA, Canada, Australia, Singapore.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Ghép country, capital, language, landmark.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

@@ -1,0 +1,536 @@
+[
+{
+"lessonId": "g7_lit_011",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được đặc điểm của hồi kí: kể lại sự việc đã qua dựa trên kí ức của người kể.",
+"Hiểu người kể chuyện trong hồi kí và mối quan hệ giữa sự thật hồi tưởng với cảm xúc cá nhân.",
+"Phân tích được chi tiết cảm giác như mùi khói bếp, tiếng cười, bữa cơm đơn sơ.",
+"Nhận ra vai trò của chi tiết giác quan trong việc gợi kỉ niệm gia đình.",
+"Viết được đoạn văn cảm nhận một kỉ niệm gia đình qua chi tiết cụ thể."
+],
+"easyExplanation": "Hồi kí là kiểu văn bản kể lại những chuyện đã xảy ra trong quá khứ, thường gắn với trải nghiệm thật và cảm xúc của người kể. Trong văn bản về mùi khói bếp những ngày mưa quê, kí ức không hiện lên bằng sự kiện lớn mà qua chi tiết rất nhỏ: mùi khói, bữa cơm đơn sơ, tiếng cười trong căn bếp nhỏ. Sự thật trong hồi kí không chỉ là 'đã xảy ra chuyện gì', mà còn là người kể nhớ và cảm về chuyện ấy như thế nào. Vì vậy, khi đọc hồi kí, cần chú ý cả sự việc, cảm xúc và chi tiết giác quan.",
+"workedExamples": [
+{
+"title": "Phân tích chi tiết mùi khói bếp",
+"problem": "Chi tiết mùi khói bếp trong những ngày mưa quê gợi điều gì?",
+"steps": [
+"Xác định chi tiết giác quan: mùi khói bếp.",
+"Liên hệ với không gian căn bếp quê trong ngày mưa.",
+"Gắn chi tiết với bữa cơm đơn sơ và tiếng cười gia đình.",
+"Rút ý nghĩa: kỉ niệm nghèo mà ấm, bình dị mà sâu."
+],
+"answer": "Mùi khói bếp gợi không gian quê nhà ấm áp, nơi có bữa cơm đơn sơ và tiếng cười gia đình. Chi tiết ấy khiến kí ức trở nên gần gũi, có mùi, có hơi ấm và giàu cảm xúc.",
+"explanation": "Chi tiết giác quan giúp kỉ niệm trong hồi kí trở nên sống động hơn."
+},
+{
+"title": "Sự thật hồi tưởng",
+"problem": "Vì sao hồi kí có thể vừa kể sự thật vừa mang màu sắc cảm xúc?",
+"steps": [
+"Hồi kí dựa trên sự việc đã qua.",
+"Người kể nhớ lại sự việc từ hiện tại.",
+"Kí ức thường đi cùng cảm xúc, suy ngẫm.",
+"Vì vậy lời kể có dấu ấn cá nhân."
+],
+"answer": "Vì hồi kí kể lại chuyện đã qua qua trí nhớ và cảm xúc của người kể. Sự việc có thật, nhưng cách kể, cách chọn chi tiết và giọng điệu mang dấu ấn cá nhân.",
+"explanation": "Hồi kí không phải bản ghi khô cứng, mà là kí ức được kể lại bằng cảm xúc."
+}
+],
+"steps": [
+"Xác định người kể và sự việc được hồi tưởng.",
+"Tìm các chi tiết giác quan: mùi, âm thanh, hình ảnh, vị, cảm giác.",
+"Liên hệ chi tiết với cảm xúc người kể.",
+"Phân biệt sự việc được kể và suy ngẫm của người kể.",
+"Viết cảm nhận bám vào một chi tiết trung tâm."
+],
+"commonMistakes": [
+{
+"mistake": "Đọc hồi kí như truyện hư cấu hoàn toàn.",
+"fix": "Hồi kí thường dựa trên trải nghiệm đã qua và kí ức của người kể."
+},
+{
+"mistake": "Chỉ kể lại sự việc mà bỏ qua cảm xúc.",
+"fix": "Cần chú ý người kể nhớ, thương, biết ơn hoặc suy ngẫm như thế nào."
+},
+{
+"mistake": "Bỏ qua chi tiết giác quan vì tưởng là chi tiết phụ.",
+"fix": "Trong hồi kí, mùi khói bếp, tiếng cười, bữa cơm có thể là hạt nhân cảm xúc."
+}
+],
+"quickMemory": "Đọc hồi kí: người kể, kí ức, chi tiết giác quan, cảm xúc, suy ngẫm.",
+"warmupQuestions": [
+{
+"question": "Hồi kí thường kể về điều gì?",
+"suggestedAnswer": "Kể về những sự việc, kỉ niệm đã qua qua hồi tưởng của người kể."
+},
+{
+"question": "Mùi khói bếp trong văn bản gợi không gian nào?",
+"suggestedAnswer": "Gợi căn bếp quê, ngày mưa, bữa cơm gia đình ấm áp."
+},
+{
+"question": "Vì sao chi tiết giác quan quan trọng trong hồi kí?",
+"suggestedAnswer": "Vì nó làm kỉ niệm sống động và gợi cảm xúc mạnh hơn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 6 đến 8 câu cảm nhận chi tiết mùi khói bếp.",
+"hint": "Nêu chi tiết, không gian quê, bữa cơm, tiếng cười và cảm xúc gia đình.",
+"suggestedAnswer": "Chi tiết mùi khói bếp trong những ngày mưa quê gợi lên một kỉ niệm rất ấm áp. Mùi khói làm hiện ra căn bếp nhỏ, bữa cơm đơn sơ và tiếng cười của người thân. Đó không phải là hình ảnh sang trọng, nhưng lại chứa đựng tình cảm gia đình sâu nặng. Qua chi tiết ấy, người kể như được trở về với tuổi thơ và quê nhà. Mùi khói bếp vì thế trở thành dấu hiệu của yêu thương, của sự sum vầy. Chi tiết nhỏ đã làm cả hồi kí trở nên gần gũi và xúc động."
+},
+{
+"question": "Viết 4 câu hồi kí nhỏ về một kỉ niệm gia đình của em.",
+"hint": "Chọn một chi tiết giác quan: mùi món ăn, tiếng mưa, ánh đèn, giọng nói.",
+"suggestedAnswer": "Tôi vẫn nhớ mùi canh chua mẹ nấu trong những chiều mưa. Căn bếp nhỏ khi ấy đầy hơi nước và tiếng bát đũa chạm nhẹ. Bố ngồi sửa chiếc quạt cũ, còn tôi chờ nồi cơm bật nút. Nhiều năm sau, chỉ cần nghe mưa rơi, tôi lại nhớ bữa cơm ấy."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Tranh căn bếp quê trong ngày mưa, có khói bếp, bữa cơm đơn sơ và gia đình quây quần.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Chọn chi tiết giác quan và nối với cảm xúc/suy ngẫm tương ứng trong hồi kí.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_012",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được ý kiến chính trong văn bản nghị luận xã hội.",
+"Phân biệt lí lẽ và bằng chứng trong bài nghị luận.",
+"Hiểu tác dụng của việc đọc mỗi ngày đối với vốn từ, khả năng tập trung và hiểu biết đời sống.",
+"Đánh giá được sự phù hợp của bằng chứng với ý kiến.",
+"Viết được đoạn văn ngắn nêu ý kiến về thói quen đọc sách."
+],
+"easyExplanation": "Văn bản nghị luận xã hội thường nêu một ý kiến rồi dùng lí lẽ và bằng chứng để thuyết phục người đọc. Với ý kiến 'học sinh nên đọc mỗi ngày một ít', lí lẽ có thể là đọc giúp tăng vốn từ, rèn khả năng tập trung và mở rộng hiểu biết đời sống. Bằng chứng có thể là ví dụ học sinh đọc 10 trang mỗi ngày sẽ quen với từ mới, viết câu mạch lạc hơn, hoặc dễ hiểu hơn các vấn đề trong bài học. Khi đọc nghị luận, em cần tìm ba thứ: ý kiến chính là gì, lí lẽ nào được đưa ra, bằng chứng nào làm lí lẽ đáng tin.",
+"workedExamples": [
+{
+"title": "Tách ý kiến, lí lẽ, bằng chứng",
+"problem": "Câu 'Học sinh nên đọc mỗi ngày một ít vì việc đọc giúp tăng vốn từ' gồm ý kiến và lí lẽ nào?",
+"steps": [
+"Tìm điều người viết muốn khẳng định.",
+"Ý kiến là học sinh nên đọc mỗi ngày một ít.",
+"Tìm phần giải thích vì sao.",
+"Lí lẽ là việc đọc giúp tăng vốn từ."
+],
+"answer": "Ý kiến: học sinh nên đọc mỗi ngày một ít. Lí lẽ: đọc giúp tăng vốn từ.",
+"explanation": "Ý kiến trả lời người viết nghĩ gì; lí lẽ trả lời vì sao người viết nghĩ vậy."
+},
+{
+"title": "Chọn bằng chứng phù hợp",
+"problem": "Bằng chứng nào phù hợp với lí lẽ 'đọc sách giúp rèn khả năng tập trung'?",
+"steps": [
+"Xác định lí lẽ đang nói về khả năng tập trung.",
+"Chọn bằng chứng liên quan đến việc duy trì chú ý khi đọc.",
+"Loại bằng chứng không liên quan như đọc sách làm đẹp phòng.",
+"Nêu bằng chứng cụ thể."
+],
+"answer": "Một bằng chứng phù hợp là: khi đọc một truyện dài trong 15 phút mỗi ngày, học sinh phải theo dõi nhân vật, sự việc và mạch ý, nhờ đó khả năng chú ý được rèn luyện.",
+"explanation": "Bằng chứng tốt phải cụ thể và phục vụ trực tiếp cho lí lẽ."
+}
+],
+"steps": [
+"Đọc nhan đề và đoạn mở đầu để đoán vấn đề nghị luận.",
+"Gạch chân câu nêu ý kiến chính.",
+"Tìm các lí lẽ trả lời câu hỏi vì sao.",
+"Tìm bằng chứng hoặc ví dụ minh họa cho từng lí lẽ.",
+"Đánh giá bằng chứng có liên quan và thuyết phục không.",
+"Tập viết đoạn nghị luận ngắn có ý kiến, lí lẽ, bằng chứng."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm lí lẽ với bằng chứng.",
+"fix": "Lí lẽ là lời giải thích, bằng chứng là ví dụ, số liệu, sự việc cụ thể."
+},
+{
+"mistake": "Chỉ nêu ý kiến mà không có lí lẽ.",
+"fix": "Sau ý kiến cần trả lời vì sao ý kiến đó đúng hoặc đáng đồng tình."
+},
+{
+"mistake": "Đưa bằng chứng không liên quan.",
+"fix": "Bằng chứng phải chứng minh trực tiếp cho lí lẽ đang nói."
+}
+],
+"quickMemory": "Nghị luận xã hội: ý kiến → lí lẽ → bằng chứng → kết luận.",
+"warmupQuestions": [
+{
+"question": "Ý kiến chính của văn bản là gì?",
+"suggestedAnswer": "Học sinh nên đọc mỗi ngày một ít."
+},
+{
+"question": "Đọc mỗi ngày có thể giúp học sinh điều gì?",
+"suggestedAnswer": "Tăng vốn từ, rèn tập trung, mở rộng hiểu biết."
+},
+{
+"question": "Bằng chứng khác lí lẽ ở điểm nào?",
+"suggestedAnswer": "Lí lẽ là giải thích, bằng chứng là ví dụ hoặc dữ liệu cụ thể để chứng minh."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 6 đến 8 câu nêu ý kiến: học sinh nên đọc mỗi ngày một ít.",
+"hint": "Có ý kiến, 2 lí lẽ, 1 bằng chứng và câu kết.",
+"suggestedAnswer": "Em cho rằng học sinh nên đọc mỗi ngày một ít. Trước hết, việc đọc giúp chúng ta tăng vốn từ và diễn đạt tốt hơn. Khi gặp nhiều cách dùng từ trong sách, học sinh có thể viết văn mạch lạc hơn. Ngoài ra, đọc sách còn rèn khả năng tập trung vì người đọc phải theo dõi nhân vật, sự việc hoặc mạch ý trong một thời gian nhất định. Chẳng hạn, mỗi ngày đọc khoảng 10 trang sách sẽ giúp ta hình thành thói quen chú ý đều đặn. Vì vậy, đọc ít nhưng thường xuyên là một thói quen rất đáng rèn luyện."
+},
+{
+"question": "Tìm một bằng chứng cho lí lẽ: đọc sách giúp hiểu biết đời sống hơn.",
+"hint": "Nêu ví dụ từ sách khoa học, truyện, hồi kí hoặc sách kĩ năng.",
+"suggestedAnswer": "Khi đọc một cuốn sách về môi trường, học sinh biết thêm tác hại của rác nhựa và cách phân loại rác, từ đó hiểu hơn về trách nhiệm bảo vệ đời sống quanh mình."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ cấu trúc đoạn nghị luận: ý kiến, lí lẽ, bằng chứng, kết luận.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo câu vào đúng cột: ý kiến, lí lẽ, bằng chứng.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_013",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được vấn đề học đường trong văn bản nghị luận.",
+"Hiểu cấu trúc lập luận về thói quen suy nghĩ trước khi bình luận hoặc chia sẻ trên mạng.",
+"Phân tích được quan hệ nguyên nhân - hậu quả trong vấn đề giao tiếp số.",
+"Nêu được lí lẽ, bằng chứng về trách nhiệm khi tham gia nhóm lớp trực tuyến.",
+"Viết được đoạn văn khuyên bạn bình luận văn minh, tôn trọng."
+],
+"easyExplanation": "Vấn đề nghị luận của bài là thói quen suy nghĩ trước khi bình luận hoặc chia sẻ trên mạng, nhất là trong nhóm lớp. Một lời bình luận vội có thể làm bạn tổn thương, khiến hiểu lầm lan rộng hoặc làm không khí lớp căng thẳng. Vì vậy, trước khi bấm gửi, học sinh nên tự hỏi: điều mình viết có đúng không, có cần thiết không, có làm ai bị xúc phạm không, mình có thể nói cách lịch sự hơn không. Nghị luận về vấn đề học đường thường cần chỉ ra nguyên nhân, hậu quả và cách ứng xử đúng.",
+"workedExamples": [
+{
+"title": "Phân tích nguyên nhân - hậu quả",
+"problem": "Vì sao nên suy nghĩ trước khi bình luận trong nhóm lớp?",
+"steps": [
+"Xác định hành động: bình luận hoặc chia sẻ trên mạng.",
+"Tìm nguy cơ: thông tin sai, lời nói thiếu tôn trọng, hiểu lầm.",
+"Nêu hậu quả: bạn bị tổn thương, nhóm lớp mất đoàn kết.",
+"Rút lời khuyên: cần kiểm tra và cân nhắc trước khi gửi."
+],
+"answer": "Nên suy nghĩ trước khi bình luận vì lời nói trên mạng có thể lan nhanh, dễ gây hiểu lầm hoặc làm bạn tổn thương. Cân nhắc trước khi gửi giúp giữ sự tôn trọng và đoàn kết trong nhóm lớp.",
+"explanation": "Lập luận nguyên nhân - hậu quả giúp người đọc thấy vấn đề không nhỏ."
+},
+{
+"title": "Viết lời góp ý văn minh",
+"problem": "Thay vì viết 'Bạn nói sai rồi, đừng phát biểu nữa', hãy sửa thành lời góp ý lịch sự hơn.",
+"steps": [
+"Loại bỏ từ ngữ xúc phạm.",
+"Nêu vấn đề một cách cụ thể.",
+"Đề nghị kiểm tra lại thông tin.",
+"Giữ thái độ tôn trọng."
+],
+"answer": "Mình nghĩ thông tin này có thể chưa chính xác. Bạn thử kiểm tra lại nguồn trước khi chia sẻ nhé.",
+"explanation": "Góp ý văn minh vẫn chỉ ra vấn đề nhưng không làm người khác mất mặt."
+}
+],
+"steps": [
+"Xác định vấn đề học đường được bàn luận.",
+"Tìm ý kiến chính của người viết.",
+"Tìm lí lẽ về nguyên nhân và hậu quả.",
+"Ghi lại bằng chứng hoặc tình huống trong nhóm lớp.",
+"Rút quy tắc ứng xử: đúng, cần thiết, tôn trọng, có trách nhiệm.",
+"Tập viết lời góp ý lịch sự."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ bình luận trên mạng là chuyện nhỏ, không ảnh hưởng thật.",
+"fix": "Lời nói trên mạng vẫn có thể làm tổn thương và tạo hậu quả ngoài đời."
+},
+{
+"mistake": "Góp ý bằng lời mỉa mai hoặc công kích.",
+"fix": "Góp ý nên tập trung vào vấn đề, không xúc phạm con người."
+},
+{
+"mistake": "Chia sẻ thông tin chưa kiểm chứng.",
+"fix": "Cần kiểm tra nguồn và cân nhắc hậu quả trước khi chia sẻ."
+}
+],
+"quickMemory": "Trước khi gửi: đúng không, cần không, tử tế không, có làm ai tổn thương không?",
+"warmupQuestions": [
+{
+"question": "Vấn đề chính của văn bản là gì?",
+"suggestedAnswer": "Cần suy nghĩ trước khi bình luận hoặc chia sẻ trên mạng, nhất là trong nhóm lớp."
+},
+{
+"question": "Một bình luận thiếu suy nghĩ có thể gây hậu quả gì?",
+"suggestedAnswer": "Gây hiểu lầm, làm bạn tổn thương, làm nhóm lớp mất đoàn kết."
+},
+{
+"question": "Góp ý văn minh cần tránh điều gì?",
+"suggestedAnswer": "Tránh xúc phạm, mỉa mai, công kích cá nhân."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 6 đến 8 câu nêu ý kiến về việc cần suy nghĩ trước khi bình luận trong nhóm lớp.",
+"hint": "Có ý kiến, nguyên nhân, hậu quả, cách ứng xử.",
+"suggestedAnswer": "Em cho rằng học sinh cần suy nghĩ trước khi bình luận trong nhóm lớp. Trên mạng, một câu nói có thể lan nhanh và được nhiều người nhìn thấy. Nếu bình luận vội vàng, chúng ta có thể làm bạn tổn thương hoặc khiến sự việc bị hiểu sai. Việc cân nhắc trước khi gửi giúp mỗi người giao tiếp có trách nhiệm hơn. Trước khi bình luận, ta nên tự hỏi thông tin có đúng không và lời nói có tôn trọng người khác không. Một nhóm lớp văn minh bắt đầu từ những lời nói tử tế."
+},
+{
+"question": "Sửa câu bình luận sau cho lịch sự hơn: 'Bạn làm bài dở quá, đừng gửi nữa'.",
+"hint": "Tập trung vào góp ý, không chê bai con người.",
+"suggestedAnswer": "Bài của bạn còn vài chỗ cần sửa. Mình góp ý phần này nhé, bạn chỉnh lại sẽ rõ hơn."
+}
+],
+"mediaHints": [
+{
+"type": "interactive",
+"description": "Chọn bình luận văn minh và sửa bình luận gây tổn thương thành lời góp ý tôn trọng.",
+"priority": "high"
+},
+{
+"type": "diagram",
+"description": "Sơ đồ nguyên nhân - hậu quả của việc bình luận/chia sẻ thiếu suy nghĩ trong nhóm lớp.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_014",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được đặc điểm của nghị luận văn học.",
+"Hiểu cách phân tích một chi tiết nghệ thuật trong văn bản truyện.",
+"Nêu được luận điểm về chi tiết chiếc đèn như biểu tượng của chờ đợi và yêu thương.",
+"Biết dùng dẫn chứng để làm rõ nhận xét văn học.",
+"Viết được đoạn văn nghị luận phân tích một chi tiết biểu tượng."
+],
+"easyExplanation": "Nghị luận văn học không chỉ nói 'em thích chi tiết này', mà cần nêu nhận xét và chứng minh bằng phân tích. Với chi tiết chiếc đèn là biểu tượng của chờ đợi và yêu thương trong một câu chuyện gia đình, em cần nhìn cả nghĩa thực và nghĩa gợi. Nghĩa thực: chiếc đèn soi sáng căn nhà, hiện diện trong những đêm chờ người thân. Nghĩa gợi: chiếc đèn giống như tình yêu thương âm thầm, sự mong ngóng, niềm tin rằng người thân sẽ trở về. Một chi tiết biểu tượng hay thường làm câu chuyện có chiều sâu hơn.",
+"workedExamples": [
+{
+"title": "Lập luận về chi tiết chiếc đèn",
+"problem": "Hãy nêu một luận điểm về chi tiết chiếc đèn.",
+"steps": [
+"Xác định chi tiết cần phân tích: chiếc đèn.",
+"Tìm ý nghĩa biểu tượng: chờ đợi và yêu thương.",
+"Viết luận điểm rõ ràng.",
+"Chuẩn bị dẫn chứng và phân tích."
+],
+"answer": "Chi tiết chiếc đèn là biểu tượng đẹp cho sự chờ đợi và tình yêu thương âm thầm trong gia đình.",
+"explanation": "Luận điểm cần rõ, có khả năng triển khai bằng dẫn chứng."
+},
+{
+"title": "Phân tích nghĩa thực và nghĩa gợi",
+"problem": "Chiếc đèn có thể được hiểu theo những lớp nghĩa nào?",
+"steps": [
+"Nghĩa thực: đồ vật dùng để soi sáng.",
+"Đặt vào hoàn cảnh câu chuyện gia đình.",
+"Nghĩa gợi: ánh sáng của chờ đợi, yêu thương, hi vọng.",
+"Liên hệ với cảm xúc người đọc."
+],
+"answer": "Chiếc đèn vừa là đồ vật soi sáng căn nhà, vừa gợi sự chờ đợi, tình yêu thương và niềm hi vọng trong gia đình.",
+"explanation": "Phân tích chi tiết biểu tượng nên đi từ nghĩa thực đến nghĩa sâu."
+}
+],
+"steps": [
+"Xác định chi tiết nghệ thuật cần phân tích.",
+"Nêu luận điểm về ý nghĩa của chi tiết.",
+"Tìm dẫn chứng liên quan đến sự xuất hiện của chi tiết.",
+"Phân tích nghĩa thực, nghĩa gợi và tác dụng với chủ đề.",
+"Kết đoạn bằng nhận xét khái quát."
+],
+"commonMistakes": [
+{
+"mistake": "Kể lại chi tiết mà không nêu luận điểm.",
+"fix": "Cần có câu nhận xét rõ: chi tiết này biểu tượng cho điều gì."
+},
+{
+"mistake": "Phân tích quá xa, không bám văn bản.",
+"fix": "Ý nghĩa biểu tượng phải xuất phát từ hoàn cảnh và dẫn chứng trong truyện."
+},
+{
+"mistake": "Viết nghị luận văn học như cảm nghĩ tự do.",
+"fix": "Cần có luận điểm, dẫn chứng, lí lẽ phân tích."
+}
+],
+"quickMemory": "Nghị luận văn học: luận điểm, dẫn chứng, phân tích, tác dụng, kết luận.",
+"warmupQuestions": [
+{
+"question": "Nghị luận văn học cần những yếu tố nào?",
+"suggestedAnswer": "Luận điểm, dẫn chứng và lí lẽ phân tích."
+},
+{
+"question": "Chiếc đèn trong bài có thể biểu tượng cho điều gì?",
+"suggestedAnswer": "Sự chờ đợi, yêu thương và hi vọng trong gia đình."
+},
+{
+"question": "Khi phân tích biểu tượng, nên bắt đầu từ đâu?",
+"suggestedAnswer": "Từ nghĩa thực của chi tiết và hoàn cảnh xuất hiện trong văn bản."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 6 đến 8 câu phân tích chi tiết chiếc đèn như biểu tượng của yêu thương.",
+"hint": "Có luận điểm, nghĩa thực, nghĩa gợi, tác dụng.",
+"suggestedAnswer": "Chi tiết chiếc đèn là một biểu tượng giàu ý nghĩa trong câu chuyện gia đình. Trước hết, chiếc đèn là đồ vật soi sáng căn nhà trong những đêm chờ đợi. Nhưng vượt lên nghĩa thực, ánh đèn còn gợi tình yêu thương âm thầm của người ở nhà dành cho người đi xa. Ánh sáng nhỏ bé ấy như giữ lại hơi ấm, niềm tin và sự mong ngóng. Chi tiết chiếc đèn vì vậy làm câu chuyện trở nên sâu lắng hơn. Nó nhắc người đọc rằng tình thân đôi khi được thể hiện qua những dấu hiệu lặng lẽ mà bền bỉ."
+},
+{
+"question": "Hãy nêu 2 dẫn chứng có thể dùng khi phân tích chi tiết chiếc đèn.",
+"hint": "Nghĩ đến lúc đèn xuất hiện, ai thắp đèn, đèn gắn với chờ đợi hay đoàn tụ.",
+"suggestedAnswer": "Có thể dùng dẫn chứng chiếc đèn được thắp trong những đêm chờ người thân và hình ảnh ánh đèn làm căn nhà bớt lạnh, gợi cảm giác yêu thương, hi vọng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ phân tích chi tiết biểu tượng: nghĩa thực, nghĩa gợi, dẫn chứng, tác dụng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Sắp xếp câu thành đoạn nghị luận văn học có luận điểm, dẫn chứng, phân tích.",
+"priority": "medium"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_lit_015",
+"subjectKey": "literature",
+"learningObjectives": [
+"Nhận biết được hai ý kiến khác nhau trong văn bản nghị luận.",
+"Hiểu cách so sánh hai ý kiến bằng lí lẽ công bằng, cân bằng.",
+"Nêu được quan điểm về việc góp ý cho bạn khi bạn mắc lỗi.",
+"Biết dùng lời lẽ chân thành và tôn trọng trong tranh luận.",
+"Viết được đoạn văn trình bày ý kiến dung hòa hoặc lựa chọn có lí lẽ."
+],
+"easyExplanation": "Nghị luận so sánh hai ý kiến không phải là vội vàng chọn một bên rồi chê bên còn lại. Trước hết, cần hiểu mỗi ý kiến có điểm hợp lí nào. Với vấn đề góp ý cho bạn khi bạn mắc lỗi, một ý kiến có thể cho rằng cần nói thẳng để bạn sửa nhanh; ý kiến khác cho rằng phải nói nhẹ nhàng để bạn không bị tổn thương. Cách tốt hơn thường là kết hợp: góp ý chân thành, nói đúng vấn đề, nhưng dùng thái độ tôn trọng và chọn thời điểm phù hợp. Như vậy, lời góp ý vừa có ích vừa giữ được tình bạn.",
+"workedExamples": [
+{
+"title": "So sánh hai ý kiến",
+"problem": "Ý kiến A: 'Bạn sai thì phải nói thẳng ngay'. Ý kiến B: 'Góp ý phải thật nhẹ nhàng'. Hãy nêu điểm hợp lí của mỗi ý kiến.",
+"steps": [
+"Xem ý kiến A nhấn mạnh điều gì.",
+"Ý kiến A nhấn mạnh sự thẳng thắn và kịp thời.",
+"Xem ý kiến B nhấn mạnh điều gì.",
+"Ý kiến B nhấn mạnh sự tôn trọng cảm xúc của bạn.",
+"Tìm cách dung hòa."
+],
+"answer": "Ý kiến A hợp lí ở chỗ góp ý cần rõ ràng, kịp thời. Ý kiến B hợp lí ở chỗ lời góp ý nên tế nhị, tránh làm bạn tổn thương. Có thể dung hòa bằng cách góp ý thẳng vào vấn đề nhưng dùng lời lẽ tôn trọng.",
+"explanation": "So sánh hai ý kiến cần nhìn ưu điểm của từng bên trước khi kết luận."
+},
+{
+"title": "Viết lời góp ý tôn trọng",
+"problem": "Bạn làm sai bài nhóm. Hãy viết một lời góp ý chân thành và tôn trọng.",
+"steps": [
+"Không công kích con người.",
+"Chỉ ra vấn đề cụ thể.",
+"Đề nghị cách sửa.",
+"Giữ giọng điệu hợp tác."
+],
+"answer": "Mình thấy phần này của bài nhóm còn chưa đúng yêu cầu. Chúng mình cùng xem lại đề và sửa đoạn này nhé.",
+"explanation": "Lời góp ý tốt giúp người nghe muốn sửa, không cảm thấy bị hạ thấp."
+}
+],
+"steps": [
+"Xác định hai ý kiến được đặt ra.",
+"Tóm tắt mỗi ý kiến bằng một câu ngắn.",
+"Nêu điểm hợp lí và hạn chế của từng ý kiến.",
+"Đưa ra quan điểm của bản thân.",
+"Dùng lí lẽ và ví dụ để bảo vệ quan điểm.",
+"Kết lại bằng thái độ tôn trọng trong tranh luận."
+],
+"commonMistakes": [
+{
+"mistake": "Chỉ chọn một ý kiến và phủ nhận hoàn toàn ý kiến kia.",
+"fix": "Cần xem mỗi ý kiến hợp lí ở điểm nào rồi mới nêu quan điểm."
+},
+{
+"mistake": "Góp ý cho bạn bằng lời làm bạn mất mặt.",
+"fix": "Nên góp ý riêng khi cần, nói đúng vấn đề và giữ thái độ tôn trọng."
+},
+{
+"mistake": "Nghị luận thiếu ví dụ thực tế.",
+"fix": "Có thể lấy ví dụ trong học nhóm, nhóm lớp, bài kiểm tra, sinh hoạt tập thể."
+}
+],
+"quickMemory": "So sánh hai ý kiến: hiểu từng bên, tìm điểm hợp lí, nêu quan điểm, giữ tôn trọng.",
+"warmupQuestions": [
+{
+"question": "Khi so sánh hai ý kiến, có nên phủ nhận ngay một bên không?",
+"suggestedAnswer": "Không. Cần xem điểm hợp lí của mỗi ý kiến trước."
+},
+{
+"question": "Góp ý chân thành cần đi cùng thái độ gì?",
+"suggestedAnswer": "Tôn trọng, xây dựng, không công kích cá nhân."
+},
+{
+"question": "Vì sao cần chọn thời điểm phù hợp để góp ý?",
+"suggestedAnswer": "Để bạn dễ tiếp nhận hơn và không cảm thấy bị làm mất mặt."
+}
+],
+"applicationQuestions": [
+{
+"question": "Viết đoạn 6 đến 8 câu trình bày quan điểm về cách góp ý cho bạn khi bạn mắc lỗi.",
+"hint": "So sánh nói thẳng và nói nhẹ nhàng, rồi nêu cách dung hòa.",
+"suggestedAnswer": "Theo em, khi bạn mắc lỗi, chúng ta nên góp ý chân thành nhưng vẫn cần tôn trọng bạn. Nói thẳng có ưu điểm là giúp bạn nhận ra lỗi nhanh và sửa kịp thời. Tuy nhiên, nếu nói quá gay gắt, lời góp ý có thể làm bạn tổn thương. Nói nhẹ nhàng giúp giữ tình cảm, nhưng cũng không nên vòng vo đến mức bạn không hiểu vấn đề. Cách tốt nhất là nói rõ lỗi cụ thể, đưa gợi ý sửa và chọn lời lẽ lịch sự. Góp ý như vậy vừa giúp bạn tiến bộ vừa giữ được tình bạn."
+},
+{
+"question": "Sửa câu góp ý sau thành câu tôn trọng hơn: 'Bạn làm sai hết rồi, để người khác làm đi'.",
+"hint": "Không công kích, đề nghị cùng sửa.",
+"suggestedAnswer": "Phần này còn vài chỗ chưa đúng. Chúng mình cùng xem lại và sửa cho đúng yêu cầu nhé."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Bảng so sánh hai ý kiến: nói thẳng, nói nhẹ nhàng, cách dung hòa tôn trọng.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Chọn cách góp ý phù hợp trong các tình huống bạn mắc lỗi.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]

@@ -1,0 +1,526 @@
+[
+{
+"lessonId": "g7_science_016",
+"subjectKey": "science",
+"learningObjectives": [
+"Phân biệt được độ cao và độ to của âm.",
+"Hiểu độ cao của âm liên quan đến tần số dao động của nguồn âm.",
+"Hiểu độ to của âm liên quan đến biên độ dao động của nguồn âm.",
+"Nêu được âm truyền được qua môi trường vật chất như khí, lỏng, rắn.",
+"Giải thích được một số hiện tượng âm thanh quen thuộc trong đời sống."
+],
+"easyExplanation": "Âm có nhiều đặc điểm, trong đó dễ gặp nhất là độ cao và độ to. Độ cao cho biết âm nghe trầm hay bổng. Vật dao động càng nhanh thì âm càng cao. Độ to cho biết âm nghe mạnh hay yếu. Vật dao động càng mạnh, biên độ dao động càng lớn thì âm càng to. Âm không tự đi trong khoảng trống tuyệt đối, nó cần môi trường vật chất để truyền đi như không khí, nước hoặc chất rắn. Vì vậy ta nghe được tiếng nói qua không khí, nghe tiếng gõ khi áp tai vào bàn, và cá cũng có thể cảm nhận âm trong nước.",
+"workedExamples": [
+{
+"title": "Phân biệt âm cao và âm to",
+"problem": "Một dây đàn được gảy mạnh hơn nhưng không thay đổi độ căng. Âm phát ra thay đổi chủ yếu về độ cao hay độ to?",
+"steps": [
+"Gảy mạnh hơn làm dây dao động với biên độ lớn hơn.",
+"Biên độ lớn hơn làm âm nghe to hơn.",
+"Độ cao chủ yếu liên quan đến tần số dao động, không phải chỉ do gảy mạnh."
+],
+"answer": "Âm thay đổi chủ yếu về độ to.",
+"explanation": "Gảy mạnh làm âm to hơn, còn âm cao hay thấp phụ thuộc nhiều vào tốc độ dao động của dây."
+},
+{
+"title": "Môi trường truyền âm",
+"problem": "Vì sao áp tai vào mặt bàn có thể nghe tiếng gõ ở đầu bàn bên kia?",
+"steps": [
+"Tiếng gõ làm mặt bàn dao động.",
+"Dao động truyền qua chất rắn là mặt bàn.",
+"Tai nhận dao động truyền đến nên nghe được âm."
+],
+"answer": "Vì âm có thể truyền qua chất rắn, trong trường hợp này là mặt bàn.",
+"explanation": "Âm truyền được qua chất khí, chất lỏng và chất rắn."
+}
+],
+"steps": [
+"Nhận biết nguồn âm đang dao động.",
+"Xét âm trầm hay bổng để nói về độ cao.",
+"Xét âm mạnh hay yếu để nói về độ to.",
+"Liên hệ độ cao với tần số dao động.",
+"Liên hệ độ to với biên độ dao động.",
+"Xác định môi trường truyền âm trong từng tình huống."
+],
+"commonMistakes": [
+{
+"mistake": "Nhầm âm cao với âm to.",
+"fix": "Âm cao là trầm/bổng, âm to là mạnh/yếu."
+},
+{
+"mistake": "Nghĩ âm chỉ truyền qua không khí.",
+"fix": "Âm còn truyền qua chất lỏng và chất rắn."
+},
+{
+"mistake": "Cho rằng gảy đàn mạnh luôn làm âm cao hơn.",
+"fix": "Gảy mạnh chủ yếu làm âm to hơn, không nhất thiết làm âm cao hơn."
+}
+],
+"quickMemory": "Âm cao thấp phụ thuộc tần số. Âm to nhỏ phụ thuộc biên độ. Âm cần môi trường vật chất để truyền.",
+"warmupQuestions": [
+{
+"question": "Âm cao hay thấp liên quan đến đại lượng nào của dao động?",
+"suggestedAnswer": "Liên quan đến tần số dao động."
+},
+{
+"question": "Âm to hay nhỏ liên quan đến điều gì?",
+"suggestedAnswer": "Liên quan đến biên độ dao động."
+},
+{
+"question": "Âm có truyền qua nước được không?",
+"suggestedAnswer": "Có, âm truyền được qua chất lỏng như nước."
+}
+],
+"applicationQuestions": [
+{
+"question": "Vì sao khi nói to, dây thanh trong cổ họng dao động mạnh hơn?",
+"hint": "Liên hệ độ to với biên độ dao động.",
+"suggestedAnswer": "Vì âm to hơn cần dao động mạnh hơn, tức biên độ dao động lớn hơn."
+},
+{
+"question": "Hãy nêu một ví dụ chứng tỏ âm truyền qua chất rắn.",
+"hint": "Nghĩ đến mặt bàn, tường hoặc đường ray.",
+"suggestedAnswer": "Áp tai vào bàn có thể nghe tiếng gõ ở đầu bàn bên kia, chứng tỏ âm truyền qua chất rắn."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ so sánh tần số, biên độ, độ cao và độ to của âm.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Mô phỏng kéo biên độ và tần số để nghe âm to nhỏ, cao thấp.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_017",
+"subjectKey": "science",
+"learningObjectives": [
+"Nhận biết nguồn sáng và vật sáng.",
+"Hiểu ánh sáng truyền thẳng trong môi trường trong suốt và đồng tính.",
+"Biết biểu diễn đường truyền của ánh sáng bằng tia sáng.",
+"Giải thích được hiện tượng bóng tối và bóng nửa tối ở mức cơ bản.",
+"Nêu được một số ví dụ ánh sáng truyền thẳng trong đời sống."
+],
+"easyExplanation": "Nguồn sáng là vật tự phát ra ánh sáng, ví dụ Mặt Trời, bóng đèn đang sáng, ngọn nến. Vật sáng là vật ta nhìn thấy vì có ánh sáng từ nó truyền vào mắt. Một số vật sáng không tự phát sáng mà hắt lại ánh sáng từ nguồn khác, ví dụ quyển sách dưới đèn. Trong môi trường trong suốt và đồng tính như không khí yên tĩnh, ánh sáng truyền theo đường thẳng. Vì ánh sáng truyền thẳng nên khi bị vật cản chặn lại, phía sau vật có thể xuất hiện bóng.",
+"workedExamples": [
+{
+"title": "Nguồn sáng và vật sáng",
+"problem": "Bóng đèn đang bật và quyển sách đặt dưới bóng đèn, vật nào là nguồn sáng, vật nào là vật sáng?",
+"steps": [
+"Nguồn sáng là vật tự phát ra ánh sáng.",
+"Bóng đèn đang bật tự phát sáng nên là nguồn sáng.",
+"Quyển sách không tự phát sáng, nhưng hắt ánh sáng vào mắt ta nên là vật sáng."
+],
+"answer": "Bóng đèn đang bật là nguồn sáng. Quyển sách là vật sáng.",
+"explanation": "Không phải vật nào ta nhìn thấy cũng là nguồn sáng."
+},
+{
+"title": "Giải thích bóng tối",
+"problem": "Vì sao khi đặt tay trước đèn pin chiếu vào tường, trên tường có bóng của bàn tay?",
+"steps": [
+"Đèn pin phát ra ánh sáng.",
+"Ánh sáng truyền thẳng.",
+"Bàn tay chắn một phần ánh sáng.",
+"Vùng phía sau bàn tay không nhận được ánh sáng trực tiếp nên tạo bóng."
+],
+"answer": "Vì ánh sáng truyền thẳng và bị bàn tay chặn lại, nên trên tường xuất hiện vùng tối có hình bàn tay.",
+"explanation": "Bóng xuất hiện khi ánh sáng bị vật cản chặn đường truyền."
+}
+],
+"steps": [
+"Xác định vật nào tự phát sáng.",
+"Xác định vật nào chỉ hắt lại ánh sáng.",
+"Biểu diễn đường truyền ánh sáng bằng mũi tên thẳng.",
+"Tìm vật cản nằm giữa nguồn sáng và màn chắn.",
+"Giải thích bóng bằng ý tưởng ánh sáng truyền thẳng."
+],
+"commonMistakes": [
+{
+"mistake": "Gọi mọi vật nhìn thấy là nguồn sáng.",
+"fix": "Nguồn sáng phải tự phát ra ánh sáng. Vật được chiếu sáng chỉ là vật sáng."
+},
+{
+"mistake": "Quên điều kiện môi trường khi nói ánh sáng truyền thẳng.",
+"fix": "Nói đầy đủ: ánh sáng truyền thẳng trong môi trường trong suốt và đồng tính."
+},
+{
+"mistake": "Vẽ tia sáng không có mũi tên.",
+"fix": "Tia sáng cần có mũi tên chỉ chiều truyền ánh sáng."
+}
+],
+"quickMemory": "Nguồn sáng tự phát sáng. Vật sáng là vật có ánh sáng truyền vào mắt. Ánh sáng truyền thẳng nên có bóng.",
+"warmupQuestions": [
+{
+"question": "Mặt Trời là nguồn sáng hay vật sáng?",
+"suggestedAnswer": "Mặt Trời là nguồn sáng."
+},
+{
+"question": "Quyển vở dưới đèn có tự phát sáng không?",
+"suggestedAnswer": "Không. Nó hắt lại ánh sáng nên ta nhìn thấy."
+},
+{
+"question": "Vì sao có bóng tối?",
+"suggestedAnswer": "Vì ánh sáng truyền thẳng và bị vật cản chặn lại."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy phân loại: ngọn nến đang cháy, Mặt Trăng, màn hình điện thoại đang bật.",
+"hint": "Nguồn sáng tự phát ra ánh sáng.",
+"suggestedAnswer": "Ngọn nến đang cháy và màn hình điện thoại đang bật là nguồn sáng. Mặt Trăng là vật sáng do phản xạ ánh sáng Mặt Trời."
+},
+{
+"question": "Vẽ sơ đồ đơn giản gồm đèn pin, quả bóng và màn chắn để giải thích bóng tối.",
+"hint": "Dùng các tia sáng thẳng từ đèn đến màn, bị quả bóng chặn.",
+"suggestedAnswer": "Đèn pin phát tia sáng thẳng, quả bóng chặn một phần tia, vùng sau quả bóng trên màn là bóng tối."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ nguồn sáng, vật cản, màn chắn và vùng bóng tối.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo nguồn sáng và vật cản để thấy bóng thay đổi kích thước.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_018",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu phản xạ ánh sáng là hiện tượng ánh sáng bị hắt lại khi gặp mặt phản xạ.",
+"Nêu được định luật phản xạ ánh sáng ở mức cơ bản.",
+"Nhận biết tia tới, tia phản xạ và pháp tuyến.",
+"Biết ảnh trong gương phẳng có một số đặc điểm cơ bản.",
+"Vẽ được sơ đồ tia sáng phản xạ đơn giản."
+],
+"easyExplanation": "Khi ánh sáng chiếu tới mặt gương, nó bị hắt lại, hiện tượng đó gọi là phản xạ ánh sáng. Để mô tả phản xạ, ta dùng tia tới, tia phản xạ và pháp tuyến. Pháp tuyến là đường vuông góc với mặt gương tại điểm tia sáng chiếu vào. Định luật phản xạ nói rằng tia phản xạ nằm trong cùng mặt phẳng với tia tới và pháp tuyến, đồng thời góc phản xạ bằng góc tới. Gương phẳng tạo ảnh có kích thước bằng vật và ảnh như nằm phía sau gương.",
+"workedExamples": [
+{
+"title": "Xác định góc phản xạ",
+"problem": "Một tia sáng chiếu tới gương phẳng với góc tới 30 độ. Góc phản xạ là bao nhiêu?",
+"steps": [
+"Nhớ định luật phản xạ ánh sáng.",
+"Góc phản xạ bằng góc tới.",
+"Góc tới là 30 độ."
+],
+"answer": "Góc phản xạ là 30 độ.",
+"explanation": "Trong phản xạ ánh sáng, góc tới bằng góc phản xạ."
+},
+{
+"title": "Đặc điểm ảnh trong gương phẳng",
+"problem": "Một bạn đứng trước gương phẳng. Ảnh trong gương có lớn hơn người thật không?",
+"steps": [
+"Gương phẳng tạo ảnh có kích thước bằng vật.",
+"Ảnh không lớn hơn, không nhỏ hơn vật.",
+"Ảnh có vẻ nằm phía sau gương."
+],
+"answer": "Không. Ảnh trong gương phẳng có kích thước bằng người thật.",
+"explanation": "Đây là đặc điểm cơ bản của ảnh tạo bởi gương phẳng."
+}
+],
+"steps": [
+"Vẽ mặt gương là một đường thẳng.",
+"Vẽ tia tới chiếu vào gương.",
+"Vẽ pháp tuyến vuông góc với gương tại điểm tới.",
+"Đo hoặc xác định góc tới với pháp tuyến.",
+"Vẽ tia phản xạ sao cho góc phản xạ bằng góc tới.",
+"Kết luận đặc điểm ảnh nếu bài hỏi về gương phẳng."
+],
+"commonMistakes": [
+{
+"mistake": "Đo góc tới với mặt gương thay vì với pháp tuyến.",
+"fix": "Góc tới và góc phản xạ đều đo với pháp tuyến."
+},
+{
+"mistake": "Vẽ pháp tuyến không vuông góc với gương.",
+"fix": "Pháp tuyến phải vuông góc mặt gương tại điểm tới."
+},
+{
+"mistake": "Nghĩ ảnh trong gương phẳng luôn nhỏ hơn vật.",
+"fix": "Ảnh trong gương phẳng có kích thước bằng vật."
+}
+],
+"quickMemory": "Phản xạ ánh sáng: góc tới bằng góc phản xạ. Góc đo với pháp tuyến, không đo với mặt gương.",
+"warmupQuestions": [
+{
+"question": "Pháp tuyến là gì?",
+"suggestedAnswer": "Là đường vuông góc với mặt gương tại điểm tia sáng tới."
+},
+{
+"question": "Nếu góc tới 45 độ thì góc phản xạ bao nhiêu?",
+"suggestedAnswer": "45 độ."
+},
+{
+"question": "Ảnh trong gương phẳng có kích thước thế nào so với vật?",
+"suggestedAnswer": "Bằng vật."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy vẽ sơ đồ phản xạ khi tia tới tạo với pháp tuyến góc 40 độ.",
+"hint": "Tia phản xạ cũng tạo với pháp tuyến góc 40 độ ở phía bên kia.",
+"suggestedAnswer": "Vẽ pháp tuyến vuông góc gương, tia tới một bên góc 40 độ, tia phản xạ bên kia cũng góc 40 độ."
+},
+{
+"question": "Vì sao ta nhìn thấy mặt mình trong gương?",
+"hint": "Ánh sáng từ mặt em đến gương rồi phản xạ vào mắt.",
+"suggestedAnswer": "Vì ánh sáng từ mặt truyền đến gương, bị gương phản xạ rồi truyền vào mắt ta."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ tia tới, pháp tuyến, tia phản xạ và góc tới/góc phản xạ.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo tia tới và xem tia phản xạ thay đổi theo định luật phản xạ.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_019",
+"subjectKey": "science",
+"learningObjectives": [
+"Nhận biết nam châm và các cực từ của nam châm.",
+"Biết nam châm có hai cực: cực Bắc và cực Nam.",
+"Nêu được quy tắc tương tác giữa các cực từ.",
+"Phân biệt vật liệu bị nam châm hút và vật liệu không bị nam châm hút trong các ví dụ đơn giản.",
+"Làm được thí nghiệm phân loại vật liệu theo tính bị nam châm hút."
+],
+"easyExplanation": "Nam châm là vật có khả năng hút một số vật liệu như sắt, thép, nickel hoặc cobalt. Nam châm có hai cực là cực Bắc và cực Nam. Hai cực cùng tên đẩy nhau, hai cực khác tên hút nhau. Không phải kim loại nào cũng bị nam châm hút. Ví dụ sắt thường bị hút, nhưng nhôm, đồng, nhựa, gỗ thường không bị nam châm hút trong điều kiện thông thường. Vì vậy khi làm thí nghiệm, ta cần kiểm tra từng vật thay vì đoán tất cả kim loại đều bị hút.",
+"workedExamples": [
+{
+"title": "Tương tác giữa các cực nam châm",
+"problem": "Đưa cực Bắc của một nam châm lại gần cực Bắc của nam châm khác. Hiện tượng gì xảy ra?",
+"steps": [
+"Xác định hai cực đang đặt gần nhau.",
+"Cả hai đều là cực Bắc.",
+"Hai cực cùng tên thì đẩy nhau."
+],
+"answer": "Hai cực Bắc đẩy nhau.",
+"explanation": "Cùng tên đẩy nhau, khác tên hút nhau."
+},
+{
+"title": "Phân loại vật liệu bị nam châm hút",
+"problem": "Trong các vật: đinh sắt, thìa nhựa, dây đồng, kẹp giấy thép, vật nào dễ bị nam châm hút?",
+"steps": [
+"Nam châm thường hút sắt và thép.",
+"Đinh sắt bị hút.",
+"Kẹp giấy thép bị hút.",
+"Nhựa và đồng thường không bị hút."
+],
+"answer": "Đinh sắt và kẹp giấy thép dễ bị nam châm hút.",
+"explanation": "Không phải mọi kim loại đều bị nam châm hút."
+}
+],
+"steps": [
+"Quan sát nam châm và xác định hai cực.",
+"Thử đưa các cực lại gần nhau để nhận biết hút hoặc đẩy.",
+"Chọn nhiều vật liệu khác nhau để thử với nam châm.",
+"Ghi kết quả vào bảng: bị hút hoặc không bị hút.",
+"Rút kết luận từ dữ liệu thay vì đoán trước."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ tất cả kim loại đều bị nam châm hút.",
+"fix": "Nam châm chủ yếu hút một số vật liệu như sắt, thép, nickel, cobalt."
+},
+{
+"mistake": "Nhầm quy tắc cực từ.",
+"fix": "Cùng tên đẩy nhau, khác tên hút nhau."
+},
+{
+"mistake": "Chỉ thử một vật rồi kết luận cho mọi vật.",
+"fix": "Cần thử nhiều vật và ghi bảng kết quả."
+}
+],
+"quickMemory": "Nam châm có hai cực Bắc, Nam. Cùng tên đẩy, khác tên hút. Không phải kim loại nào cũng bị hút.",
+"warmupQuestions": [
+{
+"question": "Nam châm có mấy cực?",
+"suggestedAnswer": "Có hai cực: cực Bắc và cực Nam."
+},
+{
+"question": "Hai cực khác tên đặt gần nhau thì hút hay đẩy?",
+"suggestedAnswer": "Hút nhau."
+},
+{
+"question": "Đồng có thường bị nam châm hút không?",
+"suggestedAnswer": "Không, đồng thường không bị nam châm hút."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy thiết kế bảng phân loại 5 vật trong nhà theo tiêu chí bị nam châm hút hoặc không bị hút.",
+"hint": "Chọn vật làm từ sắt, thép, nhựa, gỗ, đồng.",
+"suggestedAnswer": "Có thể thử đinh sắt, kẹp giấy, thìa nhựa, bút gỗ, dây đồng và ghi vào hai cột bị hút/không bị hút."
+},
+{
+"question": "Vì sao không nên nói 'nam châm hút mọi kim loại'?",
+"hint": "Nghĩ đến nhôm, đồng.",
+"suggestedAnswer": "Vì nhiều kim loại như nhôm, đồng thường không bị nam châm hút."
+}
+],
+"mediaHints": [
+{
+"type": "image",
+"description": "Bộ ảnh nam châm chữ U, nam châm thẳng, cực Bắc cực Nam và vật liệu thử.",
+"priority": "medium"
+},
+{
+"type": "interactive",
+"description": "Kéo vật liệu vào cột bị nam châm hút hoặc không bị hút.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+},
+{
+"lessonId": "g7_science_020",
+"subjectKey": "science",
+"learningObjectives": [
+"Hiểu xung quanh nam châm có từ trường.",
+"Biết từ trường có thể tác dụng lực từ lên kim nam châm hoặc vật liệu từ.",
+"Làm quen cách biểu diễn từ trường bằng đường sức từ.",
+"Nhận biết chiều đường sức từ bên ngoài nam châm thường từ cực Bắc sang cực Nam.",
+"Đọc được sơ đồ đường sức từ đơn giản quanh nam châm thẳng."
+],
+"easyExplanation": "Xung quanh nam châm có một vùng đặc biệt gọi là từ trường. Ta không nhìn thấy từ trường trực tiếp, nhưng có thể nhận biết qua tác dụng của nó lên kim nam châm, mạt sắt hoặc vật liệu bị hút. Để biểu diễn từ trường, người ta dùng các đường sức từ. Các đường này là mô hình giúp ta hình dung từ trường mạnh yếu và hướng như thế nào. Bên ngoài nam châm, đường sức từ thường được vẽ đi ra từ cực Bắc và đi vào cực Nam. Nơi đường sức từ dày hơn thường là nơi từ trường mạnh hơn.",
+"workedExamples": [
+{
+"title": "Nhận biết từ trường quanh nam châm",
+"problem": "Đặt kim nam châm nhỏ gần một nam châm thẳng, kim bị lệch hướng. Điều đó chứng tỏ gì?",
+"steps": [
+"Kim nam châm chịu tác dụng của lực từ.",
+"Lực từ xuất hiện do từ trường quanh nam châm.",
+"Kim lệch hướng là dấu hiệu có từ trường."
+],
+"answer": "Chứng tỏ xung quanh nam châm có từ trường.",
+"explanation": "Ta nhận biết từ trường qua tác dụng của nó, không phải bằng mắt thường trực tiếp."
+},
+{
+"title": "Chiều đường sức từ",
+"problem": "Bên ngoài nam châm thẳng, đường sức từ thường có chiều từ cực nào đến cực nào?",
+"steps": [
+"Nhớ quy ước biểu diễn đường sức từ bên ngoài nam châm.",
+"Đường sức từ đi ra từ cực Bắc.",
+"Đường sức từ đi vào cực Nam."
+],
+"answer": "Bên ngoài nam châm, đường sức từ có chiều từ cực Bắc đến cực Nam.",
+"explanation": "Đây là quy ước quan trọng khi đọc sơ đồ từ trường."
+}
+],
+"steps": [
+"Xác định vị trí nam châm và hai cực Bắc, Nam.",
+"Quan sát kim nam châm hoặc mạt sắt để nhận biết tác dụng của từ trường.",
+"Vẽ các đường cong quanh nam châm để biểu diễn đường sức từ.",
+"Đánh mũi tên chiều từ cực Bắc sang cực Nam ở bên ngoài nam châm.",
+"Nhận xét nơi đường sức dày hơn thì từ trường mạnh hơn."
+],
+"commonMistakes": [
+{
+"mistake": "Nghĩ từ trường nhìn thấy được như một vật cụ thể.",
+"fix": "Từ trường không nhìn thấy trực tiếp, ta nhận biết qua tác dụng của nó."
+},
+{
+"mistake": "Vẽ đường sức từ không có chiều.",
+"fix": "Đường sức từ cần mũi tên chỉ chiều."
+},
+{
+"mistake": "Nhầm chiều đường sức từ bên ngoài nam châm.",
+"fix": "Bên ngoài nam châm, đường sức từ đi từ Bắc sang Nam."
+}
+],
+"quickMemory": "Từ trường ở quanh nam châm. Đường sức từ là mô hình biểu diễn. Bên ngoài nam châm: Bắc → Nam.",
+"warmupQuestions": [
+{
+"question": "Làm sao nhận biết có từ trường nếu không nhìn thấy nó?",
+"suggestedAnswer": "Quan sát tác dụng của nó lên kim nam châm, mạt sắt hoặc vật liệu từ."
+},
+{
+"question": "Bên ngoài nam châm, đường sức từ đi từ cực nào sang cực nào?",
+"suggestedAnswer": "Từ cực Bắc sang cực Nam."
+},
+{
+"question": "Nơi đường sức từ dày hơn thường cho biết điều gì?",
+"suggestedAnswer": "Từ trường ở đó mạnh hơn."
+}
+],
+"applicationQuestions": [
+{
+"question": "Hãy mô tả thí nghiệm dùng mạt sắt để quan sát hình ảnh đường sức từ.",
+"hint": "Đặt giấy lên nam châm, rắc mạt sắt nhẹ nhàng.",
+"suggestedAnswer": "Đặt tờ giấy lên nam châm thẳng, rắc mạt sắt lên giấy và gõ nhẹ. Mạt sắt sắp xếp thành các đường cong quanh nam châm, giúp hình dung đường sức từ."
+},
+{
+"question": "Vì sao kim la bàn bị lệch khi đặt gần nam châm?",
+"hint": "Kim la bàn là một nam châm nhỏ.",
+"suggestedAnswer": "Vì từ trường của nam châm tác dụng lên kim la bàn, làm kim đổi hướng."
+}
+],
+"mediaHints": [
+{
+"type": "diagram",
+"description": "Sơ đồ đường sức từ quanh nam châm thẳng, có mũi tên từ cực Bắc sang cực Nam.",
+"priority": "high"
+},
+{
+"type": "interactive",
+"description": "Kéo kim la bàn quanh nam châm để thấy hướng kim thay đổi theo từ trường.",
+"priority": "high"
+}
+],
+"textbookMap": {
+"status": "unmapped",
+"bookSeries": null,
+"bookLessonTitle": null,
+"bookPage": null,
+"note": "Raw lesson has textbookMap null. Enrichment is original support content."
+},
+"updatedAt": "2026-06-09"
+}
+]
