@@ -20,7 +20,11 @@ interface ChatMessage {
   isLoading?: boolean;
 }
 
-export function MascotChatWidget() {
+type MascotChatWidgetProps = {
+  hideFloatingButton?: boolean;
+};
+
+export function MascotChatWidget({ hideFloatingButton = false }: MascotChatWidgetProps) {
   const [open, setOpen] = useState(false);
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [inputText, setInputText] = useState('');
@@ -126,7 +130,7 @@ export function MascotChatWidget() {
   return (
     <>
       {/* Floating Button */}
-      {!open && (
+      {!open && !hideFloatingButton && (
         <button
           type="button"
           onClick={() => setOpen(true)}
