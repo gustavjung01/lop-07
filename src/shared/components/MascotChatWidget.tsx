@@ -33,36 +33,46 @@ export function MascotChatWidget({ hideFloatingButton = false }: MascotChatWidge
   const scrollRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  // Check AI capacity when open
+  // Check AI capacity when open. Do not overwrite a first auto-sent message with the welcome message.
   useEffect(() => {
-    if (open) {
-      getDopiAICapacity().then(result => {
-        setAiEnabled(result.ok && result.balance > 0);
-        if (messages.length === 0) {
-          setMessages([{
-            id: Date.now(),
-            from: 'mascot',
-            text: '🐬 Ê! Mình là Dopi đây! Hỏi mình bất cứ điều gì về bài học nhé!',
-          }]);
-        }
+    if (!open) return;
+
+    let alive = true;
+
+    getDopiAICapacity().then(result => {
+      if (!alive) return;
+
+      setAiEnabled(result.ok && result.balance > 0);
+      setMessages(prev => {
+        if (prev.length > 0) return prev;
+        return [{
+          id: Date.now(),
+          from: 'mascot',
+          text: '🐬 Ê! Mình là Dopi đây! Hỏi mình bất cứ điều gì về bài học nhé!',
+        }];
       });
-    }
-  }, [open, messages.length]);
+    });
+
+    return () => {
+      alive = false;
+    };
+  }, [open]);
 
   // Auto scroll
   useEffect(() => {
     scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight, behavior: 'smooth' });
   }, [messages]);
 
-  const sendMessageText = useCallback(async (rawText: string) => {
+  const sendMessageText = useCallback(async (rawText: string, displayText?: string) => {
     const text = rawText.trim();
+    const visibleText = (displayText || text).trim();
     if (!text || sending) return;
 
     setInputText('');
     setSending(true);
 
     const userMsgId = Date.now();
-    setMessages(prev => [...prev, { id: userMsgId, from: 'user', text }]);
+    setMessages(prev => [...prev, { id: userMsgId, from: 'user', text: visibleText }]);
 
     const loadingId = Date.now() + 1;
     setMessages(prev => [...prev, { id: loadingId, from: 'mascot', text: '', isLoading: true }]);
@@ -108,10 +118,10 @@ export function MascotChatWidget({ hideFloatingButton = false }: MascotChatWidge
       const detail = (event as CustomEvent<AIChatIntentDetail>).detail;
       if (!detail?.prompt) return;
       setOpen(true);
-      setInputText(detail.prompt);
+      setInputText(detail.displayText || detail.prompt);
       if (detail.autoSend) {
         setTimeout(() => {
-          void sendMessageText(detail.prompt || '');
+          void sendMessageText(detail.prompt || '', detail.displayText);
         }, 260);
       }
     };
@@ -192,7 +202,7 @@ export function MascotChatWidget({ hideFloatingButton = false }: MascotChatWidge
                 className={`flex ${msg.from === 'user' ? 'justify-end' : 'justify-start'}`}
               >
                 <div
-                  className={`max-w-[80%] rounded-2xl px-4 py-2 text-sm ${
+                  className={`max-w-[86%] whitespace-pre-wrap break-words rounded-2xl px-4 py-2 text-sm leading-6 ${
                     msg.from === 'user'
                       ? 'bg-blue-500 text-white rounded-br-md'
                       : 'bg-white text-gray-800 border border-gray-200 rounded-bl-md'
