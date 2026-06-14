@@ -31,6 +31,7 @@ import { RootErrorBoundary } from '../shared/components/RootErrorBoundary';
 import { ToastProvider, useToast } from '../shared/components/ToastProvider';
 import { useSound, type SoundSettings, type SoundVolume } from '../shared/hooks/useSound';
 import { activateLop7License, getStoredLop7Entitlement, isLop7EntitlementActive, getStoredLop7Email, saveLop7Email, canAccessSubject } from '../shared/services/lop7LicenseService';
+import { clearDopiKey, getDopiAICapacity, getStoredDopiKey, saveDopiKey } from '../shared/services/serverAiChat';
 import { MascotChatWidget } from '../shared/components/MascotChatWidget';
 import { DesktopAppUpdatePanel } from '../shared/components/DesktopAppUpdatePanel';
 
@@ -330,7 +331,7 @@ function StatusChips({ onOpenPlan, onOpenAccount, onOpenCredit, isActive, entitl
         onClick={onOpenCredit}
         className="app-chip rounded-full border px-3 py-1.5 text-xs font-black shadow-sm"
       >
-        Dopi: 0 credit
+        Dopi key
       </button>
     </div>
   );
@@ -468,7 +469,7 @@ function SettingsPanel({
   );
 }
 
-type PlanKeyTab = 'plan' | 'account' | 'key';
+type PlanKeyTab = 'plan' | 'account' | 'key' | 'dopi';
 
 function PlanKeyPanel({
   initialTab = 'plan',
@@ -491,11 +492,66 @@ function PlanKeyPanel({
   const [formError, setFormError] = useState('');
   const [notice, setNotice] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  const [dopiKeyInput, setDopiKeyInput] = useState(() => getStoredDopiKey() || '');
+  const [dopiStatusMessage, setDopiStatusMessage] = useState('');
+  const [dopiError, setDopiError] = useState('');
+  const [dopiLoading, setDopiLoading] = useState(false);
+  const [dopiBalance, setDopiBalance] = useState<number | null>(null);
+  const [storedDopiKey, setStoredDopiKey] = useState<string | null>(() => getStoredDopiKey());
   const toast = useToast();
 
   useEffect(() => {
     setActiveTab(initialTab);
   }, [initialTab]);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    const syncDopiState = async () => {
+      if (activeTab !== 'dopi') {
+        return;
+      }
+
+      const nextStoredDopiKey = getStoredDopiKey();
+      if (cancelled) return;
+
+      setStoredDopiKey(nextStoredDopiKey);
+      setDopiKeyInput(nextStoredDopiKey || '');
+      setDopiError('');
+
+      if (!nextStoredDopiKey) {
+        setDopiBalance(null);
+        setDopiLoading(false);
+        setDopiStatusMessage('Dán Dopi key đã mua để app Lớp 7 dùng khi hỏi Dopi.');
+        return;
+      }
+
+      setDopiLoading(true);
+      setDopiStatusMessage('Đang kiểm tra Dopi key...');
+
+      const result = await getDopiAICapacity();
+      if (cancelled) return;
+
+      if (result.ok) {
+        const nextBalance = Number(result.dopiKeyBalance ?? result.balance ?? 0);
+        setDopiBalance(nextBalance);
+        setDopiError('');
+        setDopiStatusMessage(`Đã sẵn sàng dùng Dopi key này. Số dư Dopi: ${nextBalance.toLocaleString('vi-VN')} Dopi.`);
+      } else {
+        setDopiBalance(null);
+        setDopiError(result.error || 'Dopi key không hợp lệ hoặc đã hết dung lượng.');
+        setDopiStatusMessage('');
+      }
+
+      setDopiLoading(false);
+    };
+
+    void syncDopiState();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [activeTab]);
 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
@@ -546,6 +602,62 @@ function PlanKeyPanel({
     } finally {
       setIsLoading(false);
     }
+  };
+
+  const normalizeDopiKeyInput = (value: string) => String(value || '').trim().toUpperCase().replace(/\s+/g, '');
+
+  const handleSaveDopiKey = async () => {
+    const normalized = normalizeDopiKeyInput(dopiKeyInput);
+
+    if (!normalized) {
+      setDopiError('Vui lòng nhập Dopi key.');
+      return;
+    }
+
+    setDopiLoading(true);
+    setDopiStatusMessage('Đang kiểm tra Dopi key...');
+    setDopiError('');
+
+    saveDopiKey(normalized);
+    setStoredDopiKey(normalized);
+    setDopiKeyInput(normalized);
+
+    try {
+      const result = await getDopiAICapacity();
+
+      if (result.ok) {
+        const nextBalance = Number(result.dopiKeyBalance ?? result.balance ?? 0);
+        setDopiBalance(nextBalance);
+        setDopiStatusMessage('Đã lưu Dopi key. App sẽ dùng key này khi hỏi Dopi.');
+        setDopiError('');
+        return;
+      }
+
+      clearDopiKey();
+      setStoredDopiKey(null);
+      setDopiKeyInput('');
+      setDopiBalance(null);
+      setDopiStatusMessage('');
+      setDopiError('Dopi key không hợp lệ hoặc đã hết dung lượng.');
+    } catch {
+      clearDopiKey();
+      setStoredDopiKey(null);
+      setDopiKeyInput('');
+      setDopiBalance(null);
+      setDopiStatusMessage('');
+      setDopiError('Dopi key không hợp lệ hoặc đã hết dung lượng.');
+    } finally {
+      setDopiLoading(false);
+    }
+  };
+
+  const handleClearDopiKey = () => {
+    clearDopiKey();
+    setStoredDopiKey(null);
+    setDopiKeyInput('');
+    setDopiBalance(null);
+    setDopiError('');
+    setDopiStatusMessage('Đã xóa Dopi key khỏi máy này.');
   };
 
   const planName = isActive ? (entitlement?.productName || 'Lớp 07') : 'Dùng thử';
@@ -601,11 +713,12 @@ function PlanKeyPanel({
           )}
         </div>
 
-        <div className="app-soft mt-5 grid grid-cols-3 gap-2 rounded-2xl p-1.5">
+        <div className="app-soft mt-5 grid grid-cols-2 gap-2 rounded-2xl p-1.5 sm:grid-cols-4">
           {[
             ['plan', 'Đăng ký gói'],
             ['account', 'Tài khoản'],
             ['key', 'Kích hoạt key'],
+            ['dopi', 'Dopi key'],
           ].map(([tab, label]) => (
             <button
               key={tab}
@@ -697,6 +810,78 @@ function PlanKeyPanel({
               >
                 Xem gói học
               </button>
+            </div>
+          </div>
+        ) : activeTab === 'dopi' ? (
+          <div className="mt-5 grid gap-4 lg:grid-cols-[1fr_0.75fr]">
+            <div className="app-soft rounded-3xl p-4">
+              <h3 className="text-lg font-black text-slate-950">Dùng Dopi key đã mua</h3>
+              <p className="mt-2 text-sm font-semibold leading-6 text-slate-600">
+                Dán Dopi key đã mua trên web chủ để app Lớp 7 dùng khi hỏi Dopi. Key này chỉ lưu trên máy/trình duyệt hiện tại.
+              </p>
+
+              <div className="mt-4 grid gap-3">
+                <label className="grid gap-1.5 text-sm font-bold text-slate-700">
+                  Nhập Dopi key đã mua
+                  <input
+                    value={dopiKeyInput}
+                    onChange={(event) => setDopiKeyInput(event.target.value)}
+                    className="rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm font-semibold uppercase tracking-wide text-slate-800 outline-none transition focus:border-blue-300 focus:ring-4 focus:ring-blue-100"
+                    placeholder="DOPI2_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+                    spellCheck={false}
+                    autoCapitalize="characters"
+                    autoComplete="off"
+                  />
+                </label>
+
+                {dopiBalance !== null ? (
+                  <div className="rounded-2xl border border-emerald-200 bg-emerald-50 px-3 py-2 text-xs font-bold text-emerald-800">
+                    Số dư Dopi: {dopiBalance.toLocaleString('vi-VN')} Dopi
+                  </div>
+                ) : null}
+
+                {dopiError ? (
+                  <p className="rounded-2xl border border-rose-200 bg-rose-50 px-3 py-2 text-xs font-bold text-rose-700">
+                    {dopiError}
+                  </p>
+                ) : null}
+
+                {dopiStatusMessage ? (
+                  <p className="rounded-2xl border border-blue-200 bg-blue-50 px-3 py-2 text-xs font-bold text-blue-700">
+                    {dopiStatusMessage}
+                  </p>
+                ) : null}
+              </div>
+
+              <div className="mt-4 flex flex-col gap-2 sm:flex-row">
+                <button
+                  type="button"
+                  onClick={handleSaveDopiKey}
+                  disabled={dopiLoading}
+                  className={`app-primary rounded-2xl px-5 py-3 text-sm font-black shadow-md ${buttonMotion} ${dopiLoading ? 'cursor-not-allowed opacity-70' : ''}`}
+                >
+                  {dopiLoading ? 'Đang kiểm tra...' : 'Lưu Dopi key'}
+                </button>
+                {storedDopiKey ? (
+                  <button
+                    type="button"
+                    onClick={handleClearDopiKey}
+                    className={`app-secondary rounded-2xl border px-5 py-3 text-sm font-black ${buttonMotion}`}
+                  >
+                    Xóa key khỏi máy này
+                  </button>
+                ) : null}
+              </div>
+            </div>
+
+            <div className="rounded-3xl border border-blue-100 bg-blue-50/70 p-4">
+              <p className="text-sm font-black text-slate-950">Lưu ý</p>
+              <p className="mt-2 text-sm font-semibold leading-6 text-slate-600">
+                Muốn mua hoặc quản lý Dopi key theo tài khoản, vào web chủ Học Hứng Khởi.
+              </p>
+              <p className="mt-3 text-xs font-semibold leading-5 text-slate-500">
+                Dopi key chỉ lưu trên máy/trình duyệt hiện tại và chỉ dùng cho chat Dopi trong app Lớp 7.
+              </p>
             </div>
           </div>
         ) : (
@@ -1395,8 +1580,7 @@ function Lop7AppContent() {
                     onOpenAccount={() => openPlanKeyPanel('account')}
                     onOpenCredit={() => {
                       sound.play('ui_tap_soft');
-                      toast.info('Dopi credit', 'Credit sẽ đồng bộ sau khi có tài khoản.');
-                      openPlanKeyPanel('account');
+                      openPlanKeyPanel('dopi');
                     }}
                     isActive={isActive}
                     entitlement={entitlement}
