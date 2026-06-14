@@ -1,9 +1,25 @@
-﻿const API_BASE_URL = 'https://hochungkhoi.site/api';
+const API_BASE_URL = 'https://hochungkhoi.site/api';
 const APP_ID = 'app-lop-07';
 const LICENSE_STORAGE_KEY = 'lop7.license.entitlement';
 const LICENSE_KEY_STORAGE_KEY = 'lop7.license.key';
 const DEVICE_ID_STORAGE_KEY = 'lop7.deviceId';
 const LOP7_ACCOUNT_EMAIL_KEY = 'lop7.account.email';
+
+type DesktopDeviceResult = {
+  success?: boolean;
+  deviceId?: string;
+  deviceName?: string;
+  source?: string;
+  error?: string;
+};
+
+declare global {
+  interface Window {
+    electronAPI?: {
+      getDesktopDeviceId?: () => Promise<DesktopDeviceResult>;
+    };
+  }
+}
 
 export interface Entitlement {
   appId: string;
@@ -26,7 +42,7 @@ export interface Entitlement {
   };
 }
 
-export function getOrCreateDeviceId(): string {
+function getOrCreateWebDeviceId(): string {
   let deviceId = window.localStorage.getItem(DEVICE_ID_STORAGE_KEY);
   if (!deviceId) {
     deviceId = 'lop7-web-' + crypto.randomUUID();
@@ -35,9 +51,32 @@ export function getOrCreateDeviceId(): string {
   return deviceId;
 }
 
+export function getOrCreateDeviceId(): string {
+  return getOrCreateWebDeviceId();
+}
+
+async function getActivationDevice(): Promise<{ deviceId: string; deviceName: string }> {
+  try {
+    const desktopDevice = await window.electronAPI?.getDesktopDeviceId?.();
+    if (desktopDevice?.success && desktopDevice.deviceId?.startsWith('lop7-desktop-')) {
+      return {
+        deviceId: desktopDevice.deviceId,
+        deviceName: desktopDevice.deviceName || `Desktop App Lớp 7 · ${desktopDevice.source || 'machine-id'}`,
+      };
+    }
+  } catch {
+    // Fall back to web-style device id when Electron preload is not available or fails.
+  }
+
+  return {
+    deviceId: getOrCreateWebDeviceId(),
+    deviceName: navigator.userAgent || 'Web App Lớp 7',
+  };
+}
+
 export async function activateLop7License(licenseKey: string): Promise<{ ok: boolean; status?: string; error?: string; entitlement?: Entitlement }> {
   try {
-    const deviceId = getOrCreateDeviceId();
+    const { deviceId, deviceName } = await getActivationDevice();
     const response = await fetch(`${API_BASE_URL}/licenses/activate`, {
       method: 'POST',
       headers: {
@@ -47,7 +86,7 @@ export async function activateLop7License(licenseKey: string): Promise<{ ok: boo
         licenseKey,
         appId: APP_ID,
         deviceId,
-        deviceName: navigator.userAgent || 'Web App Lớp 7',
+        deviceName,
       }),
     });
 
@@ -137,6 +176,3 @@ export function canAccessMathLesson(lessonIndex: number): boolean {
   }
   return true;
 }
-
-
-
