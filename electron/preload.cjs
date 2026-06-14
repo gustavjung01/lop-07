@@ -26,6 +26,11 @@ const electronAPI = {
   getAppVersion: async () => {
     return await ipcRenderer.invoke('get-app-version');
   },
+
+  // Get stable desktop device id for license activation
+  getDesktopDeviceId: async () => {
+    return await ipcRenderer.invoke('get-desktop-device-id');
+  },
 };
 
 contextBridge.exposeInMainWorld('electronAPI', electronAPI);
