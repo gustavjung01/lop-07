@@ -1,7 +1,8 @@
-import { ArrowLeft, Clock, HelpCircle, PlayCircle } from 'lucide-react';
+import { ArrowLeft, Clock, HelpCircle, Lightbulb, PlayCircle } from 'lucide-react';
 
 import type { MathLesson } from '../../../data/grade7/toan';
 import { getMathLessonCards, getMathLessonQuestions } from '../../../data/grade7/toan';
+import { openAIChatIntent } from '../../../shared/services/aiChatIntent';
 import { MathContentCard } from '../components/MathContentCard';
 import { MathProgressPill } from '../components/MathProgressPill';
 
@@ -11,9 +12,27 @@ type MathLessonDetailPageProps = {
   onPractice: (lessonId: number) => void;
 };
 
+const dopiLessonFormat = [
+  'Trả lời theo đúng khung sau, ngắn gọn và dễ hiểu:',
+  '1. Hiểu nhanh: nêu ý chính trong 1 đến 2 câu.',
+  '2. Cách học: ghi 2 đến 4 bước rõ ràng.',
+  '3. Ví dụ nhỏ: đưa 1 ví dụ đơn giản.',
+  '4. Mẹo nhớ: 1 câu ngắn.',
+  '5. Tự kiểm tra: hỏi lại 1 câu nhỏ.',
+  'Không dùng bảng. Không lan man. Xưng là Dopi.',
+].join('\n');
+
 export function MathLessonDetailPage({ lesson, onBack, onPractice }: MathLessonDetailPageProps) {
   const cards = getMathLessonCards(lesson.id);
   const questions = getMathLessonQuestions(lesson.id);
+
+  const openLessonAIExplanation = () => {
+    openAIChatIntent({
+      prompt: `Dopi hãy giải thích bài học Toán lớp 7 này.\n\nTên bài: ${lesson.title}\nMục tiêu: ${lesson.objective}\nTóm tắt: ${lesson.summarySimple}\nMẹo học có sẵn: ${lesson.tips}\n\n${dopiLessonFormat}\n\nGiới hạn: tối đa 180 từ.`,
+      displayText: 'Dopi giải thích bài này giúp em.',
+      autoSend: true,
+    });
+  };
 
   return (
     <section className="mx-auto w-full max-w-5xl min-w-0 px-4 py-8 sm:px-6 lg:px-8">
@@ -34,14 +53,24 @@ export function MathLessonDetailPage({ lesson, onBack, onPractice }: MathLessonD
             <p className="mt-3 text-base leading-7 text-slate-600 [overflow-wrap:anywhere]">{lesson.objective}</p>
           </div>
 
-          <button
-            type="button"
-            onClick={() => onPractice(lesson.id)}
-            className="inline-flex w-full min-w-0 items-center justify-center gap-2 rounded-2xl bg-blue-600 px-5 py-3 text-sm font-black text-white shadow-lg shadow-blue-200 transition hover:bg-blue-700 md:w-auto md:shrink-0"
-          >
-            <PlayCircle className="h-5 w-5" />
-            Luyện tập bài này
-          </button>
+          <div className="grid w-full min-w-0 gap-2 md:w-auto md:shrink-0">
+            <button
+              type="button"
+              onClick={() => onPractice(lesson.id)}
+              className="inline-flex w-full min-w-0 items-center justify-center gap-2 rounded-2xl bg-blue-600 px-5 py-3 text-sm font-black text-white shadow-lg shadow-blue-200 transition hover:bg-blue-700"
+            >
+              <PlayCircle className="h-5 w-5" />
+              Luyện tập bài này
+            </button>
+            <button
+              type="button"
+              onClick={openLessonAIExplanation}
+              className="inline-flex w-full min-w-0 items-center justify-center gap-2 rounded-2xl border border-blue-200 bg-blue-50 px-5 py-3 text-sm font-black text-blue-700 transition hover:bg-blue-100"
+            >
+              <Lightbulb className="h-5 w-5" />
+              Giải thích bài bằng AI
+            </button>
+          </div>
         </div>
 
         <div className="mt-5 flex flex-wrap gap-2">
@@ -87,4 +116,3 @@ export function MathLessonDetailPage({ lesson, onBack, onPractice }: MathLessonD
     </section>
   );
 }
-
