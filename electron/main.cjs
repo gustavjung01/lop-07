@@ -1,4 +1,8 @@
 const path = require('path');
+const fs = require('fs');
+const os = require('os');
+const crypto = require('crypto');
+const { execFileSync } = require('child_process');
 const { app, BrowserWindow, ipcMain } = require('electron');
 const { autoUpdater } = require('electron-updater');
 
@@ -9,6 +13,85 @@ let mainWindow = null;
 function sendUpdateStatus(status) {
   if (!mainWindow || mainWindow.isDestroyed()) return;
   mainWindow.webContents.send('update-status', status);
+}
+
+function safeReadText(filePath) {
+  try {
+    return fs.readFileSync(filePath, 'utf8').trim();
+  } catch {
+    return '';
+  }
+}
+
+function getWindowsMachineGuid() {
+  if (process.platform !== 'win32') return '';
+
+  try {
+    const output = execFileSync('reg', [
+      'query',
+      'HKLM\\SOFTWARE\\Microsoft\\Cryptography',
+      '/v',
+      'MachineGuid',
+    ], { encoding: 'utf8', windowsHide: true });
+
+    const match = output.match(/MachineGuid\s+REG_SZ\s+([^\r\n]+)/i);
+    return match?.[1]?.trim() || '';
+  } catch {
+    return '';
+  }
+}
+
+function getMacPlatformUuid() {
+  if (process.platform !== 'darwin') return '';
+
+  try {
+    const output = execFileSync('ioreg', ['-rd1', '-c', 'IOPlatformExpertDevice'], { encoding: 'utf8' });
+    const match = output.match(/"IOPlatformUUID"\s*=\s*"([^"]+)"/i);
+    return match?.[1]?.trim() || '';
+  } catch {
+    return '';
+  }
+}
+
+function getLinuxMachineId() {
+  if (process.platform !== 'linux') return '';
+  return safeReadText('/etc/machine-id') || safeReadText('/var/lib/dbus/machine-id');
+}
+
+function getDesktopDeviceIdentity() {
+  const stableMachineId = getWindowsMachineGuid() || getMacPlatformUuid() || getLinuxMachineId();
+  const userInfo = (() => {
+    try {
+      return os.userInfo();
+    } catch {
+      return { username: '' };
+    }
+  })();
+
+  const signals = [
+    'app-lop-07',
+    process.platform,
+    process.arch,
+    os.hostname(),
+    userInfo.username || '',
+    os.homedir(),
+    stableMachineId,
+  ].join('|');
+
+  const digest = crypto.createHash('sha256').update(signals).digest('hex');
+  const deviceId = `lop7-desktop-${digest.slice(0, 32)}`;
+  const deviceName = [
+    'Desktop Lớp 7',
+    os.hostname(),
+    process.platform,
+  ].filter(Boolean).join(' · ');
+
+  return {
+    success: true,
+    deviceId,
+    deviceName,
+    source: stableMachineId ? 'machine-id' : 'os-fallback',
+  };
 }
 
 function createWindow() {
@@ -156,4 +239,12 @@ ipcMain.handle('install-update', async () => {
 
 ipcMain.handle('get-app-version', async () => {
   return app.getVersion();
+});
+
+ipcMain.handle('get-desktop-device-id', async () => {
+  try {
+    return getDesktopDeviceIdentity();
+  } catch (err) {
+    return { success: false, error: String(err) };
+  }
 });
